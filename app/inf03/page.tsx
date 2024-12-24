@@ -1,11 +1,12 @@
 'use client'
 
 import { useState, useEffect } from 'react'
-import { Question, QuizState } from '../types/quiz'
+import { Question, QuizState } from '../../types/quiz'
 import { Card } from '@/components/ui/card'
 import { Button } from '@/components/ui/button'
-import { allQuizData } from '../lib/quiz-data'
+import { allQuizData } from '../../lib/quiz-data'
 import { cn } from '@/lib/utils'
+import { Navbar } from "../../components/Navbar";
 import {
   AlertDialog,
   AlertDialogAction,
@@ -18,7 +19,6 @@ import {
 } from "@/components/ui/alert-dialog"
 
 const QUESTIONS_PER_TEST = 40
-
 const getRandomQuestions = (allQuestions: Question[], count: number): Question[] => {
   const shuffled = [...allQuestions].sort(() => 0.5 - Math.random());
   return shuffled.slice(0, count);
@@ -89,7 +89,8 @@ export default function Quiz() {
   const percentCorrect = Math.round((correctAnswers / totalQuestions) * 100)
 
   return (
-    <div className="min-h-screen bg-[#080810] text-white p-6">
+    <div className="min-h-screen bg-[#080810] text-white ">
+      <Navbar/>
       <div className="max-w-4xl mx-auto">
         <div className="text-lg mb-2 text-center p-4">
           {showResults ? (
