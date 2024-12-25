@@ -2,6 +2,7 @@ import Link from 'next/link'
 import { Card, CardContent, CardDescription, CardFooter, CardHeader, CardTitle } from '@/components/ui/card'
 import { Button } from '@/components/ui/button'
 import { CalendarDays, BookOpen } from 'lucide-react'
+import { Navbar } from '@/components/Navbar'
 const quizCategories = [
   {
     title: 'INF 03 / E.09',
@@ -24,6 +25,7 @@ const quizCategories = [
 export default function Home() {
   return (
     <div className="min-h-screen bg-[#080810] text-white relative overflow-hidden">
+            <Navbar/>
       <div className="relative pt-20 container mx-auto px-4 py-8">
 	<h1 className="text-4xl font-bold mb-8 text-center">Egzaminy Kwalifikacji Technik-Informatyk</h1>
         <p className="text-xl mb-12 text-center">Baza zawierająca pytania do kwalifikacji INF-03/EE 0.9 oraz INF-02/EE 0.8</p>

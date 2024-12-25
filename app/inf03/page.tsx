@@ -89,10 +89,10 @@ export default function Quiz() {
   const percentCorrect = Math.round((correctAnswers / totalQuestions) * 100)
 
   return (
-    <div className="min-h-screen bg-[#080810] text-white ">
+    <div className="h-full w-full bg-[#080810] text-white ">
       <Navbar/>
-      <div className="max-w-4xl mx-auto">
-        <div className="text-lg mb-2 text-center p-4">
+      <div className="max-w-4xl mx-auto  ">
+        <div className="text-lg mb-2 text-center p-4" >
           {showResults ? (
             <div className="text-2xl font-bold text-center ">
               Wyniki: <span className={percentCorrect < 50 ? "text-red-600" : "text-green-600"}>{percentCorrect}% ({correctAnswers}/{totalQuestions})</span>

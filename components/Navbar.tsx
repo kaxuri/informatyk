@@ -15,7 +15,7 @@ export function Navbar() {
   const [isOpen, setIsOpen] = useState(false)
 
   return (
-    <nav className=" fixed w-full z-50 overflow-hidden">
+    <nav className="w-full z-50 overflow-hidden ">
      
       <div className="max-w-7xl bg-[#04040d1f] backdrop-blur-md	 my-2 rounded-lg mx-auto px-4 sm:px-6 lg:px-8 relative z-10">
         <div className="flex items-center justify-between h-16">
