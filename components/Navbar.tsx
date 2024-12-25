@@ -21,7 +21,7 @@ export function Navbar() {
         <div className="flex items-center justify-between h-16">
           <div className="flex items-center">
             <Link href="/" className="flex-shrink-0 text-white font-bold text-xl">
-              Quiz App
+              Egzaminy
             </Link>
           </div>
           <div className="hidden md:block">
