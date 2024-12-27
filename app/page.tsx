@@ -5,7 +5,7 @@ import { CalendarDays, BookOpen } from 'lucide-react'
 import { Navbar } from '@/components/Navbar'
 const quizCategories = [
   {
-    title: 'INF 03 / E.09',
+    title: 'INF 03 / EE.09',
     description: 'Programowanie Aplikacji Internetowych i Baz Danych',
     image: '/inf-03-okladka.jpg',
     link: '/inf03',
@@ -14,10 +14,10 @@ const quizCategories = [
   },
   {
     title: 'INF 02 / EE 0.8',
-    description: 'Montaż i Eksploatacja Lokalnych Sieci Komputerowych',
+    description: 'Montaż i Eksploatacja urządzeń peryferyjnych oraz Lokalnych Sieci Komputerowych',
     image: '/inf-02-okladka.jpg',
     link: '/inf02',
-    questionCount: 0,
+    questionCount: 541,
     lastUpdated: '2024-12-24',
   }
 ]
@@ -29,12 +29,11 @@ export default function Home() {
       <div className="relative pt-20 container mx-auto px-4 py-8">
 	<h1 className="text-4xl font-bold mb-8 text-center">Egzaminy Kwalifikacji Technik-Informatyk</h1>
         <p className="text-xl mb-12 text-center">Baza zawierająca pytania do kwalifikacji INF-03/EE 0.9 oraz INF-02/EE 0.8</p>
-        
         <div className="grid md:grid-cols-2 gap-8">
           {quizCategories.map((category, index) => (
             <Card key={index} className="bg-[#04040D]  overflow-hidden">
               <CardHeader>
-                <CardTitle className="text-2xl text-white">{category.title}</CardTitle>
+                <CardTitle className="text-2xl text-white"> {category.title} </CardTitle>
                 <CardDescription className="text-gray-300">{category.description}</CardDescription>
               </CardHeader>
               <div className="relative h-100 overflow-hidden">

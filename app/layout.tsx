@@ -29,6 +29,7 @@ export default function RootLayout({
         className={`${geistSans.variable} ${geistMono.variable} antialiased`}
       > 
         {children}
+        <p className="text-center py-6 text-xs text-gray-600">© Akumadev 2024.Pytania pochodzą ze strony praktycznyegzamin.pl</p>
       </body>
     </html>
   );
