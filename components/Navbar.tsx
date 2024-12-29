@@ -59,7 +59,7 @@ export function Navbar() {
               <Link
                 key={item.name}
                 href={item.href}
-                className="block px-3 py-2 rounded-md text-base font-medium text-foreground hover:text-primary hover:bg-accent transition-colors"
+                className="block px-3 py-2 rounded-md text-base font-medium text-white transition-colors"
                 onClick={() => setIsOpen(false)}
               >
                 {item.name}
