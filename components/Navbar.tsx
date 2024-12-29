@@ -2,65 +2,64 @@
 
 import Link from 'next/link'
 import { useState } from 'react'
-import { Menu, X } from 'lucide-react'
-
-const navItems = [
-  { name: 'Strona Główna', href: '/' },
-  { name: 'INF 03 / E.09', href: '/inf03' },
-  { name: 'INF 02 / EE 0.8', href: '/inf02' },
-  { name: 'O stronie', href: '/about' },
-]
+import { Menu } from 'lucide-react'
+import { Button } from '@/components/ui/button'
 
 export function Navbar() {
   const [isOpen, setIsOpen] = useState(false)
 
+  const navItems = [
+    { name: 'Strona Główna', href: '/' },
+    { name: 'INF 03 / E.09', href: '/inf03' },
+    { name: 'INF 02 / EE 0.8', href: '/inf02' },
+    { name: 'O stronie', href: '/about' },
+  ]
+
   return (
-    <nav className="w-full z-50 overflow-hidden ">
-     
-      <div className="max-w-7xl bg-[#04040d1f] backdrop-blur-md	 my-2 rounded-lg mx-auto px-4 sm:px-6 lg:px-8 relative z-10">
+    <nav className="fixed top-0 left-0 right-0 z-50 bg-[#06060ecc] backdrop-blur-sm ">
+      <div className="container mx-auto px-4">
         <div className="flex items-center justify-between h-16">
           <div className="flex items-center">
-            <Link href="/" className="flex-shrink-0 text-white font-bold text-xl">
-              Egzaminy
+            <Link href="/" className="text-2xl font-bold text-white mr-8">
+            ΛKUMΛ
             </Link>
-          </div>
-          <div className="hidden md:block">
-            <div className="ml-10 flex items-baseline space-x-4">
+            <div className="hidden md:flex items-center space-x-6">
               {navItems.map((item) => (
                 <Link
                   key={item.name}
                   href={item.href}
-                  className="text-gray-300 hover:bg-[#04040d85] hover:text-white px-3 py-2 rounded-md text-sm font-medium"
+                  className="nav-link text-white  transition-colors"
                 >
                   {item.name}
                 </Link>
               ))}
             </div>
           </div>
+          <div className="hidden md:block">
+            <Button asChild variant={'outline'}>
+              <Link href="https://github.com/akumadev0/informatyk" target='_blank'>GitHub</Link>
+            </Button>
+          </div>
           <div className="md:hidden">
-            <button
+            <Button
+              variant="ghost"
+              size="icon"
               onClick={() => setIsOpen(!isOpen)}
-              className="inline-flex items-center justify-center p-2 rounded-md text-gray-400 hover:text-white hover:bg-[#04040D] focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-offset-gray-800 focus:ring-white"
+              aria-label="Toggle menu"
             >
-              <span className="sr-only">Menu mobilne</span>
-              {isOpen ? (
-                <X className="block h-6 w-6" aria-hidden="true" />
-              ) : (
-                <Menu className="block h-6 w-6" aria-hidden="true" />
-              )}
-            </button>
+              <Menu className="h-6 w-6" />
+            </Button>
           </div>
         </div>
       </div>
-
       {isOpen && (
-        <div className="md:hidden relative z-10 bg-[#04040d1f] backdrop-blur-md">
+        <div className="md:hidden">
           <div className="px-2 pt-2 pb-3 space-y-1 sm:px-3">
             {navItems.map((item) => (
               <Link
                 key={item.name}
                 href={item.href}
-                className="text-gray-300 hover:bg-[#04040D] hover:text-white block px-3 py-2 rounded-md text-base font-medium"
+                className="block px-3 py-2 rounded-md text-base font-medium text-foreground hover:text-primary hover:bg-accent transition-colors"
                 onClick={() => setIsOpen(false)}
               >
                 {item.name}

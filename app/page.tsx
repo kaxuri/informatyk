@@ -24,7 +24,7 @@ const quizCategories = [
 
 export default function Home() {
   return (
-    <div className="min-h-screen bg-[#080810] text-white relative overflow-hidden">
+    <div className="relative min-h-screen pt-14 bg-[#080810] text-white  overflow-hidden">
             <Navbar/>
       <div className="relative pt-20 container mx-auto px-4 py-8">
 	<h1 className="text-4xl font-bold mb-8 text-center">Egzaminy Kwalifikacji Technik-Informatyk</h1>
