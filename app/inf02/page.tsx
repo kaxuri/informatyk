@@ -4,6 +4,7 @@ import { useState, useEffect } from 'react'
 import { Question, QuizState } from '../../types/quiz'
 import { Card } from '@/components/ui/card'
 import { Button } from '@/components/ui/button'
+import Image from 'next/image'
 import { allQuizData } from '../../lib/inf02'
 import { cn } from '@/lib/utils'
 import { Navbar } from "../../components/Navbar";
@@ -113,7 +114,7 @@ export default function Quiz() {
           )}
         </div>
         <div className="text-sm mb-8 mt-6">
-          Dostępnych pytań: {allQuestions.length}
+          Dostępnych pytań: {allQuestions.length} | Wylosowano: {QUESTIONS_PER_TEST}
         </div>
 
         {questions.map((question) => (
@@ -131,7 +132,7 @@ export default function Quiz() {
                 )}
 
                 { question.image && question.image !== "./placeholder.png" && (
-    <img
+    <Image
       src={question.image}
       alt="Question diagram"
       className="max-w-full h-auto rounded-lg"

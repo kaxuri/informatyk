@@ -17,3 +17,12 @@ export interface QuizState {
   answers: Record<number, string>;
 }
 
+export interface QuizResult {
+  date: string;
+  correctAnswers: number;
+  totalQuestions: number;
+  percentCorrect: number;
+  timeSpent: number;
+  category: string;
+}
+

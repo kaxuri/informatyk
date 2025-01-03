@@ -3,6 +3,7 @@
 import { useState, useEffect } from 'react'
 import { Question, QuizState } from '../../types/quiz'
 import { Card } from '@/components/ui/card'
+import Image from 'next/image'
 import { Button } from '@/components/ui/button'
 import { allQuizData } from '../../lib/inf03'
 import { cn } from '@/lib/utils'
@@ -90,7 +91,7 @@ export default function Quiz() {
   const percentCorrect = Math.round((correctAnswers / totalQuestions) * 100)
 
   return (
-    <div className="h-full w-full bg-[#080810] text-white ">
+    <div className="relative min-h-screen pt-20 h-full w-full bg-[#080810] text-white ">
       <Navbar/>
       
       <div className="max-w-4xl mx-auto  ">
@@ -131,7 +132,7 @@ export default function Quiz() {
                 )}
 
                 { question.image && question.image !== "./placeholder.png" && (
-    <img
+    <Image
       src={question.image}
       alt="Question diagram"
       className="max-w-full h-auto rounded-lg"

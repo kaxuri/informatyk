@@ -12,11 +12,11 @@ export function Navbar() {
     { name: 'Strona Główna', href: '/' },
     { name: 'INF 03 / E.09', href: '/inf03' },
     { name: 'INF 02 / EE 0.8', href: '/inf02' },
-    { name: 'O stronie', href: '/about' },
+    { name: 'Aktualizacje', href: '/about' },
   ]
 
   return (
-    <nav className="fixed top-0 left-0 right-0 z-50 bg-[#06060ecc] backdrop-blur-sm ">
+    <nav className="fixed top-0 left-0 right-0 z-50 bg-[#00000030] backdrop-blur-sm ">
       <div className="container mx-auto px-4">
         <div className="flex items-center justify-between h-16">
           <div className="flex items-center">

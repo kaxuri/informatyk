@@ -1,6 +1,8 @@
 import type { Metadata } from "next";
 import localFont from "next/font/local";
 import "./globals.css";
+import { Inter } from 'next/font/google'
+const inter = Inter({ subsets: ['latin'] })
 const geistSans = localFont({
   src: "./fonts/GeistVF.woff",
   variable: "--font-geist-sans",
@@ -23,13 +25,13 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   return (
+    
     <html lang="en">
-
+      
       <body
-        className={`${geistSans.variable} ${geistMono.variable} antialiased`}
+        className={`${geistSans.variable} ${inter.className} ${geistMono.variable}  antialiased`}
       > 
         {children}
-        <p className="text-center py-6 text-xs text-gray-600">© Akumadev 2024.Pytania pochodzą ze strony praktycznyegzamin.pl</p>
       </body>
     </html>
   );
