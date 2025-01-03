@@ -91,11 +91,7 @@ export default function Quiz() {
   const percentCorrect = Math.round((correctAnswers / totalQuestions) * 100)
 
   return (
-<<<<<<< HEAD
     <div className="relative min-h-screen pt-20 h-full w-full bg-[#080810] text-white ">
-=======
-    <div className="relative min-h-screen pt-20 h-full w-full bg-[#080810] text-white">
->>>>>>> ce13552371ffbda1cd4ea4412f8b57075327f341
       <Navbar/>
       
       <div className="max-w-4xl mx-auto  ">
