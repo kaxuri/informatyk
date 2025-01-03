@@ -1,36 +1,85 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Informatyk
 
-## Getting Started
+Informatyk to zbiór testów dla  Technika Informatyka, koncentrujący się na modułach INF-03/EE.09 oraz INF-02/EE.08. Te zasoby zostały stworzone, aby pomóc uczniom skutecznie przygotować się do egzaminów certyfikacyjnych.
 
-First, run the development server:
+## Funkcje
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+- **Kompleksowy Zbiór Testów**: Szeroka gama testów  obejmujących różne tematy w ramach modułów INF-03/EE.09 oraz INF-02/EE.08.
+- **Interfejs Internetowy**: Dostępny online przez przyjazny dla użytkownika interfejs.
+- **Regularne Aktualizacje**: Treści są aktualizowane, aby odzwierciedlać najnowsze standardy i tematy egzaminacyjne.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Instalacja
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+Aby uruchomić projekt lokalnie, wykonaj następujące kroki:
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+1. **Sklonuj repozytorium**:
 
-## Learn More
+   ```bash
+   git clone https://github.com/akumadev0/informatyk.git
+   ```
 
-To learn more about Next.js, take a look at the following resources:
+2. **Przejdź do katalogu projektu**:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+   ```bash
+   cd informatyk
+   ```
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+3. **Zainstaluj zależności**:
 
-## Deploy on Vercel
+   ```bash
+   npm installhttps://github.com/akumadev0/informatyk/blob/main/README.md
+   ```
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+4. **Uruchom serwer deweloperski**:
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+   ```bash
+   npm run dev
+   ```
+
+5. **Otwórz aplikację**:
+
+   Otwórz przeglądarkę i przejdź do `http://localhost:3000`, aby zobaczyć aplikację.
+
+## Użytkowanie
+
+Po uruchomieniu aplikacji możesz przeglądać dostępne testy  i wybrać dowolny test, aby rozpocząć ćwiczenia. Interfejs jest intuicyjny i pozwala na łatwe poruszanie się między różnymi testami i modułami.
+
+## Współtworzenie
+
+Współtworzenie jest mile widziane! Jeśli chcesz wnieść swój wkład, wykonaj fork repozytorium i użyj gałęzi funkcjonalnej. Pull requesty są serdecznie mile widziane.
+
+1. **Wykonaj fork repozytorium**.
+2. **Utwórz swoją gałąź funkcjonalną**:
+
+   ```bash
+   git checkout -b feature/NazwaFunkcji
+   ```
+
+3. **Zatwierdź swoje zmiany**:
+
+   ```bash
+   git commit -m 'Dodano nową funkcję'
+   ```
+
+4. **Wypchnij zmiany do gałęzi**:
+
+   ```bash
+   git push origin feature/NazwaFunkcji
+   ```
+
+5. **Otwórz pull request**.
+
+## Licencja
+
+Ten projekt jest licencjonowany na podstawie licencji MIT. Szczegóły znajdziesz w pliku [LICENSE](LICENSE).
+
+## Kontakt
+
+W sprawie pytań lub opinii prosimy o kontakt z twórcą projektu pod adresem [akumadev0](https://github.com/akumadev0).
+
+## Zakończenie
+
+
+Więcej informacji znajdziesz w działającej aplikacji pod adresem [informatyk.vercel.app](https://informatyk.vercel.app).
+
+*Uwaga: Ten projekt jest przeznaczony do celów edukacyjnych, aby pomóc uczniom w przygotowaniu się do egzaminów INF-03/EE.09.*
