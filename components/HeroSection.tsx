@@ -1,6 +1,5 @@
 import { Button } from '@/components/ui/button'
 import Link from 'next/link'
-import Image from 'next/image'
 export function HeroSection() {
   return (
     <section className="py-40 px-2 md:px-0">
@@ -13,7 +12,7 @@ export function HeroSection() {
           </Button>
         </div>
         <div className="md:w-1/2">
-          <Image src="/hero.webp" alt="Nauka do egzaminów" className="rounded-lg shadow-lg" />
+          <img src="/hero.webp"  alt="Nauka do egzaminów" className="rounded-lg shadow-lg" />
         </div>
       </div>
     </section>

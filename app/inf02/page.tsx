@@ -4,7 +4,6 @@ import { useState, useEffect } from 'react'
 import { Question, QuizState } from '../../types/quiz'
 import { Card } from '@/components/ui/card'
 import { Button } from '@/components/ui/button'
-import Image from 'next/image'
 import { allQuizData } from '../../lib/inf02'
 import { cn } from '@/lib/utils'
 import { Navbar } from "../../components/Navbar";
@@ -80,10 +79,10 @@ export default function Quiz() {
   }
 
   const getAnswerCardStyle = (question: Question, answerId: string) => {
-    if (!showResults) return 'bg-[#06060E]'
+    if (!showResults) return 'bg-black'
     if (question.correctAnswer === answerId) return 'bg-green-600'
     if (quizState.answers[question.id] === answerId) return 'bg-red-600'
-    return 'bg-[#06060E]'
+    return 'bg-black'
   }
 
   const correctAnswers = questions.filter(q => q.correctAnswer === quizState.answers[q.id]).length
@@ -91,7 +90,7 @@ export default function Quiz() {
   const percentCorrect = Math.round((correctAnswers / totalQuestions) * 100)
 
   return (
-    <div className="relative min-h-screen pt-20 h-full w-full bg-[#080810] text-white ">
+    <div className="relative min-h-screen pt-20 h-full w-full bg-black text-white ">
       <Navbar/>
       
       <div className="max-w-4xl mx-auto  ">
@@ -119,7 +118,7 @@ export default function Quiz() {
 
         {questions.map((question) => (
           <div key={question.id} className="mb-8">
-            <Card className="bg-[#07070F] border-main p-6 mb-5">
+            <Card className="bg-black border p-6 mb-5">
               <div className="space-y-6">
                 <div className="flex gap-4">
                   <p className="text-xl">{question.text}</p>
@@ -132,9 +131,9 @@ export default function Quiz() {
                 )}
 
                 { question.image && question.image !== "./placeholder.png" && (
-    <Image
+    <img
       src={question.image}
-      alt="Question diagram"
+      alt="Question image"
       className="max-w-full h-auto rounded-lg"
     />
   )}

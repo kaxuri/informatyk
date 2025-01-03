@@ -9,14 +9,14 @@ import { MotivationalBanner } from '@/components/MotivationalBanner'
 export default function Home() {
   return (
     
-    <div className="relative min-h-screen bg-main text-white overflow-hidden">
+    <div className="relative min-h-screen bg-black text-white overflow-hidden">
       <Navbar />
       <HeroSection />
       <FeaturesSection />
       <AboutSection />
       <ExamsSection />
       <MotivationalBanner />
-      <p className="text-center py-6 text-xs text-gray-400">© Akumadev 2025.Pytania pochodzą ze strony praktycznyegzamin.pl</p>
+      <p className="text-center py-6 text-xs text-gray-400">© Akumadev 2025. Pytania pochodzą ze strony praktycznyegzamin.pl</p>
     </div>
   )
 }

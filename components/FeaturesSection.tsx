@@ -26,7 +26,7 @@ export function FeaturesSection() {
         <h2 className="text-3xl font-bold text-center mb-12">Dlaczego warto z nami?</h2>
         <div className="grid md:grid-cols-3 gap-8 text-center">
           {features.map((feature, index) => (
-            <Card key={index} className="bg-[#00000030] ">
+            <Card key={index} className="bg-[#00000030] border-[#0a0a0a] border ">
               <CardHeader>
                 <feature.icon className="h-12 w-12  text-white mb-4"/>
                 <CardTitle className="text-xl">{feature.title}</CardTitle>

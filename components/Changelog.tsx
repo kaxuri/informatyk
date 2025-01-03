@@ -8,7 +8,14 @@ type ChangelogEntry = {
 
 const changelogData: ChangelogEntry[] = [
   {
-    date: "2024-12-23",
+    date: "2025-01-03",
+    version: "0.0.2.1 (Beta)",
+    changes: [
+      "[+] Poprawki Wizualne",
+    ]
+  },
+  {
+    date: "2025-01-01",
     version: "0.0.2 (Beta)",
     changes: [
       "[+] Nowa Strona główna",

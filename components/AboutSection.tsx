@@ -1,4 +1,3 @@
-import Image from "next/image";
 export function AboutSection() {
   return (
     <section className="py-20 px-4 md:px-0">
@@ -13,7 +12,7 @@ export function AboutSection() {
           </p>
         </div>
         <div className="md:w-1/2">
-          <Image src="/about.jpg" alt="O naszej platformie" className="rounded-lg shadow-lg" />
+          <img src="/about.jpg"  alt="O naszej platformie" className="rounded-lg shadow-lg" />
         </div>
       </div>
     </section>

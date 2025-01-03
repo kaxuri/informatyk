@@ -1,6 +1,5 @@
 import { Card, CardContent, CardDescription, CardFooter, CardHeader, CardTitle } from '@/components/ui/card'
 import { Button } from '@/components/ui/button'
-import Image from 'next/image'
 import { CalendarDays, BookOpen } from 'lucide-react'
 import Link from 'next/link'
 
@@ -36,9 +35,10 @@ export function ExamsSection() {
                 <CardDescription className="text-gray-300">{category.description}</CardDescription>
               </CardHeader>
               <div className="relative h-64 overflow-hidden">
-                <Image 
+                <img 
                   src={category.image} 
                   alt={category.title} 
+                  
                   className="w-full h-full object-cover transition-transform duration-300 hover:scale-105"
                 />
               </div>
