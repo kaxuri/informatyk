@@ -10,7 +10,7 @@ export function MotivationalBanner() {
         <Button asChild size="lg" className='mx-4 bg-cover p-6 px-12'  variant={'secondary'}>
           <Link href="/inf03">Test INF 02</Link>
         </Button>
-        <Button asChild size="lg" className='p-6 px-12' variant="secondary">
+        <Button asChild size="lg" className='my-4 p-6 px-12' variant="secondary">
           <Link href="/inf03">Test INF 03</Link>
         </Button>
       </div>

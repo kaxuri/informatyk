@@ -5,7 +5,7 @@ export const metadata: Metadata = {
   description: 'Jedno losowe pytanie z zakresu INF 02 / E.08',
 }
 
-export default function INF03Layout({
+export default function INF02Layout({
   children,
 }: {
   children: React.ReactNode
@@ -17,7 +17,6 @@ export default function INF03Layout({
       <div className="relative">
         {children}
       </div>
-      <p className="text-center py-2  text-xs text-gray-400">© Akumadev 2025. Pytania pochodzą ze strony praktycznyegzamin.pl</p>
     </div>
   )
 }

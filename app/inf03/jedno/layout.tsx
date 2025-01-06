@@ -17,7 +17,6 @@ export default function INF03Layout({
       <div className="relative">
         {children}
       </div>
-      <p className="text-center py-2  text-xs text-gray-400">© Akumadev 2025. Pytania pochodzą ze strony praktycznyegzamin.pl</p>
     </div>
   )
 }

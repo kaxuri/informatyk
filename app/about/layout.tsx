@@ -16,9 +16,8 @@ export default function AboutLayout({
       <div className="absolute top-0 right-0 w-96 h-96 bg-purple-500 rounded-full mix-blend-multiply filter blur-xl opacity-20 animate-blob animation-delay-2000"></div>
       <div className="relative">
         {children}
-        
+        <p className='text-center text-xs text-gray-700 mb-4'>© Akumadev 2025.</p>        
       </div>
-      <p className='text-center text-xs text-gray-700 mb-4'>© Akumadev 2025.</p>
     </div>
   )
 }
