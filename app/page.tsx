@@ -16,7 +16,8 @@ export default function Home() {
       <AboutSection />
       <ExamsSection />
       <MotivationalBanner />
-      <p className="text-center py-6 text-xs text-gray-400">© Akumadev 2025. Pytania pochodzą ze strony praktycznyegzamin.pl</p>
+      <p className="text-center  text-xs text-gray-400">Wersja v 0.0.3.0</p>
+      <p className="text-center py-2 text-xs text-gray-400">© Akumadev 2025. Pytania pochodzą ze strony praktycznyegzamin.pl</p>
     </div>
   )
 }

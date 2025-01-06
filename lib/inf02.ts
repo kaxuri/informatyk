@@ -13,21 +13,21 @@ export const allQuizData: Question[] = [
   {
     "id": 2,
     "text": '2. Transformator impulsowy w przedstawionym zasilaczu oznaczono symbolem',
-    "image": 'ee08/2.jpg',
+    "image": '/ee08/2.jpg',
     "answers": [{'id': 'A', 'text': 'A'}, {'id': 'B', 'text': 'B'}, {'id': 'C', 'text': 'C'}, {'id': 'D', 'text': 'D'}],
     "correctAnswer": 'A'
   },
   {
     "id": 3,
     "text": '3. Na przedstawionej płycie głównej możliwy jest montaż procesora z obudową typu',
-    "image": 'ee08/3.jpg',
+    "image": '/ee08/3.jpg',
     "answers": [{'id': 'A', 'text': 'LGA'}, {'id': 'B', 'text': 'PGA'}, {'id': 'C', 'text': 'SECC'}, {'id': 'D', 'text': 'SPGA'}],
     "correctAnswer": 'A'
   },
   {
     "id": 4,
     "text": '4. Kompatybilne podzespoły oznaczono w tabeli numerami',
-    "image": 'ee08/4.jpg',
+    "image": '/ee08/4.jpg',
     "answers": [{'id': 'A', 'text': '1, 3, 5'}, {'id': 'B', 'text': '1, 4, 6'}, {'id': 'C', 'text': '2, 4, 5'}, {'id': 'D', 'text': '2, 4, 6'}],
     "correctAnswer": 'C'
   },
@@ -90,14 +90,14 @@ export const allQuizData: Question[] = [
   {
     "id": 13,
     "text": '13. Wskaż narzędzie służące do mocowania pojedynczych żył kabla miedzianego w złączach.',
-    "image": 'ee08/13.jpg',
+    "image": '/ee08/13.jpg',
     "answers": [{'id': 'A', 'text': 'A'}, {'id': 'B', 'text': 'B'}, {'id': 'C', 'text': 'C'}, {'id': 'D', 'text': 'D'}],
     "correctAnswer": 'B'
   },
   {
     "id": 14,
     "text": '14. Za pomocą programu Acrylic Wi-Fi Home wykonano test, którego wyniki przedstawiono na zrzucie. Na ich\npodstawie można stwierdzić, że dostępna sieć bezprzewodowa',
-    "image": 'ee08/14.jpg',
+    "image": '/ee08/14.jpg',
     "answers": [{'id': 'A', 'text': 'jest nieszyfrowana.'}, {'id': 'B', 'text': 'korzysta z kanałów 10 ÷ 12.'}, {'id': 'C', 'text': 'ma bardzo dobrą jakość sygnału.'}, {'id': 'D', 'text': 'osiąga maksymalną szybkość transferu 72 Mbps.'}],
     "correctAnswer": 'A'
   },
@@ -125,14 +125,14 @@ export const allQuizData: Question[] = [
   {
     "id": 18,
     "text": '18. Na schemacie obrazującym zasadę działania monitora plazmowego numerem 6 oznaczono',
-    "image": 'ee08/18.jpg',
+    "image": '/ee08/18.jpg',
     "answers": [{'id': 'A', 'text': 'warstwę fosforową.'}, {'id': 'B', 'text': 'warstwę dielektryka.'}, {'id': 'C', 'text': 'elektrody adresujące.'}, {'id': 'D', 'text': 'elektrody wyświetlacza.'}],
     "correctAnswer": 'C'
   },
   {
     "id": 19,
     "text": '19. Na ilustracji zaznaczono strzałkami funkcję przycisków znajdujących się na obudowie projektora\nmultimedialnego. Za pomocą tych przycisków można',
-    "image": 'ee08/19.jpg',
+    "image": '/ee08/19.jpg',
     "answers": [{'id': 'A', 'text': 'przełączać sygnały wejściowe'}, {'id': 'B', 'text': 'regulować zniekształcony obraz.'}, {'id': 'C', 'text': 'zmieniać poziom jasności obrazu.'}, {'id': 'D', 'text': 'regulować odwzorowanie przestrzeni kolorów'}],
     "correctAnswer": 'B'
   },
@@ -153,28 +153,28 @@ export const allQuizData: Question[] = [
   {
     "id": 22,
     "text": '22. Na podstawie zrzutu ekranu przedstawiającego konfigurację przełącznika można stwierdzić, że',
-    "image": 'ee08/22.jpg',
+    "image": '/ee08/22.jpg',
     "answers": [{'id': 'A', 'text': 'czas między wysyłaniem kolejnych komunikatów o poprawnej pracy urządzenia wynosi\n3 sekundy.'}, {'id': 'B', 'text': 'maksymalny czas krążenia w sieci komunikatów protokołu BPDU wynosi 20 sekund.'}, {'id': 'C', 'text': 'minimalny czas krążenia w sieci komunikatów protokołu BPDU wynosi 25 sekund.'}, {'id': 'D', 'text': 'maksymalny czas pomiędzy zmianami statusu łącza wynosi 5 sekund.'}],
     "correctAnswer": 'A'
   },
   {
     "id": 23,
     "text": '23. Przedstawione polecenia, uruchomione w interfejsie CLI rutera firmy CISCO, spowodują',
-    "image": 'ee08/23.jpg',
+    "image": '/ee08/23.jpg',
     "answers": [{'id': 'A', 'text': 'dopuszczenie ruchu pochodzącego z sieci o adresie 10.0.0.1'}, {'id': 'B', 'text': 'określenie puli adresów wewnętrznych 10.0.0.1 ÷ 255.255.255.0'}, {'id': 'C', 'text': 'ustawienie interfejsu zewnętrznego o adresie 10.0.0.1/24 dla technologii NAT'}, {'id': 'D', 'text': 'ustawienie interfejsu wewnętrznego o adresie 10.0.0.1/24 dla technologii NAT'}],
     "correctAnswer": 'D'
   },
   {
     "id": 24,
     "text": '24. Schemat przedstawia zasadę działania sieci VPN o nazwie',
-    "image": 'ee08/24.jpg',
+    "image": '/ee08/24.jpg',
     "answers": [{'id': 'A', 'text': 'Client - to -Site'}, {'id': 'B', 'text': 'Site - to - Site'}, {'id': 'C', 'text': 'Gateway'}, {'id': 'D', 'text': 'L2TP'}],
     "correctAnswer": 'B'
   },
   {
     "id": 25,
     "text": '25. Przedstawione narzędzie może być wykorzystane do',
-    "image": 'ee08/25.jpg',
+    "image": '/ee08/25.jpg',
     "answers": [{'id': 'A', 'text': 'podgrzania i zamontowania elementu elektronicznego.'}, {'id': 'B', 'text': 'sprawdzenia długości badanego kabla sieciowego.'}, {'id': 'C', 'text': 'pomiaru wartości napięcia w zasilaczu'}, {'id': 'D', 'text': 'utrzymania drukarki w czystości.'}],
     "correctAnswer": 'C'
   },
@@ -223,7 +223,7 @@ export const allQuizData: Question[] = [
   {
     "id": 32,
     "text": '32. Serwisant wykonał w ramach zlecenia czynności wymienione w tabeli. Koszt zlecenia obejmuje cenę usług\nzawartych w tabeli oraz koszt pracy serwisanta, którego stawka godzinowa wynosi 60,00 zł netto. Ustal\ncałkowity koszt zlecenia brutto. Stawka podatku VAT na usługi wynosi 23%.',
-    "image": 'ee08/32.jpg',
+    "image": '/ee08/32.jpg',
     "answers": [{'id': 'A', 'text': '492,00 zł'}, {'id': 'B', 'text': '455,20 zł'}, {'id': 'C', 'text': '436,80 zł'}, {'id': 'D', 'text': '400,00 zł'}],
     "correctAnswer": 'A'
   },
@@ -258,7 +258,7 @@ export const allQuizData: Question[] = [
   {
     "id": 37,
     "text": '37. Po wydaniu przedstawionego polecenia systemu Windows, wartość 11 zostanie ustawiona dla',
-    "image": 'ee08/37.jpg',
+    "image": '/ee08/37.jpg',
     "answers": [{'id': 'A', 'text': 'maksymalnej liczby dni ważności konta.'}, {'id': 'B', 'text': 'minimalnej liczby znaków w hasłach użytkowników.'}, {'id': 'C', 'text': 'maksymalnej liczby dni między zmianami haseł użytkowników.'}, {'id': 'D', 'text': 'minimalnej liczby minut, przez które użytkownik może być zalogowany.'}],
     "correctAnswer": 'B'
   },
@@ -293,42 +293,42 @@ export const allQuizData: Question[] = [
   {
     "id": 42,
     "text": '42. Którą bramkę logiczną opisuje wyrażenie',
-    "image": 'ee08/42.jpg',
+    "image": '/ee08/42.jpg',
     "answers": [{'id': 'A', 'text': 'A'}, {'id': 'B', 'text': 'B'}, {'id': 'C', 'text': 'C'}, {'id': 'D', 'text': 'D'}],
     "correctAnswer": 'B'
   },
   {
     "id": 43,
     "text": '43. Na rysunku przedstawiona jest karta',
-    "image": 'ee08/43.jpg',
+    "image": '/ee08/43.jpg',
     "answers": [{'id': 'A', 'text': 'kontrolera RAID'}, {'id': 'B', 'text': 'kontrolera SCSII'}, {'id': 'C', 'text': 'sieciowa Token Ring'}, {'id': 'D', 'text': 'sieciowa Fibre Channel'}],
     "correctAnswer": 'D'
   },
   {
     "id": 44,
     "text": '44. Na rysunku przedstawiono schemat blokowy karty',
-    "image": 'ee08/44.jpg',
+    "image": '/ee08/44.jpg',
     "answers": [{'id': 'A', 'text': 'sieciowej.'}, {'id': 'B', 'text': 'graficznej.'}, {'id': 'C', 'text': 'dźwiękowej.'}, {'id': 'D', 'text': 'telewizyjnej.'}],
     "correctAnswer": 'D'
   },
   {
     "id": 45,
     "text": '45. Na rysunku przedstawiono fragment dokumentacji technicznej płyty głównej GA-K8NF-9-RH rev. 2.x.\nWynika z niej, że maksymalna liczba możliwych do zamontowania kart rozszerzeń (pomijając interfejs USB)\nwynosi',
-    "image": 'ee08/45.jpg',
+    "image": '/ee08/45.jpg',
     "answers": [{'id': 'A', 'text': '6'}, {'id': 'B', 'text': '5'}, {'id': 'C', 'text': '3'}, {'id': 'D', 'text': '2'}],
     "correctAnswer": 'A'
   },
   {
     "id": 46,
     "text": '46. Na rysunku przedstawiono tylny panel stacji roboczej. Strzałką oznaczono port',
-    "image": 'ee08/46.jpg',
+    "image": '/ee08/46.jpg',
     "answers": [{'id': 'A', 'text': 'HDMI'}, {'id': 'B', 'text': 'eSATA'}, {'id': 'C', 'text': 'USB 3.0'}, {'id': 'D', 'text': 'DisplayPort'}],
     "correctAnswer": 'D'
   },
   {
     "id": 47,
     "text": '47. Na rysunku przedstawiono komunikat systemowy. Jakie działanie powinien wykonać użytkownik, aby\nusunąć błąd?',
-    "image": 'ee08/47.jpg',
+    "image": '/ee08/47.jpg',
     "answers": [{'id': 'A', 'text': 'Podłączyć monitor do złącza HDMI.'}, {'id': 'B', 'text': 'Odświeżyć okno Menedżer urządzeń.'}, {'id': 'C', 'text': 'Zainstalować sterownik do karty graficznej.'}, {'id': 'D', 'text': 'Zainstalować sterownik do Karty HD Graphics.'}],
     "correctAnswer": 'C'
   },
@@ -349,21 +349,21 @@ export const allQuizData: Question[] = [
   {
     "id": 50,
     "text": '50. Który z symboli oznacza zastrzeżenie praw autorskich?',
-    "image": 'ee08/50.jpg',
+    "image": '/ee08/50.jpg',
     "answers": [{'id': 'A', 'text': 'A'}, {'id': 'B', 'text': 'B'}, {'id': 'C', 'text': 'C'}, {'id': 'D', 'text': 'D'}],
     "correctAnswer": 'A'
   },
   {
     "id": 51,
     "text": '51. Który typ fizycznej topologii sieci komputerowej przedstawiono na rysunku?',
-    "image": 'ee08/51.jpg',
+    "image": '/ee08/51.jpg',
     "answers": [{'id': 'A', 'text': 'Siatki.'}, {'id': 'B', 'text': 'Gwiazdy.'}, {'id': 'C', 'text': 'Magistrali.'}, {'id': 'D', 'text': 'Podwójnego pierścienia.'}],
     "correctAnswer": 'A'
   },
   {
     "id": 52,
     "text": '52. Ile domen kolizyjnych i rozgłoszeniowych jest widocznych na schemacie?',
-    "image": 'ee08/52.jpg',
+    "image": '/ee08/52.jpg',
     "answers": [{'id': 'A', 'text': '9 domen kolizyjnych i 1 domena\nrozgłoszeniowa'}, {'id': 'B', 'text': '9 domen kolizyjnych i 4 domeny\nrozgłoszeniowe.'}, {'id': 'C', 'text': '1 domena kolizyjna i 9 domen\nrozgłoszeniowych.'}, {'id': 'D', 'text': '4 domeny kolizyjne i 9 domen\nrozgłoszeniowych.'}],
     "correctAnswer": 'B'
   },
@@ -391,7 +391,7 @@ export const allQuizData: Question[] = [
   {
     "id": 56,
     "text": '56. Przedstawione na rysunku urządzenie',
-    "image": 'ee08/56.jpg',
+    "image": '/ee08/56.jpg',
     "answers": [{'id': 'A', 'text': 'służy do przechwytywania i nagrywania pakietów danych w sieciach komputerowych.'}, {'id': 'B', 'text': 'odpowiada za przekazywanie ramki między segmentami sieci z doborem portu, na który jest\nprzekazywana.'}, {'id': 'C', 'text': 'umożliwia zamianę sygnału pochodzącego z okablowania miedzianego na okablowanie\nświatłowodowe.'}, {'id': 'D', 'text': 'odpowiada za wytworzenie na wyjściu sygnału analogowego, będącego wzmocnionym\nsygnałem wejściowym, kosztem zużycia energii pobieranej ze źródła prądu.'}],
     "correctAnswer": 'C'
   },
@@ -405,14 +405,14 @@ export const allQuizData: Question[] = [
   {
     "id": 58,
     "text": '58. Na rysunku przedstawiono zakończenie kabla',
-    "image": 'ee08/58.jpg',
+    "image": '/ee08/58.jpg',
     "answers": [{'id': 'A', 'text': 'typu skrętka.'}, {'id': 'B', 'text': 'telefonicznego.'}, {'id': 'C', 'text': 'koncentrycznego.'}, {'id': 'D', 'text': 'światłowodowego.'}],
     "correctAnswer": 'D'
   },
   {
     "id": 59,
     "text": '59. Przedstawione na rysunku urządzenie wraz ze specyfikacją techniczną można wykorzystać do pomiarów\nokablowania',
-    "image": 'ee08/59.jpg',
+    "image": '/ee08/59.jpg',
     "answers": [{'id': 'A', 'text': 'telefonicznego.'}, {'id': 'B', 'text': 'skrętki cat. 5e / 6.'}, {'id': 'C', 'text': 'koncentrycznego.'}, {'id': 'D', 'text': 'światłowodowego.'}],
     "correctAnswer": 'D'
   },
@@ -440,14 +440,14 @@ export const allQuizData: Question[] = [
   {
     "id": 63,
     "text": '63. Na rysunku przedstawiono wynik testu okablowania. Zinterpretuj wynik pomiaru.',
-    "image": 'ee08/63.jpg',
+    "image": '/ee08/63.jpg',
     "answers": [{'id': 'A', 'text': 'Błąd zwarcia.'}, {'id': 'B', 'text': 'Błąd rozwarcia.'}, {'id': 'C', 'text': 'Odwrócenie pary.'}, {'id': 'D', 'text': 'Rozdzielenie pary.'}],
     "correctAnswer": 'A'
   },
   {
     "id": 64,
     "text": '64. Na rysunku przedstawiono fragment wyniku działania programu do testowania sieci. Wskazuje to na\nzastosowanie sieciowego polecenia testującego',
-    "image": 'ee08/64.jpg',
+    "image": '/ee08/64.jpg',
     "answers": [{'id': 'A', 'text': 'arp'}, {'id': 'B', 'text': 'route'}, {'id': 'C', 'text': 'tracert'}, {'id': 'D', 'text': 'netstat'}],
     "correctAnswer": 'D'
   },
@@ -468,7 +468,7 @@ export const allQuizData: Question[] = [
   {
     "id": 67,
     "text": '67. Na rysunku przedstawiono interfejs w komputerze przeznaczony do podłączenia',
-    "image": 'ee08/67.jpg',
+    "image": '/ee08/67.jpg',
     "answers": [{'id': 'A', 'text': 'monitora LCD.'}, {'id': 'B', 'text': 'plotera tnącego.'}, {'id': 'C', 'text': 'drukarki laserowej.'}, {'id': 'D', 'text': 'skanera lustrzanego.'}],
     "correctAnswer": 'A'
   },
@@ -489,7 +489,7 @@ export const allQuizData: Question[] = [
   {
     "id": 70,
     "text": '70. Na rysunku przedstawiającym budowę drukarki, w której nierównomiernie podawany jest toner na bęben,\nnależy wymienić wałek magnetyczny, który jest oznaczony numerem',
-    "image": 'ee08/70.jpg',
+    "image": '/ee08/70.jpg',
     "answers": [{'id': 'A', 'text': '1'}, {'id': 'B', 'text': '2'}, {'id': 'C', 'text': '3'}, {'id': 'D', 'text': '4'}],
     "correctAnswer": 'B'
   },
@@ -503,21 +503,21 @@ export const allQuizData: Question[] = [
   {
     "id": 72,
     "text": '72. Na rysunku przedstawiono konfigurację urządzenia. Do których portów należy podłączyć serwer o adresie IP\n192.168.20.254/24 oraz stację roboczą o adresie IP 192.168.20.10/24, aby zapewnić komunikację tych\nurządzeń w sieci?',
-    "image": 'ee08/72.jpg',
+    "image": '/ee08/72.jpg',
     "answers": [{'id': 'A', 'text': 'Do portów 1 i 2'}, {'id': 'B', 'text': 'Do portów 2 i 3'}, {'id': 'C', 'text': 'Do portów 1 i 3'}, {'id': 'D', 'text': 'Do portów 3 i 4'}],
     "correctAnswer": 'C'
   },
   {
     "id": 73,
     "text": '73. Na rysunku przedstawiono konfigurację urządzenia, z której wynika, że',
-    "image": 'ee08/73.jpg',
+    "image": '/ee08/73.jpg',
     "answers": [{'id': 'A', 'text': 'utworzono dwa nowe VLAN-y: ID13, ID48'}, {'id': 'B', 'text': 'do VLAN z ID48 przypisano wszystkie porty.'}, {'id': 'C', 'text': 'utworzono trzy nowe VLAN-y: ID1, ID13, ID48'}, {'id': 'D', 'text': 'VLAN z ID48 jest skonfigurowany jako zarządzalny.'}],
     "correctAnswer": 'A'
   },
   {
     "id": 74,
     "text": '74. Na rysunku przedstawiono okno konfiguracyjne rutera. Ustawione parametry świadczą o tym, że',
-    "image": 'ee08/74.jpg',
+    "image": '/ee08/74.jpg',
     "answers": [{'id': 'A', 'text': 'na komputerze o adresie MAC 44-8A-5B-5A-56-D0 ustawiono adres IP 192.168.17.30\nza pomocą Panelu Sterowania.'}, {'id': 'B', 'text': 'komputer o adresie MAC 44-8A-5B-5A-56-D0 i adresie IP 192.168.17.30 nie będzie mógł\npołączyć się z urządzeniami tej sieci.'}, {'id': 'C', 'text': 'komputer o adresie MAC 44-8A-5B-5A-56-D0 i adresie IP 192.168.17.30 został wykluczony\nz sieci.'}, {'id': 'D', 'text': 'komputerowi o adresie MAC 44-8A-5B-5A-56-D0 usługa DHCP rutera przydzieli adres\nIP 192.168.17.30'}],
     "correctAnswer": 'D'
   },
@@ -559,14 +559,14 @@ export const allQuizData: Question[] = [
   {
     "id": 80,
     "text": '80. Aby profil stał się obowiązkowym, należy zmienić rozszerzenie pliku ntuser.dat na',
-    "image": 'ee08/80.jpg',
+    "image": '/ee08/80.jpg',
     "answers": [{'id': 'A', 'text': 'ntuser.sys'}, {'id': 'B', 'text': 'ntuser.man'}, {'id': 'C', 'text': '$ntuser.bat'}, {'id': 'D', 'text': '$ntuser.exe'}],
     "correctAnswer": 'B'
   },
   {
     "id": 81,
     "text": '81. Przedstawiony na rysunku element elektroniczny to',
-    "image": 'ee08/81.jpg',
+    "image": '/ee08/81.jpg',
     "answers": [{'id': 'A', 'text': 'cewka.'}, {'id': 'B', 'text': 'rezystor.'}, {'id': 'C', 'text': 'tranzystor.'}, {'id': 'D', 'text': 'kondensator.'}],
     "correctAnswer": 'C'
   },
@@ -580,7 +580,7 @@ export const allQuizData: Question[] = [
   {
     "id": 83,
     "text": '83. Na urządzeniu zasilanym prądem stałym znajduje się przedstawione oznaczenie. Wynika z niego, że\nurządzenie pobiera moc około',
-    "image": 'ee08/83.jpg',
+    "image": '/ee08/83.jpg',
     "answers": [{'id': 'A', 'text': '2,5 W'}, {'id': 'B', 'text': '7,5 W'}, {'id': 'C', 'text': '11,0 W'}, {'id': 'D', 'text': '18,75 W'}],
     "correctAnswer": 'D'
   },
@@ -622,7 +622,7 @@ export const allQuizData: Question[] = [
   {
     "id": 89,
     "text": '89. Przedstawiona na rysunku topologia sieci to',
-    "image": 'ee08/89.jpg',
+    "image": '/ee08/89.jpg',
     "answers": [{'id': 'A', 'text': 'bus'}, {'id': 'B', 'text': 'star'}, {'id': 'C', 'text': 'ring'}, {'id': 'D', 'text': 'mesh'}],
     "correctAnswer": 'D'
   },
@@ -727,21 +727,21 @@ export const allQuizData: Question[] = [
   {
     "id": 104,
     "text": '104. Przedstawiony listing zawiera polecenia umożliwiające',
-    "image": 'ee08/104.jpg',
+    "image": '/ee08/104.jpg',
     "answers": [{'id': 'A', 'text': 'usunięcie portów 0 i 1 przełącznika z sieci vlan.'}, {'id': 'B', 'text': 'zmianę ustawienia prędkości dla portu 0/1 na fastethernet.'}, {'id': 'C', 'text': 'konfigurację wirtualnej sieci lokalnej o nazwie vlan 10 w przełączniku.'}, {'id': 'D', 'text': 'ustawienie nazwy fastEthernet dla pierwszych dziesięciu portów przełącznika.'}],
     "correctAnswer": 'C'
   },
   {
     "id": 105,
     "text": '105. Przedstawiony fragment konfiguracji zapory sieciowej zezwala na ruch sieciowy z wykorzystaniem\nprotokołów',
-    "image": 'ee08/105.jpg',
+    "image": '/ee08/105.jpg',
     "answers": [{'id': 'A', 'text': 'FTP, SSH'}, {'id': 'B', 'text': 'POP3, TFTP'}, {'id': 'C', 'text': 'HTTP, SMPT'}, {'id': 'D', 'text': 'HTTPS, IMAP'}],
     "correctAnswer": 'D'
   },
   {
     "id": 106,
     "text": '106. Przedstawione na rysunku narzędzie służy do testowania',
-    "image": 'ee08/106.jpg',
+    "image": '/ee08/106.jpg',
     "answers": [{'id': 'A', 'text': 'zasilacza.'}, {'id': 'B', 'text': 'płyty głównej.'}, {'id': 'C', 'text': 'karty sieciowej.'}, {'id': 'D', 'text': 'okablowania LAN.'}],
     "correctAnswer": 'D'
   },
@@ -776,7 +776,7 @@ export const allQuizData: Question[] = [
   {
     "id": 111,
     "text": '111. Wskaż efekt działania przedstawionego polecenia.',
-    "image": 'ee08/111.jpg',
+    "image": '/ee08/111.jpg',
     "answers": [{'id': 'A', 'text': 'Ustawiony czas aktywacji konta Test.'}, {'id': 'B', 'text': 'Ustawiona data wygaśnięcia konta Test.'}, {'id': 'C', 'text': 'Sprawdzona data ostatniego logowania na konto Test.'}, {'id': 'D', 'text': 'Wymuszona zmiana hasła na koncie Test w podanym terminie.'}],
     "correctAnswer": 'B'
   },
@@ -790,7 +790,7 @@ export const allQuizData: Question[] = [
   {
     "id": 113,
     "text": '113. W wyniku użycia polecenia route ustawiono',
-    "image": 'ee08/113.jpg',
+    "image": '/ee08/113.jpg',
     "answers": [{'id': 'A', 'text': 'koszt metryki na 0 przeskoków'}, {'id': 'B', 'text': 'adres docelowej sieci na 192.168.35.0'}, {'id': 'C', 'text': '25 bitową maskę dla adresu docelowego'}, {'id': 'D', 'text': 'maskę 255.255.255.0 dla adresu IP bramy 192.168.0.2'}],
     "correctAnswer": 'B'
   },
@@ -811,14 +811,14 @@ export const allQuizData: Question[] = [
   {
     "id": 116,
     "text": '116. Aby uzupełnić prawidłową składnię prezentowanego polecenia, które udostępnia folder Dane pod nazwą test,\nw miejscu kropek należy wpisać słowo',
-    "image": 'ee08/116.jpg',
+    "image": '/ee08/116.jpg',
     "answers": [{'id': 'A', 'text': 'use'}, {'id': 'B', 'text': 'view'}, {'id': 'C', 'text': 'share'}, {'id': 'D', 'text': 'connect'}],
     "correctAnswer": 'C'
   },
   {
     "id": 117,
     "text": '117. Które ze zdań jest prawdziwe dla przedstawionej konfiguracji usługi DHCP w systemie Linux?',
-    "image": 'ee08/117.jpg',
+    "image": '/ee08/117.jpg',
     "answers": [{'id': 'A', 'text': 'System zamieni adres IP 192.168.221.102 na nazwę main'}, {'id': 'B', 'text': 'Komputery otrzymają adres IP z zakresu 176.16.20.251 ÷ 255.255.255.0'}, {'id': 'C', 'text': 'Karcie sieciowej komputera main przypisany zostanie adres IP 39:12:86:07:55:00'}, {'id': 'D', 'text': 'Komputery pracujące w sieci otrzymają adres IP z zakresu 176.16.20.50 ÷ 176.16.20.250'}],
     "correctAnswer": 'D'
   },
@@ -853,35 +853,35 @@ export const allQuizData: Question[] = [
   {
     "id": 122,
     "text": '122. Wskaż rysunek przedstawiający kondensator stały',
-    "image": 'ee08/122.jpg',
+    "image": '/ee08/122.jpg',
     "answers": [{'id': 'A', 'text': 'A'}, {'id': 'B', 'text': 'B'}, {'id': 'C', 'text': 'C'}, {'id': 'D', 'text': 'D'}],
     "correctAnswer": 'D'
   },
   {
     "id": 123,
     "text": '123. Na rysunku został przedstawiony schemat budowy logicznej',
-    "image": 'ee08/123.jpg',
+    "image": '/ee08/123.jpg',
     "answers": [{'id': 'A', 'text': 'procesora.'}, {'id': 'B', 'text': 'klawiatury.'}, {'id': 'C', 'text': 'karty graficznej.'}, {'id': 'D', 'text': 'myszy komputerowej.'}],
     "correctAnswer": 'A'
   },
   {
     "id": 124,
     "text": '124. Oznaczenie przedstawionego procesora informuje o',
-    "image": 'ee08/124.jpg\n',
+    "image": '/ee08/124.jpg\n',
     "answers": [{'id': 'A', 'text': 'jego małej obudowie.'}, {'id': 'B', 'text': 'wersji mobilnej procesora.'}, {'id': 'C', 'text': 'braku blokady mnożnika (unlocked).'}, {'id': 'D', 'text': 'bardzo niskim zużyciu energii przez procesor.'}],
     "correctAnswer": 'C'
   },
   {
     "id": 125,
     "text": '125. Wskaż podzespół niekompatybilny z płytą główną o przedstawionych w tabeli parametrach.',
-    "image": 'ee08/125.jpg',
+    "image": '/ee08/125.jpg',
     "answers": [{'id': 'A', 'text': 'Monitor: Dell, 34”, 1x DisplayPort, 1x miniDP, 2x USB 3.0 Upstream, 4x USB 3.0\nDownstream'}, {'id': 'B', 'text': 'Karta graficzna: Gigabyte GeForce GTX 1050 OC, 2GB, GDDR5, 128 bit, PCI-Express 3.0\nx16'}, {'id': 'C', 'text': 'Procesor: INTEL CORE i3-4350, 3.60 GHz, x2/4, 4 MB, 54W, HD 4600, BOX, s-1150'}, {'id': 'D', 'text': 'Pamięć RAM: Corsair Vengeance LPX, DDR4, 2x16GB, 3000MHz, CL15 Black'}],
     "correctAnswer": 'C'
   },
   {
     "id": 126,
     "text": '126. W zestawie komputerowym o parametrach przedstawionych w tabeli należy wymienić kartę graficzną na\nkartę \nGeForce GTX 1070 Ti Titanium 8G DDR5, PCI EX-x16 3.0, 256b, 1683 MHz/1607 MHz, Power\nconsumption 180W, 3x DP, 2x HDMI, recommended power supply 500W, DirectX 12, OpenGL 4.5 \nW związku z tym modernizacja tego komputera wymaga również wymiany',
-    "image": 'ee08/126.jpg',
+    "image": '/ee08/126.jpg',
     "answers": [{'id': 'A', 'text': 'karty sieciowej.'}, {'id': 'B', 'text': 'płyty głównej.'}, {'id': 'C', 'text': 'procesora.'}, {'id': 'D', 'text': 'zasilacza.'}],
     "correctAnswer": 'D'
   },
@@ -895,7 +895,7 @@ export const allQuizData: Question[] = [
   {
     "id": 128,
     "text": '128. Autor zamieszczonego oprogramowania zezwala na jego bezpłatne używanie jedynie w przypadku',
-    "image": 'ee08/128.jpg',
+    "image": '/ee08/128.jpg',
     "answers": [{'id': 'A', 'text': 'zaakceptowania ograniczenia czasowego podczas instalacji.'}, {'id': 'B', 'text': 'uiszczenia dobrowolnej opłaty na cele charytatywne.'}, {'id': 'C', 'text': 'wysłania tradycyjnej kartki pocztowej do autora.'}, {'id': 'D', 'text': 'przesłania przelewu z kwotą 1$ na konto autora.'}],
     "correctAnswer": 'C'
   },
@@ -986,7 +986,7 @@ export const allQuizData: Question[] = [
   {
     "id": 141,
     "text": '141. Na podstawie zrzutu ekranu przedstawiającego konfigurację przełącznika można stwierdzić, że',
-    "image": 'ee08/141.jpg',
+    "image": '/ee08/141.jpg',
     "answers": [{'id': 'A', 'text': 'czas między wysyłaniem kolejnych komunikatów o poprawnej pracy urządzenia wynosi\n3 sekundy.'}, {'id': 'B', 'text': 'maksymalny czas krążenia w sieci komunikatów protokołu BPDU wynosi 20 sekund.'}, {'id': 'C', 'text': 'minimalny czas krążenia w sieci komunikatów protokołu BPDU wynosi 25 sekund.'}, {'id': 'D', 'text': 'maksymalny czas pomiędzy zmianami statusu łącza wynosi 5 sekund.'}],
     "correctAnswer": 'A'
   },
@@ -1035,21 +1035,21 @@ export const allQuizData: Question[] = [
   {
     "id": 148,
     "text": '148. Serwisant dojechał do klienta oddalonego od siedziby firmy o 11 km oraz wykonał u niego czynności\nnaprawcze zawarte w tabeli. Wskaż całkowity koszt brutto jego pracy, jeśli dojazd do klienta kosztuje\n1,20 zł/km brutto i jest on liczony w obie strony. Stawka podatku VAT na usługi wynosi 23%.',
-    "image": 'ee08/148.jpg',
+    "image": '/ee08/148.jpg',
     "answers": [{'id': 'A', 'text': '153,20 zł'}, {'id': 'B', 'text': '166,40 zł'}, {'id': 'C', 'text': '195,40 zł'}, {'id': 'D', 'text': '198,60 zł'}],
     "correctAnswer": 'D'
   },
   {
     "id": 149,
     "text": '149. Aby ikony widoczne na przedstawionym obrazie pojawiły się na Pasku zadań, należy w systemie Windows\nskonfigurować',
-    "image": 'ee08/149.jpg',
+    "image": '/ee08/149.jpg',
     "answers": [{'id': 'A', 'text': 'funkcję Snap i Peek.'}, {'id': 'B', 'text': 'funkcję Pokaż pulpit.'}, {'id': 'C', 'text': 'obszar powiadomień.'}, {'id': 'D', 'text': 'obszar Action Center.'}],
     "correctAnswer": 'C'
   },
   {
     "id": 150,
     "text": '150. Po analizie zamieszczonych wyników konfiguracji kart sieciowych zainstalowanych na komputerze można\nstwierdzić, że',
-    "image": 'ee08/150.jpg',
+    "image": '/ee08/150.jpg',
     "answers": [{'id': 'A', 'text': 'karta bezprzewodowa ma nazwę Net11'}, {'id': 'B', 'text': 'wszystkie karty mogą uzyskać adres IP automatycznie.'}, {'id': 'C', 'text': 'karta przewodowa ma adres MAC 8C-70-5A-F3-75-BC'}, {'id': 'D', 'text': 'interfejs Bluetooth ma przydzielony adres IPv4 192.168.0.102'}],
     "correctAnswer": 'B'
   },
@@ -1119,7 +1119,7 @@ export const allQuizData: Question[] = [
   {
     "id": 160,
     "text": '160. Zamieszczony komunikat widoczny po uruchomieniu narzędzia do naprawy systemu Windows może\nświadczyć o',
-    "image": 'ee08/160.jpg',
+    "image": '/ee08/160.jpg',
     "answers": [{'id': 'A', 'text': 'uszkodzeniu sterowników.'}, {'id': 'B', 'text': 'wykryciu nieprawidłowej adresacji IP.'}, {'id': 'C', 'text': 'uszkodzeniu plików startowych systemu.'}, {'id': 'D', 'text': 'konieczności wykonania kopii zapasowej systemu.'}],
     "correctAnswer": 'C'
   },
@@ -1154,7 +1154,7 @@ export const allQuizData: Question[] = [
   {
     "id": 165,
     "text": '165. Przedstawiony symbol, stosowany w dokumentacji technicznej, oznacza',
-    "image": 'ee08/165.jpg',
+    "image": '/ee08/165.jpg',
     "answers": [{'id': 'A', 'text': 'wymóg selektywnej zbiórki sprzętu elektronicznego.'}, {'id': 'B', 'text': 'konieczność utylizacji wszystkich elementów elektrycznych.'}, {'id': 'C', 'text': 'brak możliwości składowania odpadów aluminiowych oraz innych tworzyw metalicznych.'}, {'id': 'D', 'text': 'zielony punkt upoważniający do wniesienia opłaty pieniężnej na rzecz organizacji odzysku\nopakowań.'}],
     "correctAnswer": 'A'
   },
@@ -1203,7 +1203,7 @@ export const allQuizData: Question[] = [
   {
     "id": 172,
     "text": '172. Na którym rysunku przedstawiono topologię sieci typu magistrala?',
-    "image": 'ee08/172.jpg',
+    "image": '/ee08/172.jpg',
     "answers": [{'id': 'A', 'text': 'A'}, {'id': 'B', 'text': 'B'}, {'id': 'C', 'text': 'C'}, {'id': 'D', 'text': 'D'}],
     "correctAnswer": 'B'
   },
@@ -1224,7 +1224,7 @@ export const allQuizData: Question[] = [
   {
     "id": 175,
     "text": '175. Ile domen kolizyjnych i rozgłoszeniowych jest widocznych na schemacie?',
-    "image": 'ee08/175.jpg',
+    "image": '/ee08/175.jpg',
     "answers": [{'id': 'A', 'text': '9 domen kolizyjnych i 1 domena rozgłoszeniowa.'}, {'id': 'B', 'text': '9 domen kolizyjnych i 4 domeny rozgłoszeniowe.'}, {'id': 'C', 'text': '1 domena kolizyjna i 9 domen rozgłoszeniowych.'}, {'id': 'D', 'text': '4 domeny kolizyjne i 9 domen rozgłoszeniowych.'}],
     "correctAnswer": 'B'
   },
@@ -1252,7 +1252,7 @@ export const allQuizData: Question[] = [
   {
     "id": 179,
     "text": '179. Przedstawione na rysunku narzędzie służy do testowania',
-    "image": 'ee08/179.jpg',
+    "image": '/ee08/179.jpg',
     "answers": [{'id': 'A', 'text': 'zasilacza.'}, {'id': 'B', 'text': 'płyty głównej.'}, {'id': 'C', 'text': 'karty sieciowej.'}, {'id': 'D', 'text': 'okablowania LAN.'}],
     "correctAnswer": 'D'
   },
@@ -1308,14 +1308,14 @@ export const allQuizData: Question[] = [
   {
     "id": 187,
     "text": '187. Przedstawione na rysunku urządzenie wraz ze specyfikacją techniczną można wykorzystać do pomiarów\nokablowania',
-    "image": 'ee08/187.jpg',
+    "image": '/ee08/187.jpg',
     "answers": [{'id': 'A', 'text': 'telefonicznego.'}, {'id': 'B', 'text': 'skrętki cat. 5e/6.'}, {'id': 'C', 'text': 'koncentrycznego.'}, {'id': 'D', 'text': 'światłowodowego.'}],
     "correctAnswer": 'D'
   },
   {
     "id": 188,
     "text": '188. Wskaż efekt działania przedstawionego polecenia.',
-    "image": 'ee08/188.jpg',
+    "image": '/ee08/188.jpg',
     "answers": [{'id': 'A', 'text': 'Otwarcie portu 53 dla protokołu TCP.'}, {'id': 'B', 'text': 'Usunięcie z zapory sieciowej reguły o nazwie Open.'}, {'id': 'C', 'text': 'Import ustawienia zapory sieciowej z katalogu in action.'}, {'id': 'D', 'text': 'Blokowanie działania usługi DNS opartej na w protokole TCP.'}],
     "correctAnswer": 'D'
   },
@@ -1350,7 +1350,7 @@ export const allQuizData: Question[] = [
   {
     "id": 193,
     "text": '193. Przedstawione polecenie zostało wydane przez Administratora systemu operacyjnego podczas ręcznej\nkonfiguracji interfejsu sieciowego. Efektem działania tego polecenia jest',
-    "image": 'ee08/193.jpg',
+    "image": '/ee08/193.jpg',
     "answers": [{'id': 'A', 'text': 'włączenie dynamicznego przypisywania adresów IP.'}, {'id': 'B', 'text': 'ustawienie adresu 151.10.0.1 jako bramy domyślnej.'}, {'id': 'C', 'text': 'ustawienie 24 bitowej maski.'}, {'id': 'D', 'text': 'wyłączenie interfejsu.'}],
     "correctAnswer": 'B'
   },
@@ -1406,21 +1406,21 @@ export const allQuizData: Question[] = [
   {
     "id": 201,
     "text": '201. Wskaż rysunek przedstawiający symbol bramki logicznej NOT.',
-    "image": 'ee08/201.jpg',
+    "image": '/ee08/201.jpg',
     "answers": [{'id': 'A', 'text': 'A'}, {'id': 'B', 'text': 'B'}, {'id': 'C', 'text': 'C'}, {'id': 'D', 'text': 'D'}],
     "correctAnswer": 'C'
   },
   {
     "id": 202,
     "text": '202. Obraz przedstawia oznaczenie sygnalizacji świetlnej w dokumentacji technicznej laptopa. Wskaż numer \noznaczający kontrolkę zapalającą się podczas ładowania baterii.',
-    "image": 'ee08/202.jpg',
+    "image": '/ee08/202.jpg',
     "answers": [{'id': 'A', 'text': '2'}, {'id': 'B', 'text': '3'}, {'id': 'C', 'text': '4'}, {'id': 'D', 'text': '5'}],
     "correctAnswer": 'C'
   },
   {
     "id": 203,
     "text": '203. Wskaż poprawną kolejność czynności prowadzących do zamontowania procesora w gnieździe LGA na nowej \npłycie głównej, odłączonej od źródła zasilania.',
-    "image": 'ee08/203.jpg',
+    "image": '/ee08/203.jpg',
     "answers": [{'id': 'A', 'text': '5, 2, 3, 4, 1, 6, 7'}, {'id': 'B', 'text': '5, 6, 1, 7, 2, 3, 4'}, {'id': 'C', 'text': '5, 7, 6, 1, 4, 3, 2'}, {'id': 'D', 'text': '5, 1, 7, 3, 6, 2, 4'}],
     "correctAnswer": 'D'
   },
@@ -1455,14 +1455,14 @@ export const allQuizData: Question[] = [
   {
     "id": 208,
     "text": '208. Cechy której topologii fizycznej sieci zostały opisane w ramce?',
-    "image": 'ee08/208.jpg',
+    "image": '/ee08/208.jpg',
     "answers": [{'id': 'A', 'text': 'Rozgłaszania.'}, {'id': 'B', 'text': 'Magistrali.'}, {'id': 'C', 'text': 'Gwiazdy.'}, {'id': 'D', 'text': 'Siatki.'}],
     "correctAnswer": 'B'
   },
   {
     "id": 209,
     "text": '209. Widoczny na schemacie symbol okablowania oznacza kabel',
-    "image": 'ee08/209.jpg',
+    "image": '/ee08/209.jpg',
     "answers": [{'id': 'A', 'text': 'szeregowy'}, {'id': 'B', 'text': 'światłowodowy'}, {'id': 'C', 'text': 'ethernetowy prosty.'}, {'id': 'D', 'text': 'ethernetowy krosowany.'}],
     "correctAnswer": 'D'
   },
@@ -1504,7 +1504,7 @@ export const allQuizData: Question[] = [
   {
     "id": 215,
     "text": '215. Co należy wpisać w miejscu kropek, aby w systemie Linux zwiększyć domyślny odstęp czasowy między \nkolejnymi transmisjami pakietów przy użyciu polecenia ping?',
-    "image": 'ee08/215.jpg',
+    "image": '/ee08/215.jpg',
     "answers": [{'id': 'A', 'text': '-i 3'}, {'id': 'B', 'text': '-c 9'}, {'id': 'C', 'text': '-a 81'}, {'id': 'D', 'text': '-s 75'}],
     "correctAnswer": 'A'
   },
@@ -1518,7 +1518,7 @@ export const allQuizData: Question[] = [
   {
     "id": 217,
     "text": '217. Aby podłączyć do komputera drukarkę igłową o przedstawionych parametrach, należy kabel dołączony do \ndrukarki zamocować w porcie',
-    "image": 'ee08/217.jpg',
+    "image": '/ee08/217.jpg',
     "answers": [{'id': 'A', 'text': 'USB'}, {'id': 'B', 'text': 'Ethernet'}, {'id': 'C', 'text': 'FireWire'}, {'id': 'D', 'text': 'Centronics'}],
     "correctAnswer": 'D'
   },
@@ -1546,14 +1546,14 @@ export const allQuizData: Question[] = [
   {
     "id": 221,
     "text": '221. Która z czynności jest możliwa do wykonania podczas konfiguracji przełącznika CISCO w interfejsie CLI, bez przechodzenia w tryb uprzywilejowany, na poziomie dostępu widocznym w ramce?',
-    "image": 'ee08/221.jpg',
+    "image": '/ee08/221.jpg',
     "answers": [{'id': 'A', 'text': 'Zmiana nazwy systemowej.'}, {'id': 'B', 'text': 'Wyświetlenie tablicy ARP.'}, {'id': 'C', 'text': 'Określanie haseł dostępu.'}, {'id': 'D', 'text': 'Tworzenie sieci VLAN'}],
     "correctAnswer": 'B'
   },
   {
     "id": 222,
     "text": '222. Aby ukryć identyfikator sieci bezprzewodowej, należy w ruterze zmienić jego konfigurację w polu oznaczonym \nnumerem',
-    "image": 'ee08/222.jpg',
+    "image": '/ee08/222.jpg',
     "answers": [{'id': 'A', 'text': '1'}, {'id': 'B', 'text': '2'}, {'id': 'C', 'text': '3'}, {'id': 'D', 'text': '4'}],
     "correctAnswer": 'B'
   },
@@ -1567,7 +1567,7 @@ export const allQuizData: Question[] = [
   {
     "id": 224,
     "text": '224. Wskaż zestaw służący do diagnostyki logicznych układów elektronicznych znajdujących się na płycie głównej \nkomputera, który nie reaguje na próby włączenia zasilania.',
-    "image": 'ee08/224.jpg',
+    "image": '/ee08/224.jpg',
     "answers": [{'id': 'A', 'text': 'A'}, {'id': 'B', 'text': 'B'}, {'id': 'C', 'text': 'C'}, {'id': 'D', 'text': 'D'}],
     "correctAnswer": 'A'
   },
@@ -1595,7 +1595,7 @@ export const allQuizData: Question[] = [
   {
     "id": 228,
     "text": '228. Przedstawiony wynik działania polecenia systemu Linux służy do diagnostyki',
-    "image": 'ee08/228.jpg',
+    "image": '/ee08/228.jpg',
     "answers": [{'id': 'A', 'text': 'karty graficznej.'}, {'id': 'B', 'text': 'dysku twardego'}, {'id': 'C', 'text': 'karty sieciowe'}, {'id': 'D', 'text': 'pamięci RAM.'}],
     "correctAnswer": 'B'
   },
@@ -1609,7 +1609,7 @@ export const allQuizData: Question[] = [
   {
     "id": 230,
     "text": '230. Wskaż należność brutto za wykonanie wymienionych w tabeli czynności serwisowych, jeśli koszt jednej \nroboczogodziny wynosi 120,00 zł netto, a stawka podatku VAT wynosi 23%.',
-    "image": 'ee08/230.jpg',
+    "image": '/ee08/230.jpg',
     "answers": [{'id': 'A', 'text': '231,00 zł'}, {'id': 'B', 'text': '300,00 zł'}, {'id': 'C', 'text': '369,00 zł'}, {'id': 'D', 'text': '480,00 zł'}],
     "correctAnswer": 'C'
   },
@@ -1623,7 +1623,7 @@ export const allQuizData: Question[] = [
   {
     "id": 232,
     "text": '232. Do sprawdzenia przedstawionej konfiguracji interfejsów sieciowych w systemie Linux użyto polecenia',
-    "image": 'ee08/232.jpg',
+    "image": '/ee08/232.jpg',
     "answers": [{'id': 'A', 'text': 'ping'}, {'id': 'B', 'text': 'ip route'}, {'id': 'C', 'text': 'ifconfig'}, {'id': 'D', 'text': 'ip addr down'}],
     "correctAnswer": 'C'
   },
@@ -1714,14 +1714,14 @@ export const allQuizData: Question[] = [
   {
     "id": 245,
     "text": '245. Na rysunku jest przedstawiona karta',
-    "image": 'ee08/245.jpg',
+    "image": '/ee08/245.jpg',
     "answers": [{'id': 'A', 'text': 'kontrolera RAID'}, {'id': 'B', 'text': 'kontrolera SCSII'}, {'id': 'C', 'text': 'sieciowa Token Ring'}, {'id': 'D', 'text': 'sieciowa Fibre Channel'}],
     "correctAnswer": 'D'
   },
   {
     "id": 246,
     "text": '246. Za pomocą programu Acrylic Wi-Fi Home wykonano test, którego wyniki przedstawiono na zrzucie. Co można stwierdzić na jego podstawie o dostępnej sieci bezprzewodowej?',
-    "image": 'ee08/246.jpg',
+    "image": '/ee08/246.jpg',
     "answers": [{'id': 'A', 'text': 'Sieć bezprzewodowa jest nieszyfrowana.'}, {'id': 'B', 'text': 'Sieć bezprzewodowa korzysta z kanałów 10 ÷ 12.'}, {'id': 'C', 'text': 'Sieć bezprzewodowa ma bardzo dobrą jakość sygnału.'}, {'id': 'D', 'text': 'Sieć bezprzewodowa osiąga maksymalną szybkość transferu 72 Mbps.'}],
     "correctAnswer": 'A'
   },
@@ -1798,7 +1798,7 @@ export const allQuizData: Question[] = [
   {
     "id": 257,
     "text": '257. W przedstawionej tabeli kompatybilne podzespoły są oznaczone numerami',
-    "image": 'ee08/257.jpg',
+    "image": '/ee08/257.jpg',
     "answers": [{'id': 'A', 'text': '1, 3 i 5'}, {'id': 'B', 'text': '1, 4 i 6'}, {'id': 'C', 'text': '2, 4 i 5'}, {'id': 'D', 'text': '2, 4 i 6'}],
     "correctAnswer": 'C'
   },
@@ -1819,7 +1819,7 @@ export const allQuizData: Question[] = [
   {
     "id": 260,
     "text": '260. Na podstawie tabeli wskaż prawidłową kolejność etapów wykonania szkolnej sieci komputerowej.',
-    "image": 'ee08/260.jpg',
+    "image": '/ee08/260.jpg',
     "answers": [{'id': 'A', 'text': '1, 2, 4, 5, 3, 6'}, {'id': 'B', 'text': '1, 3, 2, 4, 5, 6'}, {'id': 'C', 'text': '1, 5, 4, 2, 3, 6'}, {'id': 'D', 'text': '1, 5, 2, 3, 4, 6'}],
     "correctAnswer": 'C'
   },
@@ -1840,7 +1840,7 @@ export const allQuizData: Question[] = [
   {
     "id": 263,
     "text": '263. Które ze zdań jest prawdziwe dla przedstawionej konfiguracji usługi DHCP w systemie Linux?',
-    "image": 'ee08/263.jpg',
+    "image": '/ee08/263.jpg',
     "answers": [{'id': 'A', 'text': 'Adres IP 176.16.20.0 jest zamieniany na nazwę main.'}, {'id': 'B', 'text': 'Karcie sieciowej komputera main przypisany jest adres IP 39:12:86:07:55:00.'}, {'id': 'C', 'text': 'Komputerom są przydzielane adresy IP z zakresu 176.16.20.50 ÷ 176.16.20.250.'}, {'id': 'D', 'text': 'Komputerom są przydzielane adresy IP z zakresu 176.16.20.251 ÷ 255.255.255.0.'}],
     "correctAnswer": 'C'
   },
@@ -1854,14 +1854,14 @@ export const allQuizData: Question[] = [
   {
     "id": 265,
     "text": '265. Zgodnie z tabelą z dokumentacji technicznej gry komputerowej wymagana wielkość pliku wymiany wynosi',
-    "image": 'ee08/265.jpg',
+    "image": '/ee08/265.jpg',
     "answers": [{'id': 'A', 'text': '1 GB'}, {'id': 'B', 'text': '2 GB'}, {'id': 'C', 'text': '8 GB'}, {'id': 'D', 'text': '256 MB'}],
     "correctAnswer": 'A'
   },
   {
     "id": 266,
     "text": '266. Po wydaniu przedstawionego polecenia systemu Windows, wartość 11 zostanie ustawiona dla',
-    "image": 'ee08/266.jpg',
+    "image": '/ee08/266.jpg',
     "answers": [{'id': 'A', 'text': 'maksymalnej liczby dni ważności konta.'}, {'id': 'B', 'text': 'minimalnej liczby znaków w hasłach użytkowników.'}, {'id': 'C', 'text': 'maksymalnej liczby dni między zmianami haseł użytkowników.'}, {'id': 'D', 'text': 'minimalnej liczby minut, przez które użytkownik może być zalogowany.'}],
     "correctAnswer": 'B'
   },
@@ -1875,7 +1875,7 @@ export const allQuizData: Question[] = [
   {
     "id": 268,
     "text": '268. Na rysunku przedstawiono konfigurację urządzenia, z której wynika, że',
-    "image": 'ee08/268.jpg',
+    "image": '/ee08/268.jpg',
     "answers": [{'id': 'A', 'text': 'utworzono dwa nowe VLANy: ID13, ID48'}, {'id': 'B', 'text': 'do VLANu z ID48 przypisano wszystkie porty'}, {'id': 'C', 'text': 'utworzono trzy nowe VLANy: ID1, ID13, ID48'}, {'id': 'D', 'text': 'VLAN z ID48 jest skonfigurowany jako zarządzalny'}],
     "correctAnswer": 'A'
   },
@@ -1889,14 +1889,14 @@ export const allQuizData: Question[] = [
   {
     "id": 270,
     "text": '270. Na rysunku przedstawiono zakończenie kabla',
-    "image": 'ee08/270.jpg',
+    "image": '/ee08/270.jpg',
     "answers": [{'id': 'A', 'text': 'typu skrętka.'}, {'id': 'B', 'text': 'telefonicznego'}, {'id': 'C', 'text': 'koncentrycznego'}, {'id': 'D', 'text': 'światłowodowego'}],
     "correctAnswer": 'D'
   },
   {
     "id": 271,
     "text": '271. Drukarka, której schemat przedstawiono na rysunku, ma nierównomiernie podawany toner na bęben. W tym przypadku należy wymienić wałek magnetyczny, oznaczony cyfrą',
-    "image": 'ee08/271.jpg',
+    "image": '/ee08/271.jpg',
     "answers": [{'id': 'A', 'text': '1'}, {'id': 'B', 'text': '2'}, {'id': 'C', 'text': '3'}, {'id': 'D', 'text': '4'}],
     "correctAnswer": 'B'
   },
@@ -1910,7 +1910,7 @@ export const allQuizData: Question[] = [
   {
     "id": 273,
     "text": '273. Złącze uniwersalne: 2,5 mm / 125 mm\nDługość fali: 850 kalibrowane, 1300, 1310, 1490, 1550 nm\nWyświetlacz 4-cyfrowy umożliwia precyzyjne pomiary w dBm, dB, i UW\nIntuicyjna obsługa 2-przyciskowa\nZakres pomiarowy: od +5 do -60 dBm\nDokładność: +/- 0,15 dB\nRozdzielczość: 0,01 dBm\nLiniowość: +/- 0,20 dB\nUrządzenie przedstawione na rysunku wraz ze specyfikacją techniczną można wykorzystać do pomiarów okablowania',
-    "image": 'ee08/273.jpg',
+    "image": '/ee08/273.jpg',
     "answers": [{'id': 'A', 'text': 'telefonicznego.'}, {'id': 'B', 'text': 'skrętki kat. 5e/6.'}, {'id': 'C', 'text': 'koncentrycznego.'}, {'id': 'D', 'text': 'światłowodowego.'}],
     "correctAnswer": 'D'
   },
@@ -1931,7 +1931,7 @@ export const allQuizData: Question[] = [
   {
     "id": 276,
     "text": '276. Rysunek przedstawia panel konfiguracyjny bezprzewodowego urządzenia dostępowego, który umożliwia',
-    "image": 'ee08/276.jpg',
+    "image": '/ee08/276.jpg',
     "answers": [{'id': 'A', 'text': 'nadanie nazwy hosta.'}, {'id': 'B', 'text': 'przypisanie maski podsieci.'}, {'id': 'C', 'text': 'konfigurację serwera DHCP.'}, {'id': 'D', 'text': 'przypisanie adresów MAC kart sieciowych.'}],
     "correctAnswer": 'C'
   },
@@ -1945,7 +1945,7 @@ export const allQuizData: Question[] = [
   {
     "id": 278,
     "text": '278. Przedstawione na rysunku urządzenie służy do',
-    "image": 'ee08/278.jpg',
+    "image": '/ee08/278.jpg',
     "answers": [{'id': 'A', 'text': 'przechwytywania i nagrywania pakietów danych w sieciach komputerowych.'}, {'id': 'B', 'text': 'zamiany sygnału pochodzącego z okablowania miedzianego na sygnał optyczny.'}, {'id': 'C', 'text': 'przekazywania ramki między segmentami sieci z doborem portu, na który jest przekazywana.'}, {'id': 'D', 'text': 'wytworzenia sygnału dla kabla koncentrycznego, wykorzystując wzmocniony sygnał ze skrętki.'}],
     "correctAnswer": 'B'
   },
@@ -1959,7 +1959,7 @@ export const allQuizData: Question[] = [
   {
     "id": 280,
     "text": '280. Który typ fizycznej topologii sieci komputerowej przedstawiono na rysunku?',
-    "image": 'ee08/280.jpg',
+    "image": '/ee08/280.jpg',
     "answers": [{'id': 'A', 'text': 'Siatki.'}, {'id': 'B', 'text': 'Gwiazdy.'}, {'id': 'C', 'text': 'Magistrali.'}, {'id': 'D', 'text': 'Pierścienia.'}],
     "correctAnswer": 'A'
   },
@@ -1987,7 +1987,7 @@ export const allQuizData: Question[] = [
   {
     "id": 284,
     "text": '284. Na podstawie przedstawionej na ilustracji konfiguracji kart sieciowych można stwierdzić, że',
-    "image": 'ee08/284.jpg',
+    "image": '/ee08/284.jpg',
     "answers": [{'id': 'A', 'text': 'karta bezprzewodowa ma nazwę Net11'}, {'id': 'B', 'text': 'karta przewodowa ma adres MAC 8C-70-5A-F3-75-BC'}, {'id': 'C', 'text': 'wszystkie karty uzyskują adresy poprzez protokół DHCP'}, {'id': 'D', 'text': 'interfejs Bluetooth ma przydzielony adres IPv4 192.168.0.102'}],
     "correctAnswer": 'C'
   },
@@ -2008,7 +2008,7 @@ export const allQuizData: Question[] = [
   {
     "id": 287,
     "text": '287. Przedstawiony schemat obrazuje zasadę działania skanera',
-    "image": 'ee08/287.jpg',
+    "image": '/ee08/287.jpg',
     "answers": [{'id': 'A', 'text': '2D'}, {'id': 'B', 'text': '3D'}, {'id': 'C', 'text': 'ręcznego'}, {'id': 'D', 'text': 'płaskiego'}],
     "correctAnswer": 'B'
   },
@@ -2029,14 +2029,14 @@ export const allQuizData: Question[] = [
   {
     "id": 290,
     "text": '290. Aby uzyskać maksymalną wydajność obliczeniową komputera, którego płyta główna jest przedstawiona na ilustracji, zaleca się',
-    "image": 'ee08/290.jpg',
+    "image": '/ee08/290.jpg',
     "answers": [{'id': 'A', 'text': 'zastosowanie dysku SAS.'}, {'id': 'B', 'text': 'zastosowanie kontrolera RAID.'}, {'id': 'C', 'text': 'zainstalowanie dwóch procesorów.'}, {'id': 'D', 'text': 'zainstalowanie pamięci RAM we wszystkich gniazdach.'}],
     "correctAnswer": 'C'
   },
   {
     "id": 291,
     "text": '291. Który port na przedstawionej płycie głównej umożliwia podłączenie zewnętrznego dysku poprzez interfejs e-SATA?',
-    "image": 'ee08/291.jpg',
+    "image": '/ee08/291.jpg',
     "answers": [{'id': 'A', 'text': '1'}, {'id': 'B', 'text': '2'}, {'id': 'C', 'text': '3'}, {'id': 'D', 'text': '4'}],
     "correctAnswer": 'B'
   },
@@ -2050,21 +2050,21 @@ export const allQuizData: Question[] = [
   {
     "id": 293,
     "text": '293. Na podstawie instrukcji przełącznika wskaż, która z opcji menu przywraca ustawienia fabryczne.',
-    "image": 'ee08/293.jpg',
+    "image": '/ee08/293.jpg',
     "answers": [{'id': 'A', 'text': 'Reset System'}, {'id': 'B', 'text': 'Reboot Device'}, {'id': 'C', 'text': 'Firmware Upgrade'}, {'id': 'D', 'text': 'Save Configuration'}],
     "correctAnswer": 'A'
   },
   {
     "id": 294,
     "text": '294. Do podłączenia dysku wyposażonego w interfejs SAS należy zastosować',
-    "image": 'ee08/294.jpg',
+    "image": '/ee08/294.jpg',
     "answers": [{'id': 'A', 'text': 'złącze 1'}, {'id': 'B', 'text': 'złącze 2'}, {'id': 'C', 'text': 'złącze 3'}, {'id': 'D', 'text': 'złącze 4'}],
     "correctAnswer": 'D'
   },
   {
     "id": 295,
     "text": '295. Przedstawione na ilustracji urządzenie można wykorzystać do pomiarów okablowania',
-    "image": 'ee08/295.jpg',
+    "image": '/ee08/295.jpg',
     "answers": [{'id': 'A', 'text': 'koncentrycznego'}, {'id': 'B', 'text': 'światłowodowego'}, {'id': 'C', 'text': 'skrętki kategorii 5e/6'}, {'id': 'D', 'text': 'telefonicznego kategorii 3'}],
     "correctAnswer": 'B'
   },
@@ -2092,21 +2092,21 @@ export const allQuizData: Question[] = [
   {
     "id": 299,
     "text": '299. Jedną z przyczyn pokazanego na ilustracji problemu z wydrukiem z drukarki laserowej może być',
-    "image": 'ee08/299.jpg',
+    "image": '/ee08/299.jpg',
     "answers": [{'id': 'A', 'text': 'brak tonera w kasecie'}, {'id': 'B', 'text': 'uszkodzony podajnik papieru'}, {'id': 'C', 'text': 'uszkodzony bęben światłoczuły'}, {'id': 'D', 'text': 'zaschnięty tusz na głowicy drukującej'}],
     "correctAnswer": 'C'
   },
   {
     "id": 300,
     "text": '300. Przedstawiony opis dotyczy',
-    "image": 'ee08/300.jpg',
+    "image": '/ee08/300.jpg',
     "answers": [{'id': 'A', 'text': 'podłączenia zasilacza awaryjnego'}, {'id': 'B', 'text': 'montażu procesora na płycie głównej'}, {'id': 'C', 'text': 'podłączania zasilania do płyty głównej'}, {'id': 'D', 'text': 'procedury wymiany radiatora z wentylatorem'}],
     "correctAnswer": 'C'
   },
   {
     "id": 301,
     "text": '301. Na którym rysunku przedstawiono topologię sieci typu rozszerzona gwiazda?',
-    "image": 'ee08/301.jpg',
+    "image": '/ee08/301.jpg',
     "answers": [{'id': 'A', 'text': 'Na rysunku 1'}, {'id': 'B', 'text': 'Na rysunku 2'}, {'id': 'C', 'text': 'Na rysunku 3'}, {'id': 'D', 'text': 'Na rysunku 4'}],
     "correctAnswer": 'D'
   },
@@ -2127,7 +2127,7 @@ export const allQuizData: Question[] = [
   {
     "id": 304,
     "text": '304. Co stanie się w wyniku wykonania przedstawionego skryptu?',
-    "image": 'ee08/304.jpg',
+    "image": '/ee08/304.jpg',
     "answers": [{'id': 'A', 'text': 'Zostanie wpisany tekst "ola.txt" do pliku ala.txt'}, {'id': 'B', 'text': 'Zostanie wpisany tekst "ala.txt" do pliku ola.txt'}, {'id': 'C', 'text': 'Zawartość pliku ola.txt zostanie skopiowana do pliku ala.txt'}, {'id': 'D', 'text': 'Zawartość pliku ala.txt zostanie skopiowana do pliku ola.txt'}],
     "correctAnswer": 'A'
   },
@@ -2148,7 +2148,7 @@ export const allQuizData: Question[] = [
   {
     "id": 307,
     "text": '307. Które urządzenie jest przedstawione na ilustracji?',
-    "image": 'ee08/307.jpg',
+    "image": '/ee08/307.jpg',
     "answers": [{'id': 'A', 'text': 'przełącznik'}, {'id': 'B', 'text': 'koncentrator'}, {'id': 'C', 'text': 'zasilacz PoE'}, {'id': 'D', 'text': 'punkt dostępowy'}],
     "correctAnswer": 'D'
   },
@@ -2246,7 +2246,7 @@ export const allQuizData: Question[] = [
   {
     "id": 321,
     "text": '321. Który symbol oznacza przełącznik?',
-    "image": 'ee08/321.jpg',
+    "image": '/ee08/321.jpg',
     "answers": [{'id': 'A', 'text': 'symbol 1'}, {'id': 'B', 'text': 'symbol 2'}, {'id': 'C', 'text': 'symbol 3'}, {'id': 'D', 'text': 'symbol 4'}],
     "correctAnswer": 'D'
   },
@@ -2260,14 +2260,14 @@ export const allQuizData: Question[] = [
   {
     "id": 323,
     "text": '323. Wskaż polecenie, którego wynik przedstawiono na rysunku.',
-    "image": 'ee08/323.jpg',
+    "image": '/ee08/323.jpg',
     "answers": [{'id': 'A', 'text': 'arp'}, {'id': 'B', 'text': 'route'}, {'id': 'C', 'text': 'tracert'}, {'id': 'D', 'text': 'netstat'}],
     "correctAnswer": 'D'
   },
   {
     "id": 324,
     "text": '324. Wskaż materiał eksploatacyjny typowy dla drukarek żelowych.',
-    "image": 'ee08/324.jpg',
+    "image": '/ee08/324.jpg',
     "answers": [{'id': 'A', 'text': 'materiał 1'}, {'id': 'B', 'text': 'materiał 2'}, {'id': 'C', 'text': 'materiał 3'}, {'id': 'D', 'text': 'materiał 4'}],
     "correctAnswer": 'C'
   },
@@ -2330,7 +2330,7 @@ export const allQuizData: Question[] = [
   {
     "id": 333,
     "text": '333. Na przedstawionym schemacie blokowym element płyty głównej odpowiedzialny za wymianę danych między\nmikroprocesorem a pamięcią operacyjną RAM oraz magistralą karty graficznej jest na rysunku oznaczony\nnumerem',
-    "image": 'ee08/333.jpg',
+    "image": '/ee08/333.jpg',
     "answers": [{'id': 'A', 'text': '6'}, {'id': 'B', 'text': '5'}, {'id': 'C', 'text': '4'}, {'id': 'D', 'text': '3'}],
     "correctAnswer": 'A'
   },
@@ -2344,21 +2344,21 @@ export const allQuizData: Question[] = [
   {
     "id": 335,
     "text": '335. Do którego rodzaju wtyków jest stosowana przedstawiona na rysunku zaciskarka?',
-    "image": 'ee08/335.jpg',
+    "image": '/ee08/335.jpg',
     "answers": [{'id': 'A', 'text': 'BNC'}, {'id': 'B', 'text': '8P8C'}, {'id': 'C', 'text': '6P2C'}, {'id': 'D', 'text': 'SC/APC'}],
     "correctAnswer": 'A'
   },
   {
     "id": 336,
     "text": '336. Na rysunkach technicznych instalacji sieci komputerowej wraz z dedykowaną jej instalacją elektryczną\nsymbolem przedstawionym na rysunku oznacza się gniazdo',
-    "image": 'ee08/336.jpg',
+    "image": '/ee08/336.jpg',
     "answers": [{'id': 'A', 'text': 'telefoniczne'}, {'id': 'B', 'text': 'ethernetowe'}, {'id': 'C', 'text': 'elektryczne bez styku ochronnego'}, {'id': 'D', 'text': 'elektryczne ze stykiem ochronnym'}],
     "correctAnswer": 'D'
   },
   {
     "id": 337,
     "text": '337. Wskaż typ złącza przedstawionej karty graficznej.',
-    "image": 'ee08/337.jpg',
+    "image": '/ee08/337.jpg',
     "answers": [{'id': 'A', 'text': 'AGP x2'}, {'id': 'B', 'text': 'AGP x8'}, {'id': 'C', 'text': 'PCI-E x4'}, {'id': 'D', 'text': 'PCI-E x16'}],
     "correctAnswer": 'D'
   },
@@ -2386,7 +2386,7 @@ export const allQuizData: Question[] = [
   {
     "id": 341,
     "text": '341. Analiza wyświetlonych przez program danych, pozwala stwierdzić, że',
-    "image": 'ee08/341.jpg',
+    "image": '/ee08/341.jpg',
     "answers": [{'id': 'A', 'text': 'jeden dysk twardy został podzielony na 6 partycji podstawowych'}, {'id': 'B', 'text': 'zamontowano trzy dyski twarde oznaczone sda1, sda2 oraz sda3'}, {'id': 'C', 'text': 'partycja rozszerzona ma wielkość 24,79 GiB'}, {'id': 'D', 'text': 'partycja wymiany zajmuje 2 GiB'}],
     "correctAnswer": 'D'
   },
@@ -2421,14 +2421,14 @@ export const allQuizData: Question[] = [
   {
     "id": 346,
     "text": '346. Aby uruchomić przedstawione narzędzie systemu Windows 10, należy w interpreterze poleceń użyć',
-    "image": 'ee08/346.jpg',
+    "image": '/ee08/346.jpg',
     "answers": [{'id': 'A', 'text': 'control userpasswords2'}, {'id': 'B', 'text': 'show userpasswords'}, {'id': 'C', 'text': 'net localgroup'}, {'id': 'D', 'text': 'net users'}],
     "correctAnswer": 'A'
   },
   {
     "id": 347,
     "text": '347. Które słowo kluczowe należy wpisać w miejsce kropek, aby udostępnić folder Dane pod nazwą test?',
-    "image": 'ee08/347.jpg',
+    "image": '/ee08/347.jpg',
     "answers": [{'id': 'A', 'text': 'use'}, {'id': 'B', 'text': 'view'}, {'id': 'C', 'text': 'share'}, {'id': 'D', 'text': 'connect'}],
     "correctAnswer": 'C'
   },
@@ -2477,7 +2477,7 @@ export const allQuizData: Question[] = [
   {
     "id": 354,
     "text": '354. Na podstawie dokumentacji technicznej procesora wskaż liczbę jego wątków',
-    "image": 'ee08/354.jpg',
+    "image": '/ee08/354.jpg',
     "answers": [{'id': 'A', 'text': '6'}, {'id': 'B', 'text': '12'}, {'id': 'C', 'text': '16'}, {'id': 'D', 'text': '24'}],
     "correctAnswer": 'D'
   },
@@ -2498,7 +2498,7 @@ export const allQuizData: Question[] = [
   {
     "id": 357,
     "text": '357. Na rysunku przedstawiono narzędzie do',
-    "image": 'ee08/357.jpg',
+    "image": '/ee08/357.jpg',
     "answers": [{'id': 'A', 'text': 'zaciskania złącz BNC'}, {'id': 'B', 'text': 'zaciskania złącz 8P8C'}, {'id': 'C', 'text': 'zdejmowania izolacji z kabli'}, {'id': 'D', 'text': 'montażu okablowania w gnieździe sieciowym'}],
     "correctAnswer": 'C'
   },
@@ -2519,14 +2519,14 @@ export const allQuizData: Question[] = [
   {
     "id": 360,
     "text": '360. Na obrazie przedstawiono konfigurację urządzenia. Do których portów należy podłączyć serwer o adresie\nIP 192.168.20.254/24 oraz stację roboczą o adresie IP 192.168.20.10/24, aby zapewnić komunikację tych\nurządzeń w sieci?',
-    "image": 'ee08/360.jpg',
+    "image": '/ee08/360.jpg',
     "answers": [{'id': 'A', 'text': 'Do portów 1 i 2'}, {'id': 'B', 'text': 'Do portów 2 i 3'}, {'id': 'C', 'text': 'Do portów 1 i 3'}, {'id': 'D', 'text': 'Do portów 3 i 4'}],
     "correctAnswer": 'C'
   },
   {
     "id": 361,
     "text": '361. Przedstawione polecenia, uruchomione w interfejsie CLI rutera CISCO, spowodują',
-    "image": 'ee08/361.jpg',
+    "image": '/ee08/361.jpg',
     "answers": [{'id': 'A', 'text': 'dopuszczenie ruchu pochodzącego z sieci o adresie 10.0.0.1'}, {'id': 'B', 'text': 'określenie puli adresów wewnętrznych 10.0.0.1 ÷ 255.255.255.0'}, {'id': 'C', 'text': 'ustawienie interfejsu zewnętrznego o adresie 10.0.0.1/24 dla technologii NAT'}, {'id': 'D', 'text': 'ustawienie interfejsu wewnętrznego o adresie 10.0.0.1/24 dla technologii NAT'}],
     "correctAnswer": 'D'
   },
@@ -2603,7 +2603,7 @@ export const allQuizData: Question[] = [
   {
     "id": 372,
     "text": '372. Które słowo kluczowe należy wpisać w miejsce kropek, aby udostępnić folder Dane pod nazwą test?',
-    "image": 'ee08/373.jpg',
+    "image": '/ee08/373.jpg',
     "answers": [{'id': 'A', 'text': 'use'}, {'id': 'B', 'text': 'view'}, {'id': 'C', 'text': 'share'}, {'id': 'D', 'text': 'connect'}],
     "correctAnswer": 'C'
   },
@@ -2624,7 +2624,7 @@ export const allQuizData: Question[] = [
   {
     "id": 375,
     "text": '375. Na fotografii przedstawiono',
-    "image": 'ee08/375.jpg',
+    "image": '/ee08/375.jpg',
     "answers": [{'id': 'A', 'text': 'tusz'}, {'id': 'B', 'text': 'toner'}, {'id': 'C', 'text': 'kartridż'}, {'id': 'D', 'text': 'taśmę barwiącą'}],
     "correctAnswer": 'D'
   },
@@ -2645,7 +2645,7 @@ export const allQuizData: Question[] = [
   {
     "id": 378,
     "text": '378. Wskaż polecenie, którego wynik przedstawiono na rysunku',
-    "image": 'ee08/378.jpg',
+    "image": '/ee08/378.jpg',
     "answers": [{'id': 'A', 'text': 'arp'}, {'id': 'B', 'text': 'route'}, {'id': 'C', 'text': 'tracert'}, {'id': 'D', 'text': 'netstat'}],
     "correctAnswer": 'D'
   },
@@ -2659,7 +2659,7 @@ export const allQuizData: Question[] = [
   {
     "id": 380,
     "text": '380. Na rysunku przedstawiono przekrój kabla',
-    "image": 'ee08/380.jpg',
+    "image": '/ee08/380.jpg',
     "answers": [{'id': 'A', 'text': 'S/UTP'}, {'id': 'B', 'text': 'U/UTP'}, {'id': 'C', 'text': 'optycznego'}, {'id': 'D', 'text': 'koncentrycznego'}],
     "correctAnswer": 'D'
   },
@@ -2673,21 +2673,21 @@ export const allQuizData: Question[] = [
   {
     "id": 382,
     "text": '382. Na obrazie przedstawiono tylny panel stacji roboczej. Strzałką oznaczono port',
-    "image": 'ee08/382.jpg',
+    "image": '/ee08/382.jpg',
     "answers": [{'id': 'A', 'text': 'HDMI'}, {'id': 'B', 'text': 'eSATA'}, {'id': 'C', 'text': 'USB 3.0'}, {'id': 'D', 'text': 'DisplayPort'}],
     "correctAnswer": 'D'
   },
   {
     "id": 383,
     "text": '383. Na fotografii przedstawiono',
-    "image": 'ee08/383.jpg',
+    "image": '/ee08/383.jpg',
     "answers": [{'id': 'A', 'text': 'reflektometr'}, {'id': 'B', 'text': 'tester sieciowy'}, {'id': 'C', 'text': 'zaciskarkę do tulejek'}, {'id': 'D', 'text': 'zaciskarkę wtyków 8P8C'}],
     "correctAnswer": 'D'
   },
   {
     "id": 384,
     "text": '384. Przedstawiony fragment konfiguracji zapory sieciowej zezwala na ruch sieciowy z wykorzystaniem\ndomyślnych portów protokołów',
-    "image": 'ee08/384.jpg',
+    "image": '/ee08/384.jpg',
     "answers": [{'id': 'A', 'text': 'FTP, SSH'}, {'id': 'B', 'text': 'POP3, TFTP'}, {'id': 'C', 'text': 'HTTP, SMPT'}, {'id': 'D', 'text': 'HTTPS, IMAP'}],
     "correctAnswer": 'D'
   },
@@ -2708,7 +2708,7 @@ export const allQuizData: Question[] = [
   {
     "id": 387,
     "text": '387. Na schemacie przedstawiono topologię sieci',
-    "image": 'ee08/387.jpg',
+    "image": '/ee08/387.jpg',
     "answers": [{'id': 'A', 'text': 'bus'}, {'id': 'B', 'text': 'star'}, {'id': 'C', 'text': 'ring'}, {'id': 'D', 'text': 'mesh'}],
     "correctAnswer": 'D'
   },
@@ -2750,7 +2750,7 @@ export const allQuizData: Question[] = [
   {
     "id": 393,
     "text": '393. Na podstawie dokumentacji technicznej procesora wskaż liczbę jego wątków',
-    "image": 'ee08/393.jpg',
+    "image": '/ee08/393.jpg',
     "answers": [{'id': 'A', 'text': '6'}, {'id': 'B', 'text': '12'}, {'id': 'C', 'text': '16'}, {'id': 'D', 'text': '24'}],
     "correctAnswer": 'D'
   },
@@ -2785,7 +2785,7 @@ export const allQuizData: Question[] = [
   {
     "id": 398,
     "text": '398. Wynik działania polecenia ls -l użytego w systemie Linux jest przedstawiony na',
-    "image": 'ee08/398.jpg',
+    "image": '/ee08/398.jpg',
     "answers": [{'id': 'A', 'text': 'wyniku 1.'}, {'id': 'B', 'text': 'wyniku 2.'}, {'id': 'C', 'text': 'wyniku 3.'}, {'id': 'D', 'text': 'wyniku 4.'}],
     "correctAnswer": 'D'
   },
@@ -2813,14 +2813,14 @@ export const allQuizData: Question[] = [
   {
     "id": 402,
     "text": '402. Na ilustracji jest przedstawione okno konfiguracji urządzenia dostępu do lokalnej sieci bezprzewodowej. Aby\nzmienić identyfikator sieci wykorzystywany podczas próby nawiązywania połączenia z punktem dostępowym,\nnależy użyć pole oznaczone numerem',
-    "image": 'ee08/402.jpg',
+    "image": '/ee08/402.jpg',
     "answers": [{'id': 'A', 'text': '1'}, {'id': 'B', 'text': '2'}, {'id': 'C', 'text': '3'}, {'id': 'D', 'text': '4'}],
     "correctAnswer": 'A'
   },
   {
     "id": 403,
     "text": '403. Na podstawie ilustracji przedstawiającej okno konfiguracji przełącznika można stwierdzić, że',
-    "image": 'ee08/403.jpg',
+    "image": '/ee08/403.jpg',
     "answers": [{'id': 'A', 'text': 'czas między wysyłaniem kolejnych komunikatów o poprawnej pracy urządzenia wynosi 3 sekundy'}, {'id': 'B', 'text': 'maksymalny czas krążenia w sieci komunikatów protokołu BPDU wynosi 20 sekund'}, {'id': 'C', 'text': 'minimalny czas krążenia w sieci komunikatów protokołu BPDU wynosi 25 sekund'}, {'id': 'D', 'text': 'maksymalny czas pomiędzy zmianami statusu łącza wynosi 5 sekund'}],
     "correctAnswer": 'A'
   },
@@ -2869,14 +2869,14 @@ export const allQuizData: Question[] = [
   {
     "id": 410,
     "text": '410. Użycie przedstawionego w ramce polecenia w systemie Linux spowoduje',
-    "image": 'ee08/410.jpg',
+    "image": '/ee08/410.jpg',
     "answers": [{'id': 'A', 'text': 'skopiowanie pliku dane.tar do katalogu /home'}, {'id': 'B', 'text': 'wyświetlenie informacji o zawartości pliku dane.tar'}, {'id': 'C', 'text': 'wyodrębnienie danych z archiwum o nazwie dane.tar'}, {'id': 'D', 'text': 'utworzenie archiwum dane.tar zawierające kopię katalogu /home'}],
     "correctAnswer": 'C'
   },
   {
     "id": 411,
     "text": '411. Na ilustracji jest przedstawiony',
-    "image": 'ee08/411.jpg',
+    "image": '/ee08/411.jpg',
     "answers": [{'id': 'A', 'text': 'ruter.'}, {'id': 'B', 'text': 'przełącznik.'}, {'id': 'C', 'text': 'koncentrator.'}, {'id': 'D', 'text': 'panel krosowy.'}],
     "correctAnswer": 'D'
   },
@@ -2890,21 +2890,21 @@ export const allQuizData: Question[] = [
   {
     "id": 413,
     "text": '413. Oznaczenie przedstawionego procesora informuje o',
-    "image": 'ee08/413.jpg',
+    "image": '/ee08/413.jpg',
     "answers": [{'id': 'A', 'text': 'jego małej obudowie.'}, {'id': 'B', 'text': 'wersji mobilnej procesora.'}, {'id': 'C', 'text': 'braku blokady mnożnika (unlocked).'}, {'id': 'D', 'text': 'bardzo niskim zużyciu energii przez procesor.'}],
     "correctAnswer": 'C'
   },
   {
     "id": 414,
     "text": '414. Na ilustracji przedstawiono',
-    "image": 'ee08/414.jpg',
+    "image": '/ee08/414.jpg',
     "answers": [{'id': 'A', 'text': 'impulsator.'}, {'id': 'B', 'text': 'sondę logiczną.'}, {'id': 'C', 'text': 'czujnik temperatury.'}, {'id': 'D', 'text': 'tester płyt głównych.'}],
     "correctAnswer": 'D'
   },
   {
     "id": 415,
     "text": '415. Podczas podłączenia sprawnego monitora do innego komputera jest wyświetlany komunikat przedstawiony \nna ilustracji. Pojawienie się komunikatu jest spowodowane',
-    "image": 'ee08/415.jpg',
+    "image": '/ee08/415.jpg',
     "answers": [{'id': 'A', 'text': 'wyłączeniem komputera.'}, {'id': 'B', 'text': 'zbyt wysoko ustawioną ostrością obrazu.'}, {'id': 'C', 'text': 'uszkodzeniem monitora podczas podłączania.'}, {'id': 'D', 'text': 'zbyt wysoką lub zbyt niską częstotliwością sygnału.'}],
     "correctAnswer": 'D'
   },
@@ -2932,7 +2932,7 @@ export const allQuizData: Question[] = [
   {
     "id": 419,
     "text": '419. W tabeli przedstawiono parametry zestawu komputerowego. Ponieważ jego karta graficzna uległa \nuszkodzeniu, należy ją wymienić na kartę graficzną o parametrach przedstawionych w ramce. W związku \nz tym modernizacja tego komputera wymaga również wymiany',
-    "image": 'ee08/419.jpg',
+    "image": '/ee08/419.jpg',
     "answers": [{'id': 'A', 'text': 'karty sieciowej'}, {'id': 'B', 'text': 'płyty głównej'}, {'id': 'C', 'text': 'procesora'}, {'id': 'D', 'text': 'zasilacza'}],
     "correctAnswer": 'D'
   },
@@ -2946,7 +2946,7 @@ export const allQuizData: Question[] = [
   {
     "id": 421,
     "text": '421. Na ilustracji jest przedstawiona konfiguracja',
-    "image": 'ee08/421.jpg',
+    "image": '/ee08/421.jpg',
     "answers": [{'id': 'A', 'text': 'wirtualnych sieci.'}, {'id': 'B', 'text': 'sieci bezprzewodowej.'}, {'id': 'C', 'text': 'przekierowania portów.'}, {'id': 'D', 'text': 'rezerwacji adresów MAC.'}],
     "correctAnswer": 'A'
   },
@@ -2967,14 +2967,14 @@ export const allQuizData: Question[] = [
   {
     "id": 424,
     "text": '424. Na ilustracji jest przedstawiony symbol graficzny',
-    "image": 'ee08/424.jpg',
+    "image": '/ee08/424.jpg',
     "answers": [{'id': 'A', 'text': 'rutera.'}, {'id': 'B', 'text': 'mostu.'}, {'id': 'C', 'text': 'przełącznika.'}, {'id': 'D', 'text': 'punktu dostępowego.'}],
     "correctAnswer": 'C'
   },
   {
     "id": 425,
     "text": '425. W Wierszu polecenia wydano komendę: wykonaj.bat przyklad.txt \nWykonanie skryptu spowoduje',
-    "image": 'ee08/425.jpg',
+    "image": '/ee08/425.jpg',
     "answers": [{'id': 'A', 'text': 'zabezpieczenie pliku przykład.txt hasłem hsr'}, {'id': 'B', 'text': 'dopisanie ciągu znaków „hsr” do zawartości pliku wykonaj.bat'}, {'id': 'C', 'text': 'nadanie dla pliku wykonaj.bat atrybutów ukryty, systemowy, tylko do odczytu'}, {'id': 'D', 'text': 'nadanie dla pliku przykład.txt atrybutów ukryty, skompresowany, tylko do odczytu'}],
     "correctAnswer": 'C'
   },
@@ -3023,7 +3023,7 @@ export const allQuizData: Question[] = [
   {
     "id": 432,
     "text": '432. W tabeli jest przedstawiony fragment procesu komunikacji serwera ze stacją roboczą przechwycony przez \nprogram Wireshark. Której usługi dotyczy ta komunikacja?',
-    "image": 'ee08/432.jpg',
+    "image": '/ee08/432.jpg',
     "answers": [{'id': 'A', 'text': 'FTP'}, {'id': 'B', 'text': 'DNS'}, {'id': 'C', 'text': 'DHCP'}, {'id': 'D', 'text': 'WWW'}],
     "correctAnswer": 'C'
   },
@@ -3065,7 +3065,7 @@ export const allQuizData: Question[] = [
   {
     "id": 438,
     "text": '438. W przedstawionym zasilaczu transformator oznaczono znakiem',
-    "image": 'ee08/438.jpg',
+    "image": '/ee08/438.jpg',
     "answers": [{'id': 'A', 'text': '1'}, {'id': 'B', 'text': '2'}, {'id': 'C', 'text': '3'}, {'id': 'D', 'text': '4'}],
     "correctAnswer": 'B'
   },
@@ -3086,7 +3086,7 @@ export const allQuizData: Question[] = [
   {
     "id": 441,
     "text": '441. Na rysunku przedstawiono symbol graficzny',
-    "image": 'ee08/441.jpg',
+    "image": '/ee08/441.jpg',
     "answers": [{'id': 'A', 'text': 'rutera.'}, {'id': 'B', 'text': 'mostu.'}, {'id': 'C', 'text': 'regeneratora.'}, {'id': 'D', 'text': 'koncentratora.'}],
     "correctAnswer": 'A'
   },
@@ -3142,14 +3142,14 @@ export const allQuizData: Question[] = [
   {
     "id": 449,
     "text": '449. Ktory typ złącza na płycie głównej umożliwia zamontowanie przedstawionej karty graficznej?',
-    "image": 'ee08/449.jpg',
+    "image": '/ee08/449.jpg',
     "answers": [{'id': 'A', 'text': 'PCI'}, {'id': 'B', 'text': 'AGP'}, {'id': 'C', 'text': 'PCIe x1'}, {'id': 'D', 'text': 'PCIe x16'}],
     "correctAnswer": 'D'
   },
   {
     "id": 450,
     "text": '450. Przedstawiony opis usterki i procedura jej rozwiązania zawarta w dokumentacji technicznej dotyczy problemu związanego',
-    "image": 'ee08/450.jpg',
+    "image": '/ee08/450.jpg',
     "answers": [{'id': 'A', 'text': 'z podłączeniem skanera bębnowego.'}, {'id': 'B', 'text': 'z niepoprawnym wydrukiem z drukarki laserowej.'}, {'id': 'C', 'text': 'z konfiguracją skanera bębnowego do pracy sieciowej.'}, {'id': 'D', 'text': 'z niepoprawnym wydrukiem z drukarki termosublimacyjnej.'}],
     "correctAnswer": 'B'
   },
@@ -3198,14 +3198,14 @@ export const allQuizData: Question[] = [
   {
     "id": 457,
     "text": '457. Na schemacie płyty głównej, znajdującym się w dokumentacji laptopa, numerami 8 i 9 oznaczono złącza',
-    "image": 'ee08/457.jpg',
+    "image": '/ee08/457.jpg',
     "answers": [{'id': 'A', 'text': 'M.2'}, {'id': 'B', 'text': 'USB 3.0'}, {'id': 'C', 'text': 'Serial ATA'}, {'id': 'D', 'text': 'cyfrowe audio'}],
     "correctAnswer": 'C'
   },
   {
     "id": 458,
     "text": '458. Przedstawiona karta przechwytująca wideo będzie współpracowała z płytą główną wyposażoną w port',
-    "image": 'ee08/458.jpg',
+    "image": '/ee08/458.jpg',
     "answers": [{'id': 'A', 'text': 'AGP'}, {'id': 'B', 'text': 'PCI-e'}, {'id': 'C', 'text': '1-Wire'}, {'id': 'D', 'text': 'eSATA'}],
     "correctAnswer": 'B'
   },
@@ -3240,7 +3240,7 @@ export const allQuizData: Question[] = [
   {
     "id": 463,
     "text": '463. Na przedstawionym schemacie logicznym sieci ujęto',
-    "image": 'ee08/463.jpg',
+    "image": '/ee08/463.jpg',
     "answers": [{'id': 'A', 'text': '7 budynkowych punktów dystrybucyjnych'}, {'id': 'B', 'text': '2 kampusowe punkty dystrybucyjne'}, {'id': 'C', 'text': '4 kondygnacyjne punkty dostępowe'}, {'id': 'D', 'text': '9 gniazd telekomunikacyjnych'}],
     "correctAnswer": 'D'
   },
@@ -3254,7 +3254,7 @@ export const allQuizData: Question[] = [
   {
     "id": 465,
     "text": '465. Przedstawione narzędzie jest stosowane do',
-    "image": 'ee08/465.jpg',
+    "image": '/ee08/465.jpg',
     "answers": [{'id': 'A', 'text': 'lokalizacji uszkodzeń włókien światłowodowych'}, {'id': 'B', 'text': 'spawania przewodów światłowodowych'}, {'id': 'C', 'text': 'zdejmowania izolacji okablowania'}, {'id': 'D', 'text': 'zdejmowania izolacji okablowania'}],
     "correctAnswer": 'A'
   },
@@ -3289,7 +3289,7 @@ export const allQuizData: Question[] = [
   {
     "id": 470,
     "text": '470. Informacje przedstawione na wydruku zostały wyświetlone w wyniku wywołania',
-    "image": 'ee08/470.jpg',
+    "image": '/ee08/470.jpg',
     "answers": [{'id': 'A', 'text': 'netstat -r'}, {'id': 'B', 'text': 'route change'}, {'id': 'C', 'text': 'ipconfig /all'}, {'id': 'D', 'text': 'traceroute -src'}],
     "correctAnswer": 'A'
   },
@@ -3303,7 +3303,7 @@ export const allQuizData: Question[] = [
   {
     "id": 472,
     "text": '472. Gniazdo tablicy interaktywnej jest oznaczone za pomocą przedstawionego symbolu. Którego złącza należy \nużyć do podłączenia tablicy do komputera?',
-    "image": 'ee08/472.jpg',
+    "image": '/ee08/472.jpg',
     "answers": [{'id': 'A', 'text': 'HDMI'}, {'id': 'B', 'text': 'USB A-A'}, {'id': 'C', 'text': 'FireWire'}, {'id': 'D', 'text': 'D-SUB VGA'}],
     "correctAnswer": 'D'
   },
@@ -3324,21 +3324,21 @@ export const allQuizData: Question[] = [
   {
     "id": 475,
     "text": '475. Przedstawione narzędzie służące do monitorowania sieci LAN to',
-    "image": 'ee08/475.jpg',
+    "image": '/ee08/475.jpg',
     "answers": [{'id': 'A', 'text': 'konfigurator IP'}, {'id': 'B', 'text': 'skaner portów'}, {'id': 'C', 'text': 'zapora sieciowa'}, {'id': 'D', 'text': 'konfigurator sieci'}],
     "correctAnswer": 'B'
   },
   {
     "id": 476,
     "text": '476. Do sprawdzenia stanu podłączonego kabla i zdiagnozowania odległości od miejsca awarii sieci należy \nwykorzystać funkcję przełącznika oznaczoną numerem',
-    "image": 'ee08/476.jpg',
+    "image": '/ee08/476.jpg',
     "answers": [{'id': 'A', 'text': '1'}, {'id': 'B', 'text': '2'}, {'id': 'C', 'text': '3'}, {'id': 'D', 'text': '4'}],
     "correctAnswer": 'C'
   },
   {
     "id": 477,
     "text": '477. Podczas konfiguracji rutera, aby wprowadzić parametry połączenia dostarczone przez dostawcę \ninternetowego należy wybrać obszar oznaczony numerem',
-    "image": 'ee08/477.jpg',
+    "image": '/ee08/477.jpg',
     "answers": [{'id': 'A', 'text': '4'}, {'id': 'B', 'text': '3'}, {'id': 'C', 'text': '2'}, {'id': 'D', 'text': '1'}],
     "correctAnswer": 'B'
   },
@@ -3366,7 +3366,7 @@ export const allQuizData: Question[] = [
   {
     "id": 481,
     "text": '481. Przedstawiony wynik działania polecenia systemu Linux służy do diagnostyki',
-    "image": 'ee08/481.jpg',
+    "image": '/ee08/481.jpg',
     "answers": [{'id': 'A', 'text': 'karty graficznej.'}, {'id': 'B', 'text': 'dysku twardego.'}, {'id': 'C', 'text': 'karty sieciowej.'}, {'id': 'D', 'text': 'pamięci RAM.'}],
     "correctAnswer": 'B'
   },
@@ -3380,7 +3380,7 @@ export const allQuizData: Question[] = [
   {
     "id": 483,
     "text": '483. Wskaż koszt brutto wykonanych przez serwisanta usług, jeśli do rachunku doliczony jest również koszt \ndojazdu w wysokości 55,00 zł netto.',
-    "image": 'ee08/483.jpg',
+    "image": '/ee08/483.jpg',
     "answers": [{'id': 'A', 'text': '160,00 zł'}, {'id': 'B', 'text': '196,80 zł'}, {'id': 'C', 'text': '215,00 zł'}, {'id': 'D', 'text': '264,45 zł'}],
     "correctAnswer": 'D'
   },
@@ -3422,7 +3422,7 @@ export const allQuizData: Question[] = [
   {
     "id": 489,
     "text": '489. W systemie serwerowym Windows widoczny jest zakres adresów IPv4. Wskazana ikona znajdująca się przy \njego nazwie oznacza, że',
-    "image": 'ee08/489.jpg',
+    "image": '/ee08/489.jpg',
     "answers": [{'id': 'A', 'text': 'zakres ten jest aktywny'}, {'id': 'B', 'text': 'zakres ten jest nieaktywny'}, {'id': 'C', 'text': 'pula adresów w tym zakresie jest wyczerpana w 100%'}, {'id': 'D', 'text': 'pula adresów w tym zakresie jest wyczerpana na poziomie bliskim 100%'}],
     "correctAnswer": 'B'
   },
@@ -3450,7 +3450,7 @@ export const allQuizData: Question[] = [
   {
     "id": 493,
     "text": '493. Po zainstalowaniu programu VNC, wykorzystywanego do podglądu pulpitu wybranego komputera, oprócz \nnumeru portu należy podać jego',
-    "image": 'ee08/493.jpg',
+    "image": '/ee08/493.jpg',
     "answers": [{'id': 'A', 'text': 'adres rozgłoszeniowy'}, {'id': 'B', 'text': 'bramę domyślną'}, {'id': 'C', 'text': 'adres MAC'}, {'id': 'D', 'text': 'adres IP'}],
     "correctAnswer": 'D'
   },
@@ -3534,7 +3534,7 @@ export const allQuizData: Question[] = [
   {
     "id": 505,
     "text": '505. Na ilustracji przedstawione jest oprogramowanie monitorujące technologię',
-    "image": 'ee08/505.jpg',
+    "image": '/ee08/505.jpg',
     "answers": [{'id': 'A', 'text': 'NCQ'}, {'id': 'B', 'text': 'IRDA'}, {'id': 'C', 'text': 'SAS'}, {'id': 'D', 'text': 'S.M.A.R.T'}],
     "correctAnswer": 'D'
   },
@@ -3555,14 +3555,14 @@ export const allQuizData: Question[] = [
   {
     "id": 508,
     "text": '508. Liczby 1001 oraz 100 w wierszu pliku /etc/passwd znaczają',
-    "image": 'ee08/508.jpg',
+    "image": '/ee08/508.jpg',
     "answers": [{'id': 'A', 'text': 'liczbę udanych i nieudanych prób logowania'}, {'id': 'B', 'text': 'numer koloru czcionki i numer koloru tła w terminalu'}, {'id': 'C', 'text': 'identyfikatory użytkownika i grupy w systemie'}, {'id': 'D', 'text': 'liczbę dni do ostatniej zmiany hasła i liczbę dni do wygaśnięcia hasła'}],
     "correctAnswer": 'C'
   },
   {
     "id": 509,
     "text": '509. Zgodnie z przedstawioną instrukcją montażu płyty głównej należy',
-    "image": 'ee08/509.jpg',
+    "image": '/ee08/509.jpg',
     "answers": [{'id': 'A', 'text': 'w przypadku braku opaski ESD, przed dotknięciem elementów elektronicznych, najpierw dotknąć metalowy przedmiot'}, {'id': 'B', 'text': 'unikat wyłączania zasilania sieciowego przed demontażem płyty głównej'}, {'id': 'C', 'text': 'umieścić podzespół w dowolnym miejscu i dowolnym opakowaniu przed jego zainstalowaniem'}, {'id': 'D', 'text': 'dotykać w dowolny sposób i w dowolnej kolejności metalowe przewody lub złącza'}],
     "correctAnswer": 'A'
   },
@@ -3583,7 +3583,7 @@ export const allQuizData: Question[] = [
   {
     "id": 512,
     "text": '512. Na ilustracji została przedstawiona topologia',
-    "image": 'ee08/512.jpg',
+    "image": '/ee08/512.jpg',
     "answers": [{'id': 'A', 'text': 'pierścienia'}, {'id': 'B', 'text': 'magistrali'}, {'id': 'C', 'text': 'gwiazdy rozszerzonej'}, {'id': 'D', 'text': 'pełnej siatki'}],
     "correctAnswer": 'C'
   },
@@ -3632,7 +3632,7 @@ export const allQuizData: Question[] = [
   {
     "id": 519,
     "text": '519. Przedstawiony na ilustracji wtyk 8P8C (złącze męskie modularne) jest stosowany jako zakończenia kabla',
-    "image": 'ee08/519.jpg',
+    "image": '/ee08/519.jpg',
     "answers": [{'id': 'A', 'text': 'koncetrycznego'}, {'id': 'B', 'text': 'światłowodowego'}, {'id': 'C', 'text': 'YTDY'}, {'id': 'D', 'text': 'F/UTP'}],
     "correctAnswer": 'D'
   },
@@ -3681,7 +3681,7 @@ export const allQuizData: Question[] = [
   {
     "id": 526,
     "text": '526. Przedstawiony na ilustracji symbol, stosowany w dokumentacji technicznej, oznacza',
-    "image": 'ee08/526.jpg',
+    "image": '/ee08/526.jpg',
     "answers": [{'id': 'A', 'text': 'zielony punkt upoważniający do wniesienia opłaty pieniężnej na rzecz organizacji odzysku opakowań'}, {'id': 'B', 'text': 'wymóg selektywnej zbiórki sprzętu elektronicznego'}, {'id': 'C', 'text': 'konieczność zastosowania koszy w kolorze żółtym i niebieskim'}, {'id': 'D', 'text': 'brak możliwości składowania odpadów aluminiowych oraz innych tworzyw metalicznych'}],
     "correctAnswer": 'B'
   },
@@ -3723,7 +3723,7 @@ export const allQuizData: Question[] = [
   {
     "id": 532,
     "text": '532. Adresem IPv6 hosta skonfigurowanym na karcie sieciowej enp0s25 jest',
-    "image": 'ee08/532.jpg',
+    "image": '/ee08/532.jpg',
     "answers": [{'id': 'A', 'text': 'fe80::3d6:e6d2:1c93:56e2'}, {'id': 'B', 'text': '172.16.21.255'}, {'id': 'C', 'text': 'a0:b3:cc:28:8f:37'}, {'id': 'D', 'text': '172.16.21.100'}],
     "correctAnswer": 'A'
   },
@@ -3744,35 +3744,35 @@ export const allQuizData: Question[] = [
   {
     "id": 535,
     "text": '535. Przedstawione na ilustracji urządzenie peryferyjne jest wyposażone w interfejs',
-    "image": 'ee08/535.jpg',
+    "image": '/ee08/535.jpg',
     "answers": [{'id': 'A', 'text': 'PS/2'}, {'id': 'B', 'text': 'IEEE 1284'}, {'id': 'C', 'text': 'DVI-D'}, {'id': 'D', 'text': 'mini USB'}],
     "correctAnswer": 'D'
   },
   {
     "id": 536,
     "text": '536. Przed rozpoczęciem czynności instalacyjnych wykonano przygotowanie dysku twardego. widoczne na ilustracji wydane polecenia prowadzą do',
-    "image": 'ee08/536.jpg',
+    "image": '/ee08/536.jpg',
     "answers": [{'id': 'A', 'text': 'ustawienia systemu plików NTFS dla dysków nr 1 i nr 2'}, {'id': 'B', 'text': 'oczyszczenia dysków nr 0 i nr 2'}, {'id': 'C', 'text': 'konwersji partycji GPT na MBR na dysku nr 1'}, {'id': 'D', 'text': 'formatowania i utraty danych na dysku nr 0'}],
     "correctAnswer": 'C'
   },
   {
     "id": 537,
     "text": '537. Na której ilustracji zostało przedstawione narzędzie używane w symulatorze Cisco Packet Tracer, umożliwiające zastosowanie światłowodu jako medium transmisyjnego w projektowaniu sieci? (Ilustracje pochodzą z programu w wersji 8.0.0.0212)',
-    "image": 'ee08/537.jpg',
+    "image": '/ee08/537.jpg',
     "answers": [{'id': 'A', 'text': 'na ilustracji 3'}, {'id': 'B', 'text': 'na ilustracji 1'}, {'id': 'C', 'text': 'na ilustracji 4'}, {'id': 'D', 'text': 'na ilustracji 2'}],
     "correctAnswer": 'A'
   },
   {
     "id": 538,
     "text": '538. Przedstawiony panel tylny płyty głównej jest wyposażony w interfejsy',
-    "image": 'ee08/538.jpg',
+    "image": '/ee08/538.jpg',
     "answers": [{'id': 'A', 'text': '2 x PS2; 1 xRJ45; 6 x USB 2.0, 1.1'}, {'id': 'B', 'text': '2 x USB 3.0; 2 x USB 2.0, 1.1; 2 x DP, 1 x DVI'}, {'id': 'C', 'text': '2 x USB 3.0; 4 x USB 2.0, 1.1; 1 x D-SUB'}, {'id': 'D', 'text': '2 x HDMI, 1 x D-SUB, 1 x RJ11, 6 x USB 2.0'}],
     "correctAnswer": 'C'
   },
   {
     "id": 539,
     "text": '539. Urządzenie przedstawione na rysunku jest stosowane do',
-    "image": 'ee08/539.jpg',
+    "image": '/ee08/539.jpg',
     "answers": [{'id': 'A', 'text': 'zabezpieczenia przed niepożądanym dostępem z sieci'}, {'id': 'B', 'text': 'wzmocnienia sygnału'}, {'id': 'C', 'text': 'zamiany transmisji sygnału kablem światłowodowym na skrętkę'}, {'id': 'D', 'text': 'rozdzielenia sygnału'}],
     "correctAnswer": 'C'
   },

@@ -4,7 +4,7 @@ import { Question } from '../types/quiz';
 export const allQuizData: Question[] = [
   {
     "id": 1,
-    "text": "1. Którego polecenia nalezy użyć, aby wyraz TEKST został wyświetleny w kolorze czarnym w oknie przeglądarki internetowej?",
+    "text": "Którego polecenia nalezy użyć, aby wyraz TEKST został wyświetleny w kolorze czarnym w oknie przeglądarki internetowej?",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -28,7 +28,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 2,
-    "text": "2. W poleceniach, których celem jest odtwarzanie na stronie internetowej dźwięku jako podkładu muzycznego NIE wykorzystuje się atrybutu",
+    "text": "W poleceniach, których celem jest odtwarzanie na stronie internetowej dźwięku jako podkładu muzycznego NIE wykorzystuje się atrybutu",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -52,7 +52,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 3,
-    "text": "3. Jakiego znacznika należy użyć, aby przejść do kolejnej linii tekstu, nie tworząc akapitu na stronie internetowej?",
+    "text": "Jakiego znacznika należy użyć, aby przejść do kolejnej linii tekstu, nie tworząc akapitu na stronie internetowej?",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -76,7 +76,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 4,
-    "text": "4. Kaskadowe arkusze stylów tworzy się w celu",
+    "text": "Kaskadowe arkusze stylów tworzy się w celu",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -100,7 +100,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 5,
-    "text": "5. W podanej regule CSS: h1 {color: blue} h1 oznacza",
+    "text": "W podanej regule CSS: h1 {color: blue} h1 oznacza",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -124,7 +124,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 6,
-    "text": "6. Edytor spełniający założenia WYSIWYG musi umożliwiać",
+    "text": "Edytor spełniający założenia WYSIWYG musi umożliwiać",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -148,7 +148,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 7,
-    "text": "7. Do graficznego tworzenia stron internetowych należy wykorzystać.",
+    "text": "Do graficznego tworzenia stron internetowych należy wykorzystać.",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -172,7 +172,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 8,
-    "text": "8. W procesie walidacji stron internetowych nie bada się",
+    "text": "W procesie walidacji stron internetowych nie bada się",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -196,7 +196,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 9,
-    "text": "9. Model opisu przestrzeni barw o parametrach: odcień, nasycenie i jasność, to",
+    "text": "Model opisu przestrzeni barw o parametrach: odcień, nasycenie i jasność, to",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -220,7 +220,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 10,
-    "text": "10. Wskaż model barw, który stosuje się do wyświetlania kolorów na ekranie monitora komputerowego",
+    "text": "Wskaż model barw, który stosuje się do wyświetlania kolorów na ekranie monitora komputerowego",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -244,7 +244,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 11,
-    "text": "11. Który parametr obiektu graficznego ulegnie zmianie po modyfikacji wartości kanału alfa?",
+    "text": "Który parametr obiektu graficznego ulegnie zmianie po modyfikacji wartości kanału alfa?",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -268,7 +268,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 12,
-    "text": "12. Jakiego formatu należy użyć do zapisu obrazu z kompresją stratną?",
+    "text": "Jakiego formatu należy użyć do zapisu obrazu z kompresją stratną?",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -292,8 +292,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 13,
-    "text": "13. Najprostszy sposób zamiany obiektu oznaczonego cyfrą 1 na obiekt oznaczony cyfrą 2 polega na",
-    "image": "e14/13.jpg",
+    "text": "Najprostszy sposób zamiany obiektu oznaczonego cyfrą 1 na obiekt oznaczony cyfrą 2 polega na",
+    "image": "/e14/13.jpg",
     "answers": [
       {
         "id": "A",
@@ -316,7 +316,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 14,
-    "text": "14. Jak nazywa się proces przedstawienia, we właściwej dla danego środowiska formie, informacji zawartej w dokumencie elektronicznym?",
+    "text": "Jak nazywa się proces przedstawienia, we właściwej dla danego środowiska formie, informacji zawartej w dokumencie elektronicznym?",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -340,7 +340,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 15,
-    "text": "15. Proces filtracji sygnału wejściowego w dziedzinie czasu, obejmujący zasadę superpozycji, związany jest filtrem",
+    "text": "Proces filtracji sygnału wejściowego w dziedzinie czasu, obejmujący zasadę superpozycji, związany jest filtrem",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -364,7 +364,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 16,
-    "text": "16. Jak nazywa się podzbiór strukturalnego języka zapytań, związany z formułowaniem zapytań do bazy danych za pomocą polecenia SELECT?",
+    "text": "Jak nazywa się podzbiór strukturalnego języka zapytań, związany z formułowaniem zapytań do bazy danych za pomocą polecenia SELECT?",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -388,7 +388,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 17,
-    "text": "17. Jakie sa nazwy typowych poleceń języka zapytań SQL, związane z wykonywaniem operacji na danych SQL DML (np.: umieszczanie danych w bazie, kasowanie dokonywanie zmian w danych)?",
+    "text": "Jakie sa nazwy typowych poleceń języka zapytań SQL, związane z wykonywaniem operacji na danych SQL DML (np.: umieszczanie danych w bazie, kasowanie dokonywanie zmian w danych)?",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -412,8 +412,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 18,
-    "text": "18. Jak posortowana będzie lista, utworzona ze wszystkich kolumn tabeli uczniowie i zawierająca uczniów ze średnią większą od 5, która zostanie zwrócona jako wynik przedstawionego zapytania?",
-    "image": "e14/18.jpg",
+    "text": "Jak posortowana będzie lista, utworzona ze wszystkich kolumn tabeli uczniowie i zawierająca uczniów ze średnią większą od 5, która zostanie zwrócona jako wynik przedstawionego zapytania?",
+    "image": "/e14/18.jpg",
     "answers": [
       {
         "id": "A",
@@ -436,8 +436,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 19,
-    "text": "19. Według którego parametru oraz dla ilu tabel zostaną zwrócone wiersze na liście w wyniku przedstawionego zapytania?",
-    "image": "e14/19.jpg",
+    "text": "Według którego parametru oraz dla ilu tabel zostaną zwrócone wiersze na liście w wyniku przedstawionego zapytania?",
+    "image": "/e14/19.jpg",
     "answers": [
       {
         "id": "A",
@@ -460,7 +460,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 20,
-    "text": "20. Który z obiektów relacyjnej bazy danych, będący kodem języka SQL, może być wywoływany w zapytaniach modyfikujących kolumny danych widoczne jako tabela, bez względu na to czy jest tworzony programowo, czy dynamicznie?",
+    "text": "Który z obiektów relacyjnej bazy danych, będący kodem języka SQL, może być wywoływany w zapytaniach modyfikujących kolumny danych widoczne jako tabela, bez względu na to czy jest tworzony programowo, czy dynamicznie?",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -484,7 +484,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 21,
-    "text": "21. Jak nazywa się element bazy danych, za pomocą którego można jedynie odczytać dane z bazy, prezentując je w postaci tekstu lub wykresu?",
+    "text": "Jak nazywa się element bazy danych, za pomocą którego można jedynie odczytać dane z bazy, prezentując je w postaci tekstu lub wykresu?",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -508,7 +508,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 22,
-    "text": "22. Jakiego typu specjalizowane oprogramowanie narzędziowe należy zainstalować, aby umożliwić wykonywanie jego użytkownikowi operacji na zgromadzonych danych?",
+    "text": "Jakiego typu specjalizowane oprogramowanie narzędziowe należy zainstalować, aby umożliwić wykonywanie jego użytkownikowi operacji na zgromadzonych danych?",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -532,7 +532,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 23,
-    "text": "23. Co należy zastosować w organizacji danych, aby zapytania w bazie danych były wykonywane szybciej?",
+    "text": "Co należy zastosować w organizacji danych, aby zapytania w bazie danych były wykonywane szybciej?",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -556,7 +556,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 24,
-    "text": "24. W programie Microsoft Access formą zabezpieczeń dostępu do danych związaną z tabelą i kwerendą jest",
+    "text": "W programie Microsoft Access formą zabezpieczeń dostępu do danych związaną z tabelą i kwerendą jest",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -580,7 +580,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 25,
-    "text": "25. Które z wymienionych osób odpowiadają za przygotowanie systemu bazy danych do pracy produkcyjnej w sposób ciągły, zarządzanie użytkownikami i instalowanie nowych wersji systemu bazodanowego?",
+    "text": "Które z wymienionych osób odpowiadają za przygotowanie systemu bazy danych do pracy produkcyjnej w sposób ciągły, zarządzanie użytkownikami i instalowanie nowych wersji systemu bazodanowego?",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -604,7 +604,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 26,
-    "text": "26. Z jakimi mechanizmami nadawania zabezpieczeń, dającymi możliwości wykonywania operacji na bazie danych, związane są zagadnienia zarządzania kontami, użytkownikami i uprawnieniami?",
+    "text": "Z jakimi mechanizmami nadawania zabezpieczeń, dającymi możliwości wykonywania operacji na bazie danych, związane są zagadnienia zarządzania kontami, użytkownikami i uprawnieniami?",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -628,7 +628,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 27,
-    "text": "27. Metoda udostępniania bazy danych w programie Microsoft Access, dotycząca wszystkich obiektów bazy umieszczonych na dysku sieciowym i używanych jednocześnie przez różne osoby nosi nazwę",
+    "text": "Metoda udostępniania bazy danych w programie Microsoft Access, dotycząca wszystkich obiektów bazy umieszczonych na dysku sieciowym i używanych jednocześnie przez różne osoby nosi nazwę",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -652,7 +652,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 28,
-    "text": "28. Jakie należy posiadać uprawnienia, aby wykonać i odtworzyć kopię zapasową bazy danych Microsoft SQL Server 2005 Express?",
+    "text": "Jakie należy posiadać uprawnienia, aby wykonać i odtworzyć kopię zapasową bazy danych Microsoft SQL Server 2005 Express?",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -676,7 +676,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 29,
-    "text": "29. Typ zmiennej w języku JavaScript",
+    "text": "Typ zmiennej w języku JavaScript",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -700,7 +700,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 30,
-    "text": "30. Zmienne typu int odnoszą się do liczb",
+    "text": "Zmienne typu int odnoszą się do liczb",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -724,8 +724,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 31,
-    "text": "31. Co definiuje w języku C++ przedstawiony fragment kodu?",
-    "image": "e14/31.jpg",
+    "text": "Co definiuje w języku C++ przedstawiony fragment kodu?",
+    "image": "/e14/31.jpg",
     "answers": [
       {
         "id": "A",
@@ -748,7 +748,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 32,
-    "text": "32. Sposób programowania, w którym ciąg poleceń (sekwencji instrukcji) przekazywanych komputerowi jest postrzegany jako program, nosi nazwę programowania",
+    "text": "Sposób programowania, w którym ciąg poleceń (sekwencji instrukcji) przekazywanych komputerowi jest postrzegany jako program, nosi nazwę programowania",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -772,8 +772,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 33,
-    "text": "33. Które wartości będą kolejno wypisane w wyniku działania przedstawionego skryptu",
-    "image": "e14/33.jpg",
+    "text": "Które wartości będą kolejno wypisane w wyniku działania przedstawionego skryptu",
+    "image": "/e14/33.jpg",
     "answers": [
       {
         "id": "A",
@@ -796,8 +796,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 34,
-    "text": "34. Fragment kodu prezentuje składnię języka",
-    "image": "e14/34.jpg",
+    "text": "Fragment kodu prezentuje składnię języka",
+    "image": "/e14/34.jpg",
     "answers": [
       {
         "id": "A",
@@ -820,7 +820,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 35,
-    "text": "35. Jaki program komputerowy przekształca kod źródłowy, napisany w konkretnym języku programowania, na język komputera?",
+    "text": "Jaki program komputerowy przekształca kod źródłowy, napisany w konkretnym języku programowania, na język komputera?",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -844,7 +844,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 36,
-    "text": "36. Jak nazywa się program, który wykonuje instrukcje zawarte w kodzie źródłowym tworzonego programu bez uprzedniego generowania programu wynikowego?",
+    "text": "Jak nazywa się program, który wykonuje instrukcje zawarte w kodzie źródłowym tworzonego programu bez uprzedniego generowania programu wynikowego?",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -868,7 +868,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 37,
-    "text": "37. Który język skryptowy ogólnego przeznaczenia należy wykorzystać do tworzenia aplikacji WWW, zagnieżdżanych w języku HTML i uruchamianych po stronie serwera?",
+    "text": "Który język skryptowy ogólnego przeznaczenia należy wykorzystać do tworzenia aplikacji WWW, zagnieżdżanych w języku HTML i uruchamianych po stronie serwera?",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -892,7 +892,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 38,
-    "text": "38. Jak nazywa się technika umożliwiająca otwarcie połączenia klienta z serwerem i komunikację bez przeładowywania całej strony WWW w sposób asynchroniczny ?",
+    "text": "Jak nazywa się technika umożliwiająca otwarcie połączenia klienta z serwerem i komunikację bez przeładowywania całej strony WWW w sposób asynchroniczny ?",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -916,8 +916,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 39,
-    "text": "39. Jak nazywa się element oznaczony znakiem zapytania w strukturze platformy .NET, który umożliwia tworzenie własnych aplikacji z użyciem frameworków i zamianę kompilowanego kodu pośredniego na kod maszynowy procesora zainstalowanego w komputerze?",
-    "image": "e14/39.jpg",
+    "text": "Jak nazywa się element oznaczony znakiem zapytania w strukturze platformy .NET, który umożliwia tworzenie własnych aplikacji z użyciem frameworków i zamianę kompilowanego kodu pośredniego na kod maszynowy procesora zainstalowanego w komputerze?",
+    "image": "/e14/39.jpg",
     "answers": [
       {
         "id": "A",
@@ -940,7 +940,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 40,
-    "text": "40. Jakiego rodzaju mechanizm kontroli bezpieczeństwa wykonywania aplikacji zawiera środowisko uruchomieniowe platformy .NET Framework?",
+    "text": "Jakiego rodzaju mechanizm kontroli bezpieczeństwa wykonywania aplikacji zawiera środowisko uruchomieniowe platformy .NET Framework?",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -964,7 +964,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 41,
-    "text": "41. Co to jest DBMS?",
+    "text": "Co to jest DBMS?",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -988,7 +988,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 42,
-    "text": "42. Który z odsyłaczy posiada poprawną konstrukcję?",
+    "text": "Który z odsyłaczy posiada poprawną konstrukcję?",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -1012,8 +1012,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 43,
-    "text": "43. Fragment kodu napisany w języku HTML zamieszczony w ramce przedstawia listę",
-    "image": "e14/43.jpg",
+    "text": "Fragment kodu napisany w języku HTML zamieszczony w ramce przedstawia listę",
+    "image": "/e14/43.jpg",
     "answers": [
       {
         "id": "A",
@@ -1036,8 +1036,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 44,
-    "text": "44. Polecenie colspan służy do łączenia komórek tabeli w poziomie, natomiast rowspan w pionie. Którą z tabel wyświetli fragment kodu napisany w języku HTML?",
-    "image": "e14/44.jpg",
+    "text": "Polecenie colspan służy do łączenia komórek tabeli w poziomie, natomiast rowspan w pionie. Którą z tabel wyświetli fragment kodu napisany w języku HTML?",
+    "image": "/e14/44.jpg",
     "answers": [
       {
         "id": "A",
@@ -1060,7 +1060,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 45,
-    "text": "45. W znaczniku <head> (w części <meta>) strony www NIE umieszcza się informacji dotyczącej",
+    "text": "W znaczniku <head> (w części <meta>) strony www NIE umieszcza się informacji dotyczącej",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -1084,8 +1084,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 46,
-    "text": "46. Wskaż sposób, w jaki należy odwołać się do pliku default.css, jeśli index.html znajduje się bezpośrednio w katalogu Strona?",
-    "image": "e14/46.jpg",
+    "text": "Wskaż sposób, w jaki należy odwołać się do pliku default.css, jeśli index.html znajduje się bezpośrednio w katalogu Strona?",
+    "image": "/e14/46.jpg",
     "answers": [
       {
         "id": "A",
@@ -1108,8 +1108,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 47,
-    "text": "47. Wskaż stwierdzenie, które jest prawdziwe dla następującej definicji stylu:",
-    "image": "e14/47.jpg",
+    "text": "Wskaż stwierdzenie, które jest prawdziwe dla następującej definicji stylu:",
+    "image": "/e14/47.jpg",
     "answers": [
       {
         "id": "A",
@@ -1132,7 +1132,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 48,
-    "text": "48. W palecie kolorów RGB kolor żółty jest połączeniem dwóch kolorów: zielonego i czerwonego. Który z kodów szesnastkowych oznacza kolor żółty?",
+    "text": "W palecie kolorów RGB kolor żółty jest połączeniem dwóch kolorów: zielonego i czerwonego. Który z kodów szesnastkowych oznacza kolor żółty?",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -1156,7 +1156,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 49,
-    "text": "49. Który z formatów NIE pozwala na zapis plików animowanych?",
+    "text": "Który z formatów NIE pozwala na zapis plików animowanych?",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -1180,7 +1180,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 50,
-    "text": "50. Który z formatów graficznych pozwala na zapis przejrzystego tła?",
+    "text": "Który z formatów graficznych pozwala na zapis przejrzystego tła?",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -1204,7 +1204,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 51,
-    "text": "51. Proces walidacji strony internetowej to",
+    "text": "Proces walidacji strony internetowej to",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -1228,7 +1228,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 52,
-    "text": "52. Które oprogramowanie NIE JEST systemem zarządzania treścią (CMS)?",
+    "text": "Które oprogramowanie NIE JEST systemem zarządzania treścią (CMS)?",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -1252,7 +1252,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 53,
-    "text": "53. Który z formatów zapewnia największa redukcję rozmiaru pliku dźwiękowego?",
+    "text": "Który z formatów zapewnia największa redukcję rozmiaru pliku dźwiękowego?",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -1276,7 +1276,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 54,
-    "text": "54. Wskaż prawidłową kolejność tworzenia bazy danych",
+    "text": "Wskaż prawidłową kolejność tworzenia bazy danych",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -1300,8 +1300,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 55,
-    "text": "55. Wskaż typ relacji pomiędzy tabelami: Tabela1 i Tabela3",
-    "image": "e14/55.jpg",
+    "text": "Wskaż typ relacji pomiędzy tabelami: Tabela1 i Tabela3",
+    "image": "/e14/55.jpg",
     "answers": [
       {
         "id": "A",
@@ -1324,8 +1324,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 56,
-    "text": "56. Które z pól są umieszczone w formularzu?",
-    "image": "e14/56.jpg",
+    "text": "Które z pól są umieszczone w formularzu?",
+    "image": "/e14/56.jpg",
     "answers": [
       {
         "id": "A",
@@ -1348,8 +1348,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 57,
-    "text": "57. Którą z właściwości pola tabeli należy zdefiniować, aby pole przyjmowało dane składające się wyłącznie z cyfr?",
-    "image": "e14/57.jpg",
+    "text": "Którą z właściwości pola tabeli należy zdefiniować, aby pole przyjmowało dane składające się wyłącznie z cyfr?",
+    "image": "/e14/57.jpg",
     "answers": [
       {
         "id": "A",
@@ -1372,7 +1372,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 58,
-    "text": "58. Którego ze słów kluczowych języka SQL należy użyć, aby wyeliminować duplikaty?",
+    "text": "Którego ze słów kluczowych języka SQL należy użyć, aby wyeliminować duplikaty?",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -1396,7 +1396,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 59,
-    "text": "59. Które ze stwierdzeń prawidłowo charakteryzuje zdefiniowaną tabelę: CREATE TABLE dane (kolumna INTEGER(3));",
+    "text": "Które ze stwierdzeń prawidłowo charakteryzuje zdefiniowaną tabelę: CREATE TABLE dane (kolumna INTEGER(3));",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -1420,7 +1420,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 60,
-    "text": "60. Polecenie REVOKE SELECT ON nazwa1 FROM nazwa2 w języku SQL umożliwia",
+    "text": "Polecenie REVOKE SELECT ON nazwa1 FROM nazwa2 w języku SQL umożliwia",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -1444,7 +1444,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 61,
-    "text": "61. Które polecenie wydane z konsoli systemu operacyjnego, zawierające w swojej składni opcję --repair, umożliwia naprawę bazy danych?",
+    "text": "Które polecenie wydane z konsoli systemu operacyjnego, zawierające w swojej składni opcję --repair, umożliwia naprawę bazy danych?",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -1468,7 +1468,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 62,
-    "text": "62. Które polecenie wydane z konsoli systemowej dokona przywrócenia bazy danych?",
+    "text": "Które polecenie wydane z konsoli systemowej dokona przywrócenia bazy danych?",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -1492,7 +1492,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 63,
-    "text": "63. Polecenie w języku SQL GRANT ALL PRIVILEGES ON klienci TO pracownik",
+    "text": "Polecenie w języku SQL GRANT ALL PRIVILEGES ON klienci TO pracownik",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -1516,7 +1516,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 64,
-    "text": "64. Która z wymienionych funkcji sortowania wykorzystywana w języku PHP sortuje tablicę asocjacyjną według indeksów",
+    "text": "Która z wymienionych funkcji sortowania wykorzystywana w języku PHP sortuje tablicę asocjacyjną według indeksów",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -1540,7 +1540,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 65,
-    "text": "65. W skrypcie PHP należy utworzyć cookie o nazwie owoce które przyjmie wartość jabłko. Cookie ma być dostępne przez jedną godzinę od jego utworzenia. W tym celu należy w skrypcie PHP użyć funkcji:",
+    "text": "W skrypcie PHP należy utworzyć cookie o nazwie owoce które przyjmie wartość jabłko. Cookie ma być dostępne przez jedną godzinę od jego utworzenia. W tym celu należy w skrypcie PHP użyć funkcji:",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -1564,7 +1564,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 66,
-    "text": "66. Wskaż słowo kluczowe w języku C++ dodawane przed wbudowanym typem danych, które przesuwa zakres liczby wyłącznie nieujemne",
+    "text": "Wskaż słowo kluczowe w języku C++ dodawane przed wbudowanym typem danych, które przesuwa zakres liczby wyłącznie nieujemne",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -1588,7 +1588,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 67,
-    "text": "67. W językach programowania tylko zmienna jednego typu wbudowanego może przyjmować wyłącznie dwie wartości. Jest to typ",
+    "text": "W językach programowania tylko zmienna jednego typu wbudowanego może przyjmować wyłącznie dwie wartości. Jest to typ",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -1612,8 +1612,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 68,
-    "text": "68. Instrukcja języka PHP tworząca obiekt pkt dla zdefiniowanej w ramce klasy ma postać",
-    "image": "e14/68.jpg",
+    "text": "Instrukcja języka PHP tworząca obiekt pkt dla zdefiniowanej w ramce klasy ma postać",
+    "image": "/e14/68.jpg",
     "answers": [
       {
         "id": "A",
@@ -1636,8 +1636,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 69,
-    "text": "69. Wskaż wynik wykonania skryptu napisanego w języku PHP",
-    "image": "e14/69.jpg",
+    "text": "Wskaż wynik wykonania skryptu napisanego w języku PHP",
+    "image": "/e14/69.jpg",
     "answers": [
       {
         "id": "A",
@@ -1660,7 +1660,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 70,
-    "text": "70. Które ze stwierdzeń dotyczących języków programowania NIE jest prawdziwe",
+    "text": "Które ze stwierdzeń dotyczących języków programowania NIE jest prawdziwe",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -1684,8 +1684,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 71,
-    "text": "71. Jaka wartość zostanie wypisana na standardowym wyjściu dla zamieszczonego w ramce fragmentu programu napisanego w języku C++",
-    "image": "e14/71.jpg",
+    "text": "Jaka wartość zostanie wypisana na standardowym wyjściu dla zamieszczonego w ramce fragmentu programu napisanego w języku C++",
+    "image": "/e14/71.jpg",
     "answers": [
       {
         "id": "A",
@@ -1708,8 +1708,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 72,
-    "text": "72. Wskaż stwierdzenie, które nie jest prawdziwe dla następującej definicji funkcji w języku C++?",
-    "image": "e14/72.jpg",
+    "text": "Wskaż stwierdzenie, które nie jest prawdziwe dla następującej definicji funkcji w języku C++?",
+    "image": "/e14/72.jpg",
     "answers": [
       {
         "id": "A",
@@ -1732,7 +1732,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 73,
-    "text": "73. Element zadeklarowany w języku C++ double *x; to",
+    "text": "Element zadeklarowany w języku C++ double *x; to",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -1756,7 +1756,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 74,
-    "text": "74. Wskaż prawidłową kolejność tworzenia aplikacji",
+    "text": "Wskaż prawidłową kolejność tworzenia aplikacji",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -1780,8 +1780,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 75,
-    "text": "75. Jaką wartość zwróci funkcja zao zdefiniowana w języku C++, wywołana z aktualnym parametrem 3.55",
-    "image": "e14/75.jpg",
+    "text": "Jaką wartość zwróci funkcja zao zdefiniowana w języku C++, wywołana z aktualnym parametrem 3.55",
+    "image": "/e14/75.jpg",
     "answers": [
       {
         "id": "A",
@@ -1793,18 +1793,18 @@ export const allQuizData: Question[] = [
       },
       {
         "id": "C",
-        "text": "3.5"
+        "text": "5"
       },
       {
         "id": "D",
-        "text": "4.05"
+        "text": "05"
       }
     ],
     "correctAnswer": "B"
   },
   {
     "id": 76,
-    "text": "76. Proces tłumaczenia kodu źródłowego pisanego przez programistę na zrozumiały dla komputera kod maszynowy to",
+    "text": "Proces tłumaczenia kodu źródłowego pisanego przez programistę na zrozumiały dla komputera kod maszynowy to",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -1828,8 +1828,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 77,
-    "text": "77. Które ze stwierdzeń, w odniesieniu do zamieszczonej w ramce definicji funkcji, jest poprawne?",
-    "image": "e14/77.jpg",
+    "text": "Które ze stwierdzeń, w odniesieniu do zamieszczonej w ramce definicji funkcji, jest poprawne?",
+    "image": "/e14/77.jpg",
     "answers": [
       {
         "id": "A",
@@ -1852,8 +1852,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 78,
-    "text": "78. Po wykonaniu zamieszczonego w ramce skryptu napisanego w języku JavaScript w przeglądarce zostanie wypisana wartość",
-    "image": "e14/78.jpg",
+    "text": "Po wykonaniu zamieszczonego w ramce skryptu napisanego w języku JavaScript w przeglądarce zostanie wypisana wartość",
+    "image": "/e14/78.jpg",
     "answers": [
       {
         "id": "A",
@@ -1876,7 +1876,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 79,
-    "text": "79. Poprzez deklarację var x=\"true\"; w języku JavieScript tworzy się zmienną typu",
+    "text": "Poprzez deklarację var x=\"true\"; w języku JavieScript tworzy się zmienną typu",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -1900,7 +1900,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 80,
-    "text": "80. Platforma wspierająca programowanie w technologii .NET to",
+    "text": "Platforma wspierająca programowanie w technologii .NET to",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -1924,7 +1924,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 81,
-    "text": "81. Proces, w którym wykrywa się i usuwa błędy w kodzie źródłowym programów, to",
+    "text": "Proces, w którym wykrywa się i usuwa błędy w kodzie źródłowym programów, to",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -1948,7 +1948,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 82,
-    "text": "82. Aby ustawić tło na stronie www należy użyć polecenia",
+    "text": "Aby ustawić tło na stronie www należy użyć polecenia",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -1972,7 +1972,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 83,
-    "text": "83. Parametr face znacznika <font> służy do określenia",
+    "text": "Parametr face znacznika <font> służy do określenia",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -1996,7 +1996,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 84,
-    "text": "84. Kodowanie w standardzie ISO-8859-2 stosowane jest w celu poprawnego wyświetlenia",
+    "text": "Kodowanie w standardzie ISO-8859-2 stosowane jest w celu poprawnego wyświetlenia",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -2020,8 +2020,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 85,
-    "text": "85. Zamieszczony w ramce kod wyświetla tabelę składajacą się z",
-    "image": "e14/85.jpg",
+    "text": "Zamieszczony w ramce kod wyświetla tabelę składajacą się z",
+    "image": "/e14/85.jpg",
     "answers": [
       {
         "id": "A",
@@ -2044,7 +2044,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 86,
-    "text": "86. W języku JavaScript, aby wydzielić fragment napisu znajdujący się pomiędzy wskazanymi przez parametr indeksami należy użyć metody",
+    "text": "W języku JavaScript, aby wydzielić fragment napisu znajdujący się pomiędzy wskazanymi przez parametr indeksami należy użyć metody",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -2068,7 +2068,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 87,
-    "text": "87. Które polecenie w CSS służy do załączenia zewnętrznego arkusza stylów?",
+    "text": "Które polecenie w CSS służy do załączenia zewnętrznego arkusza stylów?",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -2092,7 +2092,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 88,
-    "text": "88. Selektor CSS a:link {color:red} zawarty w kaskadowych arkuszach stylów definiuje",
+    "text": "Selektor CSS a:link {color:red} zawarty w kaskadowych arkuszach stylów definiuje",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -2116,7 +2116,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 89,
-    "text": "89. Jak nazywa się edytor wspomagający tworzenie stron internetowych, którego sposób działania można w polskim tłumaczeniu określić jako: otrzymujesz to, co widzisz?",
+    "text": "Jak nazywa się edytor wspomagający tworzenie stron internetowych, którego sposób działania można w polskim tłumaczeniu określić jako: otrzymujesz to, co widzisz?",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -2140,7 +2140,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 90,
-    "text": "90. Kolor 255 12 12 w modelu RGB na stronie www powinien być zapisany w postaci",
+    "text": "Kolor 255 12 12 w modelu RGB na stronie www powinien być zapisany w postaci",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -2164,7 +2164,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 91,
-    "text": "91. CMYK to zestaw czterech podstawowych kolorów farb drukarskich:",
+    "text": "CMYK to zestaw czterech podstawowych kolorów farb drukarskich:",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -2188,7 +2188,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 92,
-    "text": "92. Cechą formatu PNG jest",
+    "text": "Cechą formatu PNG jest",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -2212,7 +2212,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 93,
-    "text": "93. Saturacja koloru nazywana jest inaczej",
+    "text": "Saturacja koloru nazywana jest inaczej",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -2236,7 +2236,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 94,
-    "text": "94. Kanał alfa służy do zdefiniowania",
+    "text": "Kanał alfa służy do zdefiniowania",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -2260,7 +2260,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 95,
-    "text": "95. Częstotliwość próbkowania ma wpływ na",
+    "text": "Częstotliwość próbkowania ma wpływ na",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -2284,7 +2284,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 96,
-    "text": "96. Wysokość dźwięku zależy od",
+    "text": "Wysokość dźwięku zależy od",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -2308,7 +2308,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 97,
-    "text": "97. Typ stało-znakowy w języku SQL to",
+    "text": "Typ stało-znakowy w języku SQL to",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -2332,7 +2332,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 98,
-    "text": "98. Operator arytmetyczny modulo w języku SQL to",
+    "text": "Operator arytmetyczny modulo w języku SQL to",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -2356,7 +2356,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 99,
-    "text": "99. Polecenie w języku SQL ALTER TABLE USA... ma za zadanie",
+    "text": "Polecenie w języku SQL ALTER TABLE USA... ma za zadanie",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -2380,7 +2380,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 100,
-    "text": "100. Kod: SELECT imie, pesel, wiek FROM dane WHERE wiek IN (18,30) spowoduje wybranie:",
+    "text": "Kod: SELECT imie, pesel, wiek FROM dane WHERE wiek IN (18,30) spowoduje wybranie:",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -2404,7 +2404,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 101,
-    "text": "101. Aby policzyć wszystkie wiersze tabeli Koty należy użyć polecenia:",
+    "text": "Aby policzyć wszystkie wiersze tabeli Koty należy użyć polecenia:",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -2428,7 +2428,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 102,
-    "text": "102. Aby podczas tworzenia tabeli utworzyć klucz obcy na wielu kolumnach, należy użyć polecenia",
+    "text": "Aby podczas tworzenia tabeli utworzyć klucz obcy na wielu kolumnach, należy użyć polecenia",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -2452,7 +2452,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 103,
-    "text": "103. W algebrze relacji operacja selekcji polega na",
+    "text": "W algebrze relacji operacja selekcji polega na",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -2476,7 +2476,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 104,
-    "text": "104. Relacja w bazach danych jest",
+    "text": "Relacja w bazach danych jest",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -2500,7 +2500,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 105,
-    "text": "105. Wskaż poprawną kolejność etapów projektowania relacyjnej bazy danych",
+    "text": "Wskaż poprawną kolejność etapów projektowania relacyjnej bazy danych",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -2524,7 +2524,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 106,
-    "text": "106. Formularze do obsługi baz danych tworzy się w celu",
+    "text": "Formularze do obsługi baz danych tworzy się w celu",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -2548,7 +2548,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 107,
-    "text": "107. Integralność referencyjna w modelu relacyjnych baz danych oznacza, że",
+    "text": "Integralność referencyjna w modelu relacyjnych baz danych oznacza, że",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -2572,7 +2572,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 108,
-    "text": "108. Deklaracja w języku JavaScript: var x=true; powoduje, że zmienna x jest typu",
+    "text": "Deklaracja w języku JavaScript: var x=true; powoduje, że zmienna x jest typu",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -2596,7 +2596,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 109,
-    "text": "109. Obiekt typu array w języku Javascript służy do przechowywania",
+    "text": "Obiekt typu array w języku Javascript służy do przechowywania",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -2620,7 +2620,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 110,
-    "text": "110. Ukrywanie pewnych pól lub metod obiektów danej klasy tak, aby były one dostępne tylko metodom wewnętrznym tej klasy lub funkcjom zaprzyjaźnionym, to",
+    "text": "Ukrywanie pewnych pól lub metod obiektów danej klasy tak, aby były one dostępne tylko metodom wewnętrznym tej klasy lub funkcjom zaprzyjaźnionym, to",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -2644,7 +2644,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 111,
-    "text": "111. Odwoływanie funkcji do samej siebie to",
+    "text": "Odwoływanie funkcji do samej siebie to",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -2668,7 +2668,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 112,
-    "text": "112. W języku PHP zmienna $_GET jest zmienną",
+    "text": "W języku PHP zmienna $_GET jest zmienną",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -2692,7 +2692,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 113,
-    "text": "113. W języku PHP w instrukcji switch musi występować",
+    "text": "W języku PHP w instrukcji switch musi występować",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -2716,7 +2716,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 114,
-    "text": "114. Konstruktor w języku PHP jest metodą o nazwie",
+    "text": "Konstruktor w języku PHP jest metodą o nazwie",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -2740,7 +2740,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 115,
-    "text": "115. Debugger to program służący do",
+    "text": "Debugger to program służący do",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -2764,8 +2764,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 116,
-    "text": "116. Kod zamieszczony w ramce spowoduje wypisanie liczb",
-    "image": "e14/116.jpg",
+    "text": "Kod zamieszczony w ramce spowoduje wypisanie liczb",
+    "image": "/e14/116.jpg",
     "answers": [
       {
         "id": "A",
@@ -2788,8 +2788,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 117,
-    "text": "117. Który kod jest alternatywny do kodu zamieszczonego w ramce?",
-    "image": "e14/117.jpg",
+    "text": "Który kod jest alternatywny do kodu zamieszczonego w ramce?",
+    "image": "/e14/117.jpg",
     "answers": [
       {
         "id": "A",
@@ -2812,8 +2812,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 118,
-    "text": "118. Zamieszczony w ramce fragment skryptu w języku JavaScript",
-    "image": "e14/118.jpg",
+    "text": "Zamieszczony w ramce fragment skryptu w języku JavaScript",
+    "image": "/e14/118.jpg",
     "answers": [
       {
         "id": "A",
@@ -2836,8 +2836,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 119,
-    "text": "119. Zamieszczony w ramce fragment kodu w JavaScript wypisze",
-    "image": "e14/119.jpg",
+    "text": "Zamieszczony w ramce fragment kodu w JavaScript wypisze",
+    "image": "/e14/119.jpg",
     "answers": [
       {
         "id": "A",
@@ -2860,7 +2860,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 120,
-    "text": "120. Który fragment kodu JavaScript zwróci wartość true?",
+    "text": "Który fragment kodu JavaScript zwróci wartość true?",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -2884,7 +2884,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 121,
-    "text": "121. W kodzie PHP znak \"//\" oznacza",
+    "text": "W kodzie PHP znak \"//\" oznacza",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -2908,7 +2908,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 122,
-    "text": "122. Zapisując hasło użytkownika serwisu WWW (np. bankowości internetowej), w celu jego zabezpieczenia przed odtajnieniem, zwykle używa się funkcji",
+    "text": "Zapisując hasło użytkownika serwisu WWW (np. bankowości internetowej), w celu jego zabezpieczenia przed odtajnieniem, zwykle używa się funkcji",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -2932,7 +2932,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 123,
-    "text": "123. W celu określenia wysokości obrazka wyświetlonego na stronie WWW należy wykorzystać właściwość CSS o nazwie",
+    "text": "W celu określenia wysokości obrazka wyświetlonego na stronie WWW należy wykorzystać właściwość CSS o nazwie",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -2956,7 +2956,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 124,
-    "text": "124. Aby ustawić czcionkę Verdana w kodzie CSS, należy wykorzystać właściwość",
+    "text": "Aby ustawić czcionkę Verdana w kodzie CSS, należy wykorzystać właściwość",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -2980,8 +2980,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 125,
-    "text": "125. Funkcja zapisana językiem PHP służy do",
-    "image": "e14/125.jpg",
+    "text": "Funkcja zapisana językiem PHP służy do",
+    "image": "/e14/125.jpg",
     "answers": [
       {
         "id": "A",
@@ -3004,7 +3004,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 126,
-    "text": "126. Kwerenda pozwalająca na wprowadzenie zmian w wielu rekordach lub przeniesienie wielu rekordów przy użyciu pojedynczej operacji, nosi nazwę kwerendy",
+    "text": "Kwerenda pozwalająca na wprowadzenie zmian w wielu rekordach lub przeniesienie wielu rekordów przy użyciu pojedynczej operacji, nosi nazwę kwerendy",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -3028,8 +3028,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 127,
-    "text": "127. Wskaż rezultat działania fragmentu kodu JavaScript",
-    "image": "e14/127.jpg",
+    "text": "Wskaż rezultat działania fragmentu kodu JavaScript",
+    "image": "/e14/127.jpg",
     "answers": [
       {
         "id": "A",
@@ -3052,8 +3052,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 128,
-    "text": "128. Fizyczny model replikacji bazy danych przedstawiony na rysunku jest modelem",
-    "image": "e14/128.jpg",
+    "text": "Fizyczny model replikacji bazy danych przedstawiony na rysunku jest modelem",
+    "image": "/e14/128.jpg",
     "answers": [
       {
         "id": "A",
@@ -3076,7 +3076,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 129,
-    "text": "129. Za pomocą którego protokołu należy wysłać pliki na serwer WWW?",
+    "text": "Za pomocą którego protokołu należy wysłać pliki na serwer WWW?",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -3100,8 +3100,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 130,
-    "text": "130. Wynikiem działania zamieszczonej pętli zapisanej językiem PHP jest wypisanie kolejnych liczb",
-    "image": "e14/130.jpg",
+    "text": "Wynikiem działania zamieszczonej pętli zapisanej językiem PHP jest wypisanie kolejnych liczb",
+    "image": "/e14/130.jpg",
     "answers": [
       {
         "id": "A",
@@ -3124,7 +3124,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 131,
-    "text": "131. Które z poleceń naprawi uszkodzoną tabelę w języku SQL?",
+    "text": "Które z poleceń naprawi uszkodzoną tabelę w języku SQL?",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -3148,7 +3148,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 132,
-    "text": "132. Który z wymienionych formatów plików graficznych obsługuje przezroczystość?",
+    "text": "Który z wymienionych formatów plików graficznych obsługuje przezroczystość?",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -3172,7 +3172,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 133,
-    "text": "133. Który zapis stylu CSS ustawi tło bloku na kolor niebieski?",
+    "text": "Który zapis stylu CSS ustawi tło bloku na kolor niebieski?",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -3196,7 +3196,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 134,
-    "text": "134. Domyślna nazwa pliku konfiguracyjnego serwera Apache to",
+    "text": "Domyślna nazwa pliku konfiguracyjnego serwera Apache to",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -3220,7 +3220,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 135,
-    "text": "135. Organizacja zajmująca się ustalaniem standardu dla języka HTML nosi nazwę",
+    "text": "Organizacja zajmująca się ustalaniem standardu dla języka HTML nosi nazwę",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -3244,7 +3244,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 136,
-    "text": "136. Który z wymienionych systemów nie jest systemem CMS?",
+    "text": "Który z wymienionych systemów nie jest systemem CMS?",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -3268,7 +3268,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 137,
-    "text": "137. Która ze zdefiniowanych funkcji w języku PHP jako wynik zwraca połowę kwadratu wartości przekazanej?",
+    "text": "Która ze zdefiniowanych funkcji w języku PHP jako wynik zwraca połowę kwadratu wartości przekazanej?",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -3292,7 +3292,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 138,
-    "text": "138. W strukturalnych językach programowania w celu przechowania informacji o 50 uczniach (ich imionach, nazwiskach, średniej ocen) należy użyć",
+    "text": "W strukturalnych językach programowania w celu przechowania informacji o 50 uczniach (ich imionach, nazwiskach, średniej ocen) należy użyć",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -3316,7 +3316,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 139,
-    "text": "139. Aby zobaczyć wyniki działania skryptu napisanego w języku PHP, będącego elementem strony WWW, musi być on",
+    "text": "Aby zobaczyć wyniki działania skryptu napisanego w języku PHP, będącego elementem strony WWW, musi być on",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -3340,7 +3340,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 140,
-    "text": "140. Projektowanie logicznego układu witryny polega na",
+    "text": "Projektowanie logicznego układu witryny polega na",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -3364,7 +3364,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 141,
-    "text": "141. Prosta animacja może być zapisana w formacie",
+    "text": "Prosta animacja może być zapisana w formacie",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -3388,7 +3388,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 142,
-    "text": "142. Która z instrukcji umożliwia wysłanie tekstu do przeglądarki?",
+    "text": "Która z instrukcji umożliwia wysłanie tekstu do przeglądarki?",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -3412,7 +3412,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 143,
-    "text": "143. Aby stworzyć tabelę w bazie danych, należy zastosować polecenie SQL",
+    "text": "Aby stworzyć tabelę w bazie danych, należy zastosować polecenie SQL",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -3436,7 +3436,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 144,
-    "text": "144. Zdarzenie JavaScript, będące reakcją na pojedynczo kliknięty dowolny element strony, nosi nazwę",
+    "text": "Zdarzenie JavaScript, będące reakcją na pojedynczo kliknięty dowolny element strony, nosi nazwę",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -3460,7 +3460,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 145,
-    "text": "145. W skład typowego frameworka wchodzą",
+    "text": "W skład typowego frameworka wchodzą",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -3484,7 +3484,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 146,
-    "text": "146. W celu stworzenia relacji wiele do wielu łączącej tabele A i B wystarczy, że",
+    "text": "W celu stworzenia relacji wiele do wielu łączącej tabele A i B wystarczy, że",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -3508,7 +3508,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 147,
-    "text": "147. W celu zapewnienia spójności danych w bazie programu Microsoft Access należy skorzystać",
+    "text": "W celu zapewnienia spójności danych w bazie programu Microsoft Access należy skorzystać",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -3532,8 +3532,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 148,
-    "text": "148. W załączonym fragmencie kodu CSS kolor jest zapisany w postaci",
-    "image": "e14/148.jpg",
+    "text": "W załączonym fragmencie kodu CSS kolor jest zapisany w postaci",
+    "image": "/e14/148.jpg",
     "answers": [
       {
         "id": "A",
@@ -3556,7 +3556,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 149,
-    "text": "149. W języku skryptowym JavaScript zmienne mogą być deklarowane",
+    "text": "W języku skryptowym JavaScript zmienne mogą być deklarowane",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -3580,7 +3580,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 150,
-    "text": "150. W językach programowania zmienna typu integer służy do przechowywania",
+    "text": "W językach programowania zmienna typu integer służy do przechowywania",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -3604,7 +3604,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 151,
-    "text": "151. Jeśli rozmiar pliku graficznego jest zbyt duży do publikacji w Internecie, należy",
+    "text": "Jeśli rozmiar pliku graficznego jest zbyt duży do publikacji w Internecie, należy",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -3628,7 +3628,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 152,
-    "text": "152. Które z poleceń umożliwia dodanie kolumny zadaniekompletne do tabeli zadania?",
+    "text": "Które z poleceń umożliwia dodanie kolumny zadaniekompletne do tabeli zadania?",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -3652,7 +3652,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 153,
-    "text": "153. W bazie danych, w celu uporządkowania listy uczniów według roku urodzenia, należy użyć polecenia",
+    "text": "W bazie danych, w celu uporządkowania listy uczniów według roku urodzenia, należy użyć polecenia",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -3676,7 +3676,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 154,
-    "text": "154. Wskaż dwa sposoby zabezpieczenia bazy danych Microsoft Access",
+    "text": "Wskaż dwa sposoby zabezpieczenia bazy danych Microsoft Access",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -3700,8 +3700,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 155,
-    "text": "155. W zamieszczonym przykładzie pseudoklasa hover sprawi, że styl pogrubiony będzie przypisany",
-    "image": "e14/155.jpg",
+    "text": "W zamieszczonym przykładzie pseudoklasa hover sprawi, że styl pogrubiony będzie przypisany",
+    "image": "/e14/155.jpg",
     "answers": [
       {
         "id": "A",
@@ -3724,7 +3724,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 156,
-    "text": "156. Certyfikat SSL jest stosowany do",
+    "text": "Certyfikat SSL jest stosowany do",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -3748,7 +3748,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 157,
-    "text": "157. W języku SQL przywilej SELECT polecenia GRANT pozwala użytkownikowi baz danych na",
+    "text": "W języku SQL przywilej SELECT polecenia GRANT pozwala użytkownikowi baz danych na",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -3772,7 +3772,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 158,
-    "text": "158. W języku HTML atrybut alt znacznika img jest wykorzystywany w celu zdefiniowania",
+    "text": "W języku HTML atrybut alt znacznika img jest wykorzystywany w celu zdefiniowania",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -3796,8 +3796,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 159,
-    "text": "159. Warunek zapisany językiem PHP wypisze liczbę, gdy",
-    "image": "e14/159.jpg",
+    "text": "Warunek zapisany językiem PHP wypisze liczbę, gdy",
+    "image": "/e14/159.jpg",
     "answers": [
       {
         "id": "A",
@@ -3820,8 +3820,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 160,
-    "text": "160. Analizując przedstawiony kod zapisany w języku HTML, można stwierdzić, że w przeglądarce",
-    "image": "e14/160.jpg",
+    "text": "Analizując przedstawiony kod zapisany w języku HTML, można stwierdzić, że w przeglądarce",
+    "image": "/e14/160.jpg",
     "answers": [
       {
         "id": "A",
@@ -3844,7 +3844,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 161,
-    "text": "161. Baza danych zawiera tabelę o nazwie pracownicy o polach: nazwisko, imie, pensja, wiek. Jak wygląda składnia polecenia wyznaczającego średnią pensję pracowników?",
+    "text": "Baza danych zawiera tabelę o nazwie pracownicy o polach: nazwisko, imie, pensja, wiek. Jak wygląda składnia polecenia wyznaczającego średnią pensję pracowników?",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -3868,7 +3868,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 162,
-    "text": "162. Do reprezentacji liczb zmiennoprzecinkowych w języku C stosowany jest typ",
+    "text": "Do reprezentacji liczb zmiennoprzecinkowych w języku C stosowany jest typ",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -3892,7 +3892,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 163,
-    "text": "163. Polecenie SQL o treści: UPDATE artykuly SET cena = cena * 0.7 WHERE kod = 2; oznacza",
+    "text": "Polecenie SQL o treści: UPDATE artykuly SET cena = cena * 0.7 WHERE kod = 2; oznacza",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -3916,7 +3916,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 164,
-    "text": "164. Do edycji grafiki wektorowej stosuje się program",
+    "text": "Do edycji grafiki wektorowej stosuje się program",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -3940,7 +3940,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 165,
-    "text": "165. W programowaniu obiektowym mechanizm współdzielenia pól i metod klasy w taki sposób, że klasa pochodna zawiera metody zdefiniowane w klasie bazowej nazywa się",
+    "text": "W programowaniu obiektowym mechanizm współdzielenia pól i metod klasy w taki sposób, że klasa pochodna zawiera metody zdefiniowane w klasie bazowej nazywa się",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -3964,7 +3964,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 166,
-    "text": "166. Który z wymienionych znaczników języka HTML nie jest stosowany w celu formatowania tekstu?",
+    "text": "Który z wymienionych znaczników języka HTML nie jest stosowany w celu formatowania tekstu?",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -3988,7 +3988,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 167,
-    "text": "167. Aby zdefiniować w języku HTML listę nienumerowaną, należy użyć znacznika",
+    "text": "Aby zdefiniować w języku HTML listę nienumerowaną, należy użyć znacznika",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -4012,7 +4012,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 168,
-    "text": "168. W języku CSS właściwość font-size przyjmuje, według słów kluczowych, wartości",
+    "text": "W języku CSS właściwość font-size przyjmuje, według słów kluczowych, wartości",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -4036,7 +4036,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 169,
-    "text": "169. W języku CSS, w celu zdefiniowania wewnętrznego górnego marginesu, czyli odstepu między elementem a otaczającym go obramowaniem, należy użyć polecenia",
+    "text": "W języku CSS, w celu zdefiniowania wewnętrznego górnego marginesu, czyli odstepu między elementem a otaczającym go obramowaniem, należy użyć polecenia",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -4060,7 +4060,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 170,
-    "text": "170. Funkcja edytor WYSIWYG Adobe Dreamweaver służy do",
+    "text": "Funkcja edytor WYSIWYG Adobe Dreamweaver służy do",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -4084,7 +4084,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 171,
-    "text": "171. Aby witryna internetowa prawidłowo skalowała się w urządzeniach mobilnych, należy wielkość czcionki zdefiniować",
+    "text": "Aby witryna internetowa prawidłowo skalowała się w urządzeniach mobilnych, należy wielkość czcionki zdefiniować",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -4108,7 +4108,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 172,
-    "text": "172. Znacznik meta języka HTML należy umieścić",
+    "text": "Znacznik meta języka HTML należy umieścić",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -4132,7 +4132,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 173,
-    "text": "173. Prawidłowy, zgodny ze standardem języka XHTML, zapis samozamykającego się znacznika odpowiadającego za łamanie linii ma postać",
+    "text": "Prawidłowy, zgodny ze standardem języka XHTML, zapis samozamykającego się znacznika odpowiadającego za łamanie linii ma postać",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -4156,7 +4156,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 174,
-    "text": "174. Najprostszą i najmniej pracochłonną metodą przetestowania działania witryny internetowej w wielu przeglądarkach i ich różnych wersjach jest",
+    "text": "Najprostszą i najmniej pracochłonną metodą przetestowania działania witryny internetowej w wielu przeglądarkach i ich różnych wersjach jest",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -4180,7 +4180,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 175,
-    "text": "175. Aby przenieść witrynę na serwer, można skorzystać z oprogramowania",
+    "text": "Aby przenieść witrynę na serwer, można skorzystać z oprogramowania",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -4204,7 +4204,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 176,
-    "text": "176. Kolor zapisany kodem RGB, o wartości rgb(255, 128, 16) w kodzie szesnastkowym będzie miał wartość:",
+    "text": "Kolor zapisany kodem RGB, o wartości rgb(255, 128, 16) w kodzie szesnastkowym będzie miał wartość:",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -4228,7 +4228,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 177,
-    "text": "177. Plik graficzny należy zapisać w formacie GIF, jeżeli",
+    "text": "Plik graficzny należy zapisać w formacie GIF, jeżeli",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -4252,7 +4252,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 178,
-    "text": "178. Aby dopasować dźwięk do danego poziomu głośności, należy użyć efektu",
+    "text": "Aby dopasować dźwięk do danego poziomu głośności, należy użyć efektu",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -4276,7 +4276,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 179,
-    "text": "179. Instrukcja DROP języka SQL ma za zadanie",
+    "text": "Instrukcja DROP języka SQL ma za zadanie",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -4300,7 +4300,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 180,
-    "text": "180. Baza danych zawiera tabelę uczniowie z polami: imie, nazwisko, klasa. Aby odnaleźć imiona i nazwiska tych uczniów, których nazwiska rozpoczynają się literą M, należy zastosować polecenie SQL",
+    "text": "Baza danych zawiera tabelę uczniowie z polami: imie, nazwisko, klasa. Aby odnaleźć imiona i nazwiska tych uczniów, których nazwiska rozpoczynają się literą M, należy zastosować polecenie SQL",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -4324,7 +4324,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 181,
-    "text": "181. Baza danych zawiera tabele z polami: . Aby wyświetlić wszystkie nazwy artykułów wyłącznie typu pralka, dla których cena jest z przedziału 1000 PLN i 1500 PLN, należy zastosować polecenie",
+    "text": "Baza danych zawiera tabele z polami: . Aby wyświetlić wszystkie nazwy artykułów wyłącznie typu pralka, dla których cena jest z przedziału 1000 PLN i 1500 PLN, należy zastosować polecenie",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -4348,7 +4348,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 182,
-    "text": "182. Wartość pola tabeli pełniącego rolę klucza podstawowego",
+    "text": "Wartość pola tabeli pełniącego rolę klucza podstawowego",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -4372,7 +4372,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 183,
-    "text": "183. Aby utworzyć relację jeden do wielu, w tabeli po stronie , należy zdefiniować",
+    "text": "Aby utworzyć relację jeden do wielu, w tabeli po stronie , należy zdefiniować",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -4396,7 +4396,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 184,
-    "text": "184. Narzędziem służącym do grupowania i prezentowania informacji z wielu rekordów w celu ich drukowania lub rozpowszechniania jest",
+    "text": "Narzędziem służącym do grupowania i prezentowania informacji z wielu rekordów w celu ich drukowania lub rozpowszechniania jest",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -4420,7 +4420,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 185,
-    "text": "185. Aby uprościć wprowadzenie i edytowanie danych w tabeli, należy zdefiniować",
+    "text": "Aby uprościć wprowadzenie i edytowanie danych w tabeli, należy zdefiniować",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -4444,7 +4444,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 186,
-    "text": "186. Baza danych 6-letniej szkoły podstawowej zawiera tabelę z polami: . Wszyscy uczniowie klas 1-5 zdali do następnej klasy. Aby zwiększyć wartość w polu klasa o 1 należy użyć polecenia",
+    "text": "Baza danych 6-letniej szkoły podstawowej zawiera tabelę z polami: . Wszyscy uczniowie klas 1-5 zdali do następnej klasy. Aby zwiększyć wartość w polu klasa o 1 należy użyć polecenia",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -4468,7 +4468,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 187,
-    "text": "187. Uprawnienia obiektowe, nadawane użytkownikom serwera bazy danych, mogą pozwalać lub zabraniać",
+    "text": "Uprawnienia obiektowe, nadawane użytkownikom serwera bazy danych, mogą pozwalać lub zabraniać",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -4492,7 +4492,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 188,
-    "text": "188. Przed wykonaniem kopii bezpieczeństwa bazy danych, tak aby kopia ta była poprawna i możliwa do późniejszego odtworzenia, należy sprawdzić",
+    "text": "Przed wykonaniem kopii bezpieczeństwa bazy danych, tak aby kopia ta była poprawna i możliwa do późniejszego odtworzenia, należy sprawdzić",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -4516,7 +4516,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 189,
-    "text": "189. W MS SQL Server polecenie RESTORE DATABASE służy do",
+    "text": "W MS SQL Server polecenie RESTORE DATABASE służy do",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -4540,7 +4540,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 190,
-    "text": "190. W języku PHP zmienna typu float przyjmuje wartości",
+    "text": "W języku PHP zmienna typu float przyjmuje wartości",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -4564,8 +4564,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 191,
-    "text": "191. Dany jest fragment kodu PHP z zdeklarowaną zmienną typu tablicowego. W wyniku wykonania kodu zostanie wpisane imię",
-    "image": "e14/191.jpg",
+    "text": "Dany jest fragment kodu PHP z zdeklarowaną zmienną typu tablicowego. W wyniku wykonania kodu zostanie wpisane imię",
+    "image": "/e14/191.jpg",
     "answers": [
       {
         "id": "A",
@@ -4588,8 +4588,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 192,
-    "text": "192. Przedstawiony kod języka PHP",
-    "image": "e14/192.jpg",
+    "text": "Przedstawiony kod języka PHP",
+    "image": "/e14/192.jpg",
     "answers": [
       {
         "id": "A",
@@ -4612,7 +4612,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 193,
-    "text": "193. W języku JavaScript poprawnie nazwana zmienna to",
+    "text": "W języku JavaScript poprawnie nazwana zmienna to",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -4636,8 +4636,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 194,
-    "text": "194. Zakładając, że zmienne: a, b, c przechowują wartości numeryczne, wynikiem działania warunku będzie wypisanie liczby",
-    "image": "e14/194.jpg",
+    "text": "Zakładając, że zmienne: a, b, c przechowują wartości numeryczne, wynikiem działania warunku będzie wypisanie liczby",
+    "image": "/e14/194.jpg",
     "answers": [
       {
         "id": "A",
@@ -4660,8 +4660,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 195,
-    "text": "195. Fragment kodu języku PHP ma następującą postać. Wynikiem działania pętli będzie wypisanie liczb:",
-    "image": "e14/195.jpg",
+    "text": "Fragment kodu języku PHP ma następującą postać. Wynikiem działania pętli będzie wypisanie liczb:",
+    "image": "/e14/195.jpg",
     "answers": [
       {
         "id": "A",
@@ -4684,8 +4684,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 196,
-    "text": "196. Zadaniem funkcji zapisanej w języku PHP jest",
-    "image": "e14/196.jpg",
+    "text": "Zadaniem funkcji zapisanej w języku PHP jest",
+    "image": "/e14/196.jpg",
     "answers": [
       {
         "id": "A",
@@ -4708,7 +4708,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 197,
-    "text": "197. Wykonanie kodu JavaScript w przeglądarce wymaga",
+    "text": "Wykonanie kodu JavaScript w przeglądarce wymaga",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -4732,7 +4732,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 198,
-    "text": "198. Kod strony WWW napisanej w języku PHP",
+    "text": "Kod strony WWW napisanej w języku PHP",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -4756,8 +4756,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 199,
-    "text": "199. Zakładając, że zmienna tablicowa $tab jest wypełniona liczbami naturalnymi, wynikiem programu będzie wypisanie",
-    "image": "e14/199.jpg",
+    "text": "Zakładając, że zmienna tablicowa $tab jest wypełniona liczbami naturalnymi, wynikiem programu będzie wypisanie",
+    "image": "/e14/199.jpg",
     "answers": [
       {
         "id": "A",
@@ -4780,8 +4780,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 200,
-    "text": "200. Fragment kodu w języku JavaScript realizujący dodawanie dwóch liczb ma następującą postać. Aby dodawanie wykonane było po kliknięciu przycisku o nazwie , należy w wykropkowane miejsce wstawić",
-    "image": "e14/200.jpg",
+    "text": "Fragment kodu w języku JavaScript realizujący dodawanie dwóch liczb ma następującą postać. Aby dodawanie wykonane było po kliknięciu przycisku o nazwie , należy w wykropkowane miejsce wstawić",
+    "image": "/e14/200.jpg",
     "answers": [
       {
         "id": "A",
@@ -4804,7 +4804,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 201,
-    "text": "201. Komentarz w języku JavaScript rozpoczyna się od znaku lub znaków",
+    "text": "Komentarz w języku JavaScript rozpoczyna się od znaku lub znaków",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -4828,7 +4828,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 202,
-    "text": "202. Polecenie pg_connect języka PHP służy do połączenia z bazą",
+    "text": "Polecenie pg_connect języka PHP służy do połączenia z bazą",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -4852,7 +4852,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 203,
-    "text": "203. Aby zamieścić aplikację PHP w internecie, należy jej pliki źródłowe skopiować na serwer za pomocą protokołu",
+    "text": "Aby zamieścić aplikację PHP w internecie, należy jej pliki źródłowe skopiować na serwer za pomocą protokołu",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -4876,7 +4876,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 204,
-    "text": "204. Personalizowanie wyglądu strony dla danego użytkownika i jego identyfikacja w serwisie są możliwe dzięki mechanizmowi",
+    "text": "Personalizowanie wyglądu strony dla danego użytkownika i jego identyfikacja w serwisie są możliwe dzięki mechanizmowi",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -4900,7 +4900,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 205,
-    "text": "205. Automatyczna weryfikacja właściciela strony udostępnianej przez protokół HTTPS jest możliwa dzięki",
+    "text": "Automatyczna weryfikacja właściciela strony udostępnianej przez protokół HTTPS jest możliwa dzięki",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -4924,7 +4924,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 206,
-    "text": "206. Do grupowania obszarów na poziomie bloków, które będą formatowane za pośrednictwem znaczników, należy użyć",
+    "text": "Do grupowania obszarów na poziomie bloków, które będą formatowane za pośrednictwem znaczników, należy użyć",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -4948,7 +4948,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 207,
-    "text": "207. Znacznik <i> języka HTML służy do",
+    "text": "Znacznik <i> języka HTML służy do",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -4972,8 +4972,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 208,
-    "text": "208. Poniżej przedstawiono fragment kodu języka HTML. Jest on definicją listy:",
-    "image": "e14/208.jpg",
+    "text": "Poniżej przedstawiono fragment kodu języka HTML. Jest on definicją listy:",
+    "image": "/e14/208.jpg",
     "answers": [
       {
         "id": "A",
@@ -4996,7 +4996,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 209,
-    "text": "209. Kod języka CSS można umieścić wewnątrz kodu HTML, posługując się znacznikiem",
+    "text": "Kod języka CSS można umieścić wewnątrz kodu HTML, posługując się znacznikiem",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -5020,7 +5020,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 210,
-    "text": "210. Chcąc zdefiniować formatowanie tabeli w języku CSS w taki sposób, aby wiersz, który jest aktualnie wskazywany kursorem myszy, został wyróżniony np. innym kolorem, należy zastosować",
+    "text": "Chcąc zdefiniować formatowanie tabeli w języku CSS w taki sposób, aby wiersz, który jest aktualnie wskazywany kursorem myszy, został wyróżniony np. innym kolorem, należy zastosować",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -5044,7 +5044,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 211,
-    "text": "211. Aby uzyskać efekt rozstrzelenia liter w selektorze CSS, należy użyć właściwości",
+    "text": "Aby uzyskać efekt rozstrzelenia liter w selektorze CSS, należy użyć właściwości",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -5068,7 +5068,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 212,
-    "text": "212. Blok deklaracji postaci background-attachment: scroll powoduje, że",
+    "text": "Blok deklaracji postaci background-attachment: scroll powoduje, że",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -5092,7 +5092,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 213,
-    "text": "213. Ikona, która wyświetlona jest przed adresem, w polu adresowym przeglądarki internetowej lub przy tytule otwartej karty przeglądarki nosi nazwę",
+    "text": "Ikona, która wyświetlona jest przed adresem, w polu adresowym przeglądarki internetowej lub przy tytule otwartej karty przeglądarki nosi nazwę",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -5116,7 +5116,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 214,
-    "text": "214. Aby poprawnie zdefiniować hierarchiczną strukturę tekstu witryny internetowej, należy zastosować",
+    "text": "Aby poprawnie zdefiniować hierarchiczną strukturę tekstu witryny internetowej, należy zastosować",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -5140,7 +5140,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 215,
-    "text": "215. Która z reguł walidacji strony internetowej jest błędna?",
+    "text": "Która z reguł walidacji strony internetowej jest błędna?",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -5164,7 +5164,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 216,
-    "text": "216. Oznaczenie barwy w postaci #ff00e0 jest równoważne zapisowi",
+    "text": "Oznaczenie barwy w postaci #ff00e0 jest równoważne zapisowi",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -5188,7 +5188,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 217,
-    "text": "217. Formatem zapisu rastrowych plików graficznych z kompresją bezstratną jest",
+    "text": "Formatem zapisu rastrowych plików graficznych z kompresją bezstratną jest",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -5212,7 +5212,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 218,
-    "text": "218. Podczas obróbki grafiki rastrowej w programie z obsługą kanałów dodanie kanału alfa oznacza",
+    "text": "Podczas obróbki grafiki rastrowej w programie z obsługą kanałów dodanie kanału alfa oznacza",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -5236,7 +5236,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 219,
-    "text": "219. Aby pozbyć się nienaturalnego odwzorowania ukośnych krawędzi linii w grafice rastrowej, czyli tak zwanego schodkowania, należy zastosować filtr",
+    "text": "Aby pozbyć się nienaturalnego odwzorowania ukośnych krawędzi linii w grafice rastrowej, czyli tak zwanego schodkowania, należy zastosować filtr",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -5260,7 +5260,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 220,
-    "text": "220. Formatem bezstratnej kompresji dźwięku jest",
+    "text": "Formatem bezstratnej kompresji dźwięku jest",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -5284,7 +5284,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 221,
-    "text": "221. W języku SQL polecenie INSERT INTO",
+    "text": "W języku SQL polecenie INSERT INTO",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -5308,7 +5308,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 222,
-    "text": "222. W języku SQL klauzula DISTINCT instrukcji SELECT sprawi, że zwrócone dane",
+    "text": "W języku SQL klauzula DISTINCT instrukcji SELECT sprawi, że zwrócone dane",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -5332,7 +5332,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 223,
-    "text": "223. Zdefiniowano bazę danych z tabelą sklepy o polach: nazwa, ulica, miasto, branza. Aby wyszukać wszystkie nazwy sklepów spożywczych zlokalizowanych wyłącznie we Wrocławiu, należy posłużyć się kwerendą:",
+    "text": "Zdefiniowano bazę danych z tabelą sklepy o polach: nazwa, ulica, miasto, branza. Aby wyszukać wszystkie nazwy sklepów spożywczych zlokalizowanych wyłącznie we Wrocławiu, należy posłużyć się kwerendą:",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -5356,7 +5356,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 224,
-    "text": "224. Zdefiniowano bazę danych z tabelą podzespoły o polach: model, producent, typ, cena. Aby wyświetlić wszystkie modele pamięci RAM firmy Kingston w kolejności od najtańszej do najdroższej, należy posłużyć się kwerendą:",
+    "text": "Zdefiniowano bazę danych z tabelą podzespoły o polach: model, producent, typ, cena. Aby wyświetlić wszystkie modele pamięci RAM firmy Kingston w kolejności od najtańszej do najdroższej, należy posłużyć się kwerendą:",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -5380,7 +5380,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 225,
-    "text": "225. W celu przyspieszenia operacji na bazie danych należy do pól często wyszukiwanych lub sortowanych",
+    "text": "W celu przyspieszenia operacji na bazie danych należy do pól często wyszukiwanych lub sortowanych",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -5404,7 +5404,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 226,
-    "text": "226. Jednoznacznym identyfikatorem rekordu w bazie danych jest pole",
+    "text": "Jednoznacznym identyfikatorem rekordu w bazie danych jest pole",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -5428,7 +5428,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 227,
-    "text": "227. Zdefiniowano bazę danych z tabelą mieszkancy o polach: nazwisko, imie, miasto. Następnie stworzono następujące zapytanie do bazy: SELECT nazwisko, imie FROM mieszkancy WHERE miasto=\"Poznań\" UNION ALL SELECT nazwisko, imie FROM mieszkancy WHERE miasto=\"Kraków\"; Wskaż zapytanie, które zwróci identyczne dane:",
+    "text": "Zdefiniowano bazę danych z tabelą mieszkancy o polach: nazwisko, imie, miasto. Następnie stworzono następujące zapytanie do bazy: SELECT nazwisko, imie FROM mieszkancy WHERE miasto=\"Poznań\" UNION ALL SELECT nazwisko, imie FROM mieszkancy WHERE miasto=\"Kraków\"; Wskaż zapytanie, które zwróci identyczne dane:",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -5452,7 +5452,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 228,
-    "text": "228. W bazie danych sklepu istnieje tabela artykuly zawierająca pole o nazwie nowy. Aby to pole wypełnić wartościami TRUE dla każdego rekordu, należy zastosować kwerendę",
+    "text": "W bazie danych sklepu istnieje tabela artykuly zawierająca pole o nazwie nowy. Aby to pole wypełnić wartościami TRUE dla każdego rekordu, należy zastosować kwerendę",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -5476,7 +5476,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 229,
-    "text": "229. W MS SQL Server predefiniowana rola o nazwie dbcreator pozwala użytkownikowi na",
+    "text": "W MS SQL Server predefiniowana rola o nazwie dbcreator pozwala użytkownikowi na",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -5500,7 +5500,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 230,
-    "text": "230. Aby odebrać prawa dostępu do serwera MySQL, należy posłużyć się instrukcją",
+    "text": "Aby odebrać prawa dostępu do serwera MySQL, należy posłużyć się instrukcją",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -5524,7 +5524,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 231,
-    "text": "231. Za pomocą polecenia BACKUP LOG w MS SQL Server można",
+    "text": "Za pomocą polecenia BACKUP LOG w MS SQL Server można",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -5548,7 +5548,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 232,
-    "text": "232. Polecenie DBCC CHECKDB(\"sklepAGD\", Repair_fast) w MS SQL Server",
+    "text": "Polecenie DBCC CHECKDB(\"sklepAGD\", Repair_fast) w MS SQL Server",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -5572,7 +5572,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 233,
-    "text": "233. Aby naprawić bazę danych w MySQL, należy użyć polecenia",
+    "text": "Aby naprawić bazę danych w MySQL, należy użyć polecenia",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -5596,7 +5596,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 234,
-    "text": "234. Aby zdefiniować łamanie linii tekstu, np. w zmiennej napisowej, należy posłużyć się znakiem",
+    "text": "Aby zdefiniować łamanie linii tekstu, np. w zmiennej napisowej, należy posłużyć się znakiem",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -5620,8 +5620,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 235,
-    "text": "235. Dana jest tablica n-elementowa o nazwie t[n]. Zadaniem algorytmu zapisanego w postaci listy kroków jest wypisania sumy",
-    "image": "e14/235.jpg",
+    "text": "Dana jest tablica n-elementowa o nazwie t[n]. Zadaniem algorytmu zapisanego w postaci listy kroków jest wypisania sumy",
+    "image": "/e14/235.jpg",
     "answers": [
       {
         "id": "A",
@@ -5644,7 +5644,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 236,
-    "text": "236. Interpreter PHP wygeneruje błąd i nie wykona kodu, jeżeli programista:",
+    "text": "Interpreter PHP wygeneruje błąd i nie wykona kodu, jeżeli programista:",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -5668,8 +5668,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 237,
-    "text": "237. Dana jest tablica o nazwie tab wypełniona liczbami całkowitymi różnymi od zera. Przedstawiony kod zapisany w języku PHP ma za zadanie:",
-    "image": "e14/237.jpg",
+    "text": "Dana jest tablica o nazwie tab wypełniona liczbami całkowitymi różnymi od zera. Przedstawiony kod zapisany w języku PHP ma za zadanie:",
+    "image": "/e14/237.jpg",
     "answers": [
       {
         "id": "A",
@@ -5692,8 +5692,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 238,
-    "text": "238. Warunek zapisany w JavaScript jest prawdziwy, gdy zmienna x przechowuje",
-    "image": "e14/238.jpg",
+    "text": "Warunek zapisany w JavaScript jest prawdziwy, gdy zmienna x przechowuje",
+    "image": "/e14/238.jpg",
     "answers": [
       {
         "id": "A",
@@ -5716,8 +5716,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 239,
-    "text": "239. Przedstawiona funkcja zapisana kodem JavaScript ma za zadanie:",
-    "image": "e14/239.jpg",
+    "text": "Przedstawiona funkcja zapisana kodem JavaScript ma za zadanie:",
+    "image": "/e14/239.jpg",
     "answers": [
       {
         "id": "A",
@@ -5740,7 +5740,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 240,
-    "text": "240. Program debugger służy do:",
+    "text": "Program debugger służy do:",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -5764,7 +5764,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 241,
-    "text": "241. Funkcja phpinfo() pozwala na:",
+    "text": "Funkcja phpinfo() pozwala na:",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -5788,7 +5788,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 242,
-    "text": "242. Którego języka należy użyć, aby zapisać skrypt wykonywany po stronie klienta w przegladarce internetowej?",
+    "text": "Którego języka należy użyć, aby zapisać skrypt wykonywany po stronie klienta w przegladarce internetowej?",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -5812,7 +5812,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 243,
-    "text": "243. W języku PHP pobrano z bazy danych wyniki działania kwerendy za pomocą polecenia mysql_query(). Aby otrzymać ze zwróconej kwerendy wierszy danych, należy zastosować polecenie:",
+    "text": "W języku PHP pobrano z bazy danych wyniki działania kwerendy za pomocą polecenia mysql_query(). Aby otrzymać ze zwróconej kwerendy wierszy danych, należy zastosować polecenie:",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -5836,7 +5836,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 244,
-    "text": "244. Błędy interpretacji kodu PHP są zapisane:",
+    "text": "Błędy interpretacji kodu PHP są zapisane:",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -5860,7 +5860,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 245,
-    "text": "245. Do uruchomienia systemu CMS Joomla! wymagane jest środowisko:",
+    "text": "Do uruchomienia systemu CMS Joomla! wymagane jest środowisko:",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -5884,7 +5884,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 246,
-    "text": "246. W języku HTML, aby uzyskać następujący efekt pogrubienia, pochylenia lub zapisania w górnym indeksie należy zapisać kod:",
+    "text": "W języku HTML, aby uzyskać następujący efekt pogrubienia, pochylenia lub zapisania w górnym indeksie należy zapisać kod:",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -5908,7 +5908,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 247,
-    "text": "247. W kodzie HTML zapisano w bloku tekst formatowany pewnym stylem. Aby wtrącić wewnątrz tekstu kilka słów formatowanych innym stylem, należy zastosować znacznik",
+    "text": "W kodzie HTML zapisano w bloku tekst formatowany pewnym stylem. Aby wtrącić wewnątrz tekstu kilka słów formatowanych innym stylem, należy zastosować znacznik",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -5932,7 +5932,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 248,
-    "text": "248. Który z zapisów znacznika <meta> jest prawidłowy ze względu na wykorzystane atrybuty?",
+    "text": "Który z zapisów znacznika <meta> jest prawidłowy ze względu na wykorzystane atrybuty?",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -5956,7 +5956,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 249,
-    "text": "249. Który z wymienionych znaczników należy do części <head> dokumentu HTML?",
+    "text": "Który z wymienionych znaczników należy do części <head> dokumentu HTML?",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -5980,8 +5980,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 250,
-    "text": "250. W języku CSS poniższy zapis sprawi, że koloru zielonego będzie",
-    "image": "e14/250.jpg",
+    "text": "W języku CSS poniższy zapis sprawi, że koloru zielonego będzie",
+    "image": "/e14/250.jpg",
     "answers": [
       {
         "id": "A",
@@ -6004,7 +6004,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 251,
-    "text": "251. W języku CSS, aby formatować tekst poprzez przekreślenie, podkreślenie dolne lub górne, należy zastosować",
+    "text": "W języku CSS, aby formatować tekst poprzez przekreślenie, podkreślenie dolne lub górne, należy zastosować",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -6028,8 +6028,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 252,
-    "text": "252. W języku CSS poniższy zapis sprawi, że kolor żółty przyjmie czcionka",
-    "image": "e14/252.jpg",
+    "text": "W języku CSS poniższy zapis sprawi, że kolor żółty przyjmie czcionka",
+    "image": "/e14/252.jpg",
     "answers": [
       {
         "id": "A",
@@ -6052,8 +6052,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 253,
-    "text": "253. W języku CSS poniższy zapis użyty na stronie, na której jest kilka paragrafów, a każdy z nich ma po kilka linii sprawi, że",
-    "image": "e14/253.jpg",
+    "text": "W języku CSS poniższy zapis użyty na stronie, na której jest kilka paragrafów, a każdy z nich ma po kilka linii sprawi, że",
+    "image": "/e14/253.jpg",
     "answers": [
       {
         "id": "A",
@@ -6076,7 +6076,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 254,
-    "text": "254. Który znacznik lub grupa znaczników nie są stosowane do definiowania struktury strony HTML?",
+    "text": "Który znacznik lub grupa znaczników nie są stosowane do definiowania struktury strony HTML?",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -6100,8 +6100,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 255,
-    "text": "255. Który z przedstawionych kodów HTML sformatuje tekst według wzoru? (uwaga: słowo \"stacji\" jest zapisane większą czcionką niż reszta słów w tej linii)",
-    "image": "e14/255.jpg",
+    "text": "Który z przedstawionych kodów HTML sformatuje tekst według wzoru? (uwaga: słowo \"stacji\" jest zapisane większą czcionką niż reszta słów w tej linii)",
+    "image": "/e14/255.jpg",
     "answers": [
       {
         "id": "A",
@@ -6124,7 +6124,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 256,
-    "text": "256. Kolor zapisany w postaci szesnastkowej o wartości #11FE07 w kodzie RGB ma postać",
+    "text": "Kolor zapisany w postaci szesnastkowej o wartości #11FE07 w kodzie RGB ma postać",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -6148,7 +6148,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 257,
-    "text": "257. Które ze zdań jest prawdziwe w stosunku do grafiki rastrowej?",
+    "text": "Które ze zdań jest prawdziwe w stosunku do grafiki rastrowej?",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -6172,7 +6172,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 258,
-    "text": "258. Który z formatów grafiki jest najbardziej odpowiedni do zapisu obrazu z przezroczystością na potrzeby strony internetowej?",
+    "text": "Który z formatów grafiki jest najbardziej odpowiedni do zapisu obrazu z przezroczystością na potrzeby strony internetowej?",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -6196,7 +6196,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 259,
-    "text": "259. W czasie przetwarzania dźwięku, aby pozbyć się niechcianych odgłosów spowodowanych złą jakością mikrofonu, należy zastosować narzędzie",
+    "text": "W czasie przetwarzania dźwięku, aby pozbyć się niechcianych odgłosów spowodowanych złą jakością mikrofonu, należy zastosować narzędzie",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -6220,7 +6220,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 260,
-    "text": "260. Aby obraz zmieniał się płynnie w filmie, liczba klatek (nieprzenikających się wzajemnie) na sekundę musi znajdować się przynajmniej w zakresie",
+    "text": "Aby obraz zmieniał się płynnie w filmie, liczba klatek (nieprzenikających się wzajemnie) na sekundę musi znajdować się przynajmniej w zakresie",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -6244,7 +6244,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 261,
-    "text": "261. W poleceniu CREATE TABLE języku SQL atrybut określający, która kolumna tabeli jest kluczem podstawowym, to",
+    "text": "W poleceniu CREATE TABLE języku SQL atrybut określający, która kolumna tabeli jest kluczem podstawowym, to",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -6268,7 +6268,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 262,
-    "text": "262. Dana jest tabela psy o polach: imie, rasa, telefon_wlasciciela, rok_szczepienia. Aby wyszukać telefony właścicieli, których psy były szczepione przed 2015 rokiem, należy użyć polecenia SQL",
+    "text": "Dana jest tabela psy o polach: imie, rasa, telefon_wlasciciela, rok_szczepienia. Aby wyszukać telefony właścicieli, których psy były szczepione przed 2015 rokiem, należy użyć polecenia SQL",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -6292,8 +6292,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 263,
-    "text": "263. Na rysunku została przedstawiona relacja jeden do wielu. Łączy ona",
-    "image": "e14/263.jpg",
+    "text": "Na rysunku została przedstawiona relacja jeden do wielu. Łączy ona",
+    "image": "/e14/263.jpg",
     "answers": [
       {
         "id": "A",
@@ -6316,7 +6316,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 264,
-    "text": "264. W bazie danych sklepu spożywczego pod koniec dnia jest tworzony raport wyświetlający te produkty wraz z ich dostawcami, dla których stan magazynowy jest mniejszy niż 10 sztuk. Do zdefiniowania tego raportu posłużono się kwerendą",
+    "text": "W bazie danych sklepu spożywczego pod koniec dnia jest tworzony raport wyświetlający te produkty wraz z ich dostawcami, dla których stan magazynowy jest mniejszy niż 10 sztuk. Do zdefiniowania tego raportu posłużono się kwerendą",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -6340,7 +6340,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 265,
-    "text": "265. Wskaż polecenie SQL dodające pole miesiacSiewu do istniejącej tabeli rosliny",
+    "text": "Wskaż polecenie SQL dodające pole miesiacSiewu do istniejącej tabeli rosliny",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -6364,8 +6364,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 266,
-    "text": "266. Polecenie serwera MySQL przedstawione poniżej sprawi, że użytkownikowi tkowal zostaną",
-    "image": "e14/266.jpg",
+    "text": "Polecenie serwera MySQL przedstawione poniżej sprawi, że użytkownikowi tkowal zostaną",
+    "image": "/e14/266.jpg",
     "answers": [
       {
         "id": "A",
@@ -6388,7 +6388,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 267,
-    "text": "267. W serwerze MySQL nadanie roli o nazwie DBManager przyznaje użytkownikowi prawa umożliwiające",
+    "text": "W serwerze MySQL nadanie roli o nazwie DBManager przyznaje użytkownikowi prawa umożliwiające",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -6412,8 +6412,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 268,
-    "text": "268. W bazie danych wykonano następujące polecenie dotyczące praw użytkownika adam. Po wykonaniu poleceń użytkownik adam będzie miał prawa do",
-    "image": "e14/268.jpg",
+    "text": "W bazie danych wykonano następujące polecenie dotyczące praw użytkownika adam. Po wykonaniu poleceń użytkownik adam będzie miał prawa do",
+    "image": "/e14/268.jpg",
     "answers": [
       {
         "id": "A",
@@ -6436,7 +6436,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 269,
-    "text": "269. Wskaż poprawną zasadę dotyczącą spójności danych w bazie danych",
+    "text": "Wskaż poprawną zasadę dotyczącą spójności danych w bazie danych",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -6460,7 +6460,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 270,
-    "text": "270. Aby naprawić uszkodzoną tabelę w MySQL, należy wydać polecenie",
+    "text": "Aby naprawić uszkodzoną tabelę w MySQL, należy wydać polecenie",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -6484,8 +6484,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 271,
-    "text": "271. W formularzu dane z pola input o typie number zostały zapisane do zmiennej a, a następnie przetworzone w skrypcie JavaScript w następujący sposób. Zmienna z będzie typu",
-    "image": "e14/271.jpg",
+    "text": "W formularzu dane z pola input o typie number zostały zapisane do zmiennej a, a następnie przetworzone w skrypcie JavaScript w następujący sposób. Zmienna z będzie typu",
+    "image": "/e14/271.jpg",
     "answers": [
       {
         "id": "A",
@@ -6508,7 +6508,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 272,
-    "text": "272. Aby w pliku z rozszerzeniem php umieścić kod w języku PHP należy użyć znaczników",
+    "text": "Aby w pliku z rozszerzeniem php umieścić kod w języku PHP należy użyć znaczników",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -6532,8 +6532,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 273,
-    "text": "273. Ile iteracji będzie miała pętla zapisana w języku PHP, zakładając, że zmienna sterująca nie jest modyfikowana we wnętrzu pętli?",
-    "image": "e14/273.jpg",
+    "text": "Ile iteracji będzie miała pętla zapisana w języku PHP, zakładając, że zmienna sterująca nie jest modyfikowana we wnętrzu pętli?",
+    "image": "/e14/273.jpg",
     "answers": [
       {
         "id": "A",
@@ -6556,7 +6556,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 274,
-    "text": "274. W JavaScript wynik operacji jest równy wartości NaN, jeśli skrypt próbował wykonać",
+    "text": "W JavaScript wynik operacji jest równy wartości NaN, jeśli skrypt próbował wykonać",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -6580,7 +6580,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 275,
-    "text": "275. W instrukcji warunkowej języka JavaScript należy sprawdzić przypadek, gdy wartość zmiennej a jest z przedziału (0, 100), natomiast wartość zmiennej b jest większa od zera. Warunek taki jest prawidłowo zapisany w nastepujący sposób",
+    "text": "W instrukcji warunkowej języka JavaScript należy sprawdzić przypadek, gdy wartość zmiennej a jest z przedziału (0, 100), natomiast wartość zmiennej b jest większa od zera. Warunek taki jest prawidłowo zapisany w nastepujący sposób",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -6604,8 +6604,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 276,
-    "text": "276. Dla dowolnego a z przedziału (0,99) zadaniem funkcji zapisanej w języku Java Script jest:",
-    "image": "e14/276.jpg",
+    "text": "Dla dowolnego a z przedziału (0,99) zadaniem funkcji zapisanej w języku Java Script jest:",
+    "image": "/e14/276.jpg",
     "answers": [
       {
         "id": "A",
@@ -6628,8 +6628,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 277,
-    "text": "277. Zapis w języku JavaScript ma za zadanie",
-    "image": "e14/277.jpg",
+    "text": "Zapis w języku JavaScript ma za zadanie",
+    "image": "/e14/277.jpg",
     "answers": [
       {
         "id": "A",
@@ -6652,7 +6652,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 278,
-    "text": "278. Aby wykonać kod zapisany językiem PHP wystarczy, że w systemie zainstalowano",
+    "text": "Aby wykonać kod zapisany językiem PHP wystarczy, że w systemie zainstalowano",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -6676,8 +6676,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 279,
-    "text": "279. Pętla zapisana w języku PHP wstawi do tablicy liczby",
-    "image": "e14/279.jpg",
+    "text": "Pętla zapisana w języku PHP wstawi do tablicy liczby",
+    "image": "/e14/279.jpg",
     "answers": [
       {
         "id": "A",
@@ -6700,7 +6700,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 280,
-    "text": "280. Wymaganiem aplikacji internetowej jest, aby ta była wykonywana po stronie klienta. W którym języku należy zaimplementować tę aplikację?",
+    "text": "Wymaganiem aplikacji internetowej jest, aby ta była wykonywana po stronie klienta. W którym języku należy zaimplementować tę aplikację?",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -6724,7 +6724,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 281,
-    "text": "281. Zadaniem funkcji PHP o nazwie mysql_num_rows() jest",
+    "text": "Zadaniem funkcji PHP o nazwie mysql_num_rows() jest",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -6748,8 +6748,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 282,
-    "text": "282. Jaka treść komunikatu powinna być wstawiona w przedstawionym kodzie PHP zamiast znaków zapytania?",
-    "image": "e14/282.jpg",
+    "text": "Jaka treść komunikatu powinna być wstawiona w przedstawionym kodzie PHP zamiast znaków zapytania?",
+    "image": "/e14/282.jpg",
     "answers": [
       {
         "id": "A",
@@ -6772,7 +6772,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 283,
-    "text": "283. Testy aplikacji internetowej mające za zadanie sprawdzenie skalowalności aplikacji i bazy danych oraz architektury serwera i konfiguracji noszą nazwę testów",
+    "text": "Testy aplikacji internetowej mające za zadanie sprawdzenie skalowalności aplikacji i bazy danych oraz architektury serwera i konfiguracji noszą nazwę testów",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -6796,8 +6796,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 284,
-    "text": "284. Aby prawidłowo udokumentować linię kodu języka Java Script, należy po znakach // wpisać komentarz",
-    "image": "e14/284.jpg",
+    "text": "Aby prawidłowo udokumentować linię kodu języka Java Script, należy po znakach // wpisać komentarz",
+    "image": "/e14/284.jpg",
     "answers": [
       {
         "id": "A",
@@ -6820,7 +6820,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 285,
-    "text": "285. Aby stronę WWW można było przesłać do przeglądarki internetowej w postaci zaszyfrowanej, należy użyć protokołu",
+    "text": "Aby stronę WWW można było przesłać do przeglądarki internetowej w postaci zaszyfrowanej, należy użyć protokołu",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -6844,8 +6844,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 286,
-    "text": "286. W języku HTML, aby uzyskać efekt jak na przykładzie, należy zastosować konstrukcję",
-    "image": "e14/286.jpg",
+    "text": "W języku HTML, aby uzyskać efekt jak na przykładzie, należy zastosować konstrukcję",
+    "image": "/e14/286.jpg",
     "answers": [
       {
         "id": "A",
@@ -6868,8 +6868,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 287,
-    "text": "287. Zapis znacznika HTML w postaci",
-    "image": "e14/287.jpg",
+    "text": "Zapis znacznika HTML w postaci",
+    "image": "/e14/287.jpg",
     "answers": [
       {
         "id": "A",
@@ -6892,8 +6892,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 288,
-    "text": "288. W części nagłówkowej kodu HTML zapisano tekst przedstawiony na obrazku. Zapisany tekst zostanie wyświetlony",
-    "image": "e14/288.jpg",
+    "text": "W części nagłówkowej kodu HTML zapisano tekst przedstawiony na obrazku. Zapisany tekst zostanie wyświetlony",
+    "image": "/e14/288.jpg",
     "answers": [
       {
         "id": "A",
@@ -6916,8 +6916,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 289,
-    "text": "289. Przeglądarka internetowa wyświetliła stronę w następujący sposób. Wskaż kod HTML, który poprawnie definiuje przedstawioną hierarchiczną strukturę tekstu:",
-    "image": "e14/289.jpg",
+    "text": "Przeglądarka internetowa wyświetliła stronę w następujący sposób. Wskaż kod HTML, który poprawnie definiuje przedstawioną hierarchiczną strukturę tekstu:",
+    "image": "/e14/289.jpg",
     "answers": [
       {
         "id": "A",
@@ -6940,8 +6940,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 290,
-    "text": "290. W języku CSS, przedstawiony zapis sprawi, że plik rysunek.png będzie",
-    "image": "e14/290.jpg",
+    "text": "W języku CSS, przedstawiony zapis sprawi, że plik rysunek.png będzie",
+    "image": "/e14/290.jpg",
     "answers": [
       {
         "id": "A",
@@ -6964,7 +6964,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 291,
-    "text": "291. W języku CSS, aby zdefiniować niestandardowe odstępy między wyrazami, stosuje się właściwość",
+    "text": "W języku CSS, aby zdefiniować niestandardowe odstępy między wyrazami, stosuje się właściwość",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -6988,8 +6988,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 292,
-    "text": "292. W języku CSS zdefiniowano następujące formatowanie. Oznacza to, że kolorem niebieskim zostanie zapisany",
-    "image": "e14/292.jpg",
+    "text": "W języku CSS zdefiniowano następujące formatowanie. Oznacza to, że kolorem niebieskim zostanie zapisany",
+    "image": "/e14/292.jpg",
     "answers": [
       {
         "id": "A",
@@ -7012,8 +7012,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 293,
-    "text": "293. W języku CSS, zapis w następującej postaci sprawi, iż koloru czerwonego będzie",
-    "image": "e14/293.jpg",
+    "text": "W języku CSS, zapis w następującej postaci sprawi, iż koloru czerwonego będzie",
+    "image": "/e14/293.jpg",
     "answers": [
       {
         "id": "A",
@@ -7036,7 +7036,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 294,
-    "text": "294. W języku HTML informacje dotyczące autora, streszczenia i słów kluczowych strony należy umieścić",
+    "text": "W języku HTML informacje dotyczące autora, streszczenia i słów kluczowych strony należy umieścić",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -7060,8 +7060,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 295,
-    "text": "295. Który z przedstawionych kodów XHTML sformatuje tekst według podanego wzoru?",
-    "image": "e14/295.jpg",
+    "text": "Który z przedstawionych kodów XHTML sformatuje tekst według podanego wzoru?",
+    "image": "/e14/295.jpg",
     "answers": [
       {
         "id": "A",
@@ -7084,7 +7084,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 296,
-    "text": "296. Kolor zapisany kodem RGB o wartości rgb(128, 16, 8) w postaci szesnastkowej ma wartość",
+    "text": "Kolor zapisany kodem RGB o wartości rgb(128, 16, 8) w postaci szesnastkowej ma wartość",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -7108,7 +7108,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 297,
-    "text": "297. Które ze zdań opisuje grafikę wektorową?",
+    "text": "Które ze zdań opisuje grafikę wektorową?",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -7132,7 +7132,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 298,
-    "text": "298. Aby zbadać rozkład ilościowy poszczególnych kolorów zdjęcia, należy użyć",
+    "text": "Aby zbadać rozkład ilościowy poszczególnych kolorów zdjęcia, należy użyć",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -7156,7 +7156,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 299,
-    "text": "299. W standardzie HDTV jest stosowana rozdzielczość",
+    "text": "W standardzie HDTV jest stosowana rozdzielczość",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -7180,7 +7180,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 300,
-    "text": "300. Którą klauzulę powinno się zastosować w poleceniu CREATE TABLE języka SQL, aby dane pole rekordu nie było puste?",
+    "text": "Którą klauzulę powinno się zastosować w poleceniu CREATE TABLE języka SQL, aby dane pole rekordu nie było puste?",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -7204,8 +7204,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 301,
-    "text": "301. Polecenie języka SQL w postaci",
-    "image": "e14/301.jpg",
+    "text": "Polecenie języka SQL w postaci",
+    "image": "/e14/301.jpg",
     "answers": [
       {
         "id": "A",
@@ -7228,7 +7228,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 302,
-    "text": "302. W bazie danych hurtowni zdefiniowano tabelę sprzedaz o polach: id, kontrahent, grupa_cenowa, obrot. Aby wyszukać wyłącznie kontrahentów z drugiej grupy cenowej, których obrót jest większy niż 4000zł, należy zastosować polecenie",
+    "text": "W bazie danych hurtowni zdefiniowano tabelę sprzedaz o polach: id, kontrahent, grupa_cenowa, obrot. Aby wyszukać wyłącznie kontrahentów z drugiej grupy cenowej, których obrót jest większy niż 4000zł, należy zastosować polecenie",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -7252,7 +7252,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 303,
-    "text": "303. Dana jest tabela programiści o polach: id, nick, ilosc_kodu, ocena. Pole ilosc_kodu zawiera liczbę linii kodu napisanych przez programistę w danym miesiącu. Aby policzyć sumę linii kodu, który napisali wszyscy programiści, należy użyć polecenia",
+    "text": "Dana jest tabela programiści o polach: id, nick, ilosc_kodu, ocena. Pole ilosc_kodu zawiera liczbę linii kodu napisanych przez programistę w danym miesiącu. Aby policzyć sumę linii kodu, który napisali wszyscy programiści, należy użyć polecenia",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -7276,7 +7276,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 304,
-    "text": "304. W instrukcji CREATE TABLE użycie klauzuli PRIMARY KEY przy deklaracji pola tabeli spowoduje, że pole to stanie się",
+    "text": "W instrukcji CREATE TABLE użycie klauzuli PRIMARY KEY przy deklaracji pola tabeli spowoduje, że pole to stanie się",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -7300,7 +7300,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 305,
-    "text": "305. Baza danych księgarni zawiera tabelę ksiazki z polami: id, idAutor, tytul, ileSprzedanych oraz tabelę autorzy z polami: id, imie, nazwisko. Aby stworzyć raport sprzedanych książek z tytułami i nazwiskami autorów, należy",
+    "text": "Baza danych księgarni zawiera tabelę ksiazki z polami: id, idAutor, tytul, ileSprzedanych oraz tabelę autorzy z polami: id, imie, nazwisko. Aby stworzyć raport sprzedanych książek z tytułami i nazwiskami autorów, należy",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -7324,7 +7324,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 306,
-    "text": "306. Istnieje tabela pracownicy z polami: id, imie, nazwisko, pensja. W nowym roku postawiono podnieść pensję wszystkim pracownikom o 100 zł. Aktualizacja ta w bazie danych będzie miała postać",
+    "text": "Istnieje tabela pracownicy z polami: id, imie, nazwisko, pensja. W nowym roku postawiono podnieść pensję wszystkim pracownikom o 100 zł. Aktualizacja ta w bazie danych będzie miała postać",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -7348,8 +7348,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 307,
-    "text": "307. W tabeli artykuly wykonano następujące polecenia dotyczące praw użytkowania jan. Po wykonaniu poleceń użytkownik jan będzie miał prawa do",
-    "image": "e14/307.jpg",
+    "text": "W tabeli artykuly wykonano następujące polecenia dotyczące praw użytkowania jan. Po wykonaniu poleceń użytkownik jan będzie miał prawa do",
+    "image": "/e14/307.jpg",
     "answers": [
       {
         "id": "A",
@@ -7372,7 +7372,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 308,
-    "text": "308. Aby przywrócić bazę danych MS SQL z kopii bezpieczeństwa, należy zastosować polecenie",
+    "text": "Aby przywrócić bazę danych MS SQL z kopii bezpieczeństwa, należy zastosować polecenie",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -7396,7 +7396,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 309,
-    "text": "309. Baza danych MySQL uległa uszkodzeniu. Które z działań NIE pomoże przy jej naprawie?",
+    "text": "Baza danych MySQL uległa uszkodzeniu. Które z działań NIE pomoże przy jej naprawie?",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -7420,8 +7420,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 310,
-    "text": "310. W formularzu, dane z pola input o typie number zostały zapisane do zmiennej a, a następnie przetworzone w skrypcie JavaScript w następujący sposób. Zmienna x będzie typu",
-    "image": "e14/310.jpg",
+    "text": "W formularzu, dane z pola input o typie number zostały zapisane do zmiennej a, a następnie przetworzone w skrypcie JavaScript w następujący sposób. Zmienna x będzie typu",
+    "image": "/e14/310.jpg",
     "answers": [
       {
         "id": "A",
@@ -7444,7 +7444,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 311,
-    "text": "311. Wstawki kodu JavaScript w dokumencie HTML mogą się znaleźć",
+    "text": "Wstawki kodu JavaScript w dokumencie HTML mogą się znaleźć",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -7468,8 +7468,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 312,
-    "text": "312. W przedstawonym kodzie JavaScript dla ułatwienia ponumerowano linie. W kodzie znajduje się błąd, gdyż po uruchomieniu żaden komunikat nie zostaje wyświetlony. Aby wyeliminować błąd, należy",
-    "image": "e14/312.jpg",
+    "text": "W przedstawonym kodzie JavaScript dla ułatwienia ponumerowano linie. W kodzie znajduje się błąd, gdyż po uruchomieniu żaden komunikat nie zostaje wyświetlony. Aby wyeliminować błąd, należy",
+    "image": "/e14/312.jpg",
     "answers": [
       {
         "id": "A",
@@ -7492,8 +7492,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 313,
-    "text": "313. Ile iteracji będzie miała przedstawiona pętla zapisana w języku PHP, zakładając, że zmienna sterująca nie jest modyfikowana we wnętrzu pętli?",
-    "image": "e14/313.jpg",
+    "text": "Ile iteracji będzie miała przedstawiona pętla zapisana w języku PHP, zakładając, że zmienna sterująca nie jest modyfikowana we wnętrzu pętli?",
+    "image": "/e14/313.jpg",
     "answers": [
       {
         "id": "A",
@@ -7516,7 +7516,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 314,
-    "text": "314. W języku JavaScript metoda document.getElementById(id) ma za zadanie",
+    "text": "W języku JavaScript metoda document.getElementById(id) ma za zadanie",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -7540,7 +7540,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 315,
-    "text": "315. W instrukcji warunkowej JavaScript należy sprawdzić przypadek, gdy zmienne a oraz b są dodatnie, z czego zmienna b jest mniejsza od 100. Warunek taki powinien być zapisany w następujący sposób:",
+    "text": "W instrukcji warunkowej JavaScript należy sprawdzić przypadek, gdy zmienne a oraz b są dodatnie, z czego zmienna b jest mniejsza od 100. Warunek taki powinien być zapisany w następujący sposób:",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -7564,8 +7564,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 316,
-    "text": "316. Zadaniem przedstawionej funkcji zapisanej w języku JavaScript jest",
-    "image": "e14/316.jpg",
+    "text": "Zadaniem przedstawionej funkcji zapisanej w języku JavaScript jest",
+    "image": "/e14/316.jpg",
     "answers": [
       {
         "id": "A",
@@ -7588,8 +7588,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 317,
-    "text": "317. Przedstawiony kod został zapisany w języku JavaScript. W podanej definicji obiektu metodą jest element o nazwie",
-    "image": "e14/317.jpg",
+    "text": "Przedstawiony kod został zapisany w języku JavaScript. W podanej definicji obiektu metodą jest element o nazwie",
+    "image": "/e14/317.jpg",
     "answers": [
       {
         "id": "A",
@@ -7612,7 +7612,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 318,
-    "text": "318. Aby uzyskać informacje o środowisku pracy serwera obsługującego PHP, należy skorzystać z funkcji",
+    "text": "Aby uzyskać informacje o środowisku pracy serwera obsługującego PHP, należy skorzystać z funkcji",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -7636,8 +7636,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 319,
-    "text": "319. Fragment kodu w języku PHP wypisze",
-    "image": "e14/319.jpg",
+    "text": "Fragment kodu w języku PHP wypisze",
+    "image": "/e14/319.jpg",
     "answers": [
       {
         "id": "A",
@@ -7660,7 +7660,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 320,
-    "text": "320. Do uruchomienia skryptu JavaScript wymagane jest oprogramowanie",
+    "text": "Do uruchomienia skryptu JavaScript wymagane jest oprogramowanie",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -7684,7 +7684,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 321,
-    "text": "321. Zadaniem funkcji PHP o nazwie mysql_select_db() jest",
+    "text": "Zadaniem funkcji PHP o nazwie mysql_select_db() jest",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -7708,8 +7708,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 322,
-    "text": "322. W przedstawionym kodzie PHP, zamiast znaków zapytania powinien pojawić się komunikat:",
-    "image": "e14/322.jpg",
+    "text": "W przedstawionym kodzie PHP, zamiast znaków zapytania powinien pojawić się komunikat:",
+    "image": "/e14/322.jpg",
     "answers": [
       {
         "id": "A",
@@ -7732,7 +7732,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 323,
-    "text": "323. Testy wydajnościowe mają na celu sprawdzenie",
+    "text": "Testy wydajnościowe mają na celu sprawdzenie",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -7756,8 +7756,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 324,
-    "text": "324. Aby prawidłowo udokumentować przedstawioną linię kodu języka JavaScript, należy po znakach // wpisać komentarz",
-    "image": "e14/324.jpg",
+    "text": "Aby prawidłowo udokumentować przedstawioną linię kodu języka JavaScript, należy po znakach // wpisać komentarz",
+    "image": "/e14/324.jpg",
     "answers": [
       {
         "id": "A",
@@ -7780,7 +7780,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 325,
-    "text": "325. Przekierowanie 301 służące przekierowaniu użytkownika z jednego adresu URL na inny można ustawić w pliku konfiguracji serwera Apache o nazwie",
+    "text": "Przekierowanie 301 służące przekierowaniu użytkownika z jednego adresu URL na inny można ustawić w pliku konfiguracji serwera Apache o nazwie",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -7804,7 +7804,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 326,
-    "text": "326. W języku HTML aby zdefiniować słowa kluczowe strony, należy użyć zapisu",
+    "text": "W języku HTML aby zdefiniować słowa kluczowe strony, należy użyć zapisu",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -7828,8 +7828,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 327,
-    "text": "327. W języku HTML zdefiniowano znacznik a. Wartość nofollow atrybutu rel",
-    "image": "e14/327.jpg",
+    "text": "W języku HTML zdefiniowano znacznik a. Wartość nofollow atrybutu rel",
+    "image": "/e14/327.jpg",
     "answers": [
       {
         "id": "A",
@@ -7852,7 +7852,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 328,
-    "text": "328. W języku HTML aby zdefiniować poziomą linię, należy użyć znacznika",
+    "text": "W języku HTML aby zdefiniować poziomą linię, należy użyć znacznika",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -7876,8 +7876,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 329,
-    "text": "329. Zapisano kod HTML wstawiający grafikę na stronę internetową. Jeżeli rysunek.png nie zostanie odnaleziony, przeglądarka",
-    "image": "e14/329.jpg",
+    "text": "Zapisano kod HTML wstawiający grafikę na stronę internetową. Jeżeli rysunek.png nie zostanie odnaleziony, przeglądarka",
+    "image": "/e14/329.jpg",
     "answers": [
       {
         "id": "A",
@@ -7900,8 +7900,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 330,
-    "text": "330. Aby w języku HTML uzyskać takie formatowanie paragrafu dla tekstu należy zastosować kod",
-    "image": "e14/330.jpg",
+    "text": "Aby w języku HTML uzyskać takie formatowanie paragrafu dla tekstu należy zastosować kod",
+    "image": "/e14/330.jpg",
     "answers": [
       {
         "id": "A",
@@ -7924,8 +7924,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 331,
-    "text": "331. Zamieszczony kod HTML formularza zostanie wyświetlony przez przeglądarkę w sposób:",
-    "image": "e14/331.jpg",
+    "text": "Zamieszczony kod HTML formularza zostanie wyświetlony przez przeglądarkę w sposób:",
+    "image": "/e14/331.jpg",
     "answers": [
       {
         "id": "A",
@@ -7948,7 +7948,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 332,
-    "text": "332. W języku CSS wcięcie pierwszej linii akapitu na 30 pikseli uzyska się za pomocą zapisu",
+    "text": "W języku CSS wcięcie pierwszej linii akapitu na 30 pikseli uzyska się za pomocą zapisu",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -7972,8 +7972,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 333,
-    "text": "333. W języku CSS zdefiniowano następujące formatowanie. Kolorem czerwonym zostanie zapisany",
-    "image": "e14/333.jpg",
+    "text": "W języku CSS zdefiniowano następujące formatowanie. Kolorem czerwonym zostanie zapisany",
+    "image": "/e14/333.jpg",
     "answers": [
       {
         "id": "A",
@@ -7996,7 +7996,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 334,
-    "text": "334. W języku CSS, aby sformatować dowolny element języka HTML w ten sposób, że po najechaniu na niego kursorem zmienia on kolor czcionki, należy zastosować pseudoklasę",
+    "text": "W języku CSS, aby sformatować dowolny element języka HTML w ten sposób, że po najechaniu na niego kursorem zmienia on kolor czcionki, należy zastosować pseudoklasę",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -8020,8 +8020,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 335,
-    "text": "335. Zapis CSS w takiej postaci sprawi, że na stronie internetowej",
-    "image": "e14/335.jpg",
+    "text": "Zapis CSS w takiej postaci sprawi, że na stronie internetowej",
+    "image": "/e14/335.jpg",
     "answers": [
       {
         "id": "A",
@@ -8044,7 +8044,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 336,
-    "text": "336. W języku CSS aby zdefiniować odmienne formatowanie dla pierwszej litery akapitu, należy zastosować selektor",
+    "text": "W języku CSS aby zdefiniować odmienne formatowanie dla pierwszej litery akapitu, należy zastosować selektor",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -8068,8 +8068,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 337,
-    "text": "337. W kodzie źródłowym zapisanym w języku HTML wskaż błąd walidacji dotyczący tego fragmentu",
-    "image": "e14/337.jpg",
+    "text": "W kodzie źródłowym zapisanym w języku HTML wskaż błąd walidacji dotyczący tego fragmentu",
+    "image": "/e14/337.jpg",
     "answers": [
       {
         "id": "A",
@@ -8092,8 +8092,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 338,
-    "text": "338. W ramce przedstawiono właściwości pliku graficznego. W celu optymalizacji czasu ładowania rysunku na stronę WWW należy",
-    "image": "e14/338.jpg",
+    "text": "W ramce przedstawiono właściwości pliku graficznego. W celu optymalizacji czasu ładowania rysunku na stronę WWW należy",
+    "image": "/e14/338.jpg",
     "answers": [
       {
         "id": "A",
@@ -8116,8 +8116,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 339,
-    "text": "339. W programie INKSCAPE / COREL aby uzyskać przedstawiony efekt napisu, należy",
-    "image": "e14/339.jpg",
+    "text": "W programie INKSCAPE / COREL aby uzyskać przedstawiony efekt napisu, należy",
+    "image": "/e14/339.jpg",
     "answers": [
       {
         "id": "A",
@@ -8140,7 +8140,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 340,
-    "text": "340. Programem do edycji dźwięku jest",
+    "text": "Programem do edycji dźwięku jest",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -8164,7 +8164,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 341,
-    "text": "341. Dana jest tabela pracownicy. Polecenie MySQL usuwające wszystkie rekordy z tabeli, dla których nie wypełniono pola rodzaj_umowy, ma postać",
+    "text": "Dana jest tabela pracownicy. Polecenie MySQL usuwające wszystkie rekordy z tabeli, dla których nie wypełniono pola rodzaj_umowy, ma postać",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -8188,7 +8188,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 342,
-    "text": "342. W języku SQL, aby stworzyć tabelę, należy zastosować polecenie",
+    "text": "W języku SQL, aby stworzyć tabelę, należy zastosować polecenie",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -8212,8 +8212,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 343,
-    "text": "343. W przedstawionym fragmencie kwerendy języka SQL, komenda SELECT ma za zadanie zwrócić",
-    "image": "e14/343.jpg",
+    "text": "W przedstawionym fragmencie kwerendy języka SQL, komenda SELECT ma za zadanie zwrócić",
+    "image": "/e14/343.jpg",
     "answers": [
       {
         "id": "A",
@@ -8236,7 +8236,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 344,
-    "text": "344. Dana jest tabela ksiazki z polami: tytul, autor (typu tekstowego), cena (typu liczbowego). Aby kwerenda SELECT zwróciła tylko tytuły, dla których cena jest mniejsza od 50zł, należy zapisać:",
+    "text": "Dana jest tabela ksiazki z polami: tytul, autor (typu tekstowego), cena (typu liczbowego). Aby kwerenda SELECT zwróciła tylko tytuły, dla których cena jest mniejsza od 50zł, należy zapisać:",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -8260,7 +8260,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 345,
-    "text": "345. W bazie danych MYSQL dana jest tabela programów komputerowych o polach: nazwa, producent, rokWydania. Aby kwerenda SELECT zwróciła wszystkie nazwy producentów tak, by nazwy te nie powtarzały się, należy zapisać:",
+    "text": "W bazie danych MYSQL dana jest tabela programów komputerowych o polach: nazwa, producent, rokWydania. Aby kwerenda SELECT zwróciła wszystkie nazwy producentów tak, by nazwy te nie powtarzały się, należy zapisać:",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -8284,7 +8284,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 346,
-    "text": "346. Tabela filmy zawiera klucz główny id oraz klucz obcy rezyserID. Tabela rezyserzy zawiera klucz główny id. Obydwie tabele połączone są relacją jeden po stronie rezyserzy do wielu po stronie filmy. Aby w kwerendzie SELECT połączyć tabele filmy i rezyserzy, należy zapisać",
+    "text": "Tabela filmy zawiera klucz główny id oraz klucz obcy rezyserID. Tabela rezyserzy zawiera klucz główny id. Obydwie tabele połączone są relacją jeden po stronie rezyserzy do wielu po stronie filmy. Aby w kwerendzie SELECT połączyć tabele filmy i rezyserzy, należy zapisać",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -8308,8 +8308,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 347,
-    "text": "347. Na rysunku przedstawiono dwie tabele. Aby połączyć je relacją jeden do wielu, jeden po stronie Klienci wiele po stronie Zamowienia, należy",
-    "image": "e14/347.jpg",
+    "text": "Na rysunku przedstawiono dwie tabele. Aby połączyć je relacją jeden do wielu, jeden po stronie Klienci wiele po stronie Zamowienia, należy",
+    "image": "/e14/347.jpg",
     "answers": [
       {
         "id": "A",
@@ -8332,7 +8332,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 348,
-    "text": "348. Źródłem rekordów dla raportu może być",
+    "text": "Źródłem rekordów dla raportu może być",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -8356,8 +8356,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 349,
-    "text": "349. Przedstawione polecenie MySQL ma za zadanie",
-    "image": "e14/349.jpg",
+    "text": "Przedstawione polecenie MySQL ma za zadanie",
+    "image": "/e14/349.jpg",
     "answers": [
       {
         "id": "A",
@@ -8380,7 +8380,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 350,
-    "text": "350. W tabeli podzespoly należy zmienić wartość pola URL na 'toshiba.pl' dla wszystkich rekordów, gdzie pole producent to TOSHIBA. W języku SQL modyfikacja będzie miała postać",
+    "text": "W tabeli podzespoly należy zmienić wartość pola URL na 'toshiba.pl' dla wszystkich rekordów, gdzie pole producent to TOSHIBA. W języku SQL modyfikacja będzie miała postać",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -8404,7 +8404,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 351,
-    "text": "351. Do zabezpieczeń serwera bazy danych przed atakami hakerów nie należy",
+    "text": "Do zabezpieczeń serwera bazy danych przed atakami hakerów nie należy",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -8428,7 +8428,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 352,
-    "text": "352. W języku MySQL należy zastosować polecenie REVOKE, aby użytkownikowi anna odebrać prawo do dokonywania zmian jedynie w definicji struktury bazy danych. Polecenie odpowiadające odebraniu tych praw ma postać",
+    "text": "W języku MySQL należy zastosować polecenie REVOKE, aby użytkownikowi anna odebrać prawo do dokonywania zmian jedynie w definicji struktury bazy danych. Polecenie odpowiadające odebraniu tych praw ma postać",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -8452,7 +8452,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 353,
-    "text": "353. W języku JavaScript, aby sprawdzić warunek czy liczba znajduje się w przedziale (100;200>, należy zapisać:",
+    "text": "W języku JavaScript, aby sprawdzić warunek czy liczba znajduje się w przedziale (100;200>, należy zapisać:",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -8476,8 +8476,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 354,
-    "text": "354. W wyniku działania pętli zapisanej w języku PHP zostanie wypisany ciąg liczb",
-    "image": "e14/354.jpg",
+    "text": "W wyniku działania pętli zapisanej w języku PHP zostanie wypisany ciąg liczb",
+    "image": "/e14/354.jpg",
     "answers": [
       {
         "id": "A",
@@ -8500,7 +8500,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 355,
-    "text": "355. Które z poniższych zdań dotyczących zasad programowania w języku PHP jest prawdziwe?",
+    "text": "Które z poniższych zdań dotyczących zasad programowania w języku PHP jest prawdziwe?",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -8524,7 +8524,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 356,
-    "text": "356. W języku PHP instrukcja foreach jest instrukcją",
+    "text": "W języku PHP instrukcja foreach jest instrukcją",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -8548,7 +8548,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 357,
-    "text": "357. Funkcją języka PHP tworzącą ciasteczko jest",
+    "text": "Funkcją języka PHP tworzącą ciasteczko jest",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -8572,7 +8572,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 358,
-    "text": "358. W języku PHP funkcja trim ma za zadanie",
+    "text": "W języku PHP funkcja trim ma za zadanie",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -8596,8 +8596,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 359,
-    "text": "359. W języku JavaScript zapis w ramce oznacza, że",
-    "image": "e14/359.jpg",
+    "text": "W języku JavaScript zapis w ramce oznacza, że",
+    "image": "/e14/359.jpg",
     "answers": [
       {
         "id": "A",
@@ -8620,8 +8620,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 360,
-    "text": "360. W języku JavaScript zapisano następującą funkcję. Ma ona za zadanie",
-    "image": "e14/360.jpg",
+    "text": "W języku JavaScript zapisano następującą funkcję. Ma ona za zadanie",
+    "image": "/e14/360.jpg",
     "answers": [
       {
         "id": "A",
@@ -8644,7 +8644,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 361,
-    "text": "361. Za pomocą języka PHP nie jest możliwe",
+    "text": "Za pomocą języka PHP nie jest możliwe",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -8668,8 +8668,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 362,
-    "text": "362. Działaniem przedstawionego kodu PHP będzie wypełnienie tablicy",
-    "image": "e14/362.jpg",
+    "text": "Działaniem przedstawionego kodu PHP będzie wypełnienie tablicy",
+    "image": "/e14/362.jpg",
     "answers": [
       {
         "id": "A",
@@ -8692,8 +8692,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 363,
-    "text": "363. W języku JavaScript zapisano fragment kodu. Po wykonaniu skryptu zmienna x",
-    "image": "e14/363.jpg",
+    "text": "W języku JavaScript zapisano fragment kodu. Po wykonaniu skryptu zmienna x",
+    "image": "/e14/363.jpg",
     "answers": [
       {
         "id": "A",
@@ -8716,7 +8716,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 364,
-    "text": "364. W języku PHP, wykonując operacje na bazie danych MySQL, aby zakończyć pracę z bazą, należy wywołać",
+    "text": "W języku PHP, wykonując operacje na bazie danych MySQL, aby zakończyć pracę z bazą, należy wywołać",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -8740,8 +8740,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 365,
-    "text": "365. W ramce przedstawiono kod JavaScript z błędem logicznym. Program powinien wypisywać informację, czy liczby są sobie równe czy nie, lecz nie wykonuje tego. Wskaż odpowiedź, która dotyczy błędu",
-    "image": "e14/365.jpg",
+    "text": "W ramce przedstawiono kod JavaScript z błędem logicznym. Program powinien wypisywać informację, czy liczby są sobie równe czy nie, lecz nie wykonuje tego. Wskaż odpowiedź, która dotyczy błędu",
+    "image": "/e14/365.jpg",
     "answers": [
       {
         "id": "A",
@@ -8764,7 +8764,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 366,
-    "text": "366. Która z zasad tworzenia części <head> języka HTML jest poprawna?",
+    "text": "Która z zasad tworzenia części <head> języka HTML jest poprawna?",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -8788,7 +8788,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 367,
-    "text": "367. W języku HTML znacznik <strong>tekst</strong> będzie wyświetlany w ten sam sposób przez przeglądarkę co znacznik",
+    "text": "W języku HTML znacznik <strong>tekst</strong> będzie wyświetlany w ten sam sposób przez przeglądarkę co znacznik",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -8812,7 +8812,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 368,
-    "text": "368. Aby strona WWW była responsywna, należy między innymi definiować",
+    "text": "Aby strona WWW była responsywna, należy między innymi definiować",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -8836,7 +8836,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 369,
-    "text": "369. W języku HTML, aby zapisać sekcję cytatu, która może zawierać kilka paragrafów tak, by przeglądarka dodała wspólne wcięcie, należy zastosować znacznik",
+    "text": "W języku HTML, aby zapisać sekcję cytatu, która może zawierać kilka paragrafów tak, by przeglądarka dodała wspólne wcięcie, należy zastosować znacznik",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -8860,7 +8860,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 370,
-    "text": "370. W języku CSS wartości underline, overline, blink przyjmują atrybut",
+    "text": "W języku CSS wartości underline, overline, blink przyjmują atrybut",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -8884,8 +8884,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 371,
-    "text": "371. W przedstawionej definicji stylu CSS, powtarzanie dotyczy",
-    "image": "e14/371.jpg",
+    "text": "W przedstawionej definicji stylu CSS, powtarzanie dotyczy",
+    "image": "/e14/371.jpg",
     "answers": [
       {
         "id": "A",
@@ -8908,8 +8908,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 372,
-    "text": "372. W języku CSS zdefiniowano styl. Sformatowana stylem sekcja będzie zawierała obramowanie o szerokości",
-    "image": "e14/372.jpg",
+    "text": "W języku CSS zdefiniowano styl. Sformatowana stylem sekcja będzie zawierała obramowanie o szerokości",
+    "image": "/e14/372.jpg",
     "answers": [
       {
         "id": "A",
@@ -8932,7 +8932,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 373,
-    "text": "373. Strona HTML definiuje akapit oraz rysunek. Aby rysunek został umieszczony przez przeglądarkę w tej samej linii co akapit po jego lewej stronie, należy w stylu CSS rysunku zawrzeć własność",
+    "text": "Strona HTML definiuje akapit oraz rysunek. Aby rysunek został umieszczony przez przeglądarkę w tej samej linii co akapit po jego lewej stronie, należy w stylu CSS rysunku zawrzeć własność",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -8956,8 +8956,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 374,
-    "text": "374. W języku CSS określono formatowanie znacznika h1 według wzoru. Zakładając, że żadne inne formatowanie nie jest dodane do znacznika h1, wskaż sposób formatowania tego znacznika",
-    "image": "e14/374.jpg",
+    "text": "W języku CSS określono formatowanie znacznika h1 według wzoru. Zakładając, że żadne inne formatowanie nie jest dodane do znacznika h1, wskaż sposób formatowania tego znacznika",
+    "image": "/e14/374.jpg",
     "answers": [
       {
         "id": "A",
@@ -8980,8 +8980,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 375,
-    "text": "375. Aby przygotować szablon strony z trzema kolumnami ustawionymi obok siebie, można posłużyć się stylem CSS",
-    "image": "e14/375.jpg",
+    "text": "Aby przygotować szablon strony z trzema kolumnami ustawionymi obok siebie, można posłużyć się stylem CSS",
+    "image": "/e14/375.jpg",
     "answers": [
       {
         "id": "A",
@@ -9004,8 +9004,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 376,
-    "text": "376. Przedstawiono fragment kodu HTML, który nie waliduje się poprawnie. Błąd walidacji tego fragmentu kodu będzie dotyczył",
-    "image": "e14/376.jpg",
+    "text": "Przedstawiono fragment kodu HTML, który nie waliduje się poprawnie. Błąd walidacji tego fragmentu kodu będzie dotyczył",
+    "image": "/e14/376.jpg",
     "answers": [
       {
         "id": "A",
@@ -9028,7 +9028,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 377,
-    "text": "377. Modelem barw opisującym kolor z użyciem stożka przestrzeni barw jest",
+    "text": "Modelem barw opisującym kolor z użyciem stożka przestrzeni barw jest",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -9052,7 +9052,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 378,
-    "text": "378. Rozmycie Gaussa, wygładzanie, szum RGB są funkcjami programu do obróbki",
+    "text": "Rozmycie Gaussa, wygładzanie, szum RGB są funkcjami programu do obróbki",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -9076,7 +9076,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 379,
-    "text": "379. Aby edytować nakładające się na siebie pojedyncze fragmenty obrazu, pozostawiając pozostałe elementy niezmienione, należy zastosować",
+    "text": "Aby edytować nakładające się na siebie pojedyncze fragmenty obrazu, pozostawiając pozostałe elementy niezmienione, należy zastosować",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -9100,7 +9100,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 380,
-    "text": "380. W języku SQL wykorzystywanym przez bazę danych MySQL atrybut UNIQUE polecenia CREATE TABLE",
+    "text": "W języku SQL wykorzystywanym przez bazę danych MySQL atrybut UNIQUE polecenia CREATE TABLE",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -9124,7 +9124,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 381,
-    "text": "381. Funkcja agregująca MIN języka SQL ma za zadanie policzyć",
+    "text": "Funkcja agregująca MIN języka SQL ma za zadanie policzyć",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -9148,7 +9148,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 382,
-    "text": "382. Dana jest tabela o nazwie wycieczki z polami: nazwa, cena, miejsca (jako liczba wolnych miejsc). Aby dla dowolnego zbioru danych tabeli wyświetlić jedynie nazwy tych wycieczek, dla których cena jest niższa niż 2000 zł i mają przynajmniej cztery wolne miejsca, należy posłużyć się zapytaniem",
+    "text": "Dana jest tabela o nazwie wycieczki z polami: nazwa, cena, miejsca (jako liczba wolnych miejsc). Aby dla dowolnego zbioru danych tabeli wyświetlić jedynie nazwy tych wycieczek, dla których cena jest niższa niż 2000 zł i mają przynajmniej cztery wolne miejsca, należy posłużyć się zapytaniem",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -9172,7 +9172,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 383,
-    "text": "383. Dana jest tabela o nazwie przedmioty z polami: ocena i uczenID. Aby policzyć średnią ocen ucznia o ID równym 7, należy posłużyć się zapytaniem",
+    "text": "Dana jest tabela o nazwie przedmioty z polami: ocena i uczenID. Aby policzyć średnią ocen ucznia o ID równym 7, należy posłużyć się zapytaniem",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -9196,7 +9196,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 384,
-    "text": "384. Tabela o nazwie naprawy zawiera pola: klient, czyNaprawione. Aby usunąć te rekordy, w których pole czyNaprawione jest prawdą, należy posłużyć się poleceniem",
+    "text": "Tabela o nazwie naprawy zawiera pola: klient, czyNaprawione. Aby usunąć te rekordy, w których pole czyNaprawione jest prawdą, należy posłużyć się poleceniem",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -9220,7 +9220,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 385,
-    "text": "385. Formularz nadrzędny wykorzystywany do nawigacji w bazie danych pomiędzy dostępnymi w systemie formularzami, kwerendami jest nazywany formularzem",
+    "text": "Formularz nadrzędny wykorzystywany do nawigacji w bazie danych pomiędzy dostępnymi w systemie formularzami, kwerendami jest nazywany formularzem",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -9244,7 +9244,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 386,
-    "text": "386. W bazie danych sklepu komputerowego istnieje tabela komputery. Aby zdefiniować raport wyświetlający dla dowolnego zbioru danych tabeli, jedynie pola tabeli dla komputerów, w których jest nie mniej niż 8 GB pamięci, a procesor to Intel, można posłużyć sie kwerendą",
+    "text": "W bazie danych sklepu komputerowego istnieje tabela komputery. Aby zdefiniować raport wyświetlający dla dowolnego zbioru danych tabeli, jedynie pola tabeli dla komputerów, w których jest nie mniej niż 8 GB pamięci, a procesor to Intel, można posłużyć sie kwerendą",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -9268,7 +9268,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 387,
-    "text": "387. Za pomocą polecenia ALTER TABLE można",
+    "text": "Za pomocą polecenia ALTER TABLE można",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -9292,7 +9292,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 388,
-    "text": "388. W języku SQL, wykorzystywanym przez bazę danych MySQL w tabeli samochody, aby nadać wartość równą 0 dla kolumny przebieg, należy posłużyć się kwerendą",
+    "text": "W języku SQL, wykorzystywanym przez bazę danych MySQL w tabeli samochody, aby nadać wartość równą 0 dla kolumny przebieg, należy posłużyć się kwerendą",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -9316,8 +9316,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 389,
-    "text": "389. Przedstawione polecenie SQL, użytkownikowi adam@localhost nadaje prawa",
-    "image": "e14/389.jpg",
+    "text": "Przedstawione polecenie SQL, użytkownikowi adam@localhost nadaje prawa",
+    "image": "/e14/389.jpg",
     "answers": [
       {
         "id": "A",
@@ -9340,8 +9340,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 390,
-    "text": "390. W języku JavaScript przedstawiona definicja jest definicją",
-    "image": "e14/390.jpg",
+    "text": "W języku JavaScript przedstawiona definicja jest definicją",
+    "image": "/e14/390.jpg",
     "answers": [
       {
         "id": "A",
@@ -9364,7 +9364,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 391,
-    "text": "391. Dla każdej iteracji pętli wartość bieżącego elementu tablicy jest przypisywana do zmiennej, a wskaźnik tablicy jest przesuwany o jeden, aż do ostatniego elementu tablicy. Zdanie to jest prawdziwe dla instrukcji",
+    "text": "Dla każdej iteracji pętli wartość bieżącego elementu tablicy jest przypisywana do zmiennej, a wskaźnik tablicy jest przesuwany o jeden, aż do ostatniego elementu tablicy. Zdanie to jest prawdziwe dla instrukcji",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -9388,7 +9388,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 392,
-    "text": "392. Wskaż zapisany w języku JavaScript warunek, który ma sprawdzić spełnienie z przypadków: 1) dowolna naturalna liczba a jest trzycyfrowa, 2) dowolna całkowita liczba b jest ujemna",
+    "text": "Wskaż zapisany w języku JavaScript warunek, który ma sprawdzić spełnienie z przypadków: 1) dowolna naturalna liczba a jest trzycyfrowa, 2) dowolna całkowita liczba b jest ujemna",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -9412,8 +9412,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 393,
-    "text": "393. Którą czynność gwarantującą poprawne wykonanie przedstawionego kodu JavaScript, należy wykonać przed pętlą?",
-    "image": "e14/393.jpg",
+    "text": "Którą czynność gwarantującą poprawne wykonanie przedstawionego kodu JavaScript, należy wykonać przed pętlą?",
+    "image": "/e14/393.jpg",
     "answers": [
       {
         "id": "A",
@@ -9436,7 +9436,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 394,
-    "text": "394. Hermetyzacja to zasada programowania obiektowego mówiąca o tym, że",
+    "text": "Hermetyzacja to zasada programowania obiektowego mówiąca o tym, że",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -9460,8 +9460,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 395,
-    "text": "395. Przedstawiono fragment JavaScript. Po jego wykonaniu zmienna str2 będzie przechowywać",
-    "image": "e14/395.jpg",
+    "text": "Przedstawiono fragment JavaScript. Po jego wykonaniu zmienna str2 będzie przechowywać",
+    "image": "/e14/395.jpg",
     "answers": [
       {
         "id": "A",
@@ -9484,7 +9484,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 396,
-    "text": "396. Który ze sposobów wypisania tekstu nie jest zdefiniowany w języku JavaScript?",
+    "text": "Który ze sposobów wypisania tekstu nie jest zdefiniowany w języku JavaScript?",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -9508,7 +9508,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 397,
-    "text": "397. Funkcja JavaScript powinna być wywołana za każdym razem, gdy użytkownik wpisze dowolny znak do pola edycji. Którego zdarzenia należy użyć?",
+    "text": "Funkcja JavaScript powinna być wywołana za każdym razem, gdy użytkownik wpisze dowolny znak do pola edycji. Którego zdarzenia należy użyć?",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -9532,7 +9532,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 398,
-    "text": "398. Która z wymienionych funkcji zapisanych językiem PHP zwraca sumę połowy a i połowy b",
+    "text": "Która z wymienionych funkcji zapisanych językiem PHP zwraca sumę połowy a i połowy b",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -9556,8 +9556,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 399,
-    "text": "399. W języku JavaScript zapisano definicję obiektu. Aby odwołać się do własności nazwisko należy zapisać",
-    "image": "e14/399.jpg",
+    "text": "W języku JavaScript zapisano definicję obiektu. Aby odwołać się do własności nazwisko należy zapisać",
+    "image": "/e14/399.jpg",
     "answers": [
       {
         "id": "A",
@@ -9580,8 +9580,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 400,
-    "text": "400. W języku PHP zapisano fragment kodu. Plik cookie stworzony tym poleceniem",
-    "image": "e14/400.jpg",
+    "text": "W języku PHP zapisano fragment kodu. Plik cookie stworzony tym poleceniem",
+    "image": "/e14/400.jpg",
     "answers": [
       {
         "id": "A",
@@ -9604,8 +9604,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 401,
-    "text": "401. W języku PHP zapisano fragment kodu. Po zakończeniu pętli zmienna a przyjmie wartość",
-    "image": "e14/401.jpg",
+    "text": "W języku PHP zapisano fragment kodu. Po zakończeniu pętli zmienna a przyjmie wartość",
+    "image": "/e14/401.jpg",
     "answers": [
       {
         "id": "A",
@@ -9628,7 +9628,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 402,
-    "text": "402. W języku JavaScript, aby zmienić wartość atrybutu znacznika HTML, po uzyskaniu obiektu za pomocą metody getElementById należy skorzystać z",
+    "text": "W języku JavaScript, aby zmienić wartość atrybutu znacznika HTML, po uzyskaniu obiektu za pomocą metody getElementById należy skorzystać z",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -9652,8 +9652,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 403,
-    "text": "403. W języku JavaScript zapisano kod, którego wynikiem działania jest",
-    "image": "e14/403.jpg",
+    "text": "W języku JavaScript zapisano kod, którego wynikiem działania jest",
+    "image": "/e14/403.jpg",
     "answers": [
       {
         "id": "A",
@@ -9676,8 +9676,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 404,
-    "text": "404. W języku PHP zapisano fragment kodu działającego na bazie MySQL. Jego zadaniem jest wypisanie",
-    "image": "e14/404.jpg",
+    "text": "W języku PHP zapisano fragment kodu działającego na bazie MySQL. Jego zadaniem jest wypisanie",
+    "image": "/e14/404.jpg",
     "answers": [
       {
         "id": "A",
@@ -9700,7 +9700,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 405,
-    "text": "405. Który sposób komentowania jednoliniowego jest dozwolony w języku JavaScript?",
+    "text": "Który sposób komentowania jednoliniowego jest dozwolony w języku JavaScript?",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -9724,7 +9724,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 406,
-    "text": "406. Znaczniki <header>, <article>, <section>, <footer> są charakterystyczne dla języka",
+    "text": "Znaczniki <header>, <article>, <section>, <footer> są charakterystyczne dla języka",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -9748,7 +9748,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 407,
-    "text": "407. Przy użyciu którego znacznika w języku HTML nie można umieścić na stronie grafiki dynamicznej?",
+    "text": "Przy użyciu którego znacznika w języku HTML nie można umieścić na stronie grafiki dynamicznej?",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -9772,8 +9772,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 408,
-    "text": "408. Które ze znaczników HTML umożliwią wyświetlenie na stronie tekstu w jednym wierszu, jeżeli żadne formatowanie CSS nie zostało zdefiniowane?",
-    "image": "e14/408.jpg",
+    "text": "Które ze znaczników HTML umożliwią wyświetlenie na stronie tekstu w jednym wierszu, jeżeli żadne formatowanie CSS nie zostało zdefiniowane?",
+    "image": "/e14/408.jpg",
     "answers": [
       {
         "id": "A",
@@ -9796,7 +9796,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 409,
-    "text": "409. W języku HTML atrybut shape znacznika area, określający typ obszaru, może przyjąć wartość",
+    "text": "W języku HTML atrybut shape znacznika area, określający typ obszaru, może przyjąć wartość",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -9820,7 +9820,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 410,
-    "text": "410. Wskaż prawidłową kolejność stylów CSS mając na uwadze ich pierwszeństwo w formatowaniu elementów strony WWW.",
+    "text": "Wskaż prawidłową kolejność stylów CSS mając na uwadze ich pierwszeństwo w formatowaniu elementów strony WWW.",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -9844,7 +9844,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 411,
-    "text": "411. W folderze www znajdują się podfoldery html i style, w których zapisane są odpowiednio pliki z rozszerzeniem html i pliki z rozszerzeniem css. Chcąc dołączyć styl.css do pliku HTML należy użyć",
+    "text": "W folderze www znajdują się podfoldery html i style, w których zapisane są odpowiednio pliki z rozszerzeniem html i pliki z rozszerzeniem css. Chcąc dołączyć styl.css do pliku HTML należy użyć",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -9868,7 +9868,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 412,
-    "text": "412. Chcąc zdefiniować marginesy wewnętrzne dla danych: margines górny 50px, dolny 40px, prawy 20px i lewy 30px należy użyć składni CSS",
+    "text": "Chcąc zdefiniować marginesy wewnętrzne dla danych: margines górny 50px, dolny 40px, prawy 20px i lewy 30px należy użyć składni CSS",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -9892,7 +9892,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 413,
-    "text": "413. Chcąc sformatować w stylach CSS wszystkie obrazy zawarte w akapicie, powinno się użyć selektora",
+    "text": "Chcąc sformatować w stylach CSS wszystkie obrazy zawarte w akapicie, powinno się użyć selektora",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -9916,7 +9916,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 414,
-    "text": "414. Który z atrybutów background-attachment w języku CSS należy wybrać, aby tło strony było nieruchome względem okna przeglądarki?",
+    "text": "Który z atrybutów background-attachment w języku CSS należy wybrać, aby tło strony było nieruchome względem okna przeglądarki?",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -9940,7 +9940,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 415,
-    "text": "415. Barwa zapisana w modelu RGB(255, 0, 0) jest",
+    "text": "Barwa zapisana w modelu RGB(255, 0, 0) jest",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -9964,7 +9964,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 416,
-    "text": "416. Połączenie dwóch barw leżących po przeciwnych stronach w kole barw jest połączeniem",
+    "text": "Połączenie dwóch barw leżących po przeciwnych stronach w kole barw jest połączeniem",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -9988,7 +9988,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 417,
-    "text": "417. Model barw oparty na 3 parametrach: odcień, nasycenie i jasność to",
+    "text": "Model barw oparty na 3 parametrach: odcień, nasycenie i jasność to",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -10012,7 +10012,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 418,
-    "text": "418. Który z wymienionych formatów plików NIE JEST wykorzystywany do publikacji grafiki lub animacji na stronach internetowych?",
+    "text": "Który z wymienionych formatów plików NIE JEST wykorzystywany do publikacji grafiki lub animacji na stronach internetowych?",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -10036,8 +10036,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 419,
-    "text": "419. Aby stworzyć przycisk na stronę internetową według wzoru, należy w programie do grafiki rastrowej użyć opcji",
-    "image": "e14/419.jpg",
+    "text": "Aby stworzyć przycisk na stronę internetową według wzoru, należy w programie do grafiki rastrowej użyć opcji",
+    "image": "/e14/419.jpg",
     "answers": [
       {
         "id": "A",
@@ -10060,7 +10060,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 420,
-    "text": "420. Pierwszym krokiem podczas przetwarzania sygnału analogowego na cyfrowy jest",
+    "text": "Pierwszym krokiem podczas przetwarzania sygnału analogowego na cyfrowy jest",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -10084,7 +10084,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 421,
-    "text": "421. Wskaż FAŁSZYWE stwierdzenie dotyczące normalizacji sygnału dźwiękowego",
+    "text": "Wskaż FAŁSZYWE stwierdzenie dotyczące normalizacji sygnału dźwiękowego",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -10108,7 +10108,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 422,
-    "text": "422. Wskaż PRAWDZIWE stwierdzenie dla polecenia: CREATE TABLE IF NOT EXISTS ADRES(ulica VARCHAR(70) CHARACTER SET utf8);",
+    "text": "Wskaż PRAWDZIWE stwierdzenie dla polecenia: CREATE TABLE IF NOT EXISTS ADRES(ulica VARCHAR(70) CHARACTER SET utf8);",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -10132,7 +10132,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 423,
-    "text": "423. Jak działa instrukcja łącząca wyniki zapytań INTERSECT w języku SQL?",
+    "text": "Jak działa instrukcja łącząca wyniki zapytań INTERSECT w języku SQL?",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -10156,7 +10156,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 424,
-    "text": "424. W języku SQL dla dowolnych zestawów danych w tabeli Uczniowie, aby wybrać rekordy, które zawierają wyłącznie uczennice o imieniu \"Aleksandra\", urodzone po roku \"1998\", należy zapisać zapytanie",
+    "text": "W języku SQL dla dowolnych zestawów danych w tabeli Uczniowie, aby wybrać rekordy, które zawierają wyłącznie uczennice o imieniu \"Aleksandra\", urodzone po roku \"1998\", należy zapisać zapytanie",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -10180,8 +10180,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 425,
-    "text": "425. Którą relację w projekcie bazy danych należy ustalić między tabelami widocznymi na rysunku zakładając, że każdy klient sklepu internetowego dokona przynajmniej dwóch zamówień?",
-    "image": "e14/425.jpg",
+    "text": "Którą relację w projekcie bazy danych należy ustalić między tabelami widocznymi na rysunku zakładając, że każdy klient sklepu internetowego dokona przynajmniej dwóch zamówień?",
+    "image": "/e14/425.jpg",
     "answers": [
       {
         "id": "A",
@@ -10204,7 +10204,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 426,
-    "text": "426. Wyszukując z tabeli Pracownicy wyłącznie nazwiska, w których ostatnią literą jest \"i\", można użyć kwerendy SQL",
+    "text": "Wyszukując z tabeli Pracownicy wyłącznie nazwiska, w których ostatnią literą jest \"i\", można użyć kwerendy SQL",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -10228,7 +10228,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 427,
-    "text": "427. W celu dodania rekordu do tabeli Pracownicy należy użyć polecenia SQL",
+    "text": "W celu dodania rekordu do tabeli Pracownicy należy użyć polecenia SQL",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -10252,7 +10252,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 428,
-    "text": "428. W języku SQL w wyniku wykonania zapytania ALTER TABLE osoba DROP COLUMN grupa; zostanie",
+    "text": "W języku SQL w wyniku wykonania zapytania ALTER TABLE osoba DROP COLUMN grupa; zostanie",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -10276,7 +10276,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 429,
-    "text": "429. Właściwym zestawem kroków według kolejności, które należy wykonać w celu nawiązania współpracy między aplikacją internetową po stronie serwera a bazą SQL, jest",
+    "text": "Właściwym zestawem kroków według kolejności, które należy wykonać w celu nawiązania współpracy między aplikacją internetową po stronie serwera a bazą SQL, jest",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -10300,7 +10300,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 430,
-    "text": "430. Do poprawnego i spójnego działania bazy danych niezbędne jest umieszczenie w każdej tabeli",
+    "text": "Do poprawnego i spójnego działania bazy danych niezbędne jest umieszczenie w każdej tabeli",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -10324,7 +10324,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 431,
-    "text": "431. W języku PHP, dla zmiennych a = 5 i b = 3 wartość typu zmiennoprzecinkowego zwróci wyrażenie",
+    "text": "W języku PHP, dla zmiennych a = 5 i b = 3 wartość typu zmiennoprzecinkowego zwróci wyrażenie",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -10348,7 +10348,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 432,
-    "text": "432. Wartość i typ zmiennej w języku PHP można sprawdzić za pomocą funkcji",
+    "text": "Wartość i typ zmiennej w języku PHP można sprawdzić za pomocą funkcji",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -10372,7 +10372,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 433,
-    "text": "433. W języku JavaScript zdefiniowana zmienna i, która ma przechowywać wynik dzielenia wynoszący 1, to",
+    "text": "W języku JavaScript zdefiniowana zmienna i, która ma przechowywać wynik dzielenia wynoszący 1, to",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -10396,7 +10396,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 434,
-    "text": "434. Wskaż BŁĘDNY opis optymalizacji kodu wynikowego programu",
+    "text": "Wskaż BŁĘDNY opis optymalizacji kodu wynikowego programu",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -10420,8 +10420,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 435,
-    "text": "435. Podaj wynik działania programu zapisanego w języku JavaScript, znajdującego się w ramce, po podaniu na wejściu wartości 5",
-    "image": "e14/435.jpg",
+    "text": "Podaj wynik działania programu zapisanego w języku JavaScript, znajdującego się w ramce, po podaniu na wejściu wartości 5",
+    "image": "/e14/435.jpg",
     "answers": [
       {
         "id": "A",
@@ -10444,8 +10444,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 436,
-    "text": "436. W języku PHP chcąc wyświetlić ciąg n znaków @, należy użyć funkcji",
-    "image": "e14/436.jpg",
+    "text": "W języku PHP chcąc wyświetlić ciąg n znaków @, należy użyć funkcji",
+    "image": "/e14/436.jpg",
     "answers": [
       {
         "id": "A",
@@ -10468,7 +10468,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 437,
-    "text": "437. Językami programowania działającymi po stronie serwera są:",
+    "text": "Językami programowania działającymi po stronie serwera są:",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -10492,8 +10492,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 438,
-    "text": "438. Instrukcja przypisania elementu do tablicy w języku JavaScript dotyczy tablicy",
-    "image": "e14/438.jpg",
+    "text": "Instrukcja przypisania elementu do tablicy w języku JavaScript dotyczy tablicy",
+    "image": "/e14/438.jpg",
     "answers": [
       {
         "id": "A",
@@ -10516,8 +10516,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 439,
-    "text": "439. Jakie elementy wypisze funkcja wypisz(2) stworzona w języku JavaScript?",
-    "image": "e14/439.jpg",
+    "text": "Jakie elementy wypisze funkcja wypisz(2) stworzona w języku JavaScript?",
+    "image": "/e14/439.jpg",
     "answers": [
       {
         "id": "A",
@@ -10540,7 +10540,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 440,
-    "text": "440. W formularzu dokumentu PHP istnieje pole <input name=\"im\" />. Po wprowadzeniu przez użytkownika ciągu znaków \"Janek\", w celu dodania zawartości pola do bazy danych, w tablicy $_POST zawarty jest element",
+    "text": "W formularzu dokumentu PHP istnieje pole <input name=\"im\" />. Po wprowadzeniu przez użytkownika ciągu znaków \"Janek\", w celu dodania zawartości pola do bazy danych, w tablicy $_POST zawarty jest element",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -10564,7 +10564,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 441,
-    "text": "441. W celu zmodyfikowania tekstu \"ala ma psa\" na \"ALA MA PSA\" należy użyć funkcji PHP",
+    "text": "W celu zmodyfikowania tekstu \"ala ma psa\" na \"ALA MA PSA\" należy użyć funkcji PHP",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -10588,8 +10588,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 442,
-    "text": "442. W kodzie JavaScript pętla zostanie wykonana",
-    "image": "e14/442.jpg",
+    "text": "W kodzie JavaScript pętla zostanie wykonana",
+    "image": "/e14/442.jpg",
     "answers": [
       {
         "id": "A",
@@ -10612,8 +10612,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 443,
-    "text": "443. Poprawne udokumentowanie wzorca weryfikacji pola nazwa w części kodu aplikacji JavaScript to",
-    "image": "e14/443.jpg",
+    "text": "Poprawne udokumentowanie wzorca weryfikacji pola nazwa w części kodu aplikacji JavaScript to",
+    "image": "/e14/443.jpg",
     "answers": [
       {
         "id": "A",
@@ -10636,7 +10636,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 444,
-    "text": "444. Włączenie do kodu skryptu zawartości pliku egzamin.php, zawierającego kod PHP, wymaga dodania instrukcji",
+    "text": "Włączenie do kodu skryptu zawartości pliku egzamin.php, zawierającego kod PHP, wymaga dodania instrukcji",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -10660,7 +10660,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 445,
-    "text": "445. Do utworzenia kopii zapasowej bazy danych w MySQL należy użyć polecenia",
+    "text": "Do utworzenia kopii zapasowej bazy danych w MySQL należy użyć polecenia",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -10684,7 +10684,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 446,
-    "text": "446. Deklaracja typu dokumentu HTML: <!DOCTYPE HTML> oznacza, że kod jest napisany w wersji",
+    "text": "Deklaracja typu dokumentu HTML: <!DOCTYPE HTML> oznacza, że kod jest napisany w wersji",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -10708,7 +10708,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 447,
-    "text": "447. Dołączenie zewnętrznego arkusza stylów do kodu HTML jest realizowane przy użyciu znacznika",
+    "text": "Dołączenie zewnętrznego arkusza stylów do kodu HTML jest realizowane przy użyciu znacznika",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -10732,8 +10732,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 448,
-    "text": "448. Który z rysunków obrazuje efekt działania przedstawionego fragmentu kodu HTML?",
-    "image": "e14/448.jpg",
+    "text": "Który z rysunków obrazuje efekt działania przedstawionego fragmentu kodu HTML?",
+    "image": "/e14/448.jpg",
     "answers": [
       {
         "id": "A",
@@ -10756,8 +10756,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 449,
-    "text": "449. Przedstawione pole input umożliwi",
-    "image": "e14/449.jpg",
+    "text": "Przedstawione pole input umożliwi",
+    "image": "/e14/449.jpg",
     "answers": [
       {
         "id": "A",
@@ -10780,8 +10780,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 450,
-    "text": "450. W języku HTML zdefiniowano hiperłącze ze znakiem #. Co stanie się po wybraniu przedstawionego odsyłacza?",
-    "image": "e14/450.jpg",
+    "text": "W języku HTML zdefiniowano hiperłącze ze znakiem #. Co stanie się po wybraniu przedstawionego odsyłacza?",
+    "image": "/e14/450.jpg",
     "answers": [
       {
         "id": "A",
@@ -10804,8 +10804,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 451,
-    "text": "451. Podana definicja stylu CSS sprawi, że nagłówki pierwszego stopnia będą",
-    "image": "e14/451.jpg",
+    "text": "Podana definicja stylu CSS sprawi, że nagłówki pierwszego stopnia będą",
+    "image": "/e14/451.jpg",
     "answers": [
       {
         "id": "A",
@@ -10828,7 +10828,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 452,
-    "text": "452. Jak zdefiniować w języku CSS formatowanie hiperłącza, żeby nieodwiedzony link był w kolorze żółtym, a odwiedzony w kolorze zielonym?",
+    "text": "Jak zdefiniować w języku CSS formatowanie hiperłącza, żeby nieodwiedzony link był w kolorze żółtym, a odwiedzony w kolorze zielonym?",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -10852,7 +10852,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 453,
-    "text": "453. W języku CSS zdefiniowano formatowanie dla stopki. Aby użyć tego formatowania dla bloku opisanego znacznikiem div, należy zapisać",
+    "text": "W języku CSS zdefiniowano formatowanie dla stopki. Aby użyć tego formatowania dla bloku opisanego znacznikiem div, należy zapisać",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -10876,8 +10876,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 454,
-    "text": "454. Przedstawiono efekt formatowania CSS oraz kod HTML. Jak należy zdefiniować styl, aby osiągnąć takie formatowanie?",
-    "image": "e14/454.jpg",
+    "text": "Przedstawiono efekt formatowania CSS oraz kod HTML. Jak należy zdefiniować styl, aby osiągnąć takie formatowanie?",
+    "image": "/e14/454.jpg",
     "answers": [
       {
         "id": "A",
@@ -10900,8 +10900,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 455,
-    "text": "455. Przedstawione formatowanie CSS sprawi, że dla prezentowanego nagłówka trzeciego stopnia",
-    "image": "e14/455.jpg",
+    "text": "Przedstawione formatowanie CSS sprawi, że dla prezentowanego nagłówka trzeciego stopnia",
+    "image": "/e14/455.jpg",
     "answers": [
       {
         "id": "A",
@@ -10924,8 +10924,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 456,
-    "text": "456. W języku XHTML zapisano fragment kodu, który zawiera błąd walidacji. Na czym polega ten błąd?",
-    "image": "e14/456.jpg",
+    "text": "W języku XHTML zapisano fragment kodu, który zawiera błąd walidacji. Na czym polega ten błąd?",
+    "image": "/e14/456.jpg",
     "answers": [
       {
         "id": "A",
@@ -10948,7 +10948,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 457,
-    "text": "457. Kolor zapisany kodem heksadecymalnym: #1510FE w kodzie RGB będzie miał wartość",
+    "text": "Kolor zapisany kodem heksadecymalnym: #1510FE w kodzie RGB będzie miał wartość",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -10972,7 +10972,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 458,
-    "text": "458. Edytując grafikę w edytorze grafiki rastrowej należy pozbyć się kolorów z rysunku tak, aby obraz był w odcieniach szarości. Można do tego efektu wykorzystać funkcję",
+    "text": "Edytując grafikę w edytorze grafiki rastrowej należy pozbyć się kolorów z rysunku tak, aby obraz był w odcieniach szarości. Można do tego efektu wykorzystać funkcję",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -10996,8 +10996,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 459,
-    "text": "459. W edytorze grafiki wektorowej stworzono przedstawiony kształt, który powstał z dwóch figur: trójkąta i koła. W celu stworzenia tego kształtu, po narysowaniu figur i odpowiednim ich ustawieniu, należy skorzystać z funkcji",
-    "image": "e14/459.jpg",
+    "text": "W edytorze grafiki wektorowej stworzono przedstawiony kształt, który powstał z dwóch figur: trójkąta i koła. W celu stworzenia tego kształtu, po narysowaniu figur i odpowiednim ich ustawieniu, należy skorzystać z funkcji",
+    "image": "/e14/459.jpg",
     "answers": [
       {
         "id": "A",
@@ -11020,7 +11020,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 460,
-    "text": "460. Aby zapisać prostą animację na potrzeby strony internetowej, można skorzystać z formatu",
+    "text": "Aby zapisać prostą animację na potrzeby strony internetowej, można skorzystać z formatu",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -11044,7 +11044,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 461,
-    "text": "461. Tworząc tabelę w języku SQL, zdefiniowano dla kolumny klucz główny. Aby zabezpieczyć ją przed wstawieniem wartości pustej, należy zastosować atrybut",
+    "text": "Tworząc tabelę w języku SQL, zdefiniowano dla kolumny klucz główny. Aby zabezpieczyć ją przed wstawieniem wartości pustej, należy zastosować atrybut",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -11068,8 +11068,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 462,
-    "text": "462. Dana jest tabela mieszkania zawierająca kolumny o nazwach: adres, metraz, ile_pokoi, standard, status, cena. Wykonanie przedstawionej kwerendy SQL SELECT sprawi, że zostaną wyświetlone",
-    "image": "e14/462.jpg",
+    "text": "Dana jest tabela mieszkania zawierająca kolumny o nazwach: adres, metraz, ile_pokoi, standard, status, cena. Wykonanie przedstawionej kwerendy SQL SELECT sprawi, że zostaną wyświetlone",
+    "image": "/e14/462.jpg",
     "answers": [
       {
         "id": "A",
@@ -11092,8 +11092,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 463,
-    "text": "463. Do tabeli pracownicy wpisano rekordy. Co zostanie wyświetlone po uruchomieniu kwerendy SQL SELECT podanej w ramce?",
-    "image": "e14/463.jpg",
+    "text": "Do tabeli pracownicy wpisano rekordy. Co zostanie wyświetlone po uruchomieniu kwerendy SQL SELECT podanej w ramce?",
+    "image": "/e14/463.jpg",
     "answers": [
       {
         "id": "A",
@@ -11116,8 +11116,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 464,
-    "text": "464. Na przedstawionej tabeli samochody wykonano zapytanie SQL: SELECT model FROM samochody WHERE rocznik=2016; W wyniku podanego zapytania zostaną zwrócone następujące wartości:",
-    "image": "e14/464.jpg",
+    "text": "Na przedstawionej tabeli samochody wykonano zapytanie SQL: SELECT model FROM samochody WHERE rocznik=2016; W wyniku podanego zapytania zostaną zwrócone następujące wartości:",
+    "image": "/e14/464.jpg",
     "answers": [
       {
         "id": "A",
@@ -11140,7 +11140,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 465,
-    "text": "465. Baza danych ma dwie tabele połączone relacją 1..n. Którą klauzulą SQL należy połączyć tabele, aby wybrać korespondujące ze sobą wartości z pól obu tabel?",
+    "text": "Baza danych ma dwie tabele połączone relacją 1..n. Którą klauzulą SQL należy połączyć tabele, aby wybrać korespondujące ze sobą wartości z pól obu tabel?",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -11164,7 +11164,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 466,
-    "text": "466. Zdefiniowanie klucza obcego jest niezbędne do utworzenia",
+    "text": "Zdefiniowanie klucza obcego jest niezbędne do utworzenia",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -11188,7 +11188,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 467,
-    "text": "467. Zgodnie z właściwościami ACID, dotyczącym wykonania transakcji, wymaganie trwałości (ang. durability) oznacza, że",
+    "text": "Zgodnie z właściwościami ACID, dotyczącym wykonania transakcji, wymaganie trwałości (ang. durability) oznacza, że",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -11212,7 +11212,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 468,
-    "text": "468. Baza danych zawiera tabelę faktury o polach: numer, data, id_klienta, wartość, status. Każdego dnia generowany jest raport faktur z bieżącego dnia. Wyświetlane są jedynie numery i wartości faktur. Która z kwerend SQL służy do stworzenia tego raportu?",
+    "text": "Baza danych zawiera tabelę faktury o polach: numer, data, id_klienta, wartość, status. Każdego dnia generowany jest raport faktur z bieżącego dnia. Wyświetlane są jedynie numery i wartości faktur. Która z kwerend SQL służy do stworzenia tego raportu?",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -11236,7 +11236,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 469,
-    "text": "469. Polecenie SQL, które usuwa bazę danych o nazwie firma, ma postać",
+    "text": "Polecenie SQL, które usuwa bazę danych o nazwie firma, ma postać",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -11260,7 +11260,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 470,
-    "text": "470. Zastosowanie kwerendy SQL: DELETE FROM mieszkania WHERE status=1; spowoduje usunięcie",
+    "text": "Zastosowanie kwerendy SQL: DELETE FROM mieszkania WHERE status=1; spowoduje usunięcie",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -11284,7 +11284,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 471,
-    "text": "471. Aby przywrócić bazę danych z kopii bezpieczeństwa na serwerze MSSQL, należy posłużyć się poleceniem",
+    "text": "Aby przywrócić bazę danych z kopii bezpieczeństwa na serwerze MSSQL, należy posłużyć się poleceniem",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -11308,8 +11308,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 472,
-    "text": "472. W języku SQL wykonano przedstawione w ramce polecenia GRANT. Kto będzie miał prawo do przeglądania danych oraz ich zmiany?",
-    "image": "e14/472.jpg",
+    "text": "W języku SQL wykonano przedstawione w ramce polecenia GRANT. Kto będzie miał prawo do przeglądania danych oraz ich zmiany?",
+    "image": "/e14/472.jpg",
     "answers": [
       {
         "id": "A",
@@ -11332,7 +11332,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 473,
-    "text": "473. W języku PHP zastosowano funkcję is_int(). Które z podanych wywołań tej funkcji zwróci wartość TRUE?",
+    "text": "W języku PHP zastosowano funkcję is_int(). Które z podanych wywołań tej funkcji zwróci wartość TRUE?",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -11356,7 +11356,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 474,
-    "text": "474. W języku JavaScript należy zapisać warunek, który będzie spełniony, gdy zmienna a będzie dowolną liczbą naturalną dodatnią (bez 0) lub gdy zmienna b będzie dowolną liczbą z przedziału domkniętego od 10 do 100. Użyte w tym warunku wyrażenie logiczne będzie miało postać",
+    "text": "W języku JavaScript należy zapisać warunek, który będzie spełniony, gdy zmienna a będzie dowolną liczbą naturalną dodatnią (bez 0) lub gdy zmienna b będzie dowolną liczbą z przedziału domkniętego od 10 do 100. Użyte w tym warunku wyrażenie logiczne będzie miało postać",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -11380,8 +11380,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 475,
-    "text": "475. Dana jest tabela firmy zawierająca następujące kolumny: nazwa, adres, NIP, obrot (obrót w ostatnim miesiącu), rozliczenie, status. Wykonanie kwerendy SQL SELECT sprawi, że zostaną wyświetlone",
-    "image": "e14/475.jpg",
+    "text": "Dana jest tabela firmy zawierająca następujące kolumny: nazwa, adres, NIP, obrot (obrót w ostatnim miesiącu), rozliczenie, status. Wykonanie kwerendy SQL SELECT sprawi, że zostaną wyświetlone",
+    "image": "/e14/475.jpg",
     "answers": [
       {
         "id": "A",
@@ -11404,7 +11404,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 476,
-    "text": "476. W języku JavaScript wynik działania instrukcji zmienna++; będzie taki sam jak instrukcji",
+    "text": "W języku JavaScript wynik działania instrukcji zmienna++; będzie taki sam jak instrukcji",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -11428,7 +11428,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 477,
-    "text": "477. W języku PHP zmienna predefiniowana $_SESSION zawiera",
+    "text": "W języku PHP zmienna predefiniowana $_SESSION zawiera",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -11452,8 +11452,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 478,
-    "text": "478. Przedstawiony kod źródłowy ma za zadanie wyświetlić",
-    "image": "e14/478.jpg",
+    "text": "Przedstawiony kod źródłowy ma za zadanie wyświetlić",
+    "image": "/e14/478.jpg",
     "answers": [
       {
         "id": "A",
@@ -11476,8 +11476,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 479,
-    "text": "479. W języku JavaScript należy odwołać się do elementu zawartego w pierwszym paragrafie przedstawionego fragmentu strony HTML. Można to wykonać za pomocą funkcji",
-    "image": "e14/479.jpg",
+    "text": "W języku JavaScript należy odwołać się do elementu zawartego w pierwszym paragrafie przedstawionego fragmentu strony HTML. Można to wykonać za pomocą funkcji",
+    "image": "/e14/479.jpg",
     "answers": [
       {
         "id": "A",
@@ -11500,8 +11500,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 480,
-    "text": "480. O przedstawionym obiekcie języka JavaScript można powiedzieć, że ma",
-    "image": "e14/480.jpg",
+    "text": "O przedstawionym obiekcie języka JavaScript można powiedzieć, że ma",
+    "image": "/e14/480.jpg",
     "answers": [
       {
         "id": "A",
@@ -11524,7 +11524,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 481,
-    "text": "481. W języku JavaScript stworzono funkcję o nazwie liczba_max porównującą trzy liczby naturalne pobrane z parametrów funkcji i zwracającą maksymalną z nich. Prawidłowe wywołanie takiej funkcji wraz z pobraniem jej wyniku będzie miało postać",
+    "text": "W języku JavaScript stworzono funkcję o nazwie liczba_max porównującą trzy liczby naturalne pobrane z parametrów funkcji i zwracającą maksymalną z nich. Prawidłowe wywołanie takiej funkcji wraz z pobraniem jej wyniku będzie miało postać",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -11548,7 +11548,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 482,
-    "text": "482. Które z zadań programistycznych powinno być wykonane po stronie serwera?",
+    "text": "Które z zadań programistycznych powinno być wykonane po stronie serwera?",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -11572,7 +11572,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 483,
-    "text": "483. Język JavaScrypt ma obsługę",
+    "text": "Język JavaScrypt ma obsługę",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -11596,8 +11596,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 484,
-    "text": "484. W prezentowanym kodzie PHP w miejscu kropek powinno znaleźć się polecenie",
-    "image": "e14/484.jpg",
+    "text": "W prezentowanym kodzie PHP w miejscu kropek powinno znaleźć się polecenie",
+    "image": "/e14/484.jpg",
     "answers": [
       {
         "id": "A",
@@ -11620,7 +11620,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 485,
-    "text": "485. Który z elementów dokumentacji aplikacji powinien znaleźć się w dokumentacji użytkownika?",
+    "text": "Który z elementów dokumentacji aplikacji powinien znaleźć się w dokumentacji użytkownika?",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -11644,7 +11644,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 486,
-    "text": "486. Znacznik <s> w języku HTML powoduje",
+    "text": "Znacznik <s> w języku HTML powoduje",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -11668,8 +11668,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 487,
-    "text": "487. Metainformacja \"Description\" zawarta w pliku źródłowym HTML powinna zawierać",
-    "image": "e14/487.jpg",
+    "text": "Metainformacja \"Description\" zawarta w pliku źródłowym HTML powinna zawierać",
+    "image": "/e14/487.jpg",
     "answers": [
       {
         "id": "A",
@@ -11692,7 +11692,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 488,
-    "text": "488. Który opis odnosi się do metody POST wysyłania formularza?",
+    "text": "Który opis odnosi się do metody POST wysyłania formularza?",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -11716,8 +11716,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 489,
-    "text": "489. Atrybut value w polu formularza XHTML",
-    "image": "e14/489.jpg",
+    "text": "Atrybut value w polu formularza XHTML",
+    "image": "/e14/489.jpg",
     "answers": [
       {
         "id": "A",
@@ -11740,7 +11740,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 490,
-    "text": "490. W języku HTML zapis < spowoduje wyświetlenie w przeglądarce znaku",
+    "text": "W języku HTML zapis < spowoduje wyświetlenie w przeglądarce znaku",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -11764,7 +11764,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 491,
-    "text": "491. Przy użyciu jakiego znacznika HTML otrzymamy tekst napisany czcionką o stałej szerokości znaku, który uwzględnia dodatkowe spacje, tabulacje i znaki końca linii?",
+    "text": "Przy użyciu jakiego znacznika HTML otrzymamy tekst napisany czcionką o stałej szerokości znaku, który uwzględnia dodatkowe spacje, tabulacje i znaki końca linii?",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -11788,8 +11788,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 492,
-    "text": "492. W celu uzyskania efektu widocznego na rysunku, w kodzie HTML, należy umieścić znacznik skrótu <abbr> z atrybutem",
-    "image": "e14/492.jpg",
+    "text": "W celu uzyskania efektu widocznego na rysunku, w kodzie HTML, należy umieścić znacznik skrótu <abbr> z atrybutem",
+    "image": "/e14/492.jpg",
     "answers": [
       {
         "id": "A",
@@ -11812,7 +11812,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 493,
-    "text": "493. W HTML, aby wstawić obrazek z tekstem przyległym, znajdującym się pośrodku obrazka, należy zapisać znacznik",
+    "text": "W HTML, aby wstawić obrazek z tekstem przyległym, znajdującym się pośrodku obrazka, należy zapisać znacznik",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -11836,7 +11836,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 494,
-    "text": "494. Który styl CSS pozwoli zdefiniować wyrównanie tekstu do prawej strony?",
+    "text": "Który styl CSS pozwoli zdefiniować wyrównanie tekstu do prawej strony?",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -11860,8 +11860,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 495,
-    "text": "495. Przedstawiono kod tabeli 3x2. Której z modyfikacji w jej drugim wierszu należy dokonać, aby tabela wyglądała jak na obrazku z niewidocznym wierszem?",
-    "image": "e14/495.jpg",
+    "text": "Przedstawiono kod tabeli 3x2. Której z modyfikacji w jej drugim wierszu należy dokonać, aby tabela wyglądała jak na obrazku z niewidocznym wierszem?",
+    "image": "/e14/495.jpg",
     "answers": [
       {
         "id": "A",
@@ -11884,7 +11884,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 496,
-    "text": "496. Który zapis znacznika <div> może wystąpić w dokumencie HTML tylko jeden raz, a ponowne użycie tego zapisu spowoduje wygenerowanie błędów podczas walidacji dokumentu?",
+    "text": "Który zapis znacznika <div> może wystąpić w dokumencie HTML tylko jeden raz, a ponowne użycie tego zapisu spowoduje wygenerowanie błędów podczas walidacji dokumentu?",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -11908,8 +11908,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 497,
-    "text": "497. Przedstawiona linia kreskowana w stylu obramowania CSS jest określona właściwością",
-    "image": "e14/497.jpg",
+    "text": "Przedstawiona linia kreskowana w stylu obramowania CSS jest określona właściwością",
+    "image": "/e14/497.jpg",
     "answers": [
       {
         "id": "A",
@@ -11932,7 +11932,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 498,
-    "text": "498. Systemem zarządzania treścią pozwalającym na łatwe utworzenie i aktualizację serwisu WWW jest",
+    "text": "Systemem zarządzania treścią pozwalającym na łatwe utworzenie i aktualizację serwisu WWW jest",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -11956,8 +11956,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 499,
-    "text": "499. W podanym kodzie HTML przedstawiony styl CSS jest stylem",
-    "image": "e14/499.jpg",
+    "text": "W podanym kodzie HTML przedstawiony styl CSS jest stylem",
+    "image": "/e14/499.jpg",
     "answers": [
       {
         "id": "A",
@@ -11980,7 +11980,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 500,
-    "text": "500. Kolor zapisany w notacji heksadecymalnej #0000FF to",
+    "text": "Kolor zapisany w notacji heksadecymalnej #0000FF to",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -12004,7 +12004,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 501,
-    "text": "501. Które stwierdzenie odnosi się do skalowania obrazu?",
+    "text": "Które stwierdzenie odnosi się do skalowania obrazu?",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -12028,7 +12028,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 502,
-    "text": "502. W języku HTML atrybutem znacznika video, który włącza tryb odtwarzania w kółko, jest",
+    "text": "W języku HTML atrybutem znacznika video, który włącza tryb odtwarzania w kółko, jest",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -12052,7 +12052,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 503,
-    "text": "503. W języku HTML, aby dodać animację FLASH (z rozszerzeniem .swf) na stronę internetową, należy użyć znacznika",
+    "text": "W języku HTML, aby dodać animację FLASH (z rozszerzeniem .swf) na stronę internetową, należy użyć znacznika",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -12076,7 +12076,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 504,
-    "text": "504. Formatem plików dźwiękowych z kompresją bezstratną jest",
+    "text": "Formatem plików dźwiękowych z kompresją bezstratną jest",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -12100,8 +12100,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 505,
-    "text": "505. Na tabeli muzyka, przedstawionej na rysunku, zostało wykonane następujące zapytanie SQL. Jaki wynik zwróci ta kwerenda?",
-    "image": "e14/505.jpg",
+    "text": "Na tabeli muzyka, przedstawionej na rysunku, zostało wykonane następujące zapytanie SQL. Jaki wynik zwróci ta kwerenda?",
+    "image": "/e14/505.jpg",
     "answers": [
       {
         "id": "A",
@@ -12124,8 +12124,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 506,
-    "text": "506. Jaki wynik zwróci zapytanie z ramki wykonane na przedstawionej tabeli?",
-    "image": "e14/506.jpg",
+    "text": "Jaki wynik zwróci zapytanie z ramki wykonane na przedstawionej tabeli?",
+    "image": "/e14/506.jpg",
     "answers": [
       {
         "id": "A",
@@ -12148,7 +12148,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 507,
-    "text": "507. W relacyjnym modelu baz danych krotkami nazywa się",
+    "text": "W relacyjnym modelu baz danych krotkami nazywa się",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -12172,8 +12172,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 508,
-    "text": "508. Co można powiedzieć o normalizacji przedstawionej tabeli?",
-    "image": "e14/508.jpg",
+    "text": "Co można powiedzieć o normalizacji przedstawionej tabeli?",
+    "image": "/e14/508.jpg",
     "answers": [
       {
         "id": "A",
@@ -12196,7 +12196,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 509,
-    "text": "509. Które zapytanie SQL dla tabeli pracownicy utworzonej według schematu: id, imie, nazwisko, plec, zarobek, obliczy osobno średni zarobek kobiet i średni zarobek mężczyzn?",
+    "text": "Które zapytanie SQL dla tabeli pracownicy utworzonej według schematu: id, imie, nazwisko, plec, zarobek, obliczy osobno średni zarobek kobiet i średni zarobek mężczyzn?",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -12220,7 +12220,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 510,
-    "text": "510. Które polecenie SQL zamieni w tabeli tab w kolumnie kol wartość Ania na Zosia?",
+    "text": "Które polecenie SQL zamieni w tabeli tab w kolumnie kol wartość Ania na Zosia?",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -12244,7 +12244,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 511,
-    "text": "511. Aby w tworzonej w języku SQL tabeli praca dodać w kolumnie stawka warunek, że musi przyjmować rzeczywiste wartości dodatnie mniejsze od 50, należy użyć zapisu",
+    "text": "Aby w tworzonej w języku SQL tabeli praca dodać w kolumnie stawka warunek, że musi przyjmować rzeczywiste wartości dodatnie mniejsze od 50, należy użyć zapisu",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -12268,8 +12268,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 512,
-    "text": "512. W jaki sposób wykonanie podanej w ramce kwerendy SQL wpłynie na tabelę pracownicy?",
-    "image": "e14/512.jpg",
+    "text": "W jaki sposób wykonanie podanej w ramce kwerendy SQL wpłynie na tabelę pracownicy?",
+    "image": "/e14/512.jpg",
     "answers": [
       {
         "id": "A",
@@ -12292,7 +12292,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 513,
-    "text": "513. Wykonując raport w systemie obsługi relacyjnych baz danych, umożliwia się",
+    "text": "Wykonując raport w systemie obsługi relacyjnych baz danych, umożliwia się",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -12316,8 +12316,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 514,
-    "text": "514. Przedstawiona instrukcja JavaScript wyświetli",
-    "image": "e14/514.jpg",
+    "text": "Przedstawiona instrukcja JavaScript wyświetli",
+    "image": "/e14/514.jpg",
     "answers": [
       {
         "id": "A",
@@ -12340,8 +12340,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 515,
-    "text": "515. Która wartość tekstowa nie pasuje do podanego w ramce wzorca wyrażenia regularnego?",
-    "image": "e14/515.jpg",
+    "text": "Która wartość tekstowa nie pasuje do podanego w ramce wzorca wyrażenia regularnego?",
+    "image": "/e14/515.jpg",
     "answers": [
       {
         "id": "A",
@@ -12364,8 +12364,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 516,
-    "text": "516. Który modyfikator wskazuje podany opis?",
-    "image": "e14/516.jpg",
+    "text": "Który modyfikator wskazuje podany opis?",
+    "image": "/e14/516.jpg",
     "answers": [
       {
         "id": "A",
@@ -12388,7 +12388,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 517,
-    "text": "517. Tworzenie i przypisanie do zmiennej tablicy asocjacyjnej zrealizuje się w PHP zapisem",
+    "text": "Tworzenie i przypisanie do zmiennej tablicy asocjacyjnej zrealizuje się w PHP zapisem",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -12412,7 +12412,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 518,
-    "text": "518. W której technologii nie jest możliwe przetwarzanie danych użytkownika wprowadzanych na stronie WWW?",
+    "text": "W której technologii nie jest możliwe przetwarzanie danych użytkownika wprowadzanych na stronie WWW?",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -12436,8 +12436,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 519,
-    "text": "519. W programowaniu obiektowym w języku JavaScript użyty w przedstawionym kodzie zapis: this.zawod oznacza",
-    "image": "e14/519.jpg",
+    "text": "W programowaniu obiektowym w języku JavaScript użyty w przedstawionym kodzie zapis: this.zawod oznacza",
+    "image": "/e14/519.jpg",
     "answers": [
       {
         "id": "A",
@@ -12460,7 +12460,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 520,
-    "text": "520. W języku PHP sumę logiczną oznacza operator",
+    "text": "W języku PHP sumę logiczną oznacza operator",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -12484,8 +12484,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 521,
-    "text": "521. W jakim formacie będzie wyświetlana data po uruchomieniu przedstawionego kodu?",
-    "image": "e14/521.jpg",
+    "text": "W jakim formacie będzie wyświetlana data po uruchomieniu przedstawionego kodu?",
+    "image": "/e14/521.jpg",
     "answers": [
       {
         "id": "A",
@@ -12508,8 +12508,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 522,
-    "text": "522. Wynikiem działania pętli for w przedstawionym kodzie PHP jest wyświetlenie liczb",
-    "image": "e14/522.jpg",
+    "text": "Wynikiem działania pętli for w przedstawionym kodzie PHP jest wyświetlenie liczb",
+    "image": "/e14/522.jpg",
     "answers": [
       {
         "id": "A",
@@ -12532,7 +12532,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 523,
-    "text": "523. W JavaScript wywołanie zdarzenia onKeydown nastąpi wtedy, gdy klawisz",
+    "text": "W JavaScript wywołanie zdarzenia onKeydown nastąpi wtedy, gdy klawisz",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -12556,8 +12556,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 524,
-    "text": "524. Po wykonaniu przedstawionego kodu JavaScript wyświetli się wartość",
-    "image": "e14/524.jpg",
+    "text": "Po wykonaniu przedstawionego kodu JavaScript wyświetli się wartość",
+    "image": "/e14/524.jpg",
     "answers": [
       {
         "id": "A",
@@ -12580,8 +12580,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 525,
-    "text": "525. Wciśnięcie przycisku o treści \"niebieski\" spowoduje wykonanie przedstawionego kodu JavaScript. Jaki będzie efekt jego działania?",
-    "image": "e14/525.jpg",
+    "text": "Wciśnięcie przycisku o treści \"niebieski\" spowoduje wykonanie przedstawionego kodu JavaScript. Jaki będzie efekt jego działania?",
+    "image": "/e14/525.jpg",
     "answers": [
       {
         "id": "A",
@@ -12604,7 +12604,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 526,
-    "text": "526. Którego znacznika nie należy umieszczać w nagłówku dokumentu HTML?",
+    "text": "Którego znacznika nie należy umieszczać w nagłówku dokumentu HTML?",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -12628,7 +12628,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 527,
-    "text": "527. Znacznik języka HTML, który służy do oznaczenia fragmentu tekstu jako kodu komputerowego, to",
+    "text": "Znacznik języka HTML, który służy do oznaczenia fragmentu tekstu jako kodu komputerowego, to",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -12652,7 +12652,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 528,
-    "text": "528. W języku HTML dla hiperłącza wartość atrybutu target, która odpowiada za załadowanie strony do nowego okna lub karty, to",
+    "text": "W języku HTML dla hiperłącza wartość atrybutu target, która odpowiada za załadowanie strony do nowego okna lub karty, to",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -12676,7 +12676,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 529,
-    "text": "529. Znacznik <ins> w języku HTML służy do oznaczenia",
+    "text": "Znacznik <ins> w języku HTML służy do oznaczenia",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -12700,7 +12700,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 530,
-    "text": "530. Do określenia listy definicji w kodzie HTML używa się znacznika",
+    "text": "Do określenia listy definicji w kodzie HTML używa się znacznika",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -12724,8 +12724,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 531,
-    "text": "531. Jaki rezultat zostanie wyświetlony po wykonaniu przedstawionego kodu HTML?",
-    "image": "e14/531.jpg",
+    "text": "Jaki rezultat zostanie wyświetlony po wykonaniu przedstawionego kodu HTML?",
+    "image": "/e14/531.jpg",
     "answers": [
       {
         "id": "A",
@@ -12748,7 +12748,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 532,
-    "text": "532. W języku HTML, aby scalić w pionie dwie sąsiednie komórki w kolumnie tabeli, należy zastosować atrybut",
+    "text": "W języku HTML, aby scalić w pionie dwie sąsiednie komórki w kolumnie tabeli, należy zastosować atrybut",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -12772,8 +12772,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 533,
-    "text": "533. Chcąc dodać do listy rozwijalnej przedstawionego formularza HTML możliwość zaznaczenia kilku opcji jednocześnie, należy w znaczniku select dodać atrybut",
-    "image": "e14/533.jpg",
+    "text": "Chcąc dodać do listy rozwijalnej przedstawionego formularza HTML możliwość zaznaczenia kilku opcji jednocześnie, należy w znaczniku select dodać atrybut",
+    "image": "/e14/533.jpg",
     "answers": [
       {
         "id": "A",
@@ -12796,8 +12796,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 534,
-    "text": "534. Jak nazywa się metoda dołączania arkusza stylów do dokumentu HTML użyta w przedstawionym kodzie?",
-    "image": "e14/534.jpg",
+    "text": "Jak nazywa się metoda dołączania arkusza stylów do dokumentu HTML użyta w przedstawionym kodzie?",
+    "image": "/e14/534.jpg",
     "answers": [
       {
         "id": "A",
@@ -12820,7 +12820,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 535,
-    "text": "535. Tekst paragrafu, wyśrodkowany w pionie, opisuje w CSS reguła",
+    "text": "Tekst paragrafu, wyśrodkowany w pionie, opisuje w CSS reguła",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -12844,7 +12844,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 536,
-    "text": "536. Dla akapitu zdefiniowano styl CSS. Które właściwości stylu CSS poprawnie opisują dla akapitu krój czcionki: Arial; rozmiar czcionki: 16 pt; styl czcionki: pochylenie?",
+    "text": "Dla akapitu zdefiniowano styl CSS. Które właściwości stylu CSS poprawnie opisują dla akapitu krój czcionki: Arial; rozmiar czcionki: 16 pt; styl czcionki: pochylenie?",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -12868,7 +12868,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 537,
-    "text": "537. W stylach CSS, aby ustalić styl linii obramowania jako linię kreskową, należy zastosować wartość",
+    "text": "W stylach CSS, aby ustalić styl linii obramowania jako linię kreskową, należy zastosować wartość",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -12892,7 +12892,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 538,
-    "text": "538. W CSS symbolem jednostki miary, wyrażonej w punktach edytorskich, jest",
+    "text": "W CSS symbolem jednostki miary, wyrażonej w punktach edytorskich, jest",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -12916,7 +12916,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 539,
-    "text": "539. Transformację w stylach CSS, polegającą na zamianie tylko pierwszych liter wszystkich wyrazów na wielkie, otrzymamy stosując polecenie",
+    "text": "Transformację w stylach CSS, polegającą na zamianie tylko pierwszych liter wszystkich wyrazów na wielkie, otrzymamy stosując polecenie",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -12940,8 +12940,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 540,
-    "text": "540. Podany styl tworzy obramowanie pojedyncze, o następujących cechach:",
-    "image": "e14/540.jpg",
+    "text": "Podany styl tworzy obramowanie pojedyncze, o następujących cechach:",
+    "image": "/e14/540.jpg",
     "answers": [
       {
         "id": "A",
@@ -12964,7 +12964,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 541,
-    "text": "541. Która z operacji nie wpłynie na rozmiar / wielkość zajmowanej pamięci pliku graficznego?",
+    "text": "Która z operacji nie wpłynie na rozmiar / wielkość zajmowanej pamięci pliku graficznego?",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -12988,7 +12988,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 542,
-    "text": "542. Bitmapa jest obrazem",
+    "text": "Bitmapa jest obrazem",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -13012,7 +13012,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 543,
-    "text": "543. Jednostka ppi (pixels per inch)",
+    "text": "Jednostka ppi (pixels per inch)",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -13036,7 +13036,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 544,
-    "text": "544. Jaką funkcję pełni kwerenda krzyżowa w bazie MS Access?",
+    "text": "Jaką funkcję pełni kwerenda krzyżowa w bazie MS Access?",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -13060,7 +13060,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 545,
-    "text": "545. Funkcja CONCAT() w języku SQL odpowiada za",
+    "text": "Funkcja CONCAT() w języku SQL odpowiada za",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -13084,8 +13084,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 546,
-    "text": "546. Na podstawie tabeli Towar wykonano następujące zapytanie SQL: Jaki będzie wynik tej operacji?",
-    "image": "e14/546.jpg",
+    "text": "Na podstawie tabeli Towar wykonano następujące zapytanie SQL: Jaki będzie wynik tej operacji?",
+    "image": "/e14/546.jpg",
     "answers": [
       {
         "id": "A",
@@ -13108,8 +13108,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 547,
-    "text": "547. W tabeli produkt znajdują się przedmioty wyprodukowane po 2000 roku, z polami nazwa i rok_produkcji. Klauzula SQL wyświetli listę przedmiotów wyprodukowanych",
-    "image": "e14/547.jpg",
+    "text": "W tabeli produkt znajdują się przedmioty wyprodukowane po 2000 roku, z polami nazwa i rok_produkcji. Klauzula SQL wyświetli listę przedmiotów wyprodukowanych",
+    "image": "/e14/547.jpg",
     "answers": [
       {
         "id": "A",
@@ -13132,7 +13132,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 548,
-    "text": "548. Struktura prostych baz danych, w których wszystkie dane są przechowywane w jednej tabeli, nazywana jest modelem",
+    "text": "Struktura prostych baz danych, w których wszystkie dane są przechowywane w jednej tabeli, nazywana jest modelem",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -13156,8 +13156,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 549,
-    "text": "549. W przedstawionym diagramie bazy danych biblioteka, elementy: czytelnik, wypozyczenie i ksiazka są",
-    "image": "e14/549.jpg",
+    "text": "W przedstawionym diagramie bazy danych biblioteka, elementy: czytelnik, wypozyczenie i ksiazka są",
+    "image": "/e14/549.jpg",
     "answers": [
       {
         "id": "A",
@@ -13180,7 +13180,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 550,
-    "text": "550. W języku zapytań SQL, aby dodać do tabeli Towar kolumnę rozmiar typu znakowego o maksymalnej długości 20 znaków, należy wykonać polecenie",
+    "text": "W języku zapytań SQL, aby dodać do tabeli Towar kolumnę rozmiar typu znakowego o maksymalnej długości 20 znaków, należy wykonać polecenie",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -13204,7 +13204,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 551,
-    "text": "551. Liczba 0x142, zapisana w kodzie skryptu JavaScript, ma postać",
+    "text": "Liczba 0x142, zapisana w kodzie skryptu JavaScript, ma postać",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -13228,7 +13228,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 552,
-    "text": "552. W aplikacjach internetowych tablice asocjacyjne to tablice, w których",
+    "text": "W aplikacjach internetowych tablice asocjacyjne to tablice, w których",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -13252,8 +13252,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 553,
-    "text": "553. Odwołaniem do imienia Agata, zawartym w przedstawionej tablicy JavaScript, jest element",
-    "image": "e14/553.jpg",
+    "text": "Odwołaniem do imienia Agata, zawartym w przedstawionej tablicy JavaScript, jest element",
+    "image": "/e14/553.jpg",
     "answers": [
       {
         "id": "A",
@@ -13276,7 +13276,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 554,
-    "text": "554. Specjalna metoda danej klasy stosowana w programowaniu obiektowym, wywoływana automatycznie podczas tworzenia obiektu,której podstawowym zadaniem jest zwykle zainicjowanie pól, to",
+    "text": "Specjalna metoda danej klasy stosowana w programowaniu obiektowym, wywoływana automatycznie podczas tworzenia obiektu,której podstawowym zadaniem jest zwykle zainicjowanie pól, to",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -13300,7 +13300,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 555,
-    "text": "555. Wskaż poprawny zapis instrukcji zapisanej w języku JavaScript.",
+    "text": "Wskaż poprawny zapis instrukcji zapisanej w języku JavaScript.",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -13324,7 +13324,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 556,
-    "text": "556. W języku skryptowym JavaScript operatory: ||, && należą do grupy operatorów",
+    "text": "W języku skryptowym JavaScript operatory: ||, && należą do grupy operatorów",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -13348,7 +13348,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 557,
-    "text": "557. Wskaż pętlę, która w języku JavaScript wyświetli sześć kolejnych liczb parzystych.",
+    "text": "Wskaż pętlę, która w języku JavaScript wyświetli sześć kolejnych liczb parzystych.",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -13372,7 +13372,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 558,
-    "text": "558. Wybierz poprawną definicję funkcji w języku JavaScript.",
+    "text": "Wybierz poprawną definicję funkcji w języku JavaScript.",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -13396,7 +13396,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 559,
-    "text": "559. W języku PHP zapisywanie danych do pliku realizuje funkcja?",
+    "text": "W języku PHP zapisywanie danych do pliku realizuje funkcja?",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -13420,7 +13420,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 560,
-    "text": "560. Plikiem konfiguracyjnym, który pozwala na zdefiniowanie ustawień PHP dla całego serwera, jest",
+    "text": "Plikiem konfiguracyjnym, który pozwala na zdefiniowanie ustawień PHP dla całego serwera, jest",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -13444,8 +13444,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 561,
-    "text": "561. Efektem wykonania przedstawionego kodu PHP jest wyświetlenie komunikatu",
-    "image": "e14/561.jpg",
+    "text": "Efektem wykonania przedstawionego kodu PHP jest wyświetlenie komunikatu",
+    "image": "/e14/561.jpg",
     "answers": [
       {
         "id": "A",
@@ -13468,8 +13468,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 562,
-    "text": "562. Ile razy zostanie wykonana pętla zapisana w przedstawionym skrypcie PHP?",
-    "image": "e14/562.jpg",
+    "text": "Ile razy zostanie wykonana pętla zapisana w przedstawionym skrypcie PHP?",
+    "image": "/e14/562.jpg",
     "answers": [
       {
         "id": "A",
@@ -13492,7 +13492,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 563,
-    "text": "563. Jaką wartość zwróci funkcja empty($a); zapisana w języku PHP, gdy zmienna $a przyjmie wartość liczbową równą 0?",
+    "text": "Jaką wartość zwróci funkcja empty($a); zapisana w języku PHP, gdy zmienna $a przyjmie wartość liczbową równą 0?",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -13516,7 +13516,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 564,
-    "text": "564. W języku JavaScript, funkcja matematyczna Math.pow() służy do wyznaczenia",
+    "text": "W języku JavaScript, funkcja matematyczna Math.pow() służy do wyznaczenia",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -13540,8 +13540,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 565,
-    "text": "565. Jakie wartości muszą przyjmować zmienne w funkcji biblioteki mysqli, aby połączyć się z serwerem i bazą danych?",
-    "image": "e14/565.jpg",
+    "text": "Jakie wartości muszą przyjmować zmienne w funkcji biblioteki mysqli, aby połączyć się z serwerem i bazą danych?",
+    "image": "/e14/565.jpg",
     "answers": [
       {
         "id": "A",
@@ -13564,8 +13564,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 566,
-    "text": "566. W którym z bloków należy umieścić warunek pętli?",
-    "image": "e14/566.jpg",
+    "text": "W którym z bloków należy umieścić warunek pętli?",
+    "image": "/e14/566.jpg",
     "answers": [
       {
         "id": "A",
@@ -13588,8 +13588,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 567,
-    "text": "567. Ile razy należy zapisać instrukcję warunkową, aby zaimplementować w języku programowania przedstawiony algorytm?",
-    "image": "e14/567.jpg",
+    "text": "Ile razy należy zapisać instrukcję warunkową, aby zaimplementować w języku programowania przedstawiony algorytm?",
+    "image": "/e14/567.jpg",
     "answers": [
       {
         "id": "A",
@@ -13612,7 +13612,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 568,
-    "text": "568. W języku C, aby zadeklarować stałą, należy użyć",
+    "text": "W języku C, aby zadeklarować stałą, należy użyć",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -13636,7 +13636,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 569,
-    "text": "569. Które z wyrażeń logicznych zapisanych w języku C sprawdza, czy zmienna o nazwie zm1 należy do przedziału (6, 203> ?",
+    "text": "Które z wyrażeń logicznych zapisanych w języku C sprawdza, czy zmienna o nazwie zm1 należy do przedziału (6, 203> ?",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -13660,7 +13660,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 570,
-    "text": "570. Kwalifikatory dostępu: private, protected i public definiują mechanizm",
+    "text": "Kwalifikatory dostępu: private, protected i public definiują mechanizm",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -13684,7 +13684,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 571,
-    "text": "571. bool gotowe=true;\ncout << gotowe;\nCo zostanie wypisane w wyniku wykonania przedstawionych instrukcji?",
+    "text": "bool gotowe=true;\ncout << gotowe;\nCo zostanie wypisane w wyniku wykonania przedstawionych instrukcji?",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -13708,7 +13708,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 572,
-    "text": "572. Za pomocą którego słowa kluczowego deklaruje się zmienną w języku JavaScript?",
+    "text": "Za pomocą którego słowa kluczowego deklaruje się zmienną w języku JavaScript?",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -13732,8 +13732,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 573,
-    "text": "573. Zadaniem przedstawionej pętli jest",
-    "image": "e14/573.jpg",
+    "text": "Zadaniem przedstawionej pętli jest",
+    "image": "/e14/573.jpg",
     "answers": [
       {
         "id": "A",
@@ -13756,7 +13756,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 574,
-    "text": "574. Która z deklaracji funkcji w języku C++ ma parametr wejściowy typu rzeczywistego, a zwraca wartość całkowitą?",
+    "text": "Która z deklaracji funkcji w języku C++ ma parametr wejściowy typu rzeczywistego, a zwraca wartość całkowitą?",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -13780,7 +13780,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 575,
-    "text": "575. Jednym z wariantów testów jednostkowych jest analiza ścieżek, która polega na",
+    "text": "Jednym z wariantów testów jednostkowych jest analiza ścieżek, która polega na",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -13804,7 +13804,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 576,
-    "text": "576. Który sposób komentowania w języku PHP pozwala na zapis bloku komentarza w kilku liniach?",
+    "text": "Który sposób komentowania w języku PHP pozwala na zapis bloku komentarza w kilku liniach?",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -13828,7 +13828,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 577,
-    "text": "577. Pole lub zbiór pól jednoznacznie identyfikujący każdy pojedynczy wiersz w tabeli w bazie danych to klucz",
+    "text": "Pole lub zbiór pól jednoznacznie identyfikujący każdy pojedynczy wiersz w tabeli w bazie danych to klucz",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -13852,7 +13852,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 578,
-    "text": "578. W języku SQL, aby zmienić strukturę tabeli, np. poprzez dodanie lub usunięcie kolumny, należy zastosować polecenie",
+    "text": "W języku SQL, aby zmienić strukturę tabeli, np. poprzez dodanie lub usunięcie kolumny, należy zastosować polecenie",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -13876,7 +13876,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 579,
-    "text": "579. Atrybut kolumny NOT NULL jest wymagany w przypadku",
+    "text": "Atrybut kolumny NOT NULL jest wymagany w przypadku",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -13900,7 +13900,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 580,
-    "text": "580. Aby za pomocą polecenia SELECT wyświetlić nazwiska osób mieszkających na osiedlu tak, aby te nazwiska nie powtarzały się, należy zapisać zapytanie w postaci",
+    "text": "Aby za pomocą polecenia SELECT wyświetlić nazwiska osób mieszkających na osiedlu tak, aby te nazwiska nie powtarzały się, należy zapisać zapytanie w postaci",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -13924,7 +13924,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 581,
-    "text": "581. Baza danych zawiera dane multimedialne, co wiąże się z przechowywaniem dużych ilości danych binarnych. Do takich danych należy zastosować typ",
+    "text": "Baza danych zawiera dane multimedialne, co wiąże się z przechowywaniem dużych ilości danych binarnych. Do takich danych należy zastosować typ",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -13948,8 +13948,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 582,
-    "text": "582. W tabeli Recepta pola Imie i Nazwisko dotyczą pacjenta, na którego recepta jest wydana. Którą kwerendę należy zastosować, aby dla wszystkich recept uzyskać datę wystawienia recepty oraz imię i nazwisko lekarza wystawiającego?",
-    "image": "e14/582.jpg",
+    "text": "W tabeli Recepta pola Imie i Nazwisko dotyczą pacjenta, na którego recepta jest wydana. Którą kwerendę należy zastosować, aby dla wszystkich recept uzyskać datę wystawienia recepty oraz imię i nazwisko lekarza wystawiającego?",
+    "image": "/e14/582.jpg",
     "answers": [
       {
         "id": "A",
@@ -13972,7 +13972,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 583,
-    "text": "583. W bazach danych do prezentacji danych spełniających określone warunki należy utworzyć",
+    "text": "W bazach danych do prezentacji danych spełniających określone warunki należy utworzyć",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -13996,7 +13996,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 584,
-    "text": "584. Które polecenie służy do zmiany wartości o jeden w polu RokStudiów w tabeli Studenci dla studentów, którzy studiują na roku 1÷4?",
+    "text": "Które polecenie służy do zmiany wartości o jeden w polu RokStudiów w tabeli Studenci dla studentów, którzy studiują na roku 1÷4?",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -14020,7 +14020,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 585,
-    "text": "585. Wskaż różnicę pomiędzy poleceniami DROP TABLE i TRUNCATE TABLE.",
+    "text": "Wskaż różnicę pomiędzy poleceniami DROP TABLE i TRUNCATE TABLE.",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -14044,7 +14044,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 586,
-    "text": "586. Aby nadać użytkownikowi uprawnienia do tabel w bazie danych, należy zastosować polecenie",
+    "text": "Aby nadać użytkownikowi uprawnienia do tabel w bazie danych, należy zastosować polecenie",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -14068,7 +14068,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 587,
-    "text": "587. Aby przesłać dane za pomocą funkcji mysqli_query() w skrypcie PHP, który wstawia do bazy danych dane pobrane z formularza ze strony internetowej, jako jednego z parametrów należy użyć kwerendy",
+    "text": "Aby przesłać dane za pomocą funkcji mysqli_query() w skrypcie PHP, który wstawia do bazy danych dane pobrane z formularza ze strony internetowej, jako jednego z parametrów należy użyć kwerendy",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -14092,8 +14092,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 588,
-    "text": "588. Przedstawiony fragment kodu PHP działa poprawnie i ma za zadanie wyświetlić na stronie internetowej dane pobrane kwerendą z bazy danych. Z ilu pól zostaną wyświetlone dane?",
-    "image": "e14/588.jpg",
+    "text": "Przedstawiony fragment kodu PHP działa poprawnie i ma za zadanie wyświetlić na stronie internetowej dane pobrane kwerendą z bazy danych. Z ilu pól zostaną wyświetlone dane?",
+    "image": "/e14/588.jpg",
     "answers": [
       {
         "id": "A",
@@ -14116,8 +14116,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 589,
-    "text": "589. Na rysunku przedstawiono strukturę bloków strony internetowej. Który z fragmentów formatowania strony pasuje do takiego układu? (Dla uproszczenia pominięto właściwości koloru tła, wysokości i czcionki)",
-    "image": "e14/589.jpg",
+    "text": "Na rysunku przedstawiono strukturę bloków strony internetowej. Który z fragmentów formatowania strony pasuje do takiego układu? (Dla uproszczenia pominięto właściwości koloru tła, wysokości i czcionki)",
+    "image": "/e14/589.jpg",
     "answers": [
       {
         "id": "A",
@@ -14140,8 +14140,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 590,
-    "text": "590. Wskaż nazwę Systemu Zarządzania Treścią, którego logo zostało przedstawione na rysunku.",
-    "image": "e14/590.jpg",
+    "text": "Wskaż nazwę Systemu Zarządzania Treścią, którego logo zostało przedstawione na rysunku.",
+    "image": "/e14/590.jpg",
     "answers": [
       {
         "id": "A",
@@ -14164,8 +14164,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 591,
-    "text": "591. Który kod języka HTML da efekt formatowania jak na przedstawionym rysunku?",
-    "image": "e14/591.jpg",
+    "text": "Który kod języka HTML da efekt formatowania jak na przedstawionym rysunku?",
+    "image": "/e14/591.jpg",
     "answers": [
       {
         "id": "A",
@@ -14188,7 +14188,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 592,
-    "text": "592. Który znacznik należy do znaczników definiujących listy w języku HTML?",
+    "text": "Który znacznik należy do znaczników definiujących listy w języku HTML?",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -14212,8 +14212,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 593,
-    "text": "593. Który z kodów HTML opisuje przedstawioną tabelę? (Dla uproszczenia pominięto zapis stylu obramowania tabeli i komórek)",
-    "image": "e14/593.jpg",
+    "text": "Który z kodów HTML opisuje przedstawioną tabelę? (Dla uproszczenia pominięto zapis stylu obramowania tabeli i komórek)",
+    "image": "/e14/593.jpg",
     "answers": [
       {
         "id": "A",
@@ -14236,8 +14236,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 594,
-    "text": "594. Przedstawione w języku CSS formatowanie czcionki będzie obowiązywać dla",
-    "image": "e14/594.jpg",
+    "text": "Przedstawione w języku CSS formatowanie czcionki będzie obowiązywać dla",
+    "image": "/e14/594.jpg",
     "answers": [
       {
         "id": "A",
@@ -14260,7 +14260,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 595,
-    "text": "595. Której właściwości CSS należy użyć, aby zdefiniować marginesy wewnętrzne dla elementu?",
+    "text": "Której właściwości CSS należy użyć, aby zdefiniować marginesy wewnętrzne dla elementu?",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -14284,8 +14284,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 596,
-    "text": "596. W kodzie CSS zastosowano formatowanie elementu listy, przy czym żadne inne formatowanie CSS nie zostało zdefiniowane. Zastosowane formatowanie sprawi, że",
-    "image": "e14/596.jpg",
+    "text": "W kodzie CSS zastosowano formatowanie elementu listy, przy czym żadne inne formatowanie CSS nie zostało zdefiniowane. Zastosowane formatowanie sprawi, że",
+    "image": "/e14/596.jpg",
     "answers": [
       {
         "id": "A",
@@ -14308,7 +14308,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 597,
-    "text": "597. Wartości: static, relative, fixed, absolute oraz sticky można przypisać do właściwości",
+    "text": "Wartości: static, relative, fixed, absolute oraz sticky można przypisać do właściwości",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -14332,7 +14332,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 598,
-    "text": "598. Aby dostosować stronę internetową dla niewidomych, należy nadać wyświetlanym za pomocą znacznika img obrazom atrybut",
+    "text": "Aby dostosować stronę internetową dla niewidomych, należy nadać wyświetlanym za pomocą znacznika img obrazom atrybut",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -14356,7 +14356,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 599,
-    "text": "599. Którą czynność należy wykonać podczas obróbki zdjęcia w edytorze grafiki, aby białe tło zamienić na przezroczystość?",
+    "text": "Którą czynność należy wykonać podczas obróbki zdjęcia w edytorze grafiki, aby białe tło zamienić na przezroczystość?",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -14380,7 +14380,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 600,
-    "text": "600. Aby zwiększyć szybkość działania strony zawierającej grafikę o wymiarach 2000 px na 760 px, należy zmniejszyć rozmiary grafiki",
+    "text": "Aby zwiększyć szybkość działania strony zawierającej grafikę o wymiarach 2000 px na 760 px, należy zmniejszyć rozmiary grafiki",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -14404,8 +14404,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 601,
-    "text": "601. Przedstawiona linia kodu została zapisana w języku",
-    "image": "e14/601.jpg",
+    "text": "Przedstawiona linia kodu została zapisana w języku",
+    "image": "/e14/601.jpg",
     "answers": [
       {
         "id": "A",
@@ -14428,7 +14428,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 602,
-    "text": "602. Na stronie internetowej znajduje się formularz, do którego należy zaprogramować następujące funkcje: \n- walidacja: w trakcie wypełniania formularza w czasie rzeczywistym jest sprawdzana poprawność danych \n- przesyłanie danych: po wypełnieniu formularza i jego zatwierdzeniu dane są przesyłane do bazy danych\nna serwerze \nAby zaimplementować tę funkcjonalność w możliwie najprostszy sposób, należy zapisać",
+    "text": "Na stronie internetowej znajduje się formularz, do którego należy zaprogramować następujące funkcje: \n- walidacja: w trakcie wypełniania formularza w czasie rzeczywistym jest sprawdzana poprawność danych \n- przesyłanie danych: po wypełnieniu formularza i jego zatwierdzeniu dane są przesyłane do bazy danych\nna serwerze \nAby zaimplementować tę funkcjonalność w możliwie najprostszy sposób, należy zapisać",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -14452,7 +14452,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 603,
-    "text": "603. Globalne tablice do przechowywania danych o ciastkach i sesjach: $ _ COOKIE oraz $ _ SESSION są częścią\njęzyka",
+    "text": "Globalne tablice do przechowywania danych o ciastkach i sesjach: $ _ COOKIE oraz $ _ SESSION są częścią\njęzyka",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -14476,7 +14476,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 604,
-    "text": "604. Podczas walidacji dokumentu HTML5 pojawił się komunikat o treści: „Error: Element head is missing a required instance of child element title”. Oznacza to, że w dokumencie",
+    "text": "Podczas walidacji dokumentu HTML5 pojawił się komunikat o treści: „Error: Element head is missing a required instance of child element title”. Oznacza to, że w dokumencie",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -14500,7 +14500,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 605,
-    "text": "605. Którego protokołu należy użyć, aby przesłać pliki strony internetowej na serwer hostingowy?",
+    "text": "Którego protokołu należy użyć, aby przesłać pliki strony internetowej na serwer hostingowy?",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -14524,8 +14524,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 606,
-    "text": "606. Przedstawiony blok reprezentuje czynność",
-    "image": "e14/606.jpg",
+    "text": "Przedstawiony blok reprezentuje czynność",
+    "image": "/e14/606.jpg",
     "answers": [
       {
         "id": "A",
@@ -14548,7 +14548,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 607,
-    "text": "607. Aby zadeklarować pole klasy, do którego mają dostęp jedynie metody tej klasy i pole to nie jest dostępne dla klas pochodnych, należy użyć kwalifikatora dostępu",
+    "text": "Aby zadeklarować pole klasy, do którego mają dostęp jedynie metody tej klasy i pole to nie jest dostępne dla klas pochodnych, należy użyć kwalifikatora dostępu",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -14572,7 +14572,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 608,
-    "text": "608. Pętla while powinna być wykonywana tak długo, jak długo zmienna x będzie przyjmowała wartości z przedziału obustronnie otwartego (-2, 5). Zapis tego warunku w nagłówku pętli za pomocą języka PHP ma postać",
+    "text": "Pętla while powinna być wykonywana tak długo, jak długo zmienna x będzie przyjmowała wartości z przedziału obustronnie otwartego (-2, 5). Zapis tego warunku w nagłówku pętli za pomocą języka PHP ma postać",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -14596,8 +14596,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 609,
-    "text": "609. Po wykonaniu się przedstawionego fragmentu kodu języka C/C++ zmiennej o nazwie zmienna2 zostanie",
-    "image": "e14/609.jpg",
+    "text": "Po wykonaniu się przedstawionego fragmentu kodu języka C/C++ zmiennej o nazwie zmienna2 zostanie",
+    "image": "/e14/609.jpg",
     "answers": [
       {
         "id": "A",
@@ -14620,7 +14620,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 610,
-    "text": "610. W języku PHP float reprezentuje typ",
+    "text": "W języku PHP float reprezentuje typ",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -14644,7 +14644,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 611,
-    "text": "611. Którym słowem kluczowym, w języku z rodziny C należy posłużyć się, aby przypisać alternatywną nazwę dla istniejącego typu danych?",
+    "text": "Którym słowem kluczowym, w języku z rodziny C należy posłużyć się, aby przypisać alternatywną nazwę dla istniejącego typu danych?",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -14668,7 +14668,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 612,
-    "text": "612. Instrukcja for może być zastąpiona instrukcją",
+    "text": "Instrukcja for może być zastąpiona instrukcją",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -14692,8 +14692,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 613,
-    "text": "613. Przedstawiony kod źródłowy, zapisany w języku C++, ma za zadanie dla wprowadzanych dowolnych całkowitych liczb różnych od zera wypisać",
-    "image": "e14/613.jpg",
+    "text": "Przedstawiony kod źródłowy, zapisany w języku C++, ma za zadanie dla wprowadzanych dowolnych całkowitych liczb różnych od zera wypisać",
+    "image": "/e14/613.jpg",
     "answers": [
       {
         "id": "A",
@@ -14716,7 +14716,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 614,
-    "text": "614. DOM dostarcza metod i własności, które w języku JavaScript pozwalają na",
+    "text": "DOM dostarcza metod i własności, które w języku JavaScript pozwalają na",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -14740,7 +14740,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 615,
-    "text": "615. Testy dotyczące skalowalności oprogramowania mają za zadanie sprawdzić, czy aplikacja",
+    "text": "Testy dotyczące skalowalności oprogramowania mają za zadanie sprawdzić, czy aplikacja",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -14764,8 +14764,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 616,
-    "text": "616. Który z komentarzy opisuje zadanie zdefiniowanej w języku PHP funkcji?",
-    "image": "e14/616.jpg",
+    "text": "Który z komentarzy opisuje zadanie zdefiniowanej w języku PHP funkcji?",
+    "image": "/e14/616.jpg",
     "answers": [
       {
         "id": "A",
@@ -14788,16 +14788,16 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 617,
-    "text": "617. W relacyjnych bazach danych, jeżeli dwie tabele są połączone za pomocą ich kluczy głównych, mamy do czynienia z relacją",
+    "text": "W relacyjnych bazach danych, jeżeli dwie tabele są połączone za pomocą ich kluczy głównych, mamy do czynienia z relacją",
     "image": "./placeholder.png",
     "answers": [
       {
         "id": "A",
-        "text": "1..1"
+        "text": ".1"
       },
       {
         "id": "B",
-        "text": "1..n"
+        "text": ".n"
       },
       {
         "id": "C",
@@ -14812,7 +14812,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 618,
-    "text": "618. Normalizacja tabel jest procesem, który ma na celu",
+    "text": "Normalizacja tabel jest procesem, który ma na celu",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -14836,7 +14836,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 619,
-    "text": "619. Wbudowanym w pakiet XAMPP narzędziem służącym do zarządzania bazą danych jest",
+    "text": "Wbudowanym w pakiet XAMPP narzędziem służącym do zarządzania bazą danych jest",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -14860,7 +14860,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 620,
-    "text": "620. Wskaż zapytanie, w którym dane zostały posortowane.",
+    "text": "Wskaż zapytanie, w którym dane zostały posortowane.",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -14884,7 +14884,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 621,
-    "text": "621. Funkcją agregującą zwracającą liczbę rekordów jest",
+    "text": "Funkcją agregującą zwracającą liczbę rekordów jest",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -14908,7 +14908,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 622,
-    "text": "622. Dana jest tabela zwierzeta z polami nazwa, gatunek, gromada, cechy, dlugosc_zycia. Dla dowolnego zestawu danych, aby wyświetlić nazwy tych zwierząt, które żyją przynajmniej 20 lat oraz są ssakami, należy wydać zapytanie:",
+    "text": "Dana jest tabela zwierzeta z polami nazwa, gatunek, gromada, cechy, dlugosc_zycia. Dla dowolnego zestawu danych, aby wyświetlić nazwy tych zwierząt, które żyją przynajmniej 20 lat oraz są ssakami, należy wydać zapytanie:",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -14932,7 +14932,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 623,
-    "text": "623. W tabeli personel znajdują się pola: imie, nazwisko, pensja, staz. Aby otrzymać średnią pensję pracowników, dla których staż wynosi od 10 do 20 lat pracy włącznie, należy wykonać kwerendę:",
+    "text": "W tabeli personel znajdują się pola: imie, nazwisko, pensja, staz. Aby otrzymać średnią pensję pracowników, dla których staż wynosi od 10 do 20 lat pracy włącznie, należy wykonać kwerendę:",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -14956,7 +14956,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 624,
-    "text": "624. Zapytanie z klauzulą JOIN stosuje się, aby",
+    "text": "Zapytanie z klauzulą JOIN stosuje się, aby",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -14980,7 +14980,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 625,
-    "text": "625. Aby usunąć tabelę należy zastosować kwerendę",
+    "text": "Aby usunąć tabelę należy zastosować kwerendę",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -15004,8 +15004,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 626,
-    "text": "626. Za pomocą przedstawionego zapytania w tabeli zostanie",
-    "image": "e14/626.jpg",
+    "text": "Za pomocą przedstawionego zapytania w tabeli zostanie",
+    "image": "/e14/626.jpg",
     "answers": [
       {
         "id": "A",
@@ -15028,8 +15028,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 627,
-    "text": "627. Które tabele zostaną sprawdzone za pomocą przedstawionego polecenia?",
-    "image": "e14/627.jpg",
+    "text": "Które tabele zostaną sprawdzone za pomocą przedstawionego polecenia?",
+    "image": "/e14/627.jpg",
     "answers": [
       {
         "id": "A",
@@ -15052,8 +15052,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 628,
-    "text": "628. Jakie uprawnienia będzie miał użytkownik jan po wykonaniu na bazie danych przedstawionych poleceń?",
-    "image": "e14/628.jpg",
+    "text": "Jakie uprawnienia będzie miał użytkownik jan po wykonaniu na bazie danych przedstawionych poleceń?",
+    "image": "/e14/628.jpg",
     "answers": [
       {
         "id": "A",
@@ -15076,7 +15076,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 629,
-    "text": "629. Witryna internetowa wysyła dane poufne za pomocą formularza do kodu PHP. Która metoda wysłania jest najbardziej bezpieczna?",
+    "text": "Witryna internetowa wysyła dane poufne za pomocą formularza do kodu PHP. Która metoda wysłania jest najbardziej bezpieczna?",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -15100,8 +15100,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 630,
-    "text": "630. Przedstawiony fragment kodu PHP ma za zadanie umieścić dane znajdujące się w zmiennych $a, $b, $c w bazie danych, w tabeli dane. Tabela dane zawiera cztery pola, z czego pierwsze to autoinkrementowany klucz główny. Które z poleceń powinno być przypisane do zmiennej $zapytanie?",
-    "image": "e14/630.jpg",
+    "text": "Przedstawiony fragment kodu PHP ma za zadanie umieścić dane znajdujące się w zmiennych $a, $b, $c w bazie danych, w tabeli dane. Tabela dane zawiera cztery pola, z czego pierwsze to autoinkrementowany klucz główny. Które z poleceń powinno być przypisane do zmiennej $zapytanie?",
+    "image": "/e14/630.jpg",
     "answers": [
       {
         "id": "A",
@@ -15124,8 +15124,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 631,
-    "text": "631. Witryna internetowa ma mieć przedstawioną strukturę bloków. Aby uzyskać ten układ, należy znacznikom sekcji przypisać właściwości w następujący sposób:",
-    "image": "e14/631.jpg",
+    "text": "Witryna internetowa ma mieć przedstawioną strukturę bloków. Aby uzyskać ten układ, należy znacznikom sekcji przypisać właściwości w następujący sposób:",
+    "image": "/e14/631.jpg",
     "answers": [
       {
         "id": "A",
@@ -15148,7 +15148,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 632,
-    "text": "632. Podstawowym zadaniem systemu CMS jest oddzielenie treści serwisu informacyjnego od jego wyglądu. Efekt ten jest uzyskany poprzez generowanie zawartości",
+    "text": "Podstawowym zadaniem systemu CMS jest oddzielenie treści serwisu informacyjnego od jego wyglądu. Efekt ten jest uzyskany poprzez generowanie zawartości",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -15172,7 +15172,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 633,
-    "text": "633. W języku HTML znacznik < i > nadaje znakom taki sam wizualny efekt jak znacznik",
+    "text": "W języku HTML znacznik < i > nadaje znakom taki sam wizualny efekt jak znacznik",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -15196,8 +15196,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 634,
-    "text": "634. Przedstawiono tabelę zdefiniowaną kodem HTML, bez formatowania CSS. Który z fragmentów kodu HTML odpowiada pierwszemu wierszowi tabeli?",
-    "image": "e14/634.jpg",
+    "text": "Przedstawiono tabelę zdefiniowaną kodem HTML, bez formatowania CSS. Który z fragmentów kodu HTML odpowiada pierwszemu wierszowi tabeli?",
+    "image": "/e14/634.jpg",
     "answers": [
       {
         "id": "A",
@@ -15220,7 +15220,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 635,
-    "text": "635. Aby obraz wstawiony kodem HTML mógł być interpretowany przez programy wspomagające osoby niewidzące, należy zdefiniować atrybut",
+    "text": "Aby obraz wstawiony kodem HTML mógł być interpretowany przez programy wspomagające osoby niewidzące, należy zdefiniować atrybut",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -15244,8 +15244,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 636,
-    "text": "636. Na obrazie przedstawiono efekt formatowania stylami CSS oraz kod HTML generujący ten przykład. Zakładając, że marginesy wewnętrzne wynoszą 50 px, a zewnętrzne wynoszą 20 px, styl CSS dla obrazu ma postać",
-    "image": "e14/636.jpg",
+    "text": "Na obrazie przedstawiono efekt formatowania stylami CSS oraz kod HTML generujący ten przykład. Zakładając, że marginesy wewnętrzne wynoszą 50 px, a zewnętrzne wynoszą 20 px, styl CSS dla obrazu ma postać",
+    "image": "/e14/636.jpg",
     "answers": [
       {
         "id": "A",
@@ -15268,8 +15268,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 637,
-    "text": "637. W kodzie CSS zdefiniowano cztery klasy formatowania, których następnie użyto do formatowania paragrafów. Efekt widoczny na rysunku powstał po zastosowaniu klasy o nazwie",
-    "image": "e14/637.jpg",
+    "text": "W kodzie CSS zdefiniowano cztery klasy formatowania, których następnie użyto do formatowania paragrafów. Efekt widoczny na rysunku powstał po zastosowaniu klasy o nazwie",
+    "image": "/e14/637.jpg",
     "answers": [
       {
         "id": "A",
@@ -15292,7 +15292,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 638,
-    "text": "638. W jakim formacie należy zapisać obraz, aby mógł być wyświetlony na stronie internetowej z zachowaniem przezroczystości?",
+    "text": "W jakim formacie należy zapisać obraz, aby mógł być wyświetlony na stronie internetowej z zachowaniem przezroczystości?",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -15316,7 +15316,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 639,
-    "text": "639. Na potrzeby strony internetowej przygotowano grafikę rysunek.jpg o rozmiarze: szerokość 200 px, wysokość 100 px. Aby wyświetlić tę grafikę jako miniaturę – pomniejszoną z zachowaniem proporcji, można zastosować znacznik",
+    "text": "Na potrzeby strony internetowej przygotowano grafikę rysunek.jpg o rozmiarze: szerokość 200 px, wysokość 100 px. Aby wyświetlić tę grafikę jako miniaturę – pomniejszoną z zachowaniem proporcji, można zastosować znacznik",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -15340,8 +15340,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 640,
-    "text": "640. Której funkcji edytora grafiki rastrowej należy użyć, aby przygotować rysunek do wyświetlenia na stronie w ten sposób, żeby było widoczne tylko to, co znajduje się w ramce?",
-    "image": "e14/640.jpg",
+    "text": "Której funkcji edytora grafiki rastrowej należy użyć, aby przygotować rysunek do wyświetlenia na stronie w ten sposób, żeby było widoczne tylko to, co znajduje się w ramce?",
+    "image": "/e14/640.jpg",
     "answers": [
       {
         "id": "A",
@@ -15364,8 +15364,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 641,
-    "text": "641. Przedstawiony fragment dokumentu HTML z kodem JavaScript spowoduje, że po wciśnięciu przycisku",
-    "image": "e14/641.jpg",
+    "text": "Przedstawiony fragment dokumentu HTML z kodem JavaScript spowoduje, że po wciśnięciu przycisku",
+    "image": "/e14/641.jpg",
     "answers": [
       {
         "id": "A",
@@ -15388,8 +15388,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 642,
-    "text": "642. Co spowoduje fragment skryptu w języku JavaScript?",
-    "image": "e14/642.jpg",
+    "text": "Co spowoduje fragment skryptu w języku JavaScript?",
+    "image": "/e14/642.jpg",
     "answers": [
       {
         "id": "A",
@@ -15412,8 +15412,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 643,
-    "text": "643. Przedstawiony kod PHP nawiązuje połączenie z serwerem bazy danych. Jakiego typu operacje powinny się znaleźć w instrukcji warunkowej w miejscu trzech kropek?",
-    "image": "e14/643.jpg",
+    "text": "Przedstawiony kod PHP nawiązuje połączenie z serwerem bazy danych. Jakiego typu operacje powinny się znaleźć w instrukcji warunkowej w miejscu trzech kropek?",
+    "image": "/e14/643.jpg",
     "answers": [
       {
         "id": "A",
@@ -15436,7 +15436,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 644,
-    "text": "644. Który znacznik należący do sekcji head dokumentu HTML w wersji 5 jest wymagany przez walidator języka HTML, a jego brak jest zgłaszany jako błąd (error)?",
+    "text": "Który znacznik należący do sekcji head dokumentu HTML w wersji 5 jest wymagany przez walidator języka HTML, a jego brak jest zgłaszany jako błąd (error)?",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -15460,7 +15460,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 645,
-    "text": "645. Za pomocą którego protokołu można opublikować stronę internetową na serwerze?",
+    "text": "Za pomocą którego protokołu można opublikować stronę internetową na serwerze?",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -15484,8 +15484,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 646,
-    "text": "646. W przedstawionym fragmencie algorytmu zastosowano",
-    "image": "e14/646.jpg",
+    "text": "W przedstawionym fragmencie algorytmu zastosowano",
+    "image": "/e14/646.jpg",
     "answers": [
       {
         "id": "A",
@@ -15508,7 +15508,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 647,
-    "text": "647. Do optymalnej realizacji algorytmu szukającego największej z trzech podanych liczb a, b i c, wystarczy\nzastosować",
+    "text": "Do optymalnej realizacji algorytmu szukającego największej z trzech podanych liczb a, b i c, wystarczy\nzastosować",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -15532,7 +15532,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 648,
-    "text": "648. Które wyrażenie logiczne w języku PHP sprawdza, czy zmienna1 należy do przedziału jednostronnie\ndomkniętego <-5, 10)?",
+    "text": "Które wyrażenie logiczne w języku PHP sprawdza, czy zmienna1 należy do przedziału jednostronnie\ndomkniętego <-5, 10)?",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -15556,8 +15556,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 649,
-    "text": "649. Przedstawiona w języku C++ definicja typu wyliczeniowego sprawi, że enumerator CZWARTEK będzie\nrówny",
-    "image": "e14/649.jpg",
+    "text": "Przedstawiona w języku C++ definicja typu wyliczeniowego sprawi, że enumerator CZWARTEK będzie\nrówny",
+    "image": "/e14/649.jpg",
     "answers": [
       {
         "id": "A",
@@ -15580,8 +15580,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 650,
-    "text": "650. Tablica tab[] jest wypełniona dowolnymi liczbami całkowitymi. Jaka wartość znajdzie się w zmiennej zm2\npo wykonaniu prezentowanego fragmentu kodu?",
-    "image": "e14/650.jpg",
+    "text": "Tablica tab[] jest wypełniona dowolnymi liczbami całkowitymi. Jaka wartość znajdzie się w zmiennej zm2\npo wykonaniu prezentowanego fragmentu kodu?",
+    "image": "/e14/650.jpg",
     "answers": [
       {
         "id": "A",
@@ -15604,7 +15604,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 651,
-    "text": "651. W języku JavaScript metoda getElementById odwołuje się do",
+    "text": "W języku JavaScript metoda getElementById odwołuje się do",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -15628,7 +15628,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 652,
-    "text": "652. W języku C++ funkcja zwracająca wynik potęgowania, działająca na dwóch parametrach wejściowych:\nliczbie x i wykładniku w, ma deklarację",
+    "text": "W języku C++ funkcja zwracająca wynik potęgowania, działająca na dwóch parametrach wejściowych:\nliczbie x i wykładniku w, ma deklarację",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -15652,7 +15652,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 653,
-    "text": "653. Aby skorzystać ze skryptu zapisanego w pliku przyklad.js, należy połączyć go ze stroną za pomocą kodu",
+    "text": "Aby skorzystać ze skryptu zapisanego w pliku przyklad.js, należy połączyć go ze stroną za pomocą kodu",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -15676,8 +15676,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 654,
-    "text": "654. Programista napisał w języku C++ pętlę, która miała obliczyć wynik działania 5! (5! = 1 * 2 * 3 * 4 * 5).\nPopełnił jednak błąd logiczny polegający na tym, że",
-    "image": "e14/654.jpg",
+    "text": "Programista napisał w języku C++ pętlę, która miała obliczyć wynik działania 5! (5! = 1 * 2 * 3 * 4 * 5).\nPopełnił jednak błąd logiczny polegający na tym, że",
+    "image": "/e14/654.jpg",
     "answers": [
       {
         "id": "A",
@@ -15700,7 +15700,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 655,
-    "text": "655. Który ze sposobów komentowania kodu nie jest stosowany w kodzie PHP?",
+    "text": "Który ze sposobów komentowania kodu nie jest stosowany w kodzie PHP?",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -15724,7 +15724,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 656,
-    "text": "656. Klucz obcy w tabeli jest tworzony po to, aby",
+    "text": "Klucz obcy w tabeli jest tworzony po to, aby",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -15748,7 +15748,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 657,
-    "text": "657. Które ze stwierdzeń dotyczących klucza podstawowego jest prawdziwe?",
+    "text": "Które ze stwierdzeń dotyczących klucza podstawowego jest prawdziwe?",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -15772,7 +15772,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 658,
-    "text": "658. W języku SQL aby zmodyfikować dane w tabeli, należy posłużyć się poleceniem",
+    "text": "W języku SQL aby zmodyfikować dane w tabeli, należy posłużyć się poleceniem",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -15796,8 +15796,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 659,
-    "text": "659. Które zapytanie SQL posłuży do wyszukania z przedstawionej tabeli wyłącznie wszystkich imion i nazwisk\npacjentów urodzonych przed rokiem 2002?",
-    "image": "e14/659.jpg",
+    "text": "Które zapytanie SQL posłuży do wyszukania z przedstawionej tabeli wyłącznie wszystkich imion i nazwisk\npacjentów urodzonych przed rokiem 2002?",
+    "image": "/e14/659.jpg",
     "answers": [
       {
         "id": "A",
@@ -15820,7 +15820,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 660,
-    "text": "660. Aby utworzyć tabelę, należy się posłużyć poleceniem",
+    "text": "Aby utworzyć tabelę, należy się posłużyć poleceniem",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -15844,8 +15844,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 661,
-    "text": "661. Wynikiem uruchomienia zapytania SQL jest",
-    "image": "e14/661.jpg",
+    "text": "Wynikiem uruchomienia zapytania SQL jest",
+    "image": "/e14/661.jpg",
     "answers": [
       {
         "id": "A",
@@ -15868,8 +15868,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 662,
-    "text": "662. Aby wyświetlić jedynie imię, nazwisko i ulicę wszystkich mieszkańców, należy zastosować zapytanie",
-    "image": "e14/662.jpg",
+    "text": "Aby wyświetlić jedynie imię, nazwisko i ulicę wszystkich mieszkańców, należy zastosować zapytanie",
+    "image": "/e14/662.jpg",
     "answers": [
       {
         "id": "A",
@@ -15892,8 +15892,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 663,
-    "text": "663. Przedstawiona baza danych zawiera trzy tabele i dwie relacje. Aby wyświetlić dane wszystkich lekarzy\nprzypisanych do konkretnego pacjenta, należy przyrównać klucze",
-    "image": "e14/663.jpg",
+    "text": "Przedstawiona baza danych zawiera trzy tabele i dwie relacje. Aby wyświetlić dane wszystkich lekarzy\nprzypisanych do konkretnego pacjenta, należy przyrównać klucze",
+    "image": "/e14/663.jpg",
     "answers": [
       {
         "id": "A",
@@ -15916,7 +15916,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 664,
-    "text": "664. W wyniku połączenia relacją kluczy głównych dwóch tabel otrzymuje się relację typu",
+    "text": "W wyniku połączenia relacją kluczy głównych dwóch tabel otrzymuje się relację typu",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -15940,7 +15940,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 665,
-    "text": "665. Obiektem służącym w bazie danych do podsumowywania, wyświetlania i wydruków danych jest",
+    "text": "Obiektem służącym w bazie danych do podsumowywania, wyświetlania i wydruków danych jest",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -15964,7 +15964,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 666,
-    "text": "666. Za pomocą polecenia ALTER TABLE można",
+    "text": "Za pomocą polecenia ALTER TABLE można",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -15988,7 +15988,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 667,
-    "text": "667. W bazie danych zdefiniowano tabelę Mieszkancy wypełnioną danymi. Aby usunąć tę tabelę wraz\nz zawartością, należy posłużyć się poleceniem",
+    "text": "W bazie danych zdefiniowano tabelę Mieszkancy wypełnioną danymi. Aby usunąć tę tabelę wraz\nz zawartością, należy posłużyć się poleceniem",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -16012,7 +16012,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 668,
-    "text": "668. Aby odebrać uprawnienia użytkownikowi, należy zastosować polecenie",
+    "text": "Aby odebrać uprawnienia użytkownikowi, należy zastosować polecenie",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -16036,7 +16036,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 669,
-    "text": "669. Aby aplikacja PHP mogła komunikować się z bazą danych, niezbędne jest w pierwszej kolejności wywołanie\nfunkcji o nazwie",
+    "text": "Aby aplikacja PHP mogła komunikować się z bazą danych, niezbędne jest w pierwszej kolejności wywołanie\nfunkcji o nazwie",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -16060,7 +16060,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 670,
-    "text": "670. Który z wymienionych znaczników języka HTML może posłużyć do budowy struktury strony internetowej?",
+    "text": "Który z wymienionych znaczników języka HTML może posłużyć do budowy struktury strony internetowej?",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -16084,8 +16084,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 671,
-    "text": "671. Logo systemu CMS o nazwie Joomla! to",
-    "image": "e14/671.jpg",
+    "text": "Logo systemu CMS o nazwie Joomla! to",
+    "image": "/e14/671.jpg",
     "answers": [
       {
         "id": "A",
@@ -16108,7 +16108,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 672,
-    "text": "672. Język HTML dysponuje nagłówkami do budowania hierarchii treści. Nagłówki te występują jedynie\nw zakresie",
+    "text": "Język HTML dysponuje nagłówkami do budowania hierarchii treści. Nagłówki te występują jedynie\nw zakresie",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -16132,8 +16132,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 673,
-    "text": "673. W języku HTML zdefiniowano odnośnik do strony internetowej. Aby strona otwierała się w nowym oknie\nlub zakładce przeglądarki, należy dopisać do definicji odnośnika atrybut",
-    "image": "e14/673.jpg",
+    "text": "W języku HTML zdefiniowano odnośnik do strony internetowej. Aby strona otwierała się w nowym oknie\nlub zakładce przeglądarki, należy dopisać do definicji odnośnika atrybut",
+    "image": "/e14/673.jpg",
     "answers": [
       {
         "id": "A",
@@ -16156,8 +16156,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 674,
-    "text": "674. Która lista jest interpretacją przedstawionego kodu?",
-    "image": "e14/674.jpg",
+    "text": "Która lista jest interpretacją przedstawionego kodu?",
+    "image": "/e14/674.jpg",
     "answers": [
       {
         "id": "A",
@@ -16180,8 +16180,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 675,
-    "text": "675. Na potrzeby strony internetowej zdefiniowano styl. Styl będzie przypisany tylko do niektórych znaczników\n(np. niektórych nagłówków, kilku akapitów). W takim wypadku, aby przypisać styl do kilku konkretnych\nznaczników, najlepiej jest zastosować",
-    "image": "e14/675.jpg",
+    "text": "Na potrzeby strony internetowej zdefiniowano styl. Styl będzie przypisany tylko do niektórych znaczników\n(np. niektórych nagłówków, kilku akapitów). W takim wypadku, aby przypisać styl do kilku konkretnych\nznaczników, najlepiej jest zastosować",
+    "image": "/e14/675.jpg",
     "answers": [
       {
         "id": "A",
@@ -16204,7 +16204,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 676,
-    "text": "676. Aby zdefiniować krój czcionki w stylu CSS, należy użyć właściwości",
+    "text": "Aby zdefiniować krój czcionki w stylu CSS, należy użyć właściwości",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -16228,8 +16228,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 677,
-    "text": "677. Który z obrazów został sformatowany za pomocą przedstawionego stylu CSS?",
-    "image": "e14/677.jpg",
+    "text": "Który z obrazów został sformatowany za pomocą przedstawionego stylu CSS?",
+    "image": "/e14/677.jpg",
     "answers": [
       {
         "id": "A",
@@ -16252,7 +16252,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 678,
-    "text": "678. Aby na stronie internetowej wyświetlić logo, którego tło jest przezroczyste, należy zastosować format",
+    "text": "Aby na stronie internetowej wyświetlić logo, którego tło jest przezroczyste, należy zastosować format",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -16276,7 +16276,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 679,
-    "text": "679. Aby obraz umieszczony na stronie internetowej automatycznie skalował się do rozmiaru ekranu, na którym\njest wyświetlana strona, należy",
+    "text": "Aby obraz umieszczony na stronie internetowej automatycznie skalował się do rozmiaru ekranu, na którym\njest wyświetlana strona, należy",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -16300,7 +16300,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 680,
-    "text": "680. W procesie przygotowywania grafiki na stronę internetową należy wyciąć jedynie jej fragment. Taka\noperacja to",
+    "text": "W procesie przygotowywania grafiki na stronę internetową należy wyciąć jedynie jej fragment. Taka\noperacja to",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -16324,7 +16324,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 681,
-    "text": "681. W aplikacji internetowej komunikat powinien pojawiać się tylko wtedy, gdy dany użytkownik jest na stronie\npo raz pierwszy. Którą funkcję PHP należy w tym celu zastosować?",
+    "text": "W aplikacji internetowej komunikat powinien pojawiać się tylko wtedy, gdy dany użytkownik jest na stronie\npo raz pierwszy. Którą funkcję PHP należy w tym celu zastosować?",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -16348,8 +16348,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 682,
-    "text": "682. Przedstawiona definicja formularza została zastosowana na stronie internetowej, która wysyła dane do pliku\nzapisanego w języku PHP. W której tablicy będą dostępne dane z formularza?",
-    "image": "e14/682.jpg",
+    "text": "Przedstawiona definicja formularza została zastosowana na stronie internetowej, która wysyła dane do pliku\nzapisanego w języku PHP. W której tablicy będą dostępne dane z formularza?",
+    "image": "/e14/682.jpg",
     "answers": [
       {
         "id": "A",
@@ -16372,7 +16372,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 683,
-    "text": "683. W skrypcie JavaScript zastosowano metodę DOM getElementsByClassName('akapit'). Metoda ta\nodwoła się do akapitu",
+    "text": "W skrypcie JavaScript zastosowano metodę DOM getElementsByClassName('akapit'). Metoda ta\nodwoła się do akapitu",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -16396,8 +16396,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 684,
-    "text": "684. Dla przedstawionego fragmentu kodu walidator HTML zwróci błąd, ponieważ",
-    "image": "e14/684.jpg",
+    "text": "Dla przedstawionego fragmentu kodu walidator HTML zwróci błąd, ponieważ",
+    "image": "/e14/684.jpg",
     "answers": [
       {
         "id": "A",
@@ -16420,7 +16420,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 685,
-    "text": "685. Program FileZilla może posłużyć do",
+    "text": "Program FileZilla może posłużyć do",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -16444,8 +16444,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 686,
-    "text": "686. Która wartość zostanie wypisana przez algorytm?",
-    "image": "e14/686.jpg",
+    "text": "Która wartość zostanie wypisana przez algorytm?",
+    "image": "/e14/686.jpg",
     "answers": [
       {
         "id": "A",
@@ -16468,7 +16468,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 687,
-    "text": "687. Wskaż złożoność obliczeniową algorytmu naiwnego (zwykłego) wyszukiwania minimum w zbiorze liczb?",
+    "text": "Wskaż złożoność obliczeniową algorytmu naiwnego (zwykłego) wyszukiwania minimum w zbiorze liczb?",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -16492,8 +16492,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 688,
-    "text": "688. Do którego pola klasy Dane możliwy będzie dostęp z zewnątrz poprzez nazwę obiektu utworzonego jako instancja tej klasy?",
-    "image": "e14/688.jpg",
+    "text": "Do którego pola klasy Dane możliwy będzie dostęp z zewnątrz poprzez nazwę obiektu utworzonego jako instancja tej klasy?",
+    "image": "/e14/688.jpg",
     "answers": [
       {
         "id": "A",
@@ -16516,8 +16516,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 689,
-    "text": "689. W języku JavaScript utworzono obiekt. Aby pobrać wartość własności w można zapisać",
-    "image": "e14/689.jpg",
+    "text": "W języku JavaScript utworzono obiekt. Aby pobrać wartość własności w można zapisać",
+    "image": "/e14/689.jpg",
     "answers": [
       {
         "id": "A",
@@ -16540,7 +16540,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 690,
-    "text": "690. W języku PHP zainicjowano zmienną $a wartością 1. Porównanie $a === $b przyjmuje wartość true, w przypadku, gdy zmienna $b jest zainicjowana wartością",
+    "text": "W języku PHP zainicjowano zmienną $a wartością 1. Porównanie $a === $b przyjmuje wartość true, w przypadku, gdy zmienna $b jest zainicjowana wartością",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -16564,7 +16564,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 691,
-    "text": "691. Która pętla w języku PHP pozwala wykonać operacje na wszystkich elementach tablicy z automatycznym indeksowaniem jej elementów?",
+    "text": "Która pętla w języku PHP pozwala wykonać operacje na wszystkich elementach tablicy z automatycznym indeksowaniem jej elementów?",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -16588,8 +16588,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 692,
-    "text": "692. Wskaż wynik wykonania przedstawionego kodu PHP, jeżeli zmienna tab jest tablicą.",
-    "image": "e14/692.jpg",
+    "text": "Wskaż wynik wykonania przedstawionego kodu PHP, jeżeli zmienna tab jest tablicą.",
+    "image": "/e14/692.jpg",
     "answers": [
       {
         "id": "A",
@@ -16612,8 +16612,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 693,
-    "text": "693. Zapisaną językiem PHP funkcję o nazwie policz wywołano z argumentem $Z = 1. Jaki wynik zostanie zwrócony?",
-    "image": "e14/693.jpg",
+    "text": "Zapisaną językiem PHP funkcję o nazwie policz wywołano z argumentem $Z = 1. Jaki wynik zostanie zwrócony?",
+    "image": "/e14/693.jpg",
     "answers": [
       {
         "id": "A",
@@ -16636,7 +16636,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 694,
-    "text": "694. Wskaż funkcję JavaScript, za pomocą której można obliczyć połowę kwadratu liczby przekazanej jako argument.",
+    "text": "Wskaż funkcję JavaScript, za pomocą której można obliczyć połowę kwadratu liczby przekazanej jako argument.",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -16660,7 +16660,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 695,
-    "text": "695. Która z przedstawionych funkcji języka PHP zamieni słowo \"kota\" na słowo \"mysz\" w napisie \"ala ma kota\"?",
+    "text": "Która z przedstawionych funkcji języka PHP zamieni słowo \"kota\" na słowo \"mysz\" w napisie \"ala ma kota\"?",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -16684,7 +16684,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 696,
-    "text": "696. Która z przedstawionych metod pozwoli wypisać w języku JavaScript komunikat w konsoli przeglądarki internetowej?",
+    "text": "Która z przedstawionych metod pozwoli wypisać w języku JavaScript komunikat w konsoli przeglądarki internetowej?",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -16708,7 +16708,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 697,
-    "text": "697. Polecenie wysyłane do serwera bazy danych, polegające na zbieraniu, poszukiwaniu lub modyfikowaniu danych w bazie jest nazywane",
+    "text": "Polecenie wysyłane do serwera bazy danych, polegające na zbieraniu, poszukiwaniu lub modyfikowaniu danych w bazie jest nazywane",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -16732,7 +16732,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 698,
-    "text": "698. Kolumna pełniąca rolę klucza głównego w tabeli musi",
+    "text": "Kolumna pełniąca rolę klucza głównego w tabeli musi",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -16756,7 +16756,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 699,
-    "text": "699. Która z wbudowanych funkcji agregujących języka SQL oblicza średnią wartości we wskazanej kolumnie?",
+    "text": "Która z wbudowanych funkcji agregujących języka SQL oblicza średnią wartości we wskazanej kolumnie?",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -16780,7 +16780,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 700,
-    "text": "700. Aby w wyniku zapytania wyeliminować powtarzające się wiersze, należy użyć klauzuli",
+    "text": "Aby w wyniku zapytania wyeliminować powtarzające się wiersze, należy użyć klauzuli",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -16804,7 +16804,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 701,
-    "text": "701. Za pomocą, którego polecenia SQL można usunąć z tabeli artykuły wiersze zawierające słowo \"sto\" znajdujące się w dowolnym miejscu pola tresc?",
+    "text": "Za pomocą, którego polecenia SQL można usunąć z tabeli artykuły wiersze zawierające słowo \"sto\" znajdujące się w dowolnym miejscu pola tresc?",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -16828,7 +16828,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 702,
-    "text": "702. W bazie danych sklepu istnieją dwie tabele powiązane relacją: produkty oraz ceny. Tabela oceny zawiera dowolną liczbę ocen klientów dla danego produktu opisaną polami: id, ocena (pole numeryczne), produktID (klucz obcy). Aby wskazać maksymalną ocenę dla produktu o ID równym 10, należy posłużyć się zapytaniem",
+    "text": "W bazie danych sklepu istnieją dwie tabele powiązane relacją: produkty oraz ceny. Tabela oceny zawiera dowolną liczbę ocen klientów dla danego produktu opisaną polami: id, ocena (pole numeryczne), produktID (klucz obcy). Aby wskazać maksymalną ocenę dla produktu o ID równym 10, należy posłużyć się zapytaniem",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -16852,7 +16852,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 703,
-    "text": "703. Aby zmodyfikować strukturę tabeli w bazie MySQL należy wykonać polecenie",
+    "text": "Aby zmodyfikować strukturę tabeli w bazie MySQL należy wykonać polecenie",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -16876,7 +16876,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 704,
-    "text": "704. Za pomocą, którego zapytania Administrator odbierze prawo przeglądania oraz aktualizacji danych w bazie gazeta, dla użytkownika redaktor?",
+    "text": "Za pomocą, którego zapytania Administrator odbierze prawo przeglądania oraz aktualizacji danych w bazie gazeta, dla użytkownika redaktor?",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -16900,7 +16900,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 705,
-    "text": "705. Za pomocą, której funkcji języka PHP można ustanowaić połączenie z bazą danych o nazwie zwierzaki?",
+    "text": "Za pomocą, której funkcji języka PHP można ustanowaić połączenie z bazą danych o nazwie zwierzaki?",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -16924,7 +16924,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 706,
-    "text": "706. Po uszkodzeniu serwera bazy danych, aby możliwe najsprawniej przywrócić działanie kompletnej bazy należy użyć",
+    "text": "Po uszkodzeniu serwera bazy danych, aby możliwe najsprawniej przywrócić działanie kompletnej bazy należy użyć",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -16948,7 +16948,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 707,
-    "text": "707. Która z przedstawionych grup znaczników HTML zawiera znaczniki służące do grupowania elementów i tworzenia struktur dokumentu?",
+    "text": "Która z przedstawionych grup znaczników HTML zawiera znaczniki służące do grupowania elementów i tworzenia struktur dokumentu?",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -16972,7 +16972,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 708,
-    "text": "708. Który zapis w języku HTML jest deklaracją kodowania znaków w dokumencie?",
+    "text": "Który zapis w języku HTML jest deklaracją kodowania znaków w dokumencie?",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -16996,7 +16996,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 709,
-    "text": "709. Który zapis w dokumencie HTML pozwala na połączenie z zewnętrznym arkuszem stylów o nazwie style.css?",
+    "text": "Który zapis w dokumencie HTML pozwala na połączenie z zewnętrznym arkuszem stylów o nazwie style.css?",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -17020,7 +17020,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 710,
-    "text": "710. Który znacznik HTML jest elementem blokowym?",
+    "text": "Który znacznik HTML jest elementem blokowym?",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -17044,7 +17044,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 711,
-    "text": "711. Ile maksymalnie należy użyć znaczników < td > w tabeli o trzech kolumnach i trzech wierszach niezawierającej złączeń komórek i wiersza nagłówkowego?",
+    "text": "Ile maksymalnie należy użyć znaczników < td > w tabeli o trzech kolumnach i trzech wierszach niezawierającej złączeń komórek i wiersza nagłówkowego?",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -17068,7 +17068,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 712,
-    "text": "712. Atrybutem określającym lokalizację pliku graficznego dla znacznika < img > jest",
+    "text": "Atrybutem określającym lokalizację pliku graficznego dla znacznika < img > jest",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -17092,8 +17092,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 713,
-    "text": "713. Formatowanie CSS akapitu określa styl szarej ramki o cechach:",
-    "image": "e14/713.jpg",
+    "text": "Formatowanie CSS akapitu określa styl szarej ramki o cechach:",
+    "image": "/e14/713.jpg",
     "answers": [
       {
         "id": "A",
@@ -17116,7 +17116,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 714,
-    "text": "714. Który selektor formatuje akapity tekstu o klasie tekst oraz element blokowy o ID obrazki?",
+    "text": "Który selektor formatuje akapity tekstu o klasie tekst oraz element blokowy o ID obrazki?",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -17140,7 +17140,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 715,
-    "text": "715. Pogrubienie tekstu za pomocą znacznika < b > można uzyskać także przy wykorzystaniu właściwości CSS",
+    "text": "Pogrubienie tekstu za pomocą znacznika < b > można uzyskać także przy wykorzystaniu właściwości CSS",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -17164,7 +17164,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 716,
-    "text": "716. Aby w języku CSS ustawić czerwony kolor dla tekstu można użyć stylu",
+    "text": "Aby w języku CSS ustawić czerwony kolor dla tekstu można użyć stylu",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -17188,7 +17188,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 717,
-    "text": "717. Za pomocą, którego zapisu zostanie utworzony w dokumencie HTML element wyświetlający obraz kotek.jpg z tekstem alternatywnym \"obrazek kotka\"?",
+    "text": "Za pomocą, którego zapisu zostanie utworzony w dokumencie HTML element wyświetlający obraz kotek.jpg z tekstem alternatywnym \"obrazek kotka\"?",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -17212,8 +17212,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 718,
-    "text": "718. Wskaż poprawne stwierdzenie dotyczące przedstawionego kodu HTML.",
-    "image": "e14/718.jpg",
+    "text": "Wskaż poprawne stwierdzenie dotyczące przedstawionego kodu HTML.",
+    "image": "/e14/718.jpg",
     "answers": [
       {
         "id": "A",
@@ -17236,7 +17236,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 719,
-    "text": "719. Które zdarzenie pozwala wykonać kod w języku JavaScript w chwili wysyłania formularza HTML i zablokować lub pozwolić na jego wysłanie?",
+    "text": "Które zdarzenie pozwala wykonać kod w języku JavaScript w chwili wysyłania formularza HTML i zablokować lub pozwolić na jego wysłanie?",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -17260,7 +17260,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 720,
-    "text": "720. W kodzie JavaScript pobrano element za pomocą metody getElementById. Aby zmodyfikować zawartość (treść) elementu można użyć właściwości",
+    "text": "W kodzie JavaScript pobrano element za pomocą metody getElementById. Aby zmodyfikować zawartość (treść) elementu można użyć właściwości",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -17284,8 +17284,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 721,
-    "text": "721. Przedstawiona linia kodu zapisana językiem PHP ma za zadanie",
-    "image": "e14/721.jpg",
+    "text": "Przedstawiona linia kodu zapisana językiem PHP ma za zadanie",
+    "image": "/e14/721.jpg",
     "answers": [
       {
         "id": "A",
@@ -17308,7 +17308,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 722,
-    "text": "722. Walidacja pól formularzy polega na sprawdzeniu",
+    "text": "Walidacja pól formularzy polega na sprawdzeniu",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -17332,7 +17332,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 723,
-    "text": "723. Zgodnie z regułami walidacji HTML5, poprawnym zapisem znacznika hr jest",
+    "text": "Zgodnie z regułami walidacji HTML5, poprawnym zapisem znacznika hr jest",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -17356,7 +17356,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 724,
-    "text": "724. Użytkownik wprowadził adres nieistniejącego zasobu na serwerze. Próba połączenia wygeneruje błąd",
+    "text": "Użytkownik wprowadził adres nieistniejącego zasobu na serwerze. Próba połączenia wygeneruje błąd",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -17380,7 +17380,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 725,
-    "text": "725. Program o nazwie FileZilla pozwala na",
+    "text": "Program o nazwie FileZilla pozwala na",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -17404,7 +17404,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 726,
-    "text": "726. Który odnośnik jest prawidłowo zdefiniowany?",
+    "text": "Który odnośnik jest prawidłowo zdefiniowany?",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -17428,7 +17428,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 727,
-    "text": "727. W którym standardzie języka hipertekstowego zostały wprowadzone do składni znaczniki sekcji <footer>, <header>, <nav>?",
+    "text": "W którym standardzie języka hipertekstowego zostały wprowadzone do składni znaczniki sekcji <footer>, <header>, <nav>?",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -17452,7 +17452,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 728,
-    "text": "728. Selektor klasy w kaskadowych arkuszach stylów należy zdefiniować za pomocą symbolu",
+    "text": "Selektor klasy w kaskadowych arkuszach stylów należy zdefiniować za pomocą symbolu",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -17476,7 +17476,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 729,
-    "text": "729. W języku CSS, aby uzyskać efekt pochylenia tekstu, należy użyć właściwości",
+    "text": "W języku CSS, aby uzyskać efekt pochylenia tekstu, należy użyć właściwości",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -17500,8 +17500,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 730,
-    "text": "730. Dla którego akapitu zastosowano przedstawioną właściwość stylu CSS?\nborder-radius: 20%;",
-    "image": "e14/730.jpg",
+    "text": "Dla którego akapitu zastosowano przedstawioną właściwość stylu CSS?\nborder-radius: 20%;",
+    "image": "/e14/730.jpg",
     "answers": [
       {
         "id": "A",
@@ -17524,8 +17524,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 731,
-    "text": "731. Aby za pomocą CSS zdefiniować przedstawione opływanie obrazu tekstem należy w stylu obrazu wprowadzić zapis",
-    "image": "e14/731.jpg",
+    "text": "Aby za pomocą CSS zdefiniować przedstawione opływanie obrazu tekstem należy w stylu obrazu wprowadzić zapis",
+    "image": "/e14/731.jpg",
     "answers": [
       {
         "id": "A",
@@ -17548,7 +17548,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 732,
-    "text": "732. Pojęcie \"front-end\" stosowane w kontekście tworzenia stron WWW odnosi się do",
+    "text": "Pojęcie \"front-end\" stosowane w kontekście tworzenia stron WWW odnosi się do",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -17572,7 +17572,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 733,
-    "text": "733. Który zestaw pojęć definiuje interfejs użytkownika strony internetowej?",
+    "text": "Który zestaw pojęć definiuje interfejs użytkownika strony internetowej?",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -17596,8 +17596,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 734,
-    "text": "734. Na rysunku pokazano schemat rozmieszczenia bloków na stronie WWW, w której jego części umieszcza się zwykle stopkę strony?",
-    "image": "e14/734.jpg",
+    "text": "Na rysunku pokazano schemat rozmieszczenia bloków na stronie WWW, w której jego części umieszcza się zwykle stopkę strony?",
+    "image": "/e14/734.jpg",
     "answers": [
       {
         "id": "A",
@@ -17620,7 +17620,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 735,
-    "text": "735. Aby zweryfikować poprawność składni kodu CSS można użyć",
+    "text": "Aby zweryfikować poprawność składni kodu CSS można użyć",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -17644,7 +17644,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 736,
-    "text": "736. Który z poniższych przykładów kodu HTML5 zostanie zakwalifikowany przez walidator HTML jako błędny?",
+    "text": "Który z poniższych przykładów kodu HTML5 zostanie zakwalifikowany przez walidator HTML jako błędny?",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -17668,7 +17668,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 737,
-    "text": "737. Aby bezpiecznie przesłać pliki strony internetowej na serwer WWW można użyć protokołu",
+    "text": "Aby bezpiecznie przesłać pliki strony internetowej na serwer WWW można użyć protokołu",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -17692,7 +17692,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 738,
-    "text": "738. Kolor zielony, w notacji szesnastkowej skróconej, można zapisać w CSS sekwencją",
+    "text": "Kolor zielony, w notacji szesnastkowej skróconej, można zapisać w CSS sekwencją",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -17716,7 +17716,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 739,
-    "text": "739. Składowymi modelu barw CMYK są kolory:",
+    "text": "Składowymi modelu barw CMYK są kolory:",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -17740,8 +17740,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 740,
-    "text": "740. Powstające podczas zapisu pliku graficznego prostokątne zniekształcenia obrazu są charakterystyczne dla formatu",
-    "image": "e14/740.jpg",
+    "text": "Powstające podczas zapisu pliku graficznego prostokątne zniekształcenia obrazu są charakterystyczne dla formatu",
+    "image": "/e14/740.jpg",
     "answers": [
       {
         "id": "A",
@@ -17764,7 +17764,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 741,
-    "text": "741. Który rastrowy format graficzny jest obsługiwany przez przeglądarki internetowe?",
+    "text": "Który rastrowy format graficzny jest obsługiwany przez przeglądarki internetowe?",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -17788,7 +17788,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 742,
-    "text": "742. Proporcje obrazu 16:9 (przy założeniu, że piksel ma kształt kwadratu) można uzyskać przy rozdzielczości",
+    "text": "Proporcje obrazu 16:9 (przy założeniu, że piksel ma kształt kwadratu) można uzyskać przy rozdzielczości",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -17812,7 +17812,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 743,
-    "text": "743. Który z wymienionych formatów umożliwia zapis dźwięku i obrazu?",
+    "text": "Który z wymienionych formatów umożliwia zapis dźwięku i obrazu?",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -17836,7 +17836,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 744,
-    "text": "744. Podczas strumieniowego przesyłania cyfrowego materiału wideo parametrem wpływającym na jakość obrazu i dźwięku jest przepływność. Wielkość ta opisuje liczbę",
+    "text": "Podczas strumieniowego przesyłania cyfrowego materiału wideo parametrem wpływającym na jakość obrazu i dźwięku jest przepływność. Wielkość ta opisuje liczbę",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -17860,7 +17860,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 745,
-    "text": "745. Funkcja COUNT języka SQL realizuje",
+    "text": "Funkcja COUNT języka SQL realizuje",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -17884,7 +17884,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 746,
-    "text": "746. Ustalenie relacji pomiędzy tabelami w systemie bazodanowym MySQL umożliwia klauzula",
+    "text": "Ustalenie relacji pomiędzy tabelami w systemie bazodanowym MySQL umożliwia klauzula",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -17908,7 +17908,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 747,
-    "text": "747. Aby wyświetlić rekordy z tabeli pracownicy tylko dla pracowników, którzy skończyli 26 lat należy użyć zapytania",
+    "text": "Aby wyświetlić rekordy z tabeli pracownicy tylko dla pracowników, którzy skończyli 26 lat należy użyć zapytania",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -17932,7 +17932,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 748,
-    "text": "748. W bazach danych relacja wiele-do-wielu pomiędzy tabelami występuje, gdy",
+    "text": "W bazach danych relacja wiele-do-wielu pomiędzy tabelami występuje, gdy",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -17956,7 +17956,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 749,
-    "text": "749. Aby zaimportować plik z danymi SQL do bazy danych MySQL można użyć narzędzia",
+    "text": "Aby zaimportować plik z danymi SQL do bazy danych MySQL można użyć narzędzia",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -17980,7 +17980,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 750,
-    "text": "750. Aby w systemie MySQL nadać użytkownikowi prawo do nadawania i zmiany uprawnień innym użytkownikom należy zastosować klauzulę",
+    "text": "Aby w systemie MySQL nadać użytkownikowi prawo do nadawania i zmiany uprawnień innym użytkownikom należy zastosować klauzulę",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -18004,7 +18004,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 751,
-    "text": "751. Aby wykonać kopię zapasową bazy danych MySQL można posłużyć się",
+    "text": "Aby wykonać kopię zapasową bazy danych MySQL można posłużyć się",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -18028,7 +18028,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 752,
-    "text": "752. Którą integralność opisuje cytowana definicja?  \"... polega na wprowadzeniu i utrzymaniu powiązań pomiędzy tabelami. Związki te tworzy się przez umieszczenie kolumny pełniącej rolę klucza głównego tabeli w innej tabeli, co nadaje kolumnie funkcję klucza obcego.\"",
+    "text": "Którą integralność opisuje cytowana definicja?  \"... polega na wprowadzeniu i utrzymaniu powiązań pomiędzy tabelami. Związki te tworzy się przez umieszczenie kolumny pełniącej rolę klucza głównego tabeli w innej tabeli, co nadaje kolumnie funkcję klucza obcego.\"",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -18052,7 +18052,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 753,
-    "text": "753. Czynnością zalecaną przed wykonaniem kopii bezpieczeństwa danych w bazie MySQL jest",
+    "text": "Czynnością zalecaną przed wykonaniem kopii bezpieczeństwa danych w bazie MySQL jest",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -18076,7 +18076,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 754,
-    "text": "754. Zmienna typu integer lub int może przechowywać",
+    "text": "Zmienna typu integer lub int może przechowywać",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -18100,7 +18100,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 755,
-    "text": "755. Wskaż typ złożony",
+    "text": "Wskaż typ złożony",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -18124,7 +18124,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 756,
-    "text": "756. Wskaż instrukcję iteracyjną",
+    "text": "Wskaż instrukcję iteracyjną",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -18148,7 +18148,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 757,
-    "text": "757. Debugger to oprogramowanie, którego zadaniem jest",
+    "text": "Debugger to oprogramowanie, którego zadaniem jest",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -18172,8 +18172,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 758,
-    "text": "758. Którą wartość będzie przechowywała zmienna a po wykonaniu przedstawionej sekwencji instrukcji języka PHP?",
-    "image": "e14/758.jpg",
+    "text": "Którą wartość będzie przechowywała zmienna a po wykonaniu przedstawionej sekwencji instrukcji języka PHP?",
+    "image": "/e14/758.jpg",
     "answers": [
       {
         "id": "A",
@@ -18196,7 +18196,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 759,
-    "text": "759. Który framework został opracowany dla skryptowego języka PHP?",
+    "text": "Który framework został opracowany dla skryptowego języka PHP?",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -18220,8 +18220,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 760,
-    "text": "760. Formularz, którego fragment przedstawiono, został obsłużony w skrypcie PHP. Wskaż prawidłowo zapisane pobranie wartości wprowadzonej do pola edycyjnego",
-    "image": "e14/760.jpg",
+    "text": "Formularz, którego fragment przedstawiono, został obsłużony w skrypcie PHP. Wskaż prawidłowo zapisane pobranie wartości wprowadzonej do pola edycyjnego",
+    "image": "/e14/760.jpg",
     "answers": [
       {
         "id": "A",
@@ -18244,7 +18244,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 761,
-    "text": "761. Aby przetestować poprawność działania kodu JavaScript należy użyć",
+    "text": "Aby przetestować poprawność działania kodu JavaScript należy użyć",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -18268,7 +18268,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 762,
-    "text": "762. Wskaż komentarz wieloliniowy w języku PHP",
+    "text": "Wskaż komentarz wieloliniowy w języku PHP",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -18292,7 +18292,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 763,
-    "text": "763. CAPTCHA to technika zabezpieczeń na stronach WWW pozwalająca",
+    "text": "CAPTCHA to technika zabezpieczeń na stronach WWW pozwalająca",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -18316,7 +18316,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 764,
-    "text": "764. Wskaż znacznik HTML pozwalający na zapisanie tekstu nieprawidłowego lub nieodpowiedniego w sposób \nprzekreślony.",
+    "text": "Wskaż znacznik HTML pozwalający na zapisanie tekstu nieprawidłowego lub nieodpowiedniego w sposób \nprzekreślony.",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -18340,7 +18340,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 765,
-    "text": "765. Element < meta charset=\"utf-8\" > jest stosowany do określenia metadanych strony internetowej dotyczących",
+    "text": "Element < meta charset=\"utf-8\" > jest stosowany do określenia metadanych strony internetowej dotyczących",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -18364,8 +18364,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 766,
-    "text": "766. W języku HTML zdefiniowano listę, która",
-    "image": "e14/766.jpg",
+    "text": "W języku HTML zdefiniowano listę, która",
+    "image": "/e14/766.jpg",
     "answers": [
       {
         "id": "A",
@@ -18388,8 +18388,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 767,
-    "text": "767. Jaką szerokość strony pozostawiono na jej treść, na podstawie przedstawionej definicji CSS?",
-    "image": "e14/767.jpg",
+    "text": "Jaką szerokość strony pozostawiono na jej treść, na podstawie przedstawionej definicji CSS?",
+    "image": "/e14/767.jpg",
     "answers": [
       {
         "id": "A",
@@ -18412,7 +18412,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 768,
-    "text": "768. Algorytm sortowania tablicy polegający na n-krotnym porównywaniu ze sobą dwóch sąsiadujących \nelementów tablicy i zamianie miejscami w przypadku spełnienia warunku jest nazywany sortowaniem",
+    "text": "Algorytm sortowania tablicy polegający na n-krotnym porównywaniu ze sobą dwóch sąsiadujących \nelementów tablicy i zamianie miejscami w przypadku spełnienia warunku jest nazywany sortowaniem",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -18436,7 +18436,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 769,
-    "text": "769. W sklepie z farbami jest ustalony schemat wyliczania ceny farby: za kolor niebieski i zielony przy pojemności\n2 litry cena farby jest równa cenie bazowej + 20%. Wyrażenie logiczne zapisane w języku JavaScript \nsprawdzające tę regułę ma postać",
+    "text": "W sklepie z farbami jest ustalony schemat wyliczania ceny farby: za kolor niebieski i zielony przy pojemności\n2 litry cena farby jest równa cenie bazowej + 20%. Wyrażenie logiczne zapisane w języku JavaScript \nsprawdzające tę regułę ma postać",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -18460,8 +18460,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 770,
-    "text": "770. Instrukcją równoważną funkcjonalnie do przedstawionej instrukcji JavaScript jest",
-    "image": "e14/770.jpg",
+    "text": "Instrukcją równoważną funkcjonalnie do przedstawionej instrukcji JavaScript jest",
+    "image": "/e14/770.jpg",
     "answers": [
       {
         "id": "A",
@@ -18484,7 +18484,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 771,
-    "text": "771. Zmienna typu double może przyjąć wartości",
+    "text": "Zmienna typu double może przyjąć wartości",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -18497,7 +18497,7 @@ export const allQuizData: Question[] = [
       },
       {
         "id": "C",
-        "text": "2.4; 4; 3.2"
+        "text": "4; 4; 3.2"
       },
       {
         "id": "D",
@@ -18508,7 +18508,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 772,
-    "text": "772. W języku JavaScript metoda Math.random() ma za zadanie",
+    "text": "W języku JavaScript metoda Math.random() ma za zadanie",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -18532,8 +18532,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 773,
-    "text": "773. Jaki będzie efekt wykonania przedstawionych instrukcji JavaScript?",
-    "image": "e14/773.jpg",
+    "text": "Jaki będzie efekt wykonania przedstawionych instrukcji JavaScript?",
+    "image": "/e14/773.jpg",
     "answers": [
       {
         "id": "A",
@@ -18556,8 +18556,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 774,
-    "text": "774. Po wykonaniu przedstawionego kodu JavaScript działającego na wcześniej zainicjalizowanej tablicy liczby\nw zmiennej wynik jest przechowywana suma",
-    "image": "e14/774.jpg",
+    "text": "Po wykonaniu przedstawionego kodu JavaScript działającego na wcześniej zainicjalizowanej tablicy liczby\nw zmiennej wynik jest przechowywana suma",
+    "image": "/e14/774.jpg",
     "answers": [
       {
         "id": "A",
@@ -18580,8 +18580,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 775,
-    "text": "775. Ile iteracji zrealizuje przedstawiona pętla zapisana w języku PHP?",
-    "image": "e14/775.jpg",
+    "text": "Ile iteracji zrealizuje przedstawiona pętla zapisana w języku PHP?",
+    "image": "/e14/775.jpg",
     "answers": [
       {
         "id": "A",
@@ -18604,8 +18604,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 776,
-    "text": "776. Przedstawiona funkcja zapisana w języku PHP",
-    "image": "e14/776.jpg",
+    "text": "Przedstawiona funkcja zapisana w języku PHP",
+    "image": "/e14/776.jpg",
     "answers": [
       {
         "id": "A",
@@ -18628,8 +18628,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 777,
-    "text": "777. Po wykonaniu przedstawionego kodu PHP w zmiennej $napis jest przechowywany ciąg znaków",
-    "image": "e14/777.jpg",
+    "text": "Po wykonaniu przedstawionego kodu PHP w zmiennej $napis jest przechowywany ciąg znaków",
+    "image": "/e14/777.jpg",
     "answers": [
       {
         "id": "A",
@@ -18652,8 +18652,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 778,
-    "text": "778. Przedstawiony błąd, wygenerowany podczas interpretacji kodu PHP, może być spowodowany",
-    "image": "e14/778.jpg",
+    "text": "Przedstawiony błąd, wygenerowany podczas interpretacji kodu PHP, może być spowodowany",
+    "image": "/e14/778.jpg",
     "answers": [
       {
         "id": "A",
@@ -18676,7 +18676,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 779,
-    "text": "779. Wskaż wszystkie znaki umożliwiające komentowanie kodu języku PHP",
+    "text": "Wskaż wszystkie znaki umożliwiające komentowanie kodu języku PHP",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -18700,7 +18700,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 780,
-    "text": "780. W relacyjnych bazach danych encja jest reprezentowana przez",
+    "text": "W relacyjnych bazach danych encja jest reprezentowana przez",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -18724,7 +18724,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 781,
-    "text": "781. Wybrany minimalny zestaw atrybutów relacji, jednoznacznie identyfikujący każdy rekord tej relacji, \nprzyjmujący wartości niepowtarzalne i niepuste, nazywamy kluczem",
+    "text": "Wybrany minimalny zestaw atrybutów relacji, jednoznacznie identyfikujący każdy rekord tej relacji, \nprzyjmujący wartości niepowtarzalne i niepuste, nazywamy kluczem",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -18748,7 +18748,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 782,
-    "text": "782. W tabeli mieszkancy z polami id, imie, nazwisko, ulica, numer, czynsz (wartość całkowita) należy wybrać \ndane osób mieszkających na ulicy Mickiewicza pod numerami 71, 72, 80, których czynsz jest niższy niż \n1000 zł. Klauzula WHERE do zapytania będzie miała postać",
+    "text": "W tabeli mieszkancy z polami id, imie, nazwisko, ulica, numer, czynsz (wartość całkowita) należy wybrać \ndane osób mieszkających na ulicy Mickiewicza pod numerami 71, 72, 80, których czynsz jest niższy niż \n1000 zł. Klauzula WHERE do zapytania będzie miała postać",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -18772,7 +18772,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 783,
-    "text": "783. Wskaż kwerendę, która z tabeli klienci wybierze jedynie nazwiska trzech najlepszych klientów, czyli takich, \nktórzy na swoim koncie mają najwięcej punktów (pole całkowite punkty)",
+    "text": "Wskaż kwerendę, która z tabeli klienci wybierze jedynie nazwiska trzech najlepszych klientów, czyli takich, \nktórzy na swoim koncie mają najwięcej punktów (pole całkowite punkty)",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -18796,7 +18796,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 784,
-    "text": "784. Z tabeli mieszkancy należy wybrać niepowtarzające się nazwy miast, w tym celu należy skorzystać \nz wyrażenia SQL zawierającego klauzulę",
+    "text": "Z tabeli mieszkancy należy wybrać niepowtarzające się nazwy miast, w tym celu należy skorzystać \nz wyrażenia SQL zawierającego klauzulę",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -18820,8 +18820,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 785,
-    "text": "785. Tabela gory, której fragment przedstawiono, zawiera polskie pasma górskie wraz z ich szczytami. Wskaż kwerendę licząca dla każdego pasma górskiego średnią wysokość jego szczytów.",
-    "image": "e14/785.jpg",
+    "text": "Tabela gory, której fragment przedstawiono, zawiera polskie pasma górskie wraz z ich szczytami. Wskaż kwerendę licząca dla każdego pasma górskiego średnią wysokość jego szczytów.",
+    "image": "/e14/785.jpg",
     "answers": [
       {
         "id": "A",
@@ -18844,8 +18844,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 786,
-    "text": "786. Które dane zostaną wybrane w wyniku działania kwerendy na przedstawionych rekordach? \nSELECT id FROM samochody WHERE rocznik LIKE \"2%4\";",
-    "image": "e14/786.jpg",
+    "text": "Które dane zostaną wybrane w wyniku działania kwerendy na przedstawionych rekordach? \nSELECT id FROM samochody WHERE rocznik LIKE \"2%4\";",
+    "image": "/e14/786.jpg",
     "answers": [
       {
         "id": "A",
@@ -18868,8 +18868,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 787,
-    "text": "787. Z przedstawionych tabel Artykuly i Autorzy należy wybrać jedynie nazwiska autorów i tytuły ich artykułów, \nktóre zostały ocenione na 5. Kwerenda wybierająca te dane ma postać",
-    "image": "e14/787.jpg",
+    "text": "Z przedstawionych tabel Artykuly i Autorzy należy wybrać jedynie nazwiska autorów i tytuły ich artykułów, \nktóre zostały ocenione na 5. Kwerenda wybierająca te dane ma postać",
+    "image": "/e14/787.jpg",
     "answers": [
       {
         "id": "A",
@@ -18892,7 +18892,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 788,
-    "text": "788. Podczas tworzenia tabeli produkty należy utworzyć pole cena będące reprezentacją ceny produktu. \nOdpowiedni typ dla tego pola, to",
+    "text": "Podczas tworzenia tabeli produkty należy utworzyć pole cena będące reprezentacją ceny produktu. \nOdpowiedni typ dla tego pola, to",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -18916,7 +18916,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 789,
-    "text": "789. Tworząc tabelę, do pola które będzie przyjmowało kolejne liczby całkowite nadawane automatycznie, należy \ndodać własność",
+    "text": "Tworząc tabelę, do pola które będzie przyjmowało kolejne liczby całkowite nadawane automatycznie, należy \ndodać własność",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -18940,7 +18940,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 790,
-    "text": "790. Aby użyć zewnętrznego skryptu JavaScript o nazwie skrypt.js, należy zapisać w kodzie HTML",
+    "text": "Aby użyć zewnętrznego skryptu JavaScript o nazwie skrypt.js, należy zapisać w kodzie HTML",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -18964,7 +18964,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 791,
-    "text": "791. Sklep internetowy korzysta z tabeli faktury. Podczas tworzenia faktury nie zawsze pole dataPlatnosci jest \nwypełniane. Aby to naprawić, na koniec dnia należy wpisać aktualną datę do wierszy, w których to pole jest \npuste (niewypełnione). Można w tym celu posłużyć się kwerendą",
+    "text": "Sklep internetowy korzysta z tabeli faktury. Podczas tworzenia faktury nie zawsze pole dataPlatnosci jest \nwypełniane. Aby to naprawić, na koniec dnia należy wpisać aktualną datę do wierszy, w których to pole jest \npuste (niewypełnione). Można w tym celu posłużyć się kwerendą",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -18988,8 +18988,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 792,
-    "text": "792. Po wydaniu polecenia SQL prezentowanego w ramce użytkownik Ela będzie mógł",
-    "image": "e14/792.jpg",
+    "text": "Po wydaniu polecenia SQL prezentowanego w ramce użytkownik Ela będzie mógł",
+    "image": "/e14/792.jpg",
     "answers": [
       {
         "id": "A",
@@ -19012,7 +19012,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 793,
-    "text": "793. Polecenie służące do sprawdzenia i optymalizacji bazy danych to",
+    "text": "Polecenie służące do sprawdzenia i optymalizacji bazy danych to",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -19036,7 +19036,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 794,
-    "text": "794. W języku HTML 5 atrybut action stosowany jest w znaczniku",
+    "text": "W języku HTML 5 atrybut action stosowany jest w znaczniku",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -19060,8 +19060,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 795,
-    "text": "795. Który wykaz znaczników definiujących przedstawiony projekt witryny w sposób semantyczny (znaczeniowy)\njest zgodny ze standardem HTML 5?",
-    "image": "e14/795.jpg",
+    "text": "Który wykaz znaczników definiujących przedstawiony projekt witryny w sposób semantyczny (znaczeniowy)\njest zgodny ze standardem HTML 5?",
+    "image": "/e14/795.jpg",
     "answers": [
       {
         "id": "A",
@@ -19084,7 +19084,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 796,
-    "text": "796. O czym informuje przeglądarkę internetową zapis < !DOCTYPE html >?",
+    "text": "O czym informuje przeglądarkę internetową zapis < !DOCTYPE html >?",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -19108,8 +19108,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 797,
-    "text": "797. W stylu CSS przedstawionym w ramce zdefiniowano klasę uzytkownik. Czcionką koloru niebieskiego na \nstronie będą zapisane",
-    "image": "e14/797.jpg",
+    "text": "W stylu CSS przedstawionym w ramce zdefiniowano klasę uzytkownik. Czcionką koloru niebieskiego na \nstronie będą zapisane",
+    "image": "/e14/797.jpg",
     "answers": [
       {
         "id": "A",
@@ -19132,8 +19132,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 798,
-    "text": "798. Wskaż paragraf sformatowany przedstawionym stylem CSS.",
-    "image": "e14/798.jpg",
+    "text": "Wskaż paragraf sformatowany przedstawionym stylem CSS.",
+    "image": "/e14/798.jpg",
     "answers": [
       {
         "id": "A",
@@ -19156,8 +19156,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 799,
-    "text": "799. W arkuszu CSS zapisano przedstawione style. Jeżeli hiperłącze zostanie wybrane, to po powrocie na stronę \nto hiperłącze będzie w kolorze",
-    "image": "e14/799.jpg",
+    "text": "W arkuszu CSS zapisano przedstawione style. Jeżeli hiperłącze zostanie wybrane, to po powrocie na stronę \nto hiperłącze będzie w kolorze",
+    "image": "/e14/799.jpg",
     "answers": [
       {
         "id": "A",
@@ -19180,7 +19180,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 800,
-    "text": "800. Kolor zielony ma w notacji szesnastkowej wartość #008000. Wartość ta zapisana w notacji RGB to",
+    "text": "Kolor zielony ma w notacji szesnastkowej wartość #008000. Wartość ta zapisana w notacji RGB to",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -19204,8 +19204,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 801,
-    "text": "801. Dla uzyskania przedstawionego efektu w edytorze grafiki rastrowej zastosowano",
-    "image": "e14/801.jpg",
+    "text": "Dla uzyskania przedstawionego efektu w edytorze grafiki rastrowej zastosowano",
+    "image": "/e14/801.jpg",
     "answers": [
       {
         "id": "A",
@@ -19228,8 +19228,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 802,
-    "text": "802. Przedstawiona ikona funkcji edytora grafiki rastrowej o nazwie „różdżka” umożliwia",
-    "image": "e14/802.jpg",
+    "text": "Przedstawiona ikona funkcji edytora grafiki rastrowej o nazwie „różdżka” umożliwia",
+    "image": "/e14/802.jpg",
     "answers": [
       {
         "id": "A",
@@ -19252,7 +19252,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 803,
-    "text": "803. Testując skrypt JavaScript można wyświetlać w konsoli aktualnie przechowywane wartości zmiennych \nza pomocą funkcji",
+    "text": "Testując skrypt JavaScript można wyświetlać w konsoli aktualnie przechowywane wartości zmiennych \nza pomocą funkcji",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -19276,7 +19276,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 804,
-    "text": "804. Aby za pomocą skryptu JavaScript zmienić wartość cechy elementu opisanej językiem CSS, należy posłużyć \nsię szablonem zapisu",
+    "text": "Aby za pomocą skryptu JavaScript zmienić wartość cechy elementu opisanej językiem CSS, należy posłużyć \nsię szablonem zapisu",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -19300,7 +19300,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 805,
-    "text": "805. W której tablicy superglobalnej w środowisku PHP powinno się przechowywać dane związane z logowaniem \nużytkownika w sposób zapewniający ich bezpieczeństwo?",
+    "text": "W której tablicy superglobalnej w środowisku PHP powinno się przechowywać dane związane z logowaniem \nużytkownika w sposób zapewniający ich bezpieczeństwo?",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -19324,8 +19324,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 806,
-    "text": "806. W wyniku walidacji dokumentu HTML został wygenerowany błąd przedstawiony na zrzucie. Aby go \nwyeliminować należy",
-    "image": "e14/806.jpg",
+    "text": "W wyniku walidacji dokumentu HTML został wygenerowany błąd przedstawiony na zrzucie. Aby go \nwyeliminować należy",
+    "image": "/e14/806.jpg",
     "answers": [
       {
         "id": "A",
@@ -19348,7 +19348,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 807,
-    "text": "807. Program FileZilla może zostać wykorzystany do",
+    "text": "Program FileZilla może zostać wykorzystany do",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -19372,8 +19372,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 808,
-    "text": "808. Które z poleceń algorytmu odpowiada graficznej reprezentacji bloku przedstawionego na obrazie?",
-    "image": "e14/808.jpg",
+    "text": "Które z poleceń algorytmu odpowiada graficznej reprezentacji bloku przedstawionego na obrazie?",
+    "image": "/e14/808.jpg",
     "answers": [
       {
         "id": "A",
@@ -19396,7 +19396,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 809,
-    "text": "809. Metoda projektowania algorytmów, polegająca na podziale problemu na dwa lub więcej mniejszych \npodproblemów, tak długo aż fragmenty staną się wystarczająco proste do bezpośredniego rozwiązania, to",
+    "text": "Metoda projektowania algorytmów, polegająca na podziale problemu na dwa lub więcej mniejszych \npodproblemów, tak długo aż fragmenty staną się wystarczająco proste do bezpośredniego rozwiązania, to",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -19420,7 +19420,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 810,
-    "text": "810. Program zapisany w języku C++ ma za zadanie wczytać zmienną całkowitą liczba i wyświetlić ją wtedy, gdy \nprzyjmuje trzycyfrowe wartości parzyste. Instrukcja warunkowa sprawdzająca ten warunek powinna zawierać \nwyrażenie logiczne",
+    "text": "Program zapisany w języku C++ ma za zadanie wczytać zmienną całkowitą liczba i wyświetlić ją wtedy, gdy \nprzyjmuje trzycyfrowe wartości parzyste. Instrukcja warunkowa sprawdzająca ten warunek powinna zawierać \nwyrażenie logiczne",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -19444,8 +19444,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 811,
-    "text": "811. Wskaż instrukcję równoważną funkcjonalnie do instrukcji while zapisanej w języku PHP.",
-    "image": "e14/811.jpg",
+    "text": "Wskaż instrukcję równoważną funkcjonalnie do instrukcji while zapisanej w języku PHP.",
+    "image": "/e14/811.jpg",
     "answers": [
       {
         "id": "A",
@@ -19468,8 +19468,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 812,
-    "text": "812. Co będzie wynikiem po wywołaniu przedstawionego skryptu?",
-    "image": "e14/812.jpg",
+    "text": "Co będzie wynikiem po wywołaniu przedstawionego skryptu?",
+    "image": "/e14/812.jpg",
     "answers": [
       {
         "id": "A",
@@ -19492,7 +19492,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 813,
-    "text": "813. W języku C++ zdefiniowano zmienną char zm1[10];\nZmienna ta jest",
+    "text": "W języku C++ zdefiniowano zmienną char zm1[10];\nZmienna ta jest",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -19516,7 +19516,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 814,
-    "text": "814. Która definicja tablicy asocjacyjnej w języku PHP jest poprawna składniowo?",
+    "text": "Która definicja tablicy asocjacyjnej w języku PHP jest poprawna składniowo?",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -19540,7 +19540,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 815,
-    "text": "815. W języku JavaScript, aby sprawdzić jednym poleceniem czy dany napis zawiera w sobie inny napis, można \nskorzystać z metody",
+    "text": "W języku JavaScript, aby sprawdzić jednym poleceniem czy dany napis zawiera w sobie inny napis, można \nskorzystać z metody",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -19564,7 +19564,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 816,
-    "text": "816. W jaki sposób w języku PHP należy ustawić zmienną sesji o nazwie wyborID na wartość 4?",
+    "text": "W jaki sposób w języku PHP należy ustawić zmienną sesji o nazwie wyborID na wartość 4?",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -19588,7 +19588,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 817,
-    "text": "817. W języku PHP zmienna $ _SERVER przechowuje między innymi informacje o",
+    "text": "W języku PHP zmienna $ _SERVER przechowuje między innymi informacje o",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -19612,8 +19612,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 818,
-    "text": "818. Którą wartość zwróci funkcja zapisana w języku C++, jeżeli jej parametrami są a = 4 oraz b = 3?",
-    "image": "e14/818.jpg",
+    "text": "Którą wartość zwróci funkcja zapisana w języku C++, jeżeli jej parametrami są a = 4 oraz b = 3?",
+    "image": "/e14/818.jpg",
     "answers": [
       {
         "id": "A",
@@ -19636,7 +19636,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 819,
-    "text": "819. Program PHP wyświetla aktualny czas w postaci godzina:minuta:sekunda, np. 15:38:20. Czas sformatowany \nw ten sposób zostanie zwrócony przez funkcję",
+    "text": "Program PHP wyświetla aktualny czas w postaci godzina:minuta:sekunda, np. 15:38:20. Czas sformatowany \nw ten sposób zostanie zwrócony przez funkcję",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -19660,8 +19660,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 820,
-    "text": "820. Które wyrażenie należy wstawić w miejsce ??? w pętli zapisanej w języku C++, aby zostały wyświetlone \njedynie elementy tablicy tab",
-    "image": "e14/820.jpg",
+    "text": "Które wyrażenie należy wstawić w miejsce ??? w pętli zapisanej w języku C++, aby zostały wyświetlone \njedynie elementy tablicy tab",
+    "image": "/e14/820.jpg",
     "answers": [
       {
         "id": "A",
@@ -19684,7 +19684,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 821,
-    "text": "821. Który zapis definiuje w języku JavaScript komentarz jednoliniowy?",
+    "text": "Który zapis definiuje w języku JavaScript komentarz jednoliniowy?",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -19708,8 +19708,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 822,
-    "text": "822. Z relacji przedstawionej na obrazie można wyczytać, że jest ona relacją",
-    "image": "e14/822.jpg",
+    "text": "Z relacji przedstawionej na obrazie można wyczytać, że jest ona relacją",
+    "image": "/e14/822.jpg",
     "answers": [
       {
         "id": "A",
@@ -19732,7 +19732,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 823,
-    "text": "823. Które z mechanizmów są niezbędne dla Systemu Zarządzania Bazą Danych?",
+    "text": "Które z mechanizmów są niezbędne dla Systemu Zarządzania Bazą Danych?",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -19756,7 +19756,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 824,
-    "text": "824. Za pomocą której kwerendy w bazie MariaDB można wybrać artykuły, których ceny zawierają się \nw przedziale obustronnie domkniętym < 10, 20 >?",
+    "text": "Za pomocą której kwerendy w bazie MariaDB można wybrać artykuły, których ceny zawierają się \nw przedziale obustronnie domkniętym < 10, 20 >?",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -19780,7 +19780,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 825,
-    "text": "825. Z bazy danych należy zwrócić zapytaniem SQL nazwiska pracowników, którzy są kierownikami, a ich pensja \nznajduje się w przedziale jednostronnie domkniętym (3000, 4000 >. Która z klauzul bada ten warunek?",
+    "text": "Z bazy danych należy zwrócić zapytaniem SQL nazwiska pracowników, którzy są kierownikami, a ich pensja \nznajduje się w przedziale jednostronnie domkniętym (3000, 4000 >. Która z klauzul bada ten warunek?",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -19804,8 +19804,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 826,
-    "text": "826. Tabela odloty zawiera rekordy przedstawione na obrazie. Zastosowanie zapytania SQL spowoduje \nzwrócenie danych:",
-    "image": "e14/826.jpg",
+    "text": "Tabela odloty zawiera rekordy przedstawione na obrazie. Zastosowanie zapytania SQL spowoduje \nzwrócenie danych:",
+    "image": "/e14/826.jpg",
     "answers": [
       {
         "id": "A",
@@ -19828,8 +19828,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 827,
-    "text": "827. W bazie MySQL zdefiniowano podczas tworzenia tabeli pole id. Wpis AUTO_INCREMENT oznacza, że",
-    "image": "e14/827.jpg",
+    "text": "W bazie MySQL zdefiniowano podczas tworzenia tabeli pole id. Wpis AUTO_INCREMENT oznacza, że",
+    "image": "/e14/827.jpg",
     "answers": [
       {
         "id": "A",
@@ -19852,8 +19852,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 828,
-    "text": "828. Tabele: Firmy i Zamowienia są powiązane relacją jeden do wielu. Aby wybrać jedynie id zamówienia wraz \nz odpowiadającą mu nazwą firmy dla firm, których poziom jest równy 4, należy zastosować polecenie",
-    "image": "e14/828.jpg",
+    "text": "Tabele: Firmy i Zamowienia są powiązane relacją jeden do wielu. Aby wybrać jedynie id zamówienia wraz \nz odpowiadającą mu nazwą firmy dla firm, których poziom jest równy 4, należy zastosować polecenie",
+    "image": "/e14/828.jpg",
     "answers": [
       {
         "id": "A",
@@ -19876,7 +19876,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 829,
-    "text": "829. Typowym narzędziem SZBD służącym do generowania zestawień danych w celu ich wydrukowania jest",
+    "text": "Typowym narzędziem SZBD służącym do generowania zestawień danych w celu ich wydrukowania jest",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -19900,7 +19900,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 830,
-    "text": "830. W języku SQL usunięcie wszystkich danych z tabeli bez usuwania samej tabeli możliwe jest za pomocą \npolecenia",
+    "text": "W języku SQL usunięcie wszystkich danych z tabeli bez usuwania samej tabeli możliwe jest za pomocą \npolecenia",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -19924,8 +19924,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 831,
-    "text": "831. Pole autor w tabeli ksiazka jest",
-    "image": "e14/831.jpg",
+    "text": "Pole autor w tabeli ksiazka jest",
+    "image": "/e14/831.jpg",
     "answers": [
       {
         "id": "A",
@@ -19948,7 +19948,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 832,
-    "text": "832. W bazie danych MySQL, aby wyświetlić wszystkie prawa nadane użytkownikowi anna, można posłużyć się \npoleceniem",
+    "text": "W bazie danych MySQL, aby wyświetlić wszystkie prawa nadane użytkownikowi anna, można posłużyć się \npoleceniem",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -19972,8 +19972,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 833,
-    "text": "833. Aby wstawić dane do bazy za pomocą polecenia PHP w jego parametrach należy przekazać",
-    "image": "e14/833.jpg",
+    "text": "Aby wstawić dane do bazy za pomocą polecenia PHP w jego parametrach należy przekazać",
+    "image": "/e14/833.jpg",
     "answers": [
       {
         "id": "A",
@@ -19996,7 +19996,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 834,
-    "text": "834. W aplikacji PHP obsługującej bazę danych, aby po wykonaniu dowolnej operacji otrzymać numer błędu oraz \njego opis, należy zastosować",
+    "text": "W aplikacji PHP obsługującej bazę danych, aby po wykonaniu dowolnej operacji otrzymać numer błędu oraz \njego opis, należy zastosować",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -20020,8 +20020,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 835,
-    "text": "835. Na obrazie przedstawiono projekt układu bloków witryny internetowej. Zakładając, że bloki są realizowane \nza pomocą znaczników sekcji, a szerokość została zdefiniowana jedynie dla bloków 2, 3 i 4, ich formatowanie, \npowinno zawierać właściwość",
-    "image": "e14/835.jpg",
+    "text": "Na obrazie przedstawiono projekt układu bloków witryny internetowej. Zakładając, że bloki są realizowane \nza pomocą znaczników sekcji, a szerokość została zdefiniowana jedynie dla bloków 2, 3 i 4, ich formatowanie, \npowinno zawierać właściwość",
+    "image": "/e14/835.jpg",
     "answers": [
       {
         "id": "A",
@@ -20044,8 +20044,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 836,
-    "text": "836. Na obrazie przedstawiono tabelę ze scalonymi komórkami. Które atrybuty scalania zastosowano, aby \nuzyskać ten efekt?",
-    "image": "e14/836.jpg",
+    "text": "Na obrazie przedstawiono tabelę ze scalonymi komórkami. Które atrybuty scalania zastosowano, aby \nuzyskać ten efekt?",
+    "image": "/e14/836.jpg",
     "answers": [
       {
         "id": "A",
@@ -20068,8 +20068,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 837,
-    "text": "837. Formularz wysyła dane do skryptu skrypt.php po wciśnięciu przycisku o treści „WYŚLIJ”. Wskaż poprawną \ndefinicję formularza.",
-    "image": "e14/837.jpg",
+    "text": "Formularz wysyła dane do skryptu skrypt.php po wciśnięciu przycisku o treści „WYŚLIJ”. Wskaż poprawną \ndefinicję formularza.",
+    "image": "/e14/837.jpg",
     "answers": [
       {
         "id": "A",
@@ -20092,8 +20092,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 838,
-    "text": "838. Które formatowanie obramowania odpowiada stylowi border-style: dotted solid;?",
-    "image": "e14/838.jpg",
+    "text": "Które formatowanie obramowania odpowiada stylowi border-style: dotted solid;?",
+    "image": "/e14/838.jpg",
     "answers": [
       {
         "id": "A",
@@ -20116,8 +20116,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 839,
-    "text": "839. Które pole edycyjne zostało sformatowane przedstawionym stylem zakładając, że pozostałe własności pola \nprzyjmują wartości domyślne, a użytkownik wpisał imię Krzysztof w przeglądarce?",
-    "image": "e14/839.jpg",
+    "text": "Które pole edycyjne zostało sformatowane przedstawionym stylem zakładając, że pozostałe własności pola \nprzyjmują wartości domyślne, a użytkownik wpisał imię Krzysztof w przeglądarce?",
+    "image": "/e14/839.jpg",
     "answers": [
       {
         "id": "A",
@@ -20140,7 +20140,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 840,
-    "text": "840. Które zdanie dotyczące antyaliasingu jest prawdziwe?",
+    "text": "Które zdanie dotyczące antyaliasingu jest prawdziwe?",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -20164,8 +20164,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 841,
-    "text": "841. Przedstawiona transformacja obrazu rastrowego jest możliwa dzięki funkcji",
-    "image": "e14/841.jpg",
+    "text": "Przedstawiona transformacja obrazu rastrowego jest możliwa dzięki funkcji",
+    "image": "/e14/841.jpg",
     "answers": [
       {
         "id": "A",
@@ -20188,8 +20188,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 842,
-    "text": "842. Który ze skryptów wyświetla aktualną datę oraz czas, w formacie przedstawionym na obrazie?",
-    "image": "e14/842.jpg",
+    "text": "Który ze skryptów wyświetla aktualną datę oraz czas, w formacie przedstawionym na obrazie?",
+    "image": "/e14/842.jpg",
     "answers": [
       {
         "id": "A",
@@ -20212,8 +20212,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 843,
-    "text": "843. Efektem wielokrotnego wykonania kodu PHP jest",
-    "image": "e14/843.jpg",
+    "text": "Efektem wielokrotnego wykonania kodu PHP jest",
+    "image": "/e14/843.jpg",
     "answers": [
       {
         "id": "A",
@@ -20236,7 +20236,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 844,
-    "text": "844. Aby za pomocą JavaScript w witrynie internetowej wyświetlić aktualną datę i czas można posłużyć się \ninstrukcją",
+    "text": "Aby za pomocą JavaScript w witrynie internetowej wyświetlić aktualną datę i czas można posłużyć się \ninstrukcją",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -20260,7 +20260,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 845,
-    "text": "845. Brak którego elementu języka HTML wygeneruje błąd walidatora HTML5?",
+    "text": "Brak którego elementu języka HTML wygeneruje błąd walidatora HTML5?",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -20284,7 +20284,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 846,
-    "text": "846. Program FileZilla może posłużyć do",
+    "text": "Program FileZilla może posłużyć do",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -20308,8 +20308,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 847,
-    "text": "847. Która lista zostanie wyświetlona w przeglądarce po wykonaniu kodu HTML>",
-    "image": "e14/847.jpg",
+    "text": "Która lista zostanie wyświetlona w przeglądarce po wykonaniu kodu HTML>",
+    "image": "/e14/847.jpg",
     "answers": [
       {
         "id": "A",
@@ -20332,7 +20332,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 848,
-    "text": "848. Który rodzaj komunikatu jest zawsze przekazywany tylko pionowo w dół, czyli od przełożonego do podwładnego?",
+    "text": "Który rodzaj komunikatu jest zawsze przekazywany tylko pionowo w dół, czyli od przełożonego do podwładnego?",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -20356,7 +20356,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 849,
-    "text": "849. Tabela programy zawiera pola: nazwa_programu, nazwa_producenta, rok_wydania. Aby kwerenda SELECT wybrała wszystkie nazwy producentó tak, by nazwy te nie powtarzały się, należy zapisać:",
+    "text": "Tabela programy zawiera pola: nazwa_programu, nazwa_producenta, rok_wydania. Aby kwerenda SELECT wybrała wszystkie nazwy producentó tak, by nazwy te nie powtarzały się, należy zapisać:",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -20380,8 +20380,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 850,
-    "text": "850. Za pomocą przedstawionego polecenia można",
-    "image": "e14/850.jpg",
+    "text": "Za pomocą przedstawionego polecenia można",
+    "image": "/e14/850.jpg",
     "answers": [
       {
         "id": "A",
@@ -20404,7 +20404,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 851,
-    "text": "851. Prześladowanie, uporczywe nękanie i zastraszanie, stosowanie przemocy psychicznej wobec podwładnego lub współpracownika w miejscu pracy, to",
+    "text": "Prześladowanie, uporczywe nękanie i zastraszanie, stosowanie przemocy psychicznej wobec podwładnego lub współpracownika w miejscu pracy, to",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -20428,8 +20428,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 852,
-    "text": "852. Który znak ostrzegawczy określa strefę ochronną w otoczeniu źródła pola elektromagnetycznego?",
-    "image": "e14/852.jpg",
+    "text": "Który znak ostrzegawczy określa strefę ochronną w otoczeniu źródła pola elektromagnetycznego?",
+    "image": "/e14/852.jpg",
     "answers": [
       {
         "id": "A",
@@ -20452,7 +20452,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 853,
-    "text": "853. Na stronie WWW zdefiniowano rysunek, następnie akapit. Aby rysunek został umieszczony przez przeglądarkę w tej samej linii co akapit, po lewej stronie akapitu, należy w stylu CSS dla rysunku zapisać własność:",
+    "text": "Na stronie WWW zdefiniowano rysunek, następnie akapit. Aby rysunek został umieszczony przez przeglądarkę w tej samej linii co akapit, po lewej stronie akapitu, należy w stylu CSS dla rysunku zapisać własność:",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -20476,8 +20476,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 854,
-    "text": "854. W ramce przedstawiono zapisane w języku CSS formatowanie selektora. Zakładając, że żadne inne formatowanie nie jest dodane, wskaż sposób formatowania znaczniki h1",
-    "image": "e14/854.jpg",
+    "text": "W ramce przedstawiono zapisane w języku CSS formatowanie selektora. Zakładając, że żadne inne formatowanie nie jest dodane, wskaż sposób formatowania znaczniki h1",
+    "image": "/e14/854.jpg",
     "answers": [
       {
         "id": "A",
@@ -20500,7 +20500,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 855,
-    "text": "855. Który z podanych formatów można zapisać materiał wideo wraz ze ścieżką dźwiękową?",
+    "text": "Który z podanych formatów można zapisać materiał wideo wraz ze ścieżką dźwiękową?",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -20524,8 +20524,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 856,
-    "text": "856. Wskaż wynik wykonania skryptu PHP",
-    "image": "e14/856.jpg",
+    "text": "Wskaż wynik wykonania skryptu PHP",
+    "image": "/e14/856.jpg",
     "answers": [
       {
         "id": "A",
@@ -20548,7 +20548,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 857,
-    "text": "857. Który z wymienionych poniżej języków jest typowo front-endowy (wykonywany po stronie klienta)?",
+    "text": "Który z wymienionych poniżej języków jest typowo front-endowy (wykonywany po stronie klienta)?",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -20572,7 +20572,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 858,
-    "text": "858. O zmiennej predefiniowanej $ _POST z języka PHP można powiedzieć, że",
+    "text": "O zmiennej predefiniowanej $ _POST z języka PHP można powiedzieć, że",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -20596,8 +20596,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 859,
-    "text": "859. Dana jest tabela uczniowie, do której wpisano rekordy jak na rysunku. Co będzie wynikiem działania przedstawionego zapytania SQL?",
-    "image": "e14/859.jpg",
+    "text": "Dana jest tabela uczniowie, do której wpisano rekordy jak na rysunku. Co będzie wynikiem działania przedstawionego zapytania SQL?",
+    "image": "/e14/859.jpg",
     "answers": [
       {
         "id": "A",
@@ -20620,8 +20620,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 860,
-    "text": "860. Wynikiem wykonania przedstawionego kodu PHP jest wypisanie wartości",
-    "image": "e14/860.jpg",
+    "text": "Wynikiem wykonania przedstawionego kodu PHP jest wypisanie wartości",
+    "image": "/e14/860.jpg",
     "answers": [
       {
         "id": "A",
@@ -20644,7 +20644,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 861,
-    "text": "861. W języku CSS przypisano regułę: float:left; dla bloku. Reguła ta zostanie wykorzystana do",
+    "text": "W języku CSS przypisano regułę: float:left; dla bloku. Reguła ta zostanie wykorzystana do",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -20668,7 +20668,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 862,
-    "text": "862. Dokonując konwersji obrazu z 8 bitową głębią kolorów na obraz z 4 bitową głębią, liczba kolorów zmniejszy się o",
+    "text": "Dokonując konwersji obrazu z 8 bitową głębią kolorów na obraz z 4 bitową głębią, liczba kolorów zmniejszy się o",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -20692,8 +20692,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 863,
-    "text": "863. Jaką wartość przyjmie zmienna x po wykonaniu kodu PHP przedstawionego w ramce?",
-    "image": "e14/863.jpg",
+    "text": "Jaką wartość przyjmie zmienna x po wykonaniu kodu PHP przedstawionego w ramce?",
+    "image": "/e14/863.jpg",
     "answers": [
       {
         "id": "A",
@@ -20716,7 +20716,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 864,
-    "text": "864. W języku PHP przekierowanie użytkownika na inną stronę WWW jest możliwe za pomocą funkcji",
+    "text": "W języku PHP przekierowanie użytkownika na inną stronę WWW jest możliwe za pomocą funkcji",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -20740,7 +20740,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 865,
-    "text": "865. W języku HTML, aby scalić w poziomie dwie sąsiednie komórki w wierszu tabeli należy zastosować atrybut",
+    "text": "W języku HTML, aby scalić w poziomie dwie sąsiednie komórki w wierszu tabeli należy zastosować atrybut",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -20764,8 +20764,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 866,
-    "text": "866. Które z formatowań NIE JEST wyrażone w języku CSS?",
-    "image": "e14/866.jpg",
+    "text": "Które z formatowań NIE JEST wyrażone w języku CSS?",
+    "image": "/e14/866.jpg",
     "answers": [
       {
         "id": "A",
@@ -20788,8 +20788,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 867,
-    "text": "867. Kod JavaScript wywołany zdarzeniem kliknięcia przycisku ma za zadanie",
-    "image": "e14/867.jpg",
+    "text": "Kod JavaScript wywołany zdarzeniem kliknięcia przycisku ma za zadanie",
+    "image": "/e14/867.jpg",
     "answers": [
       {
         "id": "A",
@@ -20812,8 +20812,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 868,
-    "text": "868. Podane polecenie SQL ma za zadanie",
-    "image": "e14/868.jpg",
+    "text": "Podane polecenie SQL ma za zadanie",
+    "image": "/e14/868.jpg",
     "answers": [
       {
         "id": "A",
@@ -20836,7 +20836,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 869,
-    "text": "869. Która z wymienionych zasad NIE WPŁYNIE korzystnie na zwiększenie czytelności kodu?",
+    "text": "Która z wymienionych zasad NIE WPŁYNIE korzystnie na zwiększenie czytelności kodu?",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -20860,7 +20860,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 870,
-    "text": "870. W języku PHP należy zapisać warunek, który będzie spełniony, gdy zmienna $a będzie dowolną liczbą całkowitą mniejszą od -10 lub gdy zmienna $b będzie dowolną liczbą z przedziału (25, 75). Wyrażenie logiczne użyte w tym warunku ma postać",
+    "text": "W języku PHP należy zapisać warunek, który będzie spełniony, gdy zmienna $a będzie dowolną liczbą całkowitą mniejszą od -10 lub gdy zmienna $b będzie dowolną liczbą z przedziału (25, 75). Wyrażenie logiczne użyte w tym warunku ma postać",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -20884,7 +20884,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 871,
-    "text": "871. Baza danych zawiera tabele artykuły z polami: nazwa, typ, producent, cena. Aby wyświetlić wszystkie nazwy artykułów wyłącznie typu pralka, dla których cena jest z przedziału 1000 PLN i 1500 PLN, należy zastosować polecenie",
+    "text": "Baza danych zawiera tabele artykuły z polami: nazwa, typ, producent, cena. Aby wyświetlić wszystkie nazwy artykułów wyłącznie typu pralka, dla których cena jest z przedziału 1000 PLN i 1500 PLN, należy zastosować polecenie",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -20908,7 +20908,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 872,
-    "text": "872. W języku SQL, aby zaktualizować dane w wierszach tabeli, należy zastosować polecenie",
+    "text": "W języku SQL, aby zaktualizować dane w wierszach tabeli, należy zastosować polecenie",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -20932,7 +20932,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 873,
-    "text": "873. Kodowanie polskich znaków można zdefiniować w języku HTML za pomocą",
+    "text": "Kodowanie polskich znaków można zdefiniować w języku HTML za pomocą",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -20956,7 +20956,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 874,
-    "text": "874. Poprawny zapis znacznika <img>, za pomocą którego można umieścić na stronie internetowej obraz rys.jpg przeskalowany do szerokości 120 px i wysokości 80 px z tekstem alternatywnym \"krajobraz\" to",
+    "text": "Poprawny zapis znacznika <img>, za pomocą którego można umieścić na stronie internetowej obraz rys.jpg przeskalowany do szerokości 120 px i wysokości 80 px z tekstem alternatywnym \"krajobraz\" to",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -20980,7 +20980,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 875,
-    "text": "875. Które z podanych par znaczników HTML mają wizualnie to samo działanie na stronie internetowej, jeżeli żadne style CSS NIE ZOSTAŁY zdefiniowane",
+    "text": "Które z podanych par znaczników HTML mają wizualnie to samo działanie na stronie internetowej, jeżeli żadne style CSS NIE ZOSTAŁY zdefiniowane",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -21004,7 +21004,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 876,
-    "text": "876. Aby edytować dane w bazie danych można posłużyć się",
+    "text": "Aby edytować dane w bazie danych można posłużyć się",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -21028,8 +21028,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 877,
-    "text": "877. Kwerenda ma za zadanie w tabeli artykuly",
-    "image": "e14/877.jpg",
+    "text": "Kwerenda ma za zadanie w tabeli artykuly",
+    "image": "/e14/877.jpg",
     "answers": [
       {
         "id": "A",
@@ -21052,8 +21052,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 878,
-    "text": "878. W tabeli pracownicy zdefiniowano klucz główny typu INTEGER z atrybutami NOT NULL oraz AUTO_INCREMENT. Ponadto zdefiniowano pola imie oraz nazwisko. W przypadku zastosowania przedstawionej kwerendy SQL wprowadzającej dane, w której zostało pominięte pole klucza, w bazie danych MySQL nastąpi",
-    "image": "e14/878.jpg",
+    "text": "W tabeli pracownicy zdefiniowano klucz główny typu INTEGER z atrybutami NOT NULL oraz AUTO_INCREMENT. Ponadto zdefiniowano pola imie oraz nazwisko. W przypadku zastosowania przedstawionej kwerendy SQL wprowadzającej dane, w której zostało pominięte pole klucza, w bazie danych MySQL nastąpi",
+    "image": "/e14/878.jpg",
     "answers": [
       {
         "id": "A",
@@ -21076,7 +21076,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 879,
-    "text": "879. Aby obsłużyć połączenie z bazą MySQL podczas tworzenia aplikacji internetowej, można wykorzystać język",
+    "text": "Aby obsłużyć połączenie z bazą MySQL podczas tworzenia aplikacji internetowej, można wykorzystać język",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -21100,8 +21100,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 880,
-    "text": "880. Tabele Osoby i Adresy są połączone relacją jeden do wielu. Jakie zapytanie SQL należy zapisać, aby korzystając z tej relacji, prawidłowo wyświetlić nazwiska oraz przyporządkowane im miasta?",
-    "image": "e14/880.jpg",
+    "text": "Tabele Osoby i Adresy są połączone relacją jeden do wielu. Jakie zapytanie SQL należy zapisać, aby korzystając z tej relacji, prawidłowo wyświetlić nazwiska oraz przyporządkowane im miasta?",
+    "image": "/e14/880.jpg",
     "answers": [
       {
         "id": "A",
@@ -21124,7 +21124,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 881,
-    "text": "881. W stylu CSS aby zadeklarować krój czcionki, należy użyć właściwości",
+    "text": "W stylu CSS aby zadeklarować krój czcionki, należy użyć właściwości",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -21148,8 +21148,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 882,
-    "text": "882. Która informacja dotycząca przedstawionego kodu jest prawdziwa?",
-    "image": "e14/882.jpg",
+    "text": "Która informacja dotycząca przedstawionego kodu jest prawdziwa?",
+    "image": "/e14/882.jpg",
     "answers": [
       {
         "id": "A",
@@ -21172,7 +21172,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 883,
-    "text": "883. Dana jest tabela uczniowie o polach id, imie, nazwisko, data_ur (format rrrr-mm-dd). Które zapytanie w języku SQL wyświetli tylko imiona i nazwiska uczniów urodzonych w 2001 roku?",
+    "text": "Dana jest tabela uczniowie o polach id, imie, nazwisko, data_ur (format rrrr-mm-dd). Które zapytanie w języku SQL wyświetli tylko imiona i nazwiska uczniów urodzonych w 2001 roku?",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -21196,8 +21196,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 884,
-    "text": "884. Fragment kodu SQL oznacza, że klucz obcy",
-    "image": "e14/884.jpg",
+    "text": "Fragment kodu SQL oznacza, że klucz obcy",
+    "image": "/e14/884.jpg",
     "answers": [
       {
         "id": "A",
@@ -21220,7 +21220,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 885,
-    "text": "885. Który znacznik służy budowaniu hierarchii tekstu w języku HTML?",
+    "text": "Który znacznik służy budowaniu hierarchii tekstu w języku HTML?",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -21244,8 +21244,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 886,
-    "text": "886. Która z definicji CSS określa formatowanie nagłówka h1: tekst nadkreślony, z odstępami między wyrazami 10 px i czerwonym kolorem tekstu?",
-    "image": "e14/886.jpg",
+    "text": "Która z definicji CSS określa formatowanie nagłówka h1: tekst nadkreślony, z odstępami między wyrazami 10 px i czerwonym kolorem tekstu?",
+    "image": "/e14/886.jpg",
     "answers": [
       {
         "id": "A",
@@ -21268,7 +21268,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 887,
-    "text": "887. W języku CSS, należy zdefiniować tło dokumentu jako obraz rys.png. Obraz ma powtarzać się jedynie w poziomie. Którą definicję należy przypisać selektorowi body?",
+    "text": "W języku CSS, należy zdefiniować tło dokumentu jako obraz rys.png. Obraz ma powtarzać się jedynie w poziomie. Którą definicję należy przypisać selektorowi body?",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -21292,7 +21292,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 888,
-    "text": "888. Za pomocą którego zapisu zostanie utworzony w dokumencie HTML element wyświetlający obraz kotek.jpg z tekstem alternatywnym \"obrazek kotka\"",
+    "text": "Za pomocą którego zapisu zostanie utworzony w dokumencie HTML element wyświetlający obraz kotek.jpg z tekstem alternatywnym \"obrazek kotka\"",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -21316,8 +21316,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 889,
-    "text": "889. Przedstawione formatowanie CSS, przy założeniu, że żadne inne formatowanie nie jest zdefiniowane, sprawi, że",
-    "image": "e14/889.jpg",
+    "text": "Przedstawione formatowanie CSS, przy założeniu, że żadne inne formatowanie nie jest zdefiniowane, sprawi, że",
+    "image": "/e14/889.jpg",
     "answers": [
       {
         "id": "A",
@@ -21340,8 +21340,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 890,
-    "text": "890. W języku JavaScript podany w ramce fragment funkcji ma za zadanie",
-    "image": "e14/890.jpg",
+    "text": "W języku JavaScript podany w ramce fragment funkcji ma za zadanie",
+    "image": "/e14/890.jpg",
     "answers": [
       {
         "id": "A",
@@ -21364,7 +21364,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 891,
-    "text": "891. W języku SQL, aby wstawić wiersz danych do bazy, należy zastosować polecenie",
+    "text": "W języku SQL, aby wstawić wiersz danych do bazy, należy zastosować polecenie",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -21388,8 +21388,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 892,
-    "text": "892. Wskaż kod CSS odpowiadający układowi bloków 2 - 5, zakładając, że są one zbudowane w oparciu o przedstawiony kod HTML",
-    "image": "e14/892.jpg",
+    "text": "Wskaż kod CSS odpowiadający układowi bloków 2 - 5, zakładając, że są one zbudowane w oparciu o przedstawiony kod HTML",
+    "image": "/e14/892.jpg",
     "answers": [
       {
         "id": "A",
@@ -21412,7 +21412,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 893,
-    "text": "893. Rozproszonym systemem kontroli wersji projektu programistycznego jest",
+    "text": "Rozproszonym systemem kontroli wersji projektu programistycznego jest",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -21436,7 +21436,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 894,
-    "text": "894. Jak zdefiniować w języku CSS takie formatowanie tabeli, żeby wiersz, na którym aktualnie znajduje się kursor myszy, zmieniał kolor tła na szary",
+    "text": "Jak zdefiniować w języku CSS takie formatowanie tabeli, żeby wiersz, na którym aktualnie znajduje się kursor myszy, zmieniał kolor tła na szary",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -21460,7 +21460,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 895,
-    "text": "895. Formatami Video obsługiwanymi w standardzie HTML5 są",
+    "text": "Formatami Video obsługiwanymi w standardzie HTML5 są",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -21484,12 +21484,12 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 896,
-    "text": "896. Który z typów relacji wymaga utworzenia tabeli pośredniej łączącej klucze główne obu tabel?",
+    "text": "Który z typów relacji wymaga utworzenia tabeli pośredniej łączącej klucze główne obu tabel?",
     "image": "./placeholder.png",
     "answers": [
       {
         "id": "A",
-        "text": "1..n"
+        "text": ".n"
       },
       {
         "id": "B",
@@ -21501,14 +21501,14 @@ export const allQuizData: Question[] = [
       },
       {
         "id": "D",
-        "text": "1..1"
+        "text": ".1"
       }
     ],
     "correctAnswer": "B"
   },
   {
     "id": 897,
-    "text": "897. W kodzie HTML przypisano pewne znaczniki do klasy o nazwie „nomargin”. Aby wykonać za pomocą języka JavaScript operacje na tych znacznikach, można posłużyć się funkcją",
+    "text": "W kodzie HTML przypisano pewne znaczniki do klasy o nazwie „nomargin”. Aby wykonać za pomocą języka JavaScript operacje na tych znacznikach, można posłużyć się funkcją",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -21532,7 +21532,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 898,
-    "text": "898. Kompresja bezstratna pliku graficznego gwarantuje",
+    "text": "Kompresja bezstratna pliku graficznego gwarantuje",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -21556,7 +21556,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 899,
-    "text": "899. Wskaż poprawny składniowo warunek zapisany w języku PHP i sprawdzający brak połączenia z bazą MySQL",
+    "text": "Wskaż poprawny składniowo warunek zapisany w języku PHP i sprawdzający brak połączenia z bazą MySQL",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -21580,8 +21580,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 900,
-    "text": "900. Tabele Osoby i Zainteresowania są połączone relacją jeden do wielu. Które zapytanie SQL należy zapisać, aby korzystając z tej relacji, prawidłowo wyświetlić imiona oraz odpowiadające im hobby?",
-    "image": "e14/900.jpg",
+    "text": "Tabele Osoby i Zainteresowania są połączone relacją jeden do wielu. Które zapytanie SQL należy zapisać, aby korzystając z tej relacji, prawidłowo wyświetlić imiona oraz odpowiadające im hobby?",
+    "image": "/e14/900.jpg",
     "answers": [
       {
         "id": "A",
@@ -21604,7 +21604,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 901,
-    "text": "901. W języku HTML, aby wstawić na stronę obraz zapisany w formacie JPG, należy zastosować znacznik",
+    "text": "W języku HTML, aby wstawić na stronę obraz zapisany w formacie JPG, należy zastosować znacznik",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -21628,7 +21628,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 902,
-    "text": "902. Za pomocą, którego znacznika można wstawić listę numerowaną (uporządkowaną) w dokumencie HTML?",
+    "text": "Za pomocą, którego znacznika można wstawić listę numerowaną (uporządkowaną) w dokumencie HTML?",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -21652,7 +21652,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 903,
-    "text": "903. W języku CSS zapis selektora p > i { color: red; } oznacza, że kolorem czerwonym zostanie sformatowany",
+    "text": "W języku CSS zapis selektora p > i { color: red; } oznacza, że kolorem czerwonym zostanie sformatowany",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -21676,7 +21676,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 904,
-    "text": "904. Język PHP posiada obsługę",
+    "text": "Język PHP posiada obsługę",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -21700,7 +21700,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 905,
-    "text": "905. Tworząc tabelę w języku SQL zdefiniowano pole, którego wartości nie mogą się powtarzać. Do jego definicji należy zastosować atrybut",
+    "text": "Tworząc tabelę w języku SQL zdefiniowano pole, którego wartości nie mogą się powtarzać. Do jego definicji należy zastosować atrybut",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -21724,7 +21724,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 906,
-    "text": "906. Aby wskazać błędy składniowe w kodzie HTML, należy zastosować",
+    "text": "Aby wskazać błędy składniowe w kodzie HTML, należy zastosować",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -21748,8 +21748,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 907,
-    "text": "907. Projektując stronę internetową, umieszczono kod definiujący jej styl. Jaką szerokość pozostawiono na treść strony?",
-    "image": "e14/907.jpg",
+    "text": "Projektując stronę internetową, umieszczono kod definiujący jej styl. Jaką szerokość pozostawiono na treść strony?",
+    "image": "/e14/907.jpg",
     "answers": [
       {
         "id": "A",
@@ -21772,7 +21772,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 908,
-    "text": "908. Instrukcją pętli, która jest przeznaczona do wykonania określonej liczby operacji na pewnym obiekcie lub zmiennej niebędącej tablicą, jest",
+    "text": "Instrukcją pętli, która jest przeznaczona do wykonania określonej liczby operacji na pewnym obiekcie lub zmiennej niebędącej tablicą, jest",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -21796,8 +21796,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 909,
-    "text": "909. Przedstawiona funkcja, zapisana językiem JavaScript, ma za zadanie",
-    "image": "e14/909.jpg",
+    "text": "Przedstawiona funkcja, zapisana językiem JavaScript, ma za zadanie",
+    "image": "/e14/909.jpg",
     "answers": [
       {
         "id": "A",
@@ -21820,7 +21820,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 910,
-    "text": "910. Która cecha grafiki wektorowej jest prawdziwa?",
+    "text": "Która cecha grafiki wektorowej jest prawdziwa?",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -21844,7 +21844,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 911,
-    "text": "911. W języku PHP operatorem reszty z dzielenia jest:",
+    "text": "W języku PHP operatorem reszty z dzielenia jest:",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -21868,8 +21868,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 912,
-    "text": "912. W formularzu HTML zastosowano znacznik <input>. Wyświetlone pole będzie służyło do wprowadzania maksymalnie",
-    "image": "e14/912.jpg",
+    "text": "W formularzu HTML zastosowano znacznik <input>. Wyświetlone pole będzie służyło do wprowadzania maksymalnie",
+    "image": "/e14/912.jpg",
     "answers": [
       {
         "id": "A",
@@ -21892,7 +21892,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 913,
-    "text": "913. Wśród czterech podstawowych kolorów modelu barw CMYK jest",
+    "text": "Wśród czterech podstawowych kolorów modelu barw CMYK jest",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -21916,7 +21916,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 914,
-    "text": "914. Które z poleceń nadaje najniższy poziom uprawnień użytkownikowi uczen pod względem modyfikacji danych i struktury tabel?",
+    "text": "Które z poleceń nadaje najniższy poziom uprawnień użytkownikowi uczen pod względem modyfikacji danych i struktury tabel?",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -21940,8 +21940,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 915,
-    "text": "915. W języku PHP, aby połączyć się z bazą danych MySQL przy pomocy biblioteki mysqli, stosując zamieszczony zapis, w miejscu litery 'c' należy zapisać",
-    "image": "e14/915.jpg",
+    "text": "W języku PHP, aby połączyć się z bazą danych MySQL przy pomocy biblioteki mysqli, stosując zamieszczony zapis, w miejscu litery 'c' należy zapisać",
+    "image": "/e14/915.jpg",
     "answers": [
       {
         "id": "A",
@@ -21964,8 +21964,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 916,
-    "text": "916. Aby w JavaScript wykonać wymienione kroki, należy w znaczniku <script> umieścić kod",
-    "image": "e14/916.jpg",
+    "text": "Aby w JavaScript wykonać wymienione kroki, należy w znaczniku <script> umieścić kod",
+    "image": "/e14/916.jpg",
     "answers": [
       {
         "id": "A",
@@ -21988,8 +21988,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 917,
-    "text": "917. Funkcja agregująca AVG użyta w zapytaniu ma za zadanie",
-    "image": "e14/917.jpg",
+    "text": "Funkcja agregująca AVG użyta w zapytaniu ma za zadanie",
+    "image": "/e14/917.jpg",
     "answers": [
       {
         "id": "A",
@@ -22012,7 +22012,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 918,
-    "text": "918. Kolorem o barwie niebieskiej jest kolor",
+    "text": "Kolorem o barwie niebieskiej jest kolor",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -22036,7 +22036,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 919,
-    "text": "919. Zestaw komponentów i podprogramów służący pisaniu aplikacji, który ponadto narzuca szkielet wyglądu aplikacji, jej strukturę, a czasem nawet wzorzec według którego ma powstać aplikacja, to",
+    "text": "Zestaw komponentów i podprogramów służący pisaniu aplikacji, który ponadto narzuca szkielet wyglądu aplikacji, jej strukturę, a czasem nawet wzorzec według którego ma powstać aplikacja, to",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -22060,7 +22060,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 920,
-    "text": "920. Rozwinięcie słowne akronimu ACID w SQL to",
+    "text": "Rozwinięcie słowne akronimu ACID w SQL to",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -22084,8 +22084,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 921,
-    "text": "921. Które dane z 8 rekordów wpisanych do tabeli zwierzeta zostaną wyświetlone w wyniku podanego zapytania SQL?",
-    "image": "e14/921.jpg",
+    "text": "Które dane z 8 rekordów wpisanych do tabeli zwierzeta zostaną wyświetlone w wyniku podanego zapytania SQL?",
+    "image": "/e14/921.jpg",
     "answers": [
       {
         "id": "A",
@@ -22108,7 +22108,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 922,
-    "text": "922. W języku JavaScript instrukcję a++; można inaczej zapisać jako",
+    "text": "W języku JavaScript instrukcję a++; można inaczej zapisać jako",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -22132,7 +22132,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 923,
-    "text": "923. Z którym ze słów kluczowych programowania obiektowego w języku JavaScript wiąże się dostęp do pól i metod tylko z poziomu klasy, w której są zdefiniowane",
+    "text": "Z którym ze słów kluczowych programowania obiektowego w języku JavaScript wiąże się dostęp do pól i metod tylko z poziomu klasy, w której są zdefiniowane",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -22156,8 +22156,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 924,
-    "text": "924. Przedstawiony na rysunku kolor zapisany w modelu RGB, w systemie szesnastkowym będzie zdefiniowany następująco",
-    "image": "e14/924.jpg",
+    "text": "Przedstawiony na rysunku kolor zapisany w modelu RGB, w systemie szesnastkowym będzie zdefiniowany następująco",
+    "image": "/e14/924.jpg",
     "answers": [
       {
         "id": "A",
@@ -22180,7 +22180,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 925,
-    "text": "925. Za pomocą której funkcji języka PHP można ustanowić połączenie z bazą danych o nazwie zwierzaki?",
+    "text": "Za pomocą której funkcji języka PHP można ustanowić połączenie z bazą danych o nazwie zwierzaki?",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -22204,7 +22204,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 926,
-    "text": "926. Aby zmienić maksymalną długość pola imie w tabeli klienci na 30 znaków, należy użyć w języku SQL następującego kodu",
+    "text": "Aby zmienić maksymalną długość pola imie w tabeli klienci na 30 znaków, należy użyć w języku SQL następującego kodu",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -22228,8 +22228,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 927,
-    "text": "927. Jeśli zmienna $x przechowuje dowolną liczbę naturalną dodatnią, przedstawiony kod źródłowy PHP ma za zadanie wyświetlić",
-    "image": "e14/927.jpg",
+    "text": "Jeśli zmienna $x przechowuje dowolną liczbę naturalną dodatnią, przedstawiony kod źródłowy PHP ma za zadanie wyświetlić",
+    "image": "/e14/927.jpg",
     "answers": [
       {
         "id": "A",
@@ -22252,8 +22252,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 928,
-    "text": "928. W języku JavaScript zdefiniowano obiekt. Aby dalej w kodzie modyfikować wartość właściwości x obiektu, należy zapisać",
-    "image": "e14/928.jpg",
+    "text": "W języku JavaScript zdefiniowano obiekt. Aby dalej w kodzie modyfikować wartość właściwości x obiektu, należy zapisać",
+    "image": "/e14/928.jpg",
     "answers": [
       {
         "id": "A",
@@ -22276,7 +22276,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 929,
-    "text": "929. Odpowiednia kolejność procesów przetwarzania analogowo-cyfrowego dźwięku to:",
+    "text": "Odpowiednia kolejność procesów przetwarzania analogowo-cyfrowego dźwięku to:",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -22300,8 +22300,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 930,
-    "text": "930. Na obrazie przedstawiono wybór formatu pliku importującego bazę danych. Którego formatu należy użyć, jeżeli dane są wyeksportowane z programu Excel i zapisane tekstowo z zastosowaniem przecinka do rozdzielenia wartości pól?",
-    "image": "e14/930.jpg",
+    "text": "Na obrazie przedstawiono wybór formatu pliku importującego bazę danych. Którego formatu należy użyć, jeżeli dane są wyeksportowane z programu Excel i zapisane tekstowo z zastosowaniem przecinka do rozdzielenia wartości pól?",
+    "image": "/e14/930.jpg",
     "answers": [
       {
         "id": "A",
@@ -22324,7 +22324,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 931,
-    "text": "931. Baza danych zawiera tabelę ksiazki o polach: tytul, id_autora, data_wypoz, id_czytelnika. Każdego dnia generowany jest raport książek wypożyczonych danego dnia. Wyświetlane są jedynie tytuły książek. Która z kwerend SQL posłuży do stworzenia tego raportu?",
+    "text": "Baza danych zawiera tabelę ksiazki o polach: tytul, id_autora, data_wypoz, id_czytelnika. Każdego dnia generowany jest raport książek wypożyczonych danego dnia. Wyświetlane są jedynie tytuły książek. Która z kwerend SQL posłuży do stworzenia tego raportu?",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -22348,8 +22348,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 932,
-    "text": "932. W języku CSS zdefiniowano formatowanie dla pola edycyjnego. Tak formatowane pole edycyjne będzie miało jasnozielone tło",
-    "image": "e14/932.jpg",
+    "text": "W języku CSS zdefiniowano formatowanie dla pola edycyjnego. Tak formatowane pole edycyjne będzie miało jasnozielone tło",
+    "image": "/e14/932.jpg",
     "answers": [
       {
         "id": "A",
@@ -22372,8 +22372,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 933,
-    "text": "933. W języku CSS zapisano wspólne formatowanie dla pewnej grupy znaczników. Formatowanie takich znaczników w kodzie HTML nastąpi przez atrybut",
-    "image": "e14/933.jpg",
+    "text": "W języku CSS zapisano wspólne formatowanie dla pewnej grupy znaczników. Formatowanie takich znaczników w kodzie HTML nastąpi przez atrybut",
+    "image": "/e14/933.jpg",
     "answers": [
       {
         "id": "A",
@@ -22396,7 +22396,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 934,
-    "text": "934. Formatem o najwyższej rozpiętości tonalnej wśród wymienionych jest",
+    "text": "Formatem o najwyższej rozpiętości tonalnej wśród wymienionych jest",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -22420,7 +22420,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 935,
-    "text": "935. Które z zadań programistycznych może być wykonane tylko po stronie klienta przeglądarki?",
+    "text": "Które z zadań programistycznych może być wykonane tylko po stronie klienta przeglądarki?",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -22444,8 +22444,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 936,
-    "text": "936. Która instrukcja algorytmu odpowiada graficznej reprezentacji bloku przedstawionego na rysunku?",
-    "image": "e14/936.jpg",
+    "text": "Która instrukcja algorytmu odpowiada graficznej reprezentacji bloku przedstawionego na rysunku?",
+    "image": "/e14/936.jpg",
     "answers": [
       {
         "id": "A",
@@ -22468,8 +22468,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 937,
-    "text": "937. Która z instrukcji języka JavaScript dokona zmiany koloru tekstu na niebieski w akapicie zdefiniowanym w dokumencie HTML?",
-    "image": "e14/937.jpg",
+    "text": "Która z instrukcji języka JavaScript dokona zmiany koloru tekstu na niebieski w akapicie zdefiniowanym w dokumencie HTML?",
+    "image": "/e14/937.jpg",
     "answers": [
       {
         "id": "A",
@@ -22492,8 +22492,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 938,
-    "text": "938. W języku SQL, po wykonaniu przedstawionych poleceń GRANT, prawo do zmiany struktury tabeli oraz jej usuwania zostanie przypisane",
-    "image": "e14/938.jpg",
+    "text": "W języku SQL, po wykonaniu przedstawionych poleceń GRANT, prawo do zmiany struktury tabeli oraz jej usuwania zostanie przypisane",
+    "image": "/e14/938.jpg",
     "answers": [
       {
         "id": "A",
@@ -22516,8 +22516,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 939,
-    "text": "939. Dla których imion zastosowana w zapytaniu klauzula LIKE jest prawdziwa?",
-    "image": "e14/939.jpg",
+    "text": "Dla których imion zastosowana w zapytaniu klauzula LIKE jest prawdziwa?",
+    "image": "/e14/939.jpg",
     "answers": [
       {
         "id": "A",
@@ -22540,7 +22540,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 940,
-    "text": "940. Grafik chce przekształcić bez utraty jakości obraz JPG w format PNG w ten sposób, żeby wszędzie tam, gdzie w pierwotnym obrazie jest kolor biały, w obrazie docelowym była przezroczystość. Aby to zrobić, powinien",
+    "text": "Grafik chce przekształcić bez utraty jakości obraz JPG w format PNG w ten sposób, żeby wszędzie tam, gdzie w pierwotnym obrazie jest kolor biały, w obrazie docelowym była przezroczystość. Aby to zrobić, powinien",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -22564,7 +22564,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 941,
-    "text": "941. Wskaż zapytanie SQL tworzące użytkownika sekretarka na localhost z hasłem zaq123",
+    "text": "Wskaż zapytanie SQL tworzące użytkownika sekretarka na localhost z hasłem zaq123",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -22588,7 +22588,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 942,
-    "text": "942. Która z funkcji SQL NIE pobiera argumentów?",
+    "text": "Która z funkcji SQL NIE pobiera argumentów?",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -22612,7 +22612,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 943,
-    "text": "943. W którym z przypadków walidacja fragmentu kodu CSS przebiegnie pomyślnie?",
+    "text": "W którym z przypadków walidacja fragmentu kodu CSS przebiegnie pomyślnie?",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -22636,7 +22636,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 944,
-    "text": "944. W języku JavaScript zadeklarowana zmienna i, która ma przechowywać wynik dzielenia wynoszący 1, to",
+    "text": "W języku JavaScript zadeklarowana zmienna i, która ma przechowywać wynik dzielenia wynoszący 1, to",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -22660,8 +22660,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 945,
-    "text": "945. W języku HTML zapisano definicję tabeli. Który rysunek obrazuje efekt jej działania?",
-    "image": "e14/945.jpg",
+    "text": "W języku HTML zapisano definicję tabeli. Który rysunek obrazuje efekt jej działania?",
+    "image": "/e14/945.jpg",
     "answers": [
       {
         "id": "A",
@@ -22684,8 +22684,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 946,
-    "text": "946. W programie MS Access we właściwościach pola klasa należy ustawić maskę wprowadzania danych. Którą maskę należy podać, aby wprowadzone dane były złożone z trzech znaków w formacie: obowiązkowa cyfra, po niej obowiązkowe dwie litery?",
-    "image": "e14/946.jpg",
+    "text": "W programie MS Access we właściwościach pola klasa należy ustawić maskę wprowadzania danych. Którą maskę należy podać, aby wprowadzone dane były złożone z trzech znaków w formacie: obowiązkowa cyfra, po niej obowiązkowe dwie litery?",
+    "image": "/e14/946.jpg",
     "answers": [
       {
         "id": "A",
@@ -22708,7 +22708,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 947,
-    "text": "947. Który zapis definiuje w języku PHP komentarz wieloliniowy",
+    "text": "Który zapis definiuje w języku PHP komentarz wieloliniowy",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -22732,8 +22732,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 948,
-    "text": "948. W programie do obróbki grafiki rastrowej zmodyfikowano krzywe kolorów tak, jak zaznaczono ramką na przedstawionym obrazie. Ma to na celu",
-    "image": "e14/948.jpg",
+    "text": "W programie do obróbki grafiki rastrowej zmodyfikowano krzywe kolorów tak, jak zaznaczono ramką na przedstawionym obrazie. Ma to na celu",
+    "image": "/e14/948.jpg",
     "answers": [
       {
         "id": "A",
@@ -22756,7 +22756,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 949,
-    "text": "949. Pole insert_id zdefiniowane w bibliotece MySQLi języka PHP może być wykorzystane do",
+    "text": "Pole insert_id zdefiniowane w bibliotece MySQLi języka PHP może być wykorzystane do",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -22780,7 +22780,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 950,
-    "text": "950. W języku HTML, aby utworzyć pole edycyjne do wpisywania hasła, w którym wpisywany tekst jest maskowany (zastępowany kropkami), należy użyć znacznika",
+    "text": "W języku HTML, aby utworzyć pole edycyjne do wpisywania hasła, w którym wpisywany tekst jest maskowany (zastępowany kropkami), należy użyć znacznika",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -22804,7 +22804,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 951,
-    "text": "951. Które metody odnoszą się do predefiniowanego obiektu Date w języku JavaScript?",
+    "text": "Które metody odnoszą się do predefiniowanego obiektu Date w języku JavaScript?",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -22828,7 +22828,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 952,
-    "text": "952. Którego typu danych w bazie MySQL należy użyć, aby przechować w jednym polu datę i czas?",
+    "text": "Którego typu danych w bazie MySQL należy użyć, aby przechować w jednym polu datę i czas?",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -22852,8 +22852,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 953,
-    "text": "953. Dana jest tabela oceny o polach id, nazwisko, imie, ocena. Przedstawione zapytanie jest przykładem",
-    "image": "e14/953.jpg",
+    "text": "Dana jest tabela oceny o polach id, nazwisko, imie, ocena. Przedstawione zapytanie jest przykładem",
+    "image": "/e14/953.jpg",
     "answers": [
       {
         "id": "A",
@@ -22876,8 +22876,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 954,
-    "text": "954. W przedstawionym fragmencie formularza HTML zdefiniowano pole input, o którym można powiedzieć, że",
-    "image": "e14/954.jpg",
+    "text": "W przedstawionym fragmencie formularza HTML zdefiniowano pole input, o którym można powiedzieć, że",
+    "image": "/e14/954.jpg",
     "answers": [
       {
         "id": "A",
@@ -22900,7 +22900,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 955,
-    "text": "955. Znacznik <pre> </pre> jest stosowany w celu wyświetlenia",
+    "text": "Znacznik <pre> </pre> jest stosowany w celu wyświetlenia",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -22924,7 +22924,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 956,
-    "text": "956. W języku PHP zastosowano funkcję is_float(). Które z podanych wywołań tej funkcji zwróci wartość true",
+    "text": "W języku PHP zastosowano funkcję is_float(). Które z podanych wywołań tej funkcji zwróci wartość true",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -22948,7 +22948,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 957,
-    "text": "957. Aby dołączyć kaskadowy arkusz stylów zapisany w zewnętrznym pliku, należy użyć następującego fragmentu kodu HTML",
+    "text": "Aby dołączyć kaskadowy arkusz stylów zapisany w zewnętrznym pliku, należy użyć następującego fragmentu kodu HTML",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -22972,7 +22972,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 958,
-    "text": "958. Tabela Pacjenci ma pola: imie, nazwisko, wiek, lekarz_id. Aby zestawić raport zawierający wyłącznie imiona i nazwiska pacjentów poniżej 18 roku życia, którzy zapisani są do lekarza o id równym 6, można posłużyć się kwerendą SQL",
+    "text": "Tabela Pacjenci ma pola: imie, nazwisko, wiek, lekarz_id. Aby zestawić raport zawierający wyłącznie imiona i nazwiska pacjentów poniżej 18 roku życia, którzy zapisani są do lekarza o id równym 6, można posłużyć się kwerendą SQL",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -22996,7 +22996,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 959,
-    "text": "959. W języku SQL ustawienie klucza podstawowego na polu id w tabeli uczniowie możliwe jest za pomocą polecenia",
+    "text": "W języku SQL ustawienie klucza podstawowego na polu id w tabeli uczniowie możliwe jest za pomocą polecenia",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -23020,7 +23020,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 960,
-    "text": "960. Które z tych rozszerzeń nie jest rozszerzeniem pliku video?",
+    "text": "Które z tych rozszerzeń nie jest rozszerzeniem pliku video?",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -23044,7 +23044,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 961,
-    "text": "961. W języku PHP, aby prawidłowo obsłużyć połączenie z bazą danych MySQL, ostatnią operacją, powinno być zastosowanie polecenia",
+    "text": "W języku PHP, aby prawidłowo obsłużyć połączenie z bazą danych MySQL, ostatnią operacją, powinno być zastosowanie polecenia",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -23068,8 +23068,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 962,
-    "text": "962. Który z paragrafów został sformatowany przedstawionym stylem zakładając, że pozostałe własności paragrafu przyjmują wartości domyślne?",
-    "image": "e14/962.jpg",
+    "text": "Który z paragrafów został sformatowany przedstawionym stylem zakładając, że pozostałe własności paragrafu przyjmują wartości domyślne?",
+    "image": "/e14/962.jpg",
     "answers": [
       {
         "id": "A",
@@ -23092,8 +23092,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 963,
-    "text": "963. Dana jest tabela pracownicy, do której wpisano rekordy przedstawione obok. Po uruchomieniu podanej w ramce kwerendy SQL zostanie wyświetlona wartość",
-    "image": "e14/963.jpg",
+    "text": "Dana jest tabela pracownicy, do której wpisano rekordy przedstawione obok. Po uruchomieniu podanej w ramce kwerendy SQL zostanie wyświetlona wartość",
+    "image": "/e14/963.jpg",
     "answers": [
       {
         "id": "A",
@@ -23116,7 +23116,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 964,
-    "text": "964. W bazie danych MySQL polecenie CREATE USER umożliwia",
+    "text": "W bazie danych MySQL polecenie CREATE USER umożliwia",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -23140,7 +23140,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 965,
-    "text": "965. Poziom izolacji transakcji Repeatable Read (tryb powtarzalnego odczytu) stosowany przez MS SQL wiąże się z problemem",
+    "text": "Poziom izolacji transakcji Repeatable Read (tryb powtarzalnego odczytu) stosowany przez MS SQL wiąże się z problemem",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -23164,7 +23164,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 966,
-    "text": "966. Relacja opisana w sposób: \"Rekordowi z tabeli A odpowiada dowolna liczba rekordów z tabeli B. Jednemu rekordowi z tabeli B odpowiada dokładnie jeden rekord z tabeli A\" jest relacją",
+    "text": "Relacja opisana w sposób: \"Rekordowi z tabeli A odpowiada dowolna liczba rekordów z tabeli B. Jednemu rekordowi z tabeli B odpowiada dokładnie jeden rekord z tabeli A\" jest relacją",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -23188,8 +23188,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 967,
-    "text": "967. Dla przedstawionego fragmentu dokumentu HTML zdefiniowano formatowanie CSS selektora klasy \"menu\" tak, aby kolor tła bloku był zielony. Która definicja stylu CSS odpowiada temu formatowaniu?",
-    "image": "e14/967.jpg",
+    "text": "Dla przedstawionego fragmentu dokumentu HTML zdefiniowano formatowanie CSS selektora klasy \"menu\" tak, aby kolor tła bloku był zielony. Która definicja stylu CSS odpowiada temu formatowaniu?",
+    "image": "/e14/967.jpg",
     "answers": [
       {
         "id": "A",
@@ -23212,7 +23212,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 968,
-    "text": "968. Jak nazywa się metoda sortowania polegająca na podziale na n przedziałów jednakowej długości, w których następuje sortowanie, po czym posortowane zawartości przedziałów są poddawane analizie i prezentacji?",
+    "text": "Jak nazywa się metoda sortowania polegająca na podziale na n przedziałów jednakowej długości, w których następuje sortowanie, po czym posortowane zawartości przedziałów są poddawane analizie i prezentacji?",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -23236,8 +23236,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 969,
-    "text": "969. Stronę internetową zapisano w języku XHTML. Który z kodów stanowi implementację przedstawionego fragmentu strony, jeżeli żadne style CSS nie zostały zdefiniowane?",
-    "image": "e14/969.jpg",
+    "text": "Stronę internetową zapisano w języku XHTML. Który z kodów stanowi implementację przedstawionego fragmentu strony, jeżeli żadne style CSS nie zostały zdefiniowane?",
+    "image": "/e14/969.jpg",
     "answers": [
       {
         "id": "A",
@@ -23260,8 +23260,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 970,
-    "text": "970. W przedstawionej klasie zdefiniowano",
-    "image": "e14/970.jpg",
+    "text": "W przedstawionej klasie zdefiniowano",
+    "image": "/e14/970.jpg",
     "answers": [
       {
         "id": "A",
@@ -23284,7 +23284,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 971,
-    "text": "971. Aby zamieścić na stronie internetowej film, należy użyć znacznika",
+    "text": "Aby zamieścić na stronie internetowej film, należy użyć znacznika",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -23308,8 +23308,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 972,
-    "text": "972. Wskaż poprawną definicję stylu CSS dla przycisku typu submit o właściwościach: czarny kolor tła, brak obramowania, marginesy wewnętrzne 5px.",
-    "image": "e14/972.jpg",
+    "text": "Wskaż poprawną definicję stylu CSS dla przycisku typu submit o właściwościach: czarny kolor tła, brak obramowania, marginesy wewnętrzne 5px.",
+    "image": "/e14/972.jpg",
     "answers": [
       {
         "id": "A",
@@ -23332,8 +23332,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 973,
-    "text": "973. Przedstawiony fragment kodu napisano w języku JavaScript. Aby program przypisywał wartość równą 1 co trzeciemu elementowi w tablicy, to w miejscu kropek należy wpisać",
-    "image": "e14/973.jpg",
+    "text": "Przedstawiony fragment kodu napisano w języku JavaScript. Aby program przypisywał wartość równą 1 co trzeciemu elementowi w tablicy, to w miejscu kropek należy wpisać",
+    "image": "/e14/973.jpg",
     "answers": [
       {
         "id": "A",
@@ -23356,8 +23356,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 974,
-    "text": "974. W zapytaniu SQL umieszczonym poniżej, znak gwiazdki oznacza, że w wyniku tego zapytania",
-    "image": "e14/974.jpg",
+    "text": "W zapytaniu SQL umieszczonym poniżej, znak gwiazdki oznacza, że w wyniku tego zapytania",
+    "image": "/e14/974.jpg",
     "answers": [
       {
         "id": "A",
@@ -23380,7 +23380,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 975,
-    "text": "975. Znacznik języka HTML, który służy do dynamicznego tworzenia grafiki na stronie internetowej bez osadzania dodatkowych plików, to",
+    "text": "Znacznik języka HTML, który służy do dynamicznego tworzenia grafiki na stronie internetowej bez osadzania dodatkowych plików, to",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -23404,8 +23404,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 976,
-    "text": "976. Po wykonaniu kodu PHP zostanie wyświetlona aktualna data zawierająca jedynie",
-    "image": "e14/976.jpg",
+    "text": "Po wykonaniu kodu PHP zostanie wyświetlona aktualna data zawierająca jedynie",
+    "image": "/e14/976.jpg",
     "answers": [
       {
         "id": "A",
@@ -23428,7 +23428,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 977,
-    "text": "977. Proces organizowania danych w bazie obejmujący tworzenie tabel, ustanawianie relacji między nimi i polegający na wyeliminowaniu z bazy nadmiarowych danych oraz niespójnych zależności nazywa się",
+    "text": "Proces organizowania danych w bazie obejmujący tworzenie tabel, ustanawianie relacji między nimi i polegający na wyeliminowaniu z bazy nadmiarowych danych oraz niespójnych zależności nazywa się",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -23452,7 +23452,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 978,
-    "text": "978. W jaki sposób, stosując język PHP, zapisać w ciasteczku napis znajdujący się w zmiennej dane na czas jednego dnia?",
+    "text": "W jaki sposób, stosując język PHP, zapisać w ciasteczku napis znajdujący się w zmiennej dane na czas jednego dnia?",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -23476,8 +23476,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 979,
-    "text": "979. Które stwierdzenie najlepiej opisuje klasę Owoc zdefiniowaną w języku PHP i przedstawioną na listingu?",
-    "image": "e14/979.jpg",
+    "text": "Które stwierdzenie najlepiej opisuje klasę Owoc zdefiniowaną w języku PHP i przedstawioną na listingu?",
+    "image": "/e14/979.jpg",
     "answers": [
       {
         "id": "A",
@@ -23500,7 +23500,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 980,
-    "text": "980. Aby stworzyć różnicową kopię bazy danych na serwerze MSSQL, należy zastosować klauzulę",
+    "text": "Aby stworzyć różnicową kopię bazy danych na serwerze MSSQL, należy zastosować klauzulę",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -23524,8 +23524,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 981,
-    "text": "981. W języku PHP wykonano operację przedstawioną w ramce. Aby wyświetlić wszystkie wyniki tego zapytania należy",
-    "image": "e14/981.jpg",
+    "text": "W języku PHP wykonano operację przedstawioną w ramce. Aby wyświetlić wszystkie wyniki tego zapytania należy",
+    "image": "/e14/981.jpg",
     "answers": [
       {
         "id": "A",
@@ -23548,7 +23548,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 982,
-    "text": "982. Kwerendę SELECT DISTINCT należy zastosować w przypadku, gdy potrzeba wybrać rekordy",
+    "text": "Kwerendę SELECT DISTINCT należy zastosować w przypadku, gdy potrzeba wybrać rekordy",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -23572,7 +23572,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 983,
-    "text": "983. Grafik wykonał logo strony internetowej. To czarny znaczek na przezroczystym tle. Aby zachować wszystkie atrybuty obrazu i umieścić go na stronie internetowej, grafik powinien zapisać obraz w formacie",
+    "text": "Grafik wykonał logo strony internetowej. To czarny znaczek na przezroczystym tle. Aby zachować wszystkie atrybuty obrazu i umieścić go na stronie internetowej, grafik powinien zapisać obraz w formacie",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -23596,7 +23596,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 984,
-    "text": "984. W języku PHP funkcja, która może służyć do sprawdzenia, czy dany ciąg jest fragmentem innego ciągu, to",
+    "text": "W języku PHP funkcja, która może służyć do sprawdzenia, czy dany ciąg jest fragmentem innego ciągu, to",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -23620,8 +23620,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 985,
-    "text": "985. Wykonanie przedstawionego polecenia PHP umożliwi",
-    "image": "e14/984.jpg",
+    "text": "Wykonanie przedstawionego polecenia PHP umożliwi",
+    "image": "/e14/984.jpg",
     "answers": [
       {
         "id": "A",
@@ -23644,7 +23644,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 986,
-    "text": "986. Funkcja mysqli_num_rows() języka PHP może być wywołana po uprzednim zastosowaniu kwerendy",
+    "text": "Funkcja mysqli_num_rows() języka PHP może być wywołana po uprzednim zastosowaniu kwerendy",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -23668,7 +23668,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 987,
-    "text": "987. Które wyrażenie logiczne należy zastosować w języku JavaScript, aby wykonać operacje tylko dla dowolnych liczb ujemnych z przedziału jednostronnie domkniętego <-200,-100)?",
+    "text": "Które wyrażenie logiczne należy zastosować w języku JavaScript, aby wykonać operacje tylko dla dowolnych liczb ujemnych z przedziału jednostronnie domkniętego <-200,-100)?",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -23692,8 +23692,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 988,
-    "text": "988. Wskaż instrukcję równoważną do instrukcji switch zapisanej językiem PHP",
-    "image": "e14/988.jpg",
+    "text": "Wskaż instrukcję równoważną do instrukcji switch zapisanej językiem PHP",
+    "image": "/e14/988.jpg",
     "answers": [
       {
         "id": "A",
@@ -23716,8 +23716,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 989,
-    "text": "989. Podane polecenie SQL nadaje prawo SELECT",
-    "image": "e14/989.jpg",
+    "text": "Podane polecenie SQL nadaje prawo SELECT",
+    "image": "/e14/989.jpg",
     "answers": [
       {
         "id": "A",
@@ -23740,7 +23740,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 990,
-    "text": "990. Integralność encji w bazie danych zostanie zachowana, jeżeli między innymi",
+    "text": "Integralność encji w bazie danych zostanie zachowana, jeżeli między innymi",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -23764,7 +23764,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 991,
-    "text": "991. W języku JavaScript stworzono funkcję o nazwie licz_pitagoras, która oblicza długość przeciwprostokątnej trójkąta prostokątnego, zgodnie z twierdzeniem Pitagorasa. Funkcja pobiera dwa parametry wejściowe i zwraca wartość. Prawidłowe wywołanie takiej funkcji, wraz z pobraniem zwróconego wyniku, będzie miało postać",
+    "text": "W języku JavaScript stworzono funkcję o nazwie licz_pitagoras, która oblicza długość przeciwprostokątnej trójkąta prostokątnego, zgodnie z twierdzeniem Pitagorasa. Funkcja pobiera dwa parametry wejściowe i zwraca wartość. Prawidłowe wywołanie takiej funkcji, wraz z pobraniem zwróconego wyniku, będzie miało postać",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -23788,7 +23788,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 992,
-    "text": "992. Który z typów wspieranych przez język PHP służy do obsługi zmiennych logicznych?",
+    "text": "Który z typów wspieranych przez język PHP służy do obsługi zmiennych logicznych?",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -23812,7 +23812,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 993,
-    "text": "993. W edytorze grafiki rastrowej, aby pracować tylko na części obrazu, nie naruszając innych jego elementów, można wykorzystać",
+    "text": "W edytorze grafiki rastrowej, aby pracować tylko na części obrazu, nie naruszając innych jego elementów, można wykorzystać",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -23836,7 +23836,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 994,
-    "text": "994. Wielkość grafiki JPEG umieszczonej na stronie internetowej może mieć wpływ na",
+    "text": "Wielkość grafiki JPEG umieszczonej na stronie internetowej może mieć wpływ na",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -23860,8 +23860,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 995,
-    "text": "995. Algorytm przedstawiony na rysunku można zapisać w języku JavaScript za pomocą instrukcji",
-    "image": "e14/995.jpg",
+    "text": "Algorytm przedstawiony na rysunku można zapisać w języku JavaScript za pomocą instrukcji",
+    "image": "/e14/995.jpg",
     "answers": [
       {
         "id": "A",
@@ -23884,8 +23884,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 996,
-    "text": "996. W kodzie HTML zdefiniowano formularz, który wysyła dane do pliku formularz.php. Po wciśnięciu przycisku typu submit przeglądarka przechodzi do przedstawionego adresu. Na podstawie podanego adresu można powiedzieć, że dane do pliku formularz.php zostały przesłane metodą",
-    "image": "e14/996.jpg",
+    "text": "W kodzie HTML zdefiniowano formularz, który wysyła dane do pliku formularz.php. Po wciśnięciu przycisku typu submit przeglądarka przechodzi do przedstawionego adresu. Na podstawie podanego adresu można powiedzieć, że dane do pliku formularz.php zostały przesłane metodą",
+    "image": "/e14/996.jpg",
     "answers": [
       {
         "id": "A",
@@ -23908,7 +23908,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 997,
-    "text": "997. Wskaż funkcję PHP, za pomocą której odczytana zawartość pliku jest zapisywana do zmiennej reprezentującej ciąg znaków",
+    "text": "Wskaż funkcję PHP, za pomocą której odczytana zawartość pliku jest zapisywana do zmiennej reprezentującej ciąg znaków",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -23932,7 +23932,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 998,
-    "text": "998. W której części dokumentu HTML należy umieścić wewnętrzny arkusz stylów?",
+    "text": "W której części dokumentu HTML należy umieścić wewnętrzny arkusz stylów?",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -23956,8 +23956,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 999,
-    "text": "999. W języku CSS zdefiniowano formatowanie paragrafu, które przypisze mu następujące cechy:",
-    "image": "e14/999.jpg",
+    "text": "W języku CSS zdefiniowano formatowanie paragrafu, które przypisze mu następujące cechy:",
+    "image": "/e14/999.jpg",
     "answers": [
       {
         "id": "A",
@@ -23980,8 +23980,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 1000,
-    "text": "1000. W znaczniku meta w miejsce kropek należy wpisać",
-    "image": "e14/1000.jpg",
+    "text": "W znaczniku meta w miejsce kropek należy wpisać",
+    "image": "/e14/1000.jpg",
     "answers": [
       {
         "id": "A",
@@ -24004,7 +24004,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 1001,
-    "text": "1001. W języku PHP zmiennej a przypisano tekst, w którym kilkukrotnie występuje słowo Kowalski. Aby jednym pleceniem zmienić w zmiennej a wszystkie wystąpienia słowa Kowalski na słowo Nowak, należy zastosować polecenie",
+    "text": "W języku PHP zmiennej a przypisano tekst, w którym kilkukrotnie występuje słowo Kowalski. Aby jednym pleceniem zmienić w zmiennej a wszystkie wystąpienia słowa Kowalski na słowo Nowak, należy zastosować polecenie",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -24028,7 +24028,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 1002,
-    "text": "1002. W bazie danych samochodów pole kolor z tabeli samochody przyjmuje wartości kolorów jedynie ze słownika lakier. Aby połączyć tabele samochody i lakier relacją należy, zastosować kwerendę",
+    "text": "W bazie danych samochodów pole kolor z tabeli samochody przyjmuje wartości kolorów jedynie ze słownika lakier. Aby połączyć tabele samochody i lakier relacją należy, zastosować kwerendę",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -24052,7 +24052,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 1003,
-    "text": "1003. W języku C++ zdefiniowano zmienną: char zm1;. W jaki sposób można do niej przypisać wartość zgodnie ze składnią języka?",
+    "text": "W języku C++ zdefiniowano zmienną: char zm1;. W jaki sposób można do niej przypisać wartość zgodnie ze składnią języka?",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -24076,7 +24076,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 1004,
-    "text": "1004. Znaczniki HTML <strong> oraz <em> służące do podkreślenia ważności tekstu, pod względem formatowania są odpowiednikami znaczników",
+    "text": "Znaczniki HTML <strong> oraz <em> służące do podkreślenia ważności tekstu, pod względem formatowania są odpowiednikami znaczników",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -24100,8 +24100,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 1005,
-    "text": "1005. Obraz przedstawia formatowanie CSS paragrafu. Aby otrzymać czerwony kolor poza obramowaniem, tak jak przedstawiono na obrazie, należy zdefiniować własność:",
-    "image": "e14/1005.jpg",
+    "text": "Obraz przedstawia formatowanie CSS paragrafu. Aby otrzymać czerwony kolor poza obramowaniem, tak jak przedstawiono na obrazie, należy zdefiniować własność:",
+    "image": "/e14/1005.jpg",
     "answers": [
       {
         "id": "A",
@@ -24124,7 +24124,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 1006,
-    "text": "1006. Klauzuli DROP COLUMN można użyć podczas wydawania kwerendy",
+    "text": "Klauzuli DROP COLUMN można użyć podczas wydawania kwerendy",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -24148,7 +24148,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 1007,
-    "text": "1007. Który zapis tworzący tablicę w JavaScript jest niepoprawny składniowo?",
+    "text": "Który zapis tworzący tablicę w JavaScript jest niepoprawny składniowo?",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -24172,8 +24172,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 1008,
-    "text": "1008. W języku HTML zapisano formularz. Który z efektów działania kodu będzie wyświetlony przez przeglądarkę zakładając, że w pierwsze pole użytkownik przeglądarki wpisał wartość \"Przykładowy text\"?",
-    "image": "e14/1008.jpg",
+    "text": "W języku HTML zapisano formularz. Który z efektów działania kodu będzie wyświetlony przez przeglądarkę zakładając, że w pierwsze pole użytkownik przeglądarki wpisał wartość \"Przykładowy text\"?",
+    "image": "/e14/1008.jpg",
     "answers": [
       {
         "id": "A",
@@ -24196,8 +24196,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 1009,
-    "text": "1009. Który kod PHP sprawi, że zostanie wyświetlona sformatowana data oraz czas ostatnich odwiedzin użytkownika witryny, natomiast podczas pierwszej wizyty nic się nie wyświetli?",
-    "image": "e14/1009.jpg",
+    "text": "Który kod PHP sprawi, że zostanie wyświetlona sformatowana data oraz czas ostatnich odwiedzin użytkownika witryny, natomiast podczas pierwszej wizyty nic się nie wyświetli?",
+    "image": "/e14/1009.jpg",
     "answers": [
       {
         "id": "A",
@@ -24220,7 +24220,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 1010,
-    "text": "1010. Zapis selektora input[type=number] { background-color: Brown; } oznacza, że tło będzie brązowe dla",
+    "text": "Zapis selektora input[type=number] { background-color: Brown; } oznacza, że tło będzie brązowe dla",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -24244,8 +24244,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 1011,
-    "text": "1011. W dokumencie HTML zdefiniowano listę oraz dodano do niej formatowanie CSS. Który z efektów odpowiada tej definicji",
-    "image": "e14/1011.jpg",
+    "text": "W dokumencie HTML zdefiniowano listę oraz dodano do niej formatowanie CSS. Który z efektów odpowiada tej definicji",
+    "image": "/e14/1011.jpg",
     "answers": [
       {
         "id": "A",
@@ -24268,8 +24268,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 1012,
-    "text": "1012. Co można powiedzieć o wyświetlonym przez witrynę tekście \"test kolorów\"?",
-    "image": "e14/1012.jpg",
+    "text": "Co można powiedzieć o wyświetlonym przez witrynę tekście \"test kolorów\"?",
+    "image": "/e14/1012.jpg",
     "answers": [
       {
         "id": "A",
@@ -24292,8 +24292,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 1013,
-    "text": "1013. Efekt przedstawiony na obrazie, wykonany za pomocą edytora grafiki rastrowej, to:",
-    "image": "e14/1013.jpg",
+    "text": "Efekt przedstawiony na obrazie, wykonany za pomocą edytora grafiki rastrowej, to:",
+    "image": "/e14/1013.jpg",
     "answers": [
       {
         "id": "A",
@@ -24316,8 +24316,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 1014,
-    "text": "1014. W formularzu zdefiniowano kontrolki do wpisania imienia i nazwiska. Który atrybut reprezentuje podpowiedź umiejscowioną w polu kontrolki, znikającą w momencie, gdy użytkownik rozpocznie wpisywanie wartości?",
-    "image": "e14/1014.jpg",
+    "text": "W formularzu zdefiniowano kontrolki do wpisania imienia i nazwiska. Który atrybut reprezentuje podpowiedź umiejscowioną w polu kontrolki, znikającą w momencie, gdy użytkownik rozpocznie wpisywanie wartości?",
+    "image": "/e14/1014.jpg",
     "answers": [
       {
         "id": "A",
@@ -24340,7 +24340,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 1015,
-    "text": "1015. Metoda zachłanna konstruowania algorytmów polega na",
+    "text": "Metoda zachłanna konstruowania algorytmów polega na",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -24364,7 +24364,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 1016,
-    "text": "1016. W bibliotece mysqli języka PHP, aby uzyskać ostatni komunikat o błędzie można zastosować funkcję:",
+    "text": "W bibliotece mysqli języka PHP, aby uzyskać ostatni komunikat o błędzie można zastosować funkcję:",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -24388,8 +24388,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 1017,
-    "text": "1017. Funkcja PHP var_dump() wyświetla informację na temat zmiennej: jej typ i wartość. Wynikiem dla przedstawionego fragmentu kodu jest",
-    "image": "e14/1017.jpg",
+    "text": "Funkcja PHP var_dump() wyświetla informację na temat zmiennej: jej typ i wartość. Wynikiem dla przedstawionego fragmentu kodu jest",
+    "image": "/e14/1017.jpg",
     "answers": [
       {
         "id": "A",
@@ -24401,7 +24401,7 @@ export const allQuizData: Question[] = [
       },
       {
         "id": "C",
-        "text": "string(\"59.85\")"
+        "text": "string(\"85\")"
       },
       {
         "id": "D",
@@ -24412,7 +24412,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 1018,
-    "text": "1018. Które polecenie jest poprawne pod względem walidacji HTML5?",
+    "text": "Które polecenie jest poprawne pod względem walidacji HTML5?",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -24436,7 +24436,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 1019,
-    "text": "1019. Lokalny System Zarządzania Bazą Danych (SZBD) udostępnia bazę danych",
+    "text": "Lokalny System Zarządzania Bazą Danych (SZBD) udostępnia bazę danych",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -24460,8 +24460,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 1020,
-    "text": "1020. Dla których imion klauzula LIKE jest prawdziwa?",
-    "image": "e14/1020.jpg",
+    "text": "Dla których imion klauzula LIKE jest prawdziwa?",
+    "image": "/e14/1020.jpg",
     "answers": [
       {
         "id": "A",
@@ -24484,8 +24484,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 1021,
-    "text": "1021. Tabela samochody zawiera rekordy przedstawione na obrazie. Jakie dane zostaną zwrócone wykonując zapytanie SQL:",
-    "image": "e14/1021.jpg",
+    "text": "Tabela samochody zawiera rekordy przedstawione na obrazie. Jakie dane zostaną zwrócone wykonując zapytanie SQL:",
+    "image": "/e14/1021.jpg",
     "answers": [
       {
         "id": "A",
@@ -24508,8 +24508,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 1022,
-    "text": "1022. Tabele Studenci, Zapisy, Zajecia są powiązane relacją. Aby wybrać jedynie nazwiska studentów oraz odpowiadające im idZajecia dla studentów z grupy 15, należy wydać kwerendę",
-    "image": "e14/1022.jpg",
+    "text": "Tabele Studenci, Zapisy, Zajecia są powiązane relacją. Aby wybrać jedynie nazwiska studentów oraz odpowiadające im idZajecia dla studentów z grupy 15, należy wydać kwerendę",
+    "image": "/e14/1022.jpg",
     "answers": [
       {
         "id": "A",
@@ -24532,7 +24532,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 1023,
-    "text": "1023. W grafice funkcja desaturacja ma na celu",
+    "text": "W grafice funkcja desaturacja ma na celu",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -24556,7 +24556,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 1024,
-    "text": "1024. Walidator W3C wygenerował błąd walidacji: End tag p seen, but there were open elements. Którego fragmentu kodu on dotyczy?",
+    "text": "Walidator W3C wygenerował błąd walidacji: End tag p seen, but there were open elements. Którego fragmentu kodu on dotyczy?",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -24580,7 +24580,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 1025,
-    "text": "1025. Które typy danych w języku C++ reprezentują liczby rzeczywiste?",
+    "text": "Które typy danych w języku C++ reprezentują liczby rzeczywiste?",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -24604,8 +24604,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 1026,
-    "text": "1026. W języku SQL wydano kwerendę, niestety jej wykonanie nie powiodło się i wystąpił błąd: #1396 - Operation CREATE USER failed for 'anna'@'localhost'. Powodem takiego zachowania bazy danych może być:",
-    "image": "e14/1026.jpg",
+    "text": "W języku SQL wydano kwerendę, niestety jej wykonanie nie powiodło się i wystąpił błąd: #1396 - Operation CREATE USER failed for 'anna'@'localhost'. Powodem takiego zachowania bazy danych może być:",
+    "image": "/e14/1026.jpg",
     "answers": [
       {
         "id": "A",
@@ -24628,8 +24628,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 1027,
-    "text": "1027. Na listingu kodu JavaScript w wykropkowanej części definicji obiektu osoba należy wpisać kod, który prawidłowo obsłuży instrukcję osoba.j = \"PL\"; Który to będzie kod?",
-    "image": "e14/1027.jpg",
+    "text": "Na listingu kodu JavaScript w wykropkowanej części definicji obiektu osoba należy wpisać kod, który prawidłowo obsłuży instrukcję osoba.j = \"PL\"; Który to będzie kod?",
+    "image": "/e14/1027.jpg",
     "answers": [
       {
         "id": "A",
@@ -24652,7 +24652,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 1028,
-    "text": "1028. Funkcji session_start() języka PHP należy użyć przy implementacji",
+    "text": "Funkcji session_start() języka PHP należy użyć przy implementacji",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -24676,7 +24676,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 1029,
-    "text": "1029. Zapis CSS margin: auto; oznacza, że marginesy są",
+    "text": "Zapis CSS margin: auto; oznacza, że marginesy są",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -24700,7 +24700,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 1030,
-    "text": "1030. W systemie barw i oznaczeń znaków bezpieczeństwa kolor czerwony zastrzeżony jest dla",
+    "text": "W systemie barw i oznaczeń znaków bezpieczeństwa kolor czerwony zastrzeżony jest dla",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -24724,7 +24724,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 1031,
-    "text": "1031. Kompetencje związane z osobowością dotyczą",
+    "text": "Kompetencje związane z osobowością dotyczą",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -24748,7 +24748,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 1032,
-    "text": "1032. Organem społecznym, którego zadaniem jest sprawowanie nadzoru społeczno-ekonomicznego nad warunkami pracy, jest",
+    "text": "Organem społecznym, którego zadaniem jest sprawowanie nadzoru społeczno-ekonomicznego nad warunkami pracy, jest",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -24772,7 +24772,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 1033,
-    "text": "1033. Co można powiedzieć o błędach interpretacji kodu PHP?",
+    "text": "Co można powiedzieć o błędach interpretacji kodu PHP?",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -24796,8 +24796,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 1034,
-    "text": "1034. Przedstawione w tabeli cechy dotyczą",
-    "image": "e14/1034.jpg",
+    "text": "Przedstawione w tabeli cechy dotyczą",
+    "image": "/e14/1034.jpg",
     "answers": [
       {
         "id": "A",
@@ -24820,7 +24820,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 1035,
-    "text": "1035. Który format pliku jest formatem rastrowym?",
+    "text": "Który format pliku jest formatem rastrowym?",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -24844,8 +24844,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 1036,
-    "text": "1036. Przedstawiony znak ochrony przeciwpożarowej jest stosowany w przypadku",
-    "image": "e14/1036.jpg",
+    "text": "Przedstawiony znak ochrony przeciwpożarowej jest stosowany w przypadku",
+    "image": "/e14/1036.jpg",
     "answers": [
       {
         "id": "A",
@@ -24868,8 +24868,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 1037,
-    "text": "1037. W przedstawionym programie napisanym w języku PHP zmienna $i przechowuje",
-    "image": "e14/1037.jpg",
+    "text": "W przedstawionym programie napisanym w języku PHP zmienna $i przechowuje",
+    "image": "/e14/1037.jpg",
     "answers": [
       {
         "id": "A",
@@ -24892,7 +24892,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 1038,
-    "text": "1038. W języku PHP operator ++ przed zmienną (np. ++$i) oznacza",
+    "text": "W języku PHP operator ++ przed zmienną (np. ++$i) oznacza",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -24916,7 +24916,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 1039,
-    "text": "1039. Która operacja, na dwóch obiektach, została zastosowana w programie do obróbki grafiki wektorowej?",
+    "text": "Która operacja, na dwóch obiektach, została zastosowana w programie do obróbki grafiki wektorowej?",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -24940,7 +24940,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 1040,
-    "text": "1040. Która własności języka CSS umożliwia zmianę domyślnego koloru czcionki?",
+    "text": "Która własności języka CSS umożliwia zmianę domyślnego koloru czcionki?",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -24964,8 +24964,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 1041,
-    "text": "1041. Dana jest tabela oceny o polach id, nazwisko, imie, ocena. Przedstawione zapytanie jest przykładem",
-    "image": "e14/1041.jpg",
+    "text": "Dana jest tabela oceny o polach id, nazwisko, imie, ocena. Przedstawione zapytanie jest przykładem",
+    "image": "/e14/1041.jpg",
     "answers": [
       {
         "id": "A",
@@ -24988,7 +24988,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 1042,
-    "text": "1042. Użyty w kodzie HTML znacznik <pre> umozliwia umieszczenie na stronie WWW",
+    "text": "Użyty w kodzie HTML znacznik <pre> umozliwia umieszczenie na stronie WWW",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -25012,7 +25012,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 1043,
-    "text": "1043. W tabeli uczniowie, aby zmienić wszystkie wartości znajdujące się w kolumnie wiek na wartość 10, należy użyć zapytania",
+    "text": "W tabeli uczniowie, aby zmienić wszystkie wartości znajdujące się w kolumnie wiek na wartość 10, należy użyć zapytania",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -25036,8 +25036,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 1044,
-    "text": "1044. Wskaż prawidłową kolejność etapów planowania pracy zespołu",
-    "image": "e14/1044.jpg",
+    "text": "Wskaż prawidłową kolejność etapów planowania pracy zespołu",
+    "image": "/e14/1044.jpg",
     "answers": [
       {
         "id": "A",
@@ -25060,7 +25060,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 1045,
-    "text": "1045. W języku PHP instrukcją, która jest przeznaczona do wykonania określonej liczby iteracji jest",
+    "text": "W języku PHP instrukcją, która jest przeznaczona do wykonania określonej liczby iteracji jest",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -25084,8 +25084,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 1046,
-    "text": "1046. O przedstawionej definicji pola input można powiedzieć, że",
-    "image": "e14/1046.jpg",
+    "text": "O przedstawionej definicji pola input można powiedzieć, że",
+    "image": "/e14/1046.jpg",
     "answers": [
       {
         "id": "A",
@@ -25108,7 +25108,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 1047,
-    "text": "1047. Który typ danych w bazie MySQL jest przeznaczony do przechowywania liczb",
+    "text": "Który typ danych w bazie MySQL jest przeznaczony do przechowywania liczb",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -25132,7 +25132,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 1048,
-    "text": "1048. Przykładem etycznego zachowania informatyka jest",
+    "text": "Przykładem etycznego zachowania informatyka jest",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -25156,7 +25156,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 1049,
-    "text": "1049. Aby prawidłowo utworzyć relację typu m..n nienarażoną na redundancję danych, należy",
+    "text": "Aby prawidłowo utworzyć relację typu m..n nienarażoną na redundancję danych, należy",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -25180,7 +25180,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 1050,
-    "text": "1050. Językami działającymi jedynie po stronie serwera są:",
+    "text": "Językami działającymi jedynie po stronie serwera są:",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -25204,7 +25204,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 1051,
-    "text": "1051. W relacyjnej bazie danych jednoznacznemu identyfikatorowi rekordu odpowiada",
+    "text": "W relacyjnej bazie danych jednoznacznemu identyfikatorowi rekordu odpowiada",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -25228,7 +25228,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 1052,
-    "text": "1052. W języku PHP, aby wyświetlić n razy znak „@”, należy użyć funkcji",
+    "text": "W języku PHP, aby wyświetlić n razy znak „@”, należy użyć funkcji",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -25252,7 +25252,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 1053,
-    "text": "1053. W stylu CSS właściwość float pozwala na umieszczenie elementu",
+    "text": "W stylu CSS właściwość float pozwala na umieszczenie elementu",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -25276,7 +25276,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 1054,
-    "text": "1054. Który etap nie jest częścią procesu kompilacji?",
+    "text": "Który etap nie jest częścią procesu kompilacji?",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -25300,7 +25300,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 1055,
-    "text": "1055. Wskaż środki gaśnicze, które mogą zostać wykorzystane podczas pożaru urządzeń elektrycznych będących pod napięciem",
+    "text": "Wskaż środki gaśnicze, które mogą zostać wykorzystane podczas pożaru urządzeń elektrycznych będących pod napięciem",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -25324,8 +25324,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 1056,
-    "text": "1056. Podany wpis w dokumencie HTML oznacza, że",
-    "image": "e14/1056.jpg",
+    "text": "Podany wpis w dokumencie HTML oznacza, że",
+    "image": "/e14/1056.jpg",
     "answers": [
       {
         "id": "A",
@@ -25348,7 +25348,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 1057,
-    "text": "1057. Która z poniższych praktyk jest przykładem wzorca prawidłowej współpracy w zespole?",
+    "text": "Która z poniższych praktyk jest przykładem wzorca prawidłowej współpracy w zespole?",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -25372,7 +25372,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 1058,
-    "text": "1058. Ograniczanie dostępu do pól lub metod klasy nazywane jest",
+    "text": "Ograniczanie dostępu do pól lub metod klasy nazywane jest",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -25396,7 +25396,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 1059,
-    "text": "1059. Dana jest tabela uczniowie o polach id, nazwisko, imie, klasa. Które zapytanie SQL wyświetli liczbę osób w poszczególnych klasach oraz nazwę klasy?",
+    "text": "Dana jest tabela uczniowie o polach id, nazwisko, imie, klasa. Które zapytanie SQL wyświetli liczbę osób w poszczególnych klasach oraz nazwę klasy?",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -25420,7 +25420,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 1060,
-    "text": "1060. Ile poziomów znaczników nagłówka zdefiniowano w języku HTML5?",
+    "text": "Ile poziomów znaczników nagłówka zdefiniowano w języku HTML5?",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -25444,7 +25444,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 1061,
-    "text": "1061. Funkcja języka PHP settype(mixed &$var, string $type) służy do",
+    "text": "Funkcja języka PHP settype(mixed &$var, string $type) służy do",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -25468,7 +25468,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 1062,
-    "text": "1062. Instrukcja DROP TABLE pozwala na",
+    "text": "Instrukcja DROP TABLE pozwala na",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -25492,7 +25492,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 1063,
-    "text": "1063. Instrukcja GRANT w języku SQL służy do",
+    "text": "Instrukcja GRANT w języku SQL służy do",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -25516,7 +25516,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 1064,
-    "text": "1064. Który styl CSS pozwoli na ustawienie rozmiaru prawego marginesu zewnętrznego dla elementu <div> na 200px?",
+    "text": "Który styl CSS pozwoli na ustawienie rozmiaru prawego marginesu zewnętrznego dla elementu <div> na 200px?",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -25540,7 +25540,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 1065,
-    "text": "1065. Którą wartość właściwości position przypisano do obrazu z napisem Lorem Ipsum na przedstawionym filmie?",
+    "text": "Którą wartość właściwości position przypisano do obrazu z napisem Lorem Ipsum na przedstawionym filmie?",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -25564,7 +25564,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 1066,
-    "text": "1066. Który znacznik pozwala na wewnętrzne dodawanie stylów CSS w kodzie HTML?",
+    "text": "Który znacznik pozwala na wewnętrzne dodawanie stylów CSS w kodzie HTML?",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -25588,7 +25588,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 1067,
-    "text": "1067. W języku SQL, aby sprawdzić czy wartość znajduje się w danym przedziale, należy użyć klauzuli",
+    "text": "W języku SQL, aby sprawdzić czy wartość znajduje się w danym przedziale, należy użyć klauzuli",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -25612,7 +25612,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 1068,
-    "text": "1068. Zgodnie z właściwościami ACID dotyczącymi wykonywania transakcji wymaganie izolacji (ang. isolation) oznacza, że",
+    "text": "Zgodnie z właściwościami ACID dotyczącymi wykonywania transakcji wymaganie izolacji (ang. isolation) oznacza, że",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -25636,7 +25636,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 1069,
-    "text": "1069. W języku SQL za pomocą kwerendy ALTER można",
+    "text": "W języku SQL za pomocą kwerendy ALTER można",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -25660,7 +25660,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 1070,
-    "text": "1070. Z ilu podstawowych kolorów składa się model przestrzeni barw CMYK?",
+    "text": "Z ilu podstawowych kolorów składa się model przestrzeni barw CMYK?",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -25684,8 +25684,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 1071,
-    "text": "1071. Który fragment kodu HTML umożliwi wyświetlenie na stronie WWW przedstawionego tekstu, jeśli żadne formatowanie CSS nie zostało zdefiniowane?",
-    "image": "e14/1071.jpg",
+    "text": "Który fragment kodu HTML umożliwi wyświetlenie na stronie WWW przedstawionego tekstu, jeśli żadne formatowanie CSS nie zostało zdefiniowane?",
+    "image": "/e14/1071.jpg",
     "answers": [
       {
         "id": "A",
@@ -25708,8 +25708,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 1072,
-    "text": "1072. Którą wartość zwróci funkcja zlicz napisana w języku JavaScript, jeżeli zostanie wywołana w następujący sposób: zlicz(1, 5, 3, 10);?",
-    "image": "e14/1072.jpg",
+    "text": "Którą wartość zwróci funkcja zlicz napisana w języku JavaScript, jeżeli zostanie wywołana w następujący sposób: zlicz(1, 5, 3, 10);?",
+    "image": "/e14/1072.jpg",
     "answers": [
       {
         "id": "A",
@@ -25732,7 +25732,7 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 1073,
-    "text": "1073. W edytorze grafiki rastrowej funkcja \"dodaj kanał alfa\" umożliwia",
+    "text": "W edytorze grafiki rastrowej funkcja \"dodaj kanał alfa\" umożliwia",
     "image": "./placeholder.png",
     "answers": [
       {
@@ -25756,8 +25756,8 @@ export const allQuizData: Question[] = [
   },
   {
     "id": 1074,
-    "text": "1074. Wskaż instrukcję, która została opisana w ramce",
-    "image": "e14/1074.jpg",
+    "text": "Wskaż instrukcję, która została opisana w ramce",
+    "image": "/e14/1074.jpg",
     "answers": [
       {
         "id": "A",

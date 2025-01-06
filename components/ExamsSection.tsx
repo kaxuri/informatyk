@@ -8,7 +8,8 @@ const quizCategories = [
     title: 'INF 03 / EE.09',
     description: 'Programowanie Aplikacji Internetowych i Baz Danych',
     image: '/inf-03-okladka.jpg',
-    link: '/inf03',
+    link_40: '/inf03',
+    link_1: '/inf03/jedno',
     questionCount: 1074,
     lastUpdated: '2024-12-24',
   },
@@ -16,7 +17,8 @@ const quizCategories = [
     title: 'INF 02 / EE 0.8',
     description: 'Montaż i Eksploatacja urządzeń peryferyjnych oraz Lokalnych Sieci Komputerowych',
     image: '/inf-02-okladka.jpg',
-    link: '/inf02',
+    link_40: '/inf02',
+    link_1: '/inf02/jedno',
     questionCount: 541,
     lastUpdated: '2024-12-24',
   }
@@ -52,9 +54,12 @@ export function ExamsSection() {
                   <span>Aktualizacja: {category.lastUpdated}</span>
                 </div>
               </CardContent>
-              <CardFooter>
+              <CardFooter >
+                <Button asChild className="mx-4 w-full" variant="outline">
+                  <Link href={category.link_40}>Test 40 pytań</Link>
+                </Button>
                 <Button asChild className="w-full" variant="outline">
-                  <Link href={category.link}>Rozpocznij Test</Link>
+                <Link href={category.link_1}>Losowe 1 pytanie</Link>
                 </Button>
               </CardFooter>
             </Card>

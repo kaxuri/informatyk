@@ -8,15 +8,41 @@ type ChangelogEntry = {
 
 const changelogData: ChangelogEntry[] = [
   {
-    date: "2025-01-03",
-    version: "0.0.2.1 (Beta)",
+    date: "2025-01-05",
+    version: "0.0.3.1 (Beta)",
     changes: [
+      "[+] Poprawki Wizualne [Szczegóły zmian w commicie]",
+      "[+] Poprawiono Navbar i jego nawigacje",
+      "[+] Dodano nową stronę z wyszukiwarką arkuszów praktycznych",
+      "[+] Naprawiono pomniejsze błędy logiczne kodu",
+      "[+] Dodano kilka pomniejszych istotnych elementów oraz funkcji",
+      "[+] Dodano tryb skupienia w wersji beta (Tylko do wersji 40 pytań)",
+    ]
+  },
+  {
+    date: "2025-01-05",
+    version: "0.0.3.0 (Stable)",
+    changes: [
+      "Ogólne:",
+      "[+] Poprawki Wizualne",
+      "[+] Poprawiono numerowanie pytań",
+      "[+] Dodano możliwość losowania 1 pytania dla obu kategorii",
+      "[+] Usprawniono nawigacje pomiędzy stronami",
+      `[+] Przygotowanie pod eksperymentalny tryb skupienia(Wyłączenie konsoli,przełączenie karty,pozostanie bez odpowiedzi przez dłużej niż 10 min anuluje test)`,
+      `[+] Naprawiono pomniejsze błędy`,
+    ]
+  },
+  {
+    date: "2025-01-03",
+    version: "0.0.2.1 (Old)",
+    changes: [
+      "Ogólne:",
       "[+] Poprawki Wizualne",
     ]
   },
   {
     date: "2025-01-01",
-    version: "0.0.2 (Beta)",
+    version: "0.0.2 (Old)",
     changes: [
       "[+] Nowa Strona główna",
       "[+] Aktualizacja bazy pytań INF 02 / EE 08",
@@ -30,7 +56,7 @@ const changelogData: ChangelogEntry[] = [
   },
   {
     date: "2024-12-23",
-    version: "0.0.1 (Beta)",
+    version: "0.0.1 (Old)",
     changes: [
       " [+] Wypuszczenie aplikacji",
     ]

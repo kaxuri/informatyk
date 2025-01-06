@@ -4,6 +4,7 @@ import { useState, useEffect } from 'react'
 import { Question, QuizState } from '../../types/quiz'
 import { Card } from '@/components/ui/card'
 import { Button } from '@/components/ui/button'
+import { Switch } from '@/components/ui/switch'
 import { allQuizData } from '../../lib/inf03'
 import { cn } from '@/lib/utils'
 import { Navbar } from "../../components/Navbar";
@@ -34,6 +35,8 @@ export default function Quiz() {
   })
   const [showResults, setShowResults] = useState(false)
   const [showConfirmDialog, setShowConfirmDialog] = useState(false)
+  const [focusMode, setFocusMode] = useState(false)
+  const [showFocusModeDialog, setShowFocusModeDialog] = useState(false)
 
   useEffect(() => {
     setQuestions(getRandomQuestions(allQuestions, QUESTIONS_PER_TEST));
@@ -51,7 +54,21 @@ export default function Quiz() {
       return () => clearInterval(timer)
     }
   }, [showResults])
+  useEffect(() => {
+    if (focusMode) {
+      const handleVisibilityChange = () => {
+        if (document.hidden) {
+          endTest()
+        }
+      }
 
+      document.addEventListener('visibilitychange', handleVisibilityChange)
+
+      return () => {
+        document.removeEventListener('visibilitychange', handleVisibilityChange)
+      }
+    }
+  }, [focusMode])
   const formatTime = (seconds: number) => {
     const minutes = Math.floor(seconds / 60)
     const remainingSeconds = seconds % 60
@@ -77,7 +94,23 @@ export default function Quiz() {
     setShowResults(true)
     setShowConfirmDialog(false)
   }
+  const toggleFocusMode = () => {
+    if (!focusMode) {
+      setShowFocusModeDialog(true)
+    } else {
+      setFocusMode(false)
+    }
+  }
 
+  const enableFocusMode = () => {
+    setFocusMode(true)
+    setShowFocusModeDialog(false)
+  }
+
+  const endTest = () => {
+    setShowResults(true)
+    setFocusMode(true)
+  }
   const getAnswerCardStyle = (question: Question, answerId: string) => {
     if (!showResults) return 'bg-black'
     if (question.correctAnswer === answerId) return 'bg-green-600'
@@ -89,6 +122,27 @@ export default function Quiz() {
   const totalQuestions = questions.length
   const percentCorrect = Math.round((correctAnswers / totalQuestions) * 100)
 
+  useEffect(() => {
+    if (focusMode) {
+      const preventDefaultBehavior = (e: KeyboardEvent | MouseEvent) => {
+        if (
+          e.type === 'contextmenu' || // Prevent right-click
+          (e instanceof KeyboardEvent && e.key === 'F12') || // Prevent F12
+          (e instanceof KeyboardEvent && e.keyCode === 44) // Prevent print screen
+        ) {
+          e.preventDefault()
+        }
+      }
+
+      window.addEventListener('keydown', preventDefaultBehavior)
+      window.addEventListener('contextmenu', preventDefaultBehavior)
+
+      return () => {
+        window.removeEventListener('keydown', preventDefaultBehavior)
+        window.removeEventListener('contextmenu', preventDefaultBehavior)
+      }
+    }
+  }, [focusMode])
   return (
     <div className="relative min-h-screen pt-20 h-full w-full bg-black text-white ">
       <Navbar/>
@@ -112,16 +166,20 @@ export default function Quiz() {
             <><span className='p-6 '>Czas do końca egzaminu → {formatTime(quizState.timeRemaining)}</span></>
           )}
         </div>
+        <div className="flex items-center text-center justify-center space-x-2">
+                  <span>Tryb Skupienia <sup className='text-[12px] bg-red-600 rounded-lg p-[3px] px-2 '>Beta</sup></span>
+                  <Switch disabled={focusMode || showResults} checked={focusMode} onCheckedChange={toggleFocusMode} />
+                </div>
         <div className="text-sm mb-8 mt-6">
           Dostępnych pytań: {allQuestions.length} | Wylosowano: {QUESTIONS_PER_TEST}
         </div>
 
-        {questions.map((question) => (
+        {questions.map((question, index) => (
           <div key={question.id} className="mb-8">
             <Card className="bg-black border p-6 mb-5">
               <div className="space-y-6">
                 <div className="flex gap-4">
-                  <p className="text-xl">{question.text}</p>
+                <p className="text-xl">{index + 1}. {question.text}</p>
                 </div>
 
                 {question.codeSnippet && (
@@ -161,7 +219,7 @@ export default function Quiz() {
           </div>
         ))}
 
-        <div className="mt-8 flex justify-center">
+        <div className="mt-8 mb-10  flex justify-center">
           <Button 
           variant={'outline'}
             onClick={openConfirmDialog} 
@@ -183,6 +241,27 @@ export default function Quiz() {
             <AlertDialogFooter>
               <AlertDialogCancel>Anuluj</AlertDialogCancel>
               <AlertDialogAction onClick={checkResults}>Zakończ Test</AlertDialogAction>
+            </AlertDialogFooter>
+          </AlertDialogContent>
+        </AlertDialog>
+
+        <AlertDialog open={showFocusModeDialog} onOpenChange={setShowFocusModeDialog}>
+          <AlertDialogContent>
+            <AlertDialogHeader>
+              <AlertDialogTitle>Jesteś pewien,że chcesz włączyć tryb skupienia?</AlertDialogTitle>
+              <AlertDialogDescription>
+                  <span>Tryb skupienia wyłączy: ( Tryb obowiązuje przez cały test)</span>
+                    <span className="list-decimal list-inside mt-2">
+                      <li>Prawy przycisk myszy</li>
+                      <li>Przycisk F12</li>
+                      <li>Przycisk PrtSc</li>
+                      <li>Zakończy test po zmianie okna przeglądarki</li>
+                    </span>
+</AlertDialogDescription>
+            </AlertDialogHeader>
+            <AlertDialogFooter>
+              <AlertDialogCancel>Anuluj</AlertDialogCancel>
+              <AlertDialogAction onClick={enableFocusMode}>Włącz tryb</AlertDialogAction>
             </AlertDialogFooter>
           </AlertDialogContent>
         </AlertDialog>

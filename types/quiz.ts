@@ -26,3 +26,12 @@ export interface QuizResult {
   category: string;
 }
 
+export interface  Exam {
+  id: string
+  title: string
+  description: string
+  year: number
+  session: string
+  category: string
+  downloadUrl: string
+}

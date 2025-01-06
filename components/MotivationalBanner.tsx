@@ -7,8 +7,11 @@ export function MotivationalBanner() {
       <div className="container mx-auto text-center">
         <h2 className="text-3xl font-bold mb-6">Gotowy na wyzwanie?</h2>
         <p className="text-xl mb-8">Rozpocznij swoją podróż do sukcesu już teraz. Przygotuj się do egzaminów z naszą pomocą!</p>
-        <Button asChild size="lg" variant="secondary">
-          <Link href="/inf03">Rozpocznij naukę</Link>
+        <Button asChild size="lg" className='mx-4 bg-cover p-6 px-12'  variant={'secondary'}>
+          <Link href="/inf03">Test INF 02</Link>
+        </Button>
+        <Button asChild size="lg" className='p-6 px-12' variant="secondary">
+          <Link href="/inf03">Test INF 03</Link>
         </Button>
       </div>
     </section>
