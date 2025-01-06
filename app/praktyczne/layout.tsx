@@ -1,7 +1,7 @@
 import { Metadata } from 'next'
 
 export const metadata: Metadata = {
-  title: 'Egzaminy Praktyczne | Quiz App',
+  title: 'Egzaminy Praktyczne',
   description: 'Lista egzaminów praktycznych dla kwalifikacji INF.02 i INF.03',
 }
 
