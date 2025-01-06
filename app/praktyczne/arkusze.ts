@@ -10,7 +10,7 @@ export const exams: Exam[] = [
         year: 2018,
         session: 'Summer',
         category: 'EE 0.8',
-        downloadUrl: '#',
+        downloadUrl: 'https://arkusze.pl/zawodowy/ee08-2018-czerwiec-egzamin-zawodowy-praktyczny.pdf',
       },
       {
         id: '2',
@@ -19,7 +19,7 @@ export const exams: Exam[] = [
         year: 2019,
         session: 'Summer',
         category: 'EE 0.8',
-        downloadUrl: '#',
+        downloadUrl: 'https://arkusze.pl/zawodowy/ee08-2019-czerwiec-egzamin-zawodowy-praktyczny.pdf',
       },
       {
         id: '3',
@@ -28,7 +28,7 @@ export const exams: Exam[] = [
         year: 2019,
         session: 'Winter',
         category: 'EE 0.8',
-        downloadUrl: '#',
+        downloadUrl: 'https://arkusze.pl/zawodowy/ee08-2019-styczen-egzamin-zawodowy-praktyczny.pdf',
       },
       {
         id: '4',
@@ -37,7 +37,7 @@ export const exams: Exam[] = [
         year: 2020,
         session: 'Summer',
         category: 'EE 0.8',
-        downloadUrl: '#',
+        downloadUrl: 'https://arkusze.pl/zawodowy/ee08-2020-czerwiec-egzamin-zawodowy-praktyczny.pdf',
       },
       {
         id: '5',
@@ -46,7 +46,7 @@ export const exams: Exam[] = [
         year: 2020,
         session: 'Winter',
         category: 'EE 0.8',
-        downloadUrl: '#',
+        downloadUrl: 'https://arkusze.pl/zawodowy/ee08-2020-styczen-egzamin-zawodowy-praktyczny.pdf',
       },
       {
         id: '6',
@@ -55,7 +55,7 @@ export const exams: Exam[] = [
         year: 2021,
         session: 'Summer',
         category: 'EE 0.8',
-        downloadUrl: '#',
+        downloadUrl: 'https://arkusze.pl/zawodowy/ee08-2021-czerwiec-egzamin-zawodowy-praktyczny.pdf',
       },
       {
         id: '7',
@@ -64,7 +64,7 @@ export const exams: Exam[] = [
         year: 2021,
         session: 'Winter',
         category: 'EE 0.8',
-        downloadUrl: '#',
+        downloadUrl: 'https://arkusze.pl/zawodowy/ee08-2021-styczen-egzamin-zawodowy-praktyczny.pdf',
       },
       {
         id: '8',
@@ -73,7 +73,7 @@ export const exams: Exam[] = [
         year: 2022,
         session: 'Summer',
         category: 'EE 0.8',
-        downloadUrl: '#',
+        downloadUrl: 'https://arkusze.pl/zawodowy/ee08-2022-czerwiec-egzamin-zawodowy-praktyczny.pdf',
       },
       {
         id: '9',
@@ -82,7 +82,7 @@ export const exams: Exam[] = [
         year: 2022,
         session: 'Winter',
         category: 'EE 0.8',
-        downloadUrl: '#',
+        downloadUrl: 'https://arkusze.pl/zawodowy/ee08-2022-styczen-egzamin-zawodowy-praktyczny.pdf',
       },
       {
         id: '10',
@@ -91,7 +91,7 @@ export const exams: Exam[] = [
         year: 2023,
         session: 'Summer',
         category: 'EE 0.8',
-        downloadUrl: '#',
+        downloadUrl: 'https://arkusze.pl/zawodowy/ee08-2023-czerwiec-egzamin-zawodowy-praktyczny.pdf',
       },
       {
         id: '11',
@@ -100,7 +100,7 @@ export const exams: Exam[] = [
         year: 2023,
         session: 'Winter',
         category: 'EE 0.8',
-        downloadUrl: '#',
+        downloadUrl: 'https://arkusze.pl/zawodowy/ee08-2023-styczen-egzamin-zawodowy-praktyczny.pdf',
       },
       {
         id: '12',
@@ -109,7 +109,7 @@ export const exams: Exam[] = [
         year: 2024,
         session: 'Summer',
         category: 'EE 0.8',
-        downloadUrl: '#',
+        downloadUrl: 'https://arkusze.pl/zawodowy/ee08-2024-czerwiec-egzamin-zawodowy-praktyczny.pdf',
       },
       {
         id: '13',
@@ -118,7 +118,7 @@ export const exams: Exam[] = [
         year: 2024,
         session: 'Winter',
         category: 'EE 0.8',
-        downloadUrl: '#',
+        downloadUrl: 'https://arkusze.pl/zawodowy/ee08-2024-styczen-egzamin-zawodowy-praktyczny.pdf',
       },
       {
         id: '14',
@@ -127,7 +127,7 @@ export const exams: Exam[] = [
         year: 2019,
         session: 'Summer',
         category: 'EE 0.9',
-        downloadUrl: '#',
+        downloadUrl: 'https://arkusze.pl/zawodowy/ee09-2019-czerwiec-egzamin-zawodowy-praktyczny.pdf',
       },
       {
         id: '15',
@@ -136,7 +136,7 @@ export const exams: Exam[] = [
         year: 2020,
         session: 'Summer',
         category: 'EE 0.9',
-        downloadUrl: '#',
+        downloadUrl: 'https://arkusze.pl/zawodowy/ee09-2020-czerwiec-egzamin-zawodowy-praktyczny.pdf',
       },
       {
         id: '16',
@@ -145,7 +145,7 @@ export const exams: Exam[] = [
         year: 2020,
         session: 'Winter',
         category: 'EE 0.9',
-        downloadUrl: '#',
+        downloadUrl: 'https://arkusze.pl/zawodowy/ee09-2020-styczen-egzamin-zawodowy-praktyczny.pdf',
       },
       {
         id: '17',
@@ -154,7 +154,7 @@ export const exams: Exam[] = [
         year: 2021,
         session: 'Summer',
         category: 'EE 0.9',
-        downloadUrl: '#',
+        downloadUrl: 'https://arkusze.pl/zawodowy/ee09-2021-czerwiec-egzamin-zawodowy-praktyczny.pdf',
       },
       {
         id: '18',
@@ -163,7 +163,7 @@ export const exams: Exam[] = [
         year: 2021,
         session: 'Winter',
         category: 'EE 0.9',
-        downloadUrl: '#',
+        downloadUrl: 'https://arkusze.pl/zawodowy/ee09-2021-styczen-egzamin-zawodowy-praktyczny.pdf',
       },
       {
         id: '19',
@@ -172,7 +172,7 @@ export const exams: Exam[] = [
         year: 2022,
         session: 'Summer',
         category: 'EE 0.9',
-        downloadUrl: '#',
+        downloadUrl: 'https://arkusze.pl/zawodowy/ee09-2022-czerwiec-egzamin-zawodowy-praktyczny.pdf',
       },
       {
         id: '20',
@@ -181,7 +181,7 @@ export const exams: Exam[] = [
         year: 2022,
         session: 'Winter',
         category: 'EE 0.9',
-        downloadUrl: '#',
+        downloadUrl: 'https://arkusze.pl/zawodowy/ee09-2022-styczen-egzamin-zawodowy-praktyczny.pdf',
       },
       {
         id: '21',
@@ -190,7 +190,7 @@ export const exams: Exam[] = [
         year: 2023,
         session: 'Summer',
         category: 'EE 0.9',
-        downloadUrl: '#',
+        downloadUrl: 'https://arkusze.pl/zawodowy/ee09-2023-czerwiec-egzamin-zawodowy-praktyczny.pdf',
       },
       {
         id: '22',
@@ -199,7 +199,7 @@ export const exams: Exam[] = [
         year: 2023,
         session: 'Winter',
         category: 'EE 0.9',
-        downloadUrl: '#',
+        downloadUrl: 'https://arkusze.pl/zawodowy/ee09-2023-styczen-egzamin-zawodowy-praktyczny.pdf',
       },
       {
         id: '23',
@@ -208,7 +208,7 @@ export const exams: Exam[] = [
         year: 2024,
         session: 'Summer',
         category: 'EE 0.9',
-        downloadUrl: '#',
+        downloadUrl: 'https://arkusze.pl/zawodowy/ee09-2024-czerwiec-egzamin-zawodowy-praktyczny.pdf',
       },
       {
         id: '24',
@@ -217,7 +217,7 @@ export const exams: Exam[] = [
         year: 2024,
         session: 'Winter',
         category: 'EE 0.9',
-        downloadUrl: '#',
+        downloadUrl: 'https://arkusze.pl/zawodowy/ee09-2024-styczen-egzamin-zawodowy-praktyczny.pdf',
       },
       {
         id: '25',
@@ -226,7 +226,7 @@ export const exams: Exam[] = [
         year: 2021,
         session: 'Summer',
         category: 'INF 02',
-        downloadUrl: '/exams/INF02-2021-summer.pdf',
+        downloadUrl: 'https://arkusze.pl/zawodowy/inf02-2021-czerwiec-egzamin-zawodowy-praktyczny.pdf',
       },
       {
         id: '26',
@@ -235,7 +235,7 @@ export const exams: Exam[] = [
         year: 2022,
         session: 'Winter',
         category: 'INF 02',
-        downloadUrl: '/exams/INF02-2022-winter.pdf',
+        downloadUrl: 'https://arkusze.pl/zawodowy/inf02-2022-styczen-egzamin-zawodowy-praktyczny.pdf',
       },
       {
         id: '27',
@@ -244,7 +244,7 @@ export const exams: Exam[] = [
         year: 2022,
         session: 'Summer',
         category: 'INF 02',
-        downloadUrl: '/exams/INF02-2022-summer.pdf',
+        downloadUrl: 'https://arkusze.pl/zawodowy/inf02-2022-czerwiec-egzamin-zawodowy-praktyczny.pdf',
       },
       {
         id: '28',
@@ -253,7 +253,7 @@ export const exams: Exam[] = [
         year: 2023,
         session: 'Winter',
         category: 'INF 02',
-        downloadUrl: '/exams/INF02-2023-winter.pdf',
+        downloadUrl: 'https://arkusze.pl/zawodowy/inf02-2023-styczen-egzamin-zawodowy-praktyczny.pdf',
       },
       {
         id: '29',
@@ -262,7 +262,7 @@ export const exams: Exam[] = [
         year: 2023,
         session: 'Summer',
         category: 'INF 02',
-        downloadUrl: '/exams/INF02-2023-summer.pdf',
+        downloadUrl: 'https://arkusze.pl/zawodowy/inf02-2023-czerwiec-egzamin-zawodowy-praktyczny.pdf',
       },
       {
         id: '30',
@@ -271,7 +271,7 @@ export const exams: Exam[] = [
         year: 2024,
         session: 'Winter',
         category: 'INF 02',
-        downloadUrl: '/exams/INF02-2024-winter.pdf',
+        downloadUrl: 'https://arkusze.pl/zawodowy/inf02-2024-styczen-egzamin-zawodowy-praktyczny.pdf',
       },
       {
         id: '31',
@@ -280,7 +280,7 @@ export const exams: Exam[] = [
         year: 2024,
         session: 'Summer',
         category: 'INF 02',
-        downloadUrl: '/exams/INF02-2024-summer.pdf',
+        downloadUrl: 'https://arkusze.pl/zawodowy/inf02-2024-czerwiec-egzamin-zawodowy-praktyczny.pdf',
       },
       {
         id: '32',

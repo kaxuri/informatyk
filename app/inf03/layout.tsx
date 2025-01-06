@@ -2,7 +2,7 @@ import { Metadata } from 'next'
 
 export const metadata: Metadata = {
   title: 'INF 03 / E.09',
-  description: 'Test your knowledge of INF 03 / E.09',
+  description: 'Test 40 pytań z zakresu INF 03 / E.09',
 }
 
 export default function INF03Layout({
@@ -17,7 +17,9 @@ export default function INF03Layout({
       <div className="relative">
         {children}
       </div>
+      <p className="text-center py-2  text-xs text-gray-400">© Akumadev 2025. Pytania pochodzą ze strony praktycznyegzamin.pl</p>
     </div>
+    
   )
 }
 

@@ -1,7 +1,7 @@
 import { Metadata } from 'next'
 
 export const metadata: Metadata = {
-  title: 'Egzaminy Praktyczne | Quiz App',
+  title: 'Egzaminy Praktyczne',
   description: 'Lista egzaminów praktycznych dla kwalifikacji INF.02 i INF.03',
 }
 
@@ -17,6 +17,7 @@ export default function PracticalExamsLayout({
       <div className="relative pt-20">
         {children}
       </div>
+      <p className='text-center text-xs text-gray-700'>© Akumadev 2025. Arkusze zapewnia strona arkusze.pl</p>
     </div>
   )
 }
