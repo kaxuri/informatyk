@@ -27,6 +27,13 @@ export function Navbar() {
         { name: '1 Losowe Pytanie', href: '/inf02/jedno' },
       ],
     },
+    {
+      name: 'Narzędzia',
+      key: 'playground',
+      dropdown: [
+        { name: 'Kompilator HTML & CSS', href: '/playground' },
+      ],
+    },
     { name: 'Aktualizacje', href: '/about' },
     { name: 'Egzaminy Praktyczne', href: '/praktyczne' },
   ]

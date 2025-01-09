@@ -17,7 +17,7 @@ export default function PracticalExamsLayout({
       <div className="relative pt-20">
         {children}
       </div>
-      <p className='text-center text-xs text-gray-700'>© Akumadev 2025. Arkusze zapewnia strona arkusze.pl</p>
+      <p className='text-center text-xs text-gray-700'>© Akumadev  {new Date().getFullYear()}. Arkusze zapewnia strona arkusze.pl</p>
     </div>
   )
 }

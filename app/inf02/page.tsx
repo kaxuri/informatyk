@@ -148,7 +148,21 @@ export default function Quiz() {
       <Navbar/>
       
       <div className="max-w-4xl mx-auto  ">
-      <div className="bg-[#0a0a25]  border-teal-500 rounded-lg text-[#0056b3] px-4 py-3 shadow-md" role="alert">
+<div >
+<a href="https://www.gov.pl/web/edukacja/egzaminy-zawodowe--sesja-zima-2025">
+<div className="bg-[#ff000026]  border-red-600 rounded-lg text-[#ff3737] px-4 py-3 shadow-md" role="alert">
+  <div className="flex">
+    <div className="py-1"><svg className="fill-current h-6 w-6 text-[#ff3737] mr-4" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20"><path d="M2.93 17.07A10 10 0 1 1 17.07 2.93 10 10 0 0 1 2.93 17.07zm12.73-1.41A8 8 0 1 0 4.34 4.34a8 8 0 0 0 11.32 11.32zM9 11V9h2v6H9v-4zm0-6h2v2H9V5z"/></svg></div>
+    <div>
+      <p className="font-bold text-s">Egzamin zawodowy Sesja Zima 2025</p>
+      <p className="text-xs">W czwartek, 9 stycznia rozpoczęła się zimowa sesja egzaminu zawodowego i potwierdzającego kwalifikacje w zawodzi w Formule 2019 i egzaminu potwierdzającego kwalifikacje w zawodzie w Formule 2012 i w Formule 2017.</p>
+    </div>
+  </div>
+</div>
+</a>
+</div>
+<div className='pt-6'>
+<div className="bg-[#0a0a25]  border-teal-500 rounded-lg text-[#0056b3] px-4 py-3 shadow-md" role="alert">
   <div className="flex">
     <div className="py-1"><svg className="fill-current h-6 w-6 text-[#0056b3] mr-4" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20"><path d="M2.93 17.07A10 10 0 1 1 17.07 2.93 10 10 0 0 1 2.93 17.07zm12.73-1.41A8 8 0 1 0 4.34 4.34a8 8 0 0 0 11.32 11.32zM9 11V9h2v6H9v-4zm0-6h2v2H9V5z"/></svg></div>
     <div>
@@ -156,6 +170,7 @@ export default function Quiz() {
       <p className="text-xs">Od 2020 roku egzaminy zawodowe są przeprowadzane z wykorzystaniem systemu informatycznego EPKZ (System Informatyczny Obsługujący Egzaminy Zawodowe), a pytania egzaminacyjne przestały być jawne. Niniejszą stronę należy traktować wyłącznie jako materiał edukacyjny, mający na celu wspieranie procesu nauki i przygotowania do egzaminów.</p>
     </div>
   </div>
+</div>
 </div>
         <div className="text-lg mb-2 text-center p-4" >
           {showResults ? (

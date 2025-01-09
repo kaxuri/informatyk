@@ -8,8 +8,25 @@ type ChangelogEntry = {
 
 const changelogData: ChangelogEntry[] = [
   {
+    date: "2025-01-09",
+    version: "0.0.4.1 (Beta)",
+    changes: [
+      "[+] Dodano wsparcie dla Javascript w kompilatorze",
+    ]
+  },
+  {
+    date: "2025-01-09",
+    version: "0.0.4.0 (Beta)",
+    changes: [
+      "[+] Poprawki Wizualne",
+      "[+] Nowa strona (Kompilator HTML&CSS)",
+      "[+] Naprawy błędów logicznych",
+      "[+] Wyłączono wsparcie dla Javascriptu w Kompilatorze z powodu ryzyka naruszenia strony",
+    ]
+  },
+  {
     date: "2025-01-05",
-    version: "0.0.3.1 (Beta)",
+    version: "0.0.3.1 (Stable)",
     changes: [
       "[+] Poprawki Wizualne [Szczegóły zmian w commicie]",
       "[+] Poprawiono Navbar i jego nawigacje",
@@ -21,7 +38,7 @@ const changelogData: ChangelogEntry[] = [
   },
   {
     date: "2025-01-05",
-    version: "0.0.3.0 (Stable)",
+    version: "0.0.3.0 (Old)",
     changes: [
       "Ogólne:",
       "[+] Poprawki Wizualne",
