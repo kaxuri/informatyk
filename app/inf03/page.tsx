@@ -183,7 +183,7 @@ export default function Quiz() {
         </div>
         <div className="flex items-center text-center justify-center space-x-2">
                   <span>Tryb Skupienia <sup className='text-[12px] bg-red-600 rounded-lg p-[3px] px-2 '>Beta</sup></span>
-                  <Switch disabled={focusMode || showResults} checked={focusMode} onCheckedChange={toggleFocusMode} />
+                  <Switch name='focus' disabled={focusMode || showResults} checked={focusMode} onCheckedChange={toggleFocusMode} />
                 </div>
         <div className="text-sm mb-8 mt-6">
           Dostępnych pytań: {allQuestions.length} | Wylosowano: {QUESTIONS_PER_TEST}
