@@ -6,65 +6,28 @@ body {
   color:#fff;
 
 }
-.logo-shine {
+.text-line {
+  stroke-dasharray: 500;
+  stroke-dashoffset: 500;
+  animation: dash 4s linear forwards, filling 4s ease-in forwards;
+  font-size: 80px;
+}
+.text-line text {
+  font-family: Helvetica,Arial,sans-serif;
+  font-weight: normal;
+  font-style: normal;
+}
 
-    color: #fff;
-    background: linear-gradient(to right, #0c0c0c 0, #fff 10%, #000000 20%);
-    background-position: 0;
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-    animation: shine 4s infinite linear;
-    animation-fill-mode: forwards;
-    -webkit-text-size-adjust: none;
-    font-weight: 600;
-    font-size: 16px;
-    text-decoration: none;
-    white-space: nowrap;
+@keyframes dash {
+  to {
+    stroke-dashoffset: 0;
   }
-  @-moz-keyframes shine {
-    0% {
-      background-position: 0;
-    }
-    60% {
-      background-position: 240px;
-    }
-    100% {
-      background-position: 200px;
-    }
-  }
-  @-webkit-keyframes shine {
-    0% {
-      background-position: 0;
-    }
-    60% {
-      background-position: 240px;
-    }
-    100% {
-      background-position: 200px;
-    }
-  }
-  @-o-keyframes shine {
-    0% {
-      background-position: 0;
-    }
-    60% {
-      background-position: 240px;
-    }
-    100% {
-      background-position: 200px;
-    }
-  }
-  @keyframes shine {
-    0% {
-      background-position: 0;
-    }
-    60% {
-      background-position: 220px;
-    }
-    100% {
-      background-position: 220px;
-    }
-  }
+}
+
+@keyframes filling {
+  0%, 90% { fill: #ffffff; fill-opacity: 0; }
+  100% { fill: #ffffff; fill-opacity: 1; text-shadow: 0 0 10px #fff; }
+}
 .border-main{
   border:2px dotted #16162d;
 }

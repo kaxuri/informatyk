@@ -12,9 +12,7 @@ export default function Home() {
       <AnimatedGridBackground />
       <div  className="absolute inset-0 z-0" />
       <main className="container mx-auto px-4 py-20 flex flex-col items-center justify-center min-h-screen relative z-10">
-        <h1 className="logo-shine text-5xl md:text-7xl font-bold text-center mb-8 animate-fade-up">
-          ΛKUMΛ
-        </h1>
+      <svg height="100" stroke="#fff" strokeWidth="2" className="text-line" width="100%"><text x="50%" dominantBaseline="middle" textAnchor="middle" y="50%">ΛKUMΛ</text></svg>
         <p className="text-xl md:text-2xl text-center mb-12 max-w-2xl animate-fade-up animate-delay-200">
           Przygotuj się do egzaminów kwalifikacyjnych INF-03/EE.09 oraz INF-02/EE.08.
         </p>
