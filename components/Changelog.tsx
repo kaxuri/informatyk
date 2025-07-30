@@ -9,14 +9,14 @@ type ChangelogEntry = {
 const changelogData: ChangelogEntry[] = [
   {
     date: "2025-01-09",
-    version: "0.0.4.1 (Beta)",
+    version: "0.0.4.1 (Stable)",
     changes: [
       "[+] Dodano wsparcie dla Javascript w kompilatorze",
     ]
   },
   {
     date: "2025-01-09",
-    version: "0.0.4.0 (Beta)",
+    version: "0.0.4.0 (Old)",
     changes: [
       "[+] Poprawki Wizualne",
       "[+] Nowa strona (Kompilator HTML&CSS)",
@@ -26,7 +26,7 @@ const changelogData: ChangelogEntry[] = [
   },
   {
     date: "2025-01-05",
-    version: "0.0.3.1 (Stable)",
+    version: "0.0.3.1 (Old)",
     changes: [
       "[+] Poprawki Wizualne [Szczegóły zmian w commicie]",
       "[+] Poprawiono Navbar i jego nawigacje",
